@@ -1,21 +1,20 @@
 {
   "schema_version": 1,
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T11:18:16.075048+00:00",
+  "generated_at": "2026-09-24T16:42:15.880799+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-15beb7f83bdf4e838d2f82520db5f509b97593f736387301be15637c9f98b09d",
-      "title_en": "Cloudy Cloak Over the Northwest",
-      "summary_en": "A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.",
-      "category": "other",
+      "id": "evt-63a2e77f5ee8c279298a191ae5e5358b9939b2b392b6d69dfe46c007b25877f2",
+      "title_en": "NASA to Study Human Health, Performance During Crew-13 Mission",
+      "summary_en": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members’ manual piloting skills,…",
+      "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 50,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
+        "Highest source tier: 1 (+20)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -23,8 +22,127 @@
         {
           "source_id": "nasa_news",
           "publisher": "NASA",
-          "url": "https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/",
-          "published_at": "2026-09-24T04:01:00+00:00"
+          "url": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/",
+          "published_at": "2026-09-24T13:53:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-b23e99aceb0039c334480ec6a42dc14ffb7b9a67a7f5a4e9fc622c986d009f8e",
+      "title_en": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
+      "summary_en": "Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake had struck in the nearby ocean, apparently jolting one of the two volcanoes awake. A few days later, for the first…",
+      "category": "technology_science",
+      "region": "asia_pacific",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
+          "published_at": "2026-09-24T15:47:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-01ffec52c8d93115926fddd2a98b1d4fbb34857f4c717f340724245a69c760fd",
+      "title_en": "Win a trip to ESA to witness BepiColombo arrive at Mercury",
+      "summary_en": "Get ready to celebrate BepiColombo’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control! ENTRY FORM Full rules and how to enter below.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "esa_space_science",
+          "publisher": "European Space Agency",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury",
+          "published_at": "2026-09-24T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-0bb6a44ac3c19d3b1e733f1564ae8f70bd5cf51affbe5c0ca9df46b996ff1011",
+      "title_en": "The Takeaway: UN General Assembly debate Day 2",
+      "summary_en": "This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries for Security Council reform.",
+      "category": "politics_security",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168421",
+          "published_at": "2026-09-24T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-2c97fc56726b1ab7d134f33b2a7d42479ac8da4a96d1c63b1370606d8e3462c7",
+      "title_en": "LIVE: World leaders tackle sea level rise, a stark marker of climate change",
+      "summary_en": "Sea level rise is among the most visible consequences of global warming, but for some countries, it is an imminent existential threat. World leaders meet Thursday to adopt a new declaration and debate the best ways to strengthen international cooperation and support vulnerable low-lying nations most at risk.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168423",
+          "published_at": "2026-09-24T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-bb6fd1722a4d93bd784a7feb415ceca35e0938bdffc41f8cf8d44ede8dccd1ed",
+      "title_en": "‘Peace remains only a promise’ for millions in eastern DR Congo, General Assembly hears",
+      "summary_en": "The Prime Minister of the Democratic Republic of the Congo (DRC) cautioned against growing global demand for “blood-stained minerals” in the rush to net-zero, in her speech to the UN General Assembly.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168422",
+          "published_at": "2026-09-24T12:00:00+00:00"
         }
       ]
     },
@@ -35,11 +153,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 46,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -59,11 +177,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 44,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-4)."
+        "Age decay (-6)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -77,50 +195,94 @@
       ]
     },
     {
-      "id": "evt-984ca0adc301ab9e78aef0b41159271aa32a84303a5fd1d88709f5555aed278f",
-      "title_en": "NASA Modernizes Commercial Airline Systems",
-      "summary_en": "NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a holding pattern […]",
-      "category": "technology_science",
-      "region": "global",
+      "id": "evt-01c12f19df23a7bded135ac80b7ce3d525d2f1b0570d5ec2f97937648a0063be",
+      "title_en": "REPLAY: Palestinian president Abbas addresses UN General Assembly",
+      "summary_en": "Palestinian president Mahmud Abbas told the UN on Thursday that Israeli policies no longer just jeopardized a two-state solution but were now threatening the \"very life and existence\" of his people. Abbas delivered prerecorded remarks to the UN’s General Assembly from his office in Ramallah after the United States…",
+      "category": "politics_security",
+      "region": "north_america",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-4)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/",
-          "published_at": "2026-09-23T22:08:54+00:00"
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20260924-replay-palestinian-president-abbas-addresses-un-general-assembly",
+          "published_at": "2026-09-24T15:06:58+00:00"
         }
       ]
     },
     {
-      "id": "evt-080281e0fad6cbe765a9210e1b8e5909ec3c5ef949b93809b21088bf18f97889",
-      "title_en": "NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
-      "summary_en": "NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted…",
-      "category": "technology_science",
-      "region": "global",
+      "id": "evt-66ec247c69f3bf0fb8236c055ddd4e7c3d676f4006c1ad037ac47fa192cfd77b",
+      "title_en": "United States: Trump's unconventional welcome for Xi's state visit",
+      "summary_en": "🇺🇸 🇨🇳 In a first for a US president, Donald Trump greeted his Chinese counterpart Xi Jinping on the tarmac as the latter landed in a military airbase near Washington DC on Wednesday for a three-day state visit.",
+      "category": "politics_security",
+      "region": "north_america",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/",
-          "published_at": "2026-09-23T18:43:43+00:00"
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20260924-united-states-trump-s-unconventional-welcome-for-xi-s-state-visit",
+          "published_at": "2026-09-24T14:40:50+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-af2aba894561f3320a6ce83119f01c97bdebde5420e5d48c4bc4ad64e7df139b",
+      "title_en": "🔴 Live: Palestinian President Abbas calls on UN General Assembly to 'not allow another Nakba'",
+      "summary_en": "🔴 Live: Palestinian President Abbas calls on UN General Assembly to 'not allow another Nakba'",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 42,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/americas/20260924-live-netanyahu-faces-un-over-gaza-as-abbas-set-to-address-assembly-by-video",
+          "published_at": "2026-09-24T14:29:20+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-e48cc69a556d5f5a57da3ed1624dc21777aa88dc79907b851280515459178177",
+      "title_en": "Israeli policies threaten 'life and existence' of Palestinians, Abbas tells UN",
+      "summary_en": "Palestinian President Mahmoud Abbas addressed the UN General Assembly on Thursday by video after being denied a visa to the United States for the second year in a row. In his prerecorded speech, he denounced Israeli policies that he said threatened Palestinians with a new Nakba and vowed that his people would remain…",
+      "category": "politics_security",
+      "region": "north_america",
+      "sports_tags": [],
+      "importance_score": 42,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/americas/20260924-israel-policies-threaten-life-existence-palestinian-says-abbas-un",
+          "published_at": "2026-09-24T15:54:28+00:00"
         }
       ]
     },
@@ -131,11 +293,11 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 41,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
+        "Age decay (-9)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -149,161 +311,17 @@
       ]
     },
     {
-      "id": "evt-200f343386fa73ed3bfdd0a4e94152f1ec46b383c2149cab6289a78503622f70",
-      "title_en": "DR Congo Ebola outbreak toll exceeds 3,700 deaths",
-      "summary_en": "More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up significantly and “the first encouraging signs of progress” are now being seen.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 43,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168407",
-          "published_at": "2026-09-23T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-5761c096b7c6d660b22faa2d89f3e65551d10d15ba26621847762af44d04d111",
-      "title_en": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI",
-      "summary_en": "The Security Council has been briefed by some of the world's top AI executives on the huge benefits and huge risks the frontier technology presents. With warnings mounting that the world may be losing its grip on systems built to outthink us, Yoshua Bengio, a recipient of the prestigious Turing Award and one of the…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 43,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168414",
-          "published_at": "2026-09-23T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-5e93f2ea7169854f9969dbbc553ff4e7278ecb750f2b0818d05ba5f646f579d0",
-      "title_en": "UN’s ‘sacred covenant has been broken’, Argentina’s Milei tells General Assembly",
-      "summary_en": "Argentine President Javier Milei told the General Assembly on Wednesday that the UN has broken the “sacred covenant” on which it was founded, failing at what it was meant to do – while excelling at things beyond its remit.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 43,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168415",
-          "published_at": "2026-09-23T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-685c51a9172023fa8a481011dbffd461ea5b5967ab14b237eb8dd030585f3a46",
-      "title_en": "Syria begins ‘new phase of revival’, President Al-Sharaa tells General Assembly",
-      "summary_en": "Syrian President Ahmad Al-Sharaa told the UN General Assembly on Wednesday that his country “is rising” on many levels, thanks to the strength of its people.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 43,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168411",
-          "published_at": "2026-09-23T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-85a49796c3c2240cab5955e453f6b41aa4cede6ba0b25aacdb1d87a56ac37f29",
-      "title_en": "Venezuela seeking rebirth after political crisis and devastating earthquakes, President tells UN",
-      "summary_en": "Venezuela is seeking to rebuild after a period of political upheaval and the destruction caused by twin earthquakes earlier this year, Acting President Delcy Rodríguez told world leaders at the United Nations on Wednesday.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 43,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168420",
-          "published_at": "2026-09-23T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-cd1bdf4fb9fad9bbf6b15ea34243cff67d4244e669c3c77e92fd2802a203a937",
-      "title_en": "At UN, Pezeshkian turns terrorism accusation back on Iran’s critics",
-      "summary_en": "President Masoud Pezeshkian opened his General Assembly address with a direct rebuttal to US President Donald Trump, who a day earlier had branded Iran the “number one sponsor of terror.”",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 43,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168412",
-          "published_at": "2026-09-23T12:00:00+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-f476c19ead3bbc9dfe2c0a7b92a759e938c289647d45d8dbfdda4ad7e7573d32",
       "title_en": "LIVE: Climate change is here - What happens next is still in our hands",
       "summary_en": "From deadly floods in the Himalayas to wildfires and extreme heat across Europe, 2026 has brought a succession of stark reminders of a changing climate. The task is immediate: Protect people from the impacts already unfolding while rapidly cutting the emissions of harmful gasses driving climate change. World leaders…",
       "category": "society_health_environment",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 41,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
+        "Age decay (-9)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -315,34 +333,21 @@
           "published_at": "2026-09-23T12:00:00+00:00"
         }
       ]
-    },
-    {
-      "id": "evt-c6454b2ed620fa2b9d67c8d75d9c45f1757cb507e3d77c6b55798ff683a98b1b",
-      "title_en": "Fears of flooding, landslides as Hurricane Polo churns off Mexico coast",
-      "summary_en": "Residents of Mexico's Pacific beach towns were preparing for heavy rain and dangerous surf ​on Wednesday ‌as Hurricane Polo, a powerful Category 4 storm, tracked northwestward just ⁠offshore, threatening flooding and mudslides along the country's southwestern coast.",
-      "category": "other",
-      "region": "asia_pacific",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20260924-fears-of-flooding-landslides-as-hurricane-polo-churns-off-mexico-coast",
-          "published_at": "2026-09-24T09:53:56+00:00"
-        }
-      ]
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168421 rejected: future publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168389 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168398 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168404 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168403 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168401 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168402 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168400 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168399 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168397 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168395 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168394 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168392 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168393 rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet rejected: stale publication date",
@@ -350,7 +355,6 @@
     "esa_space_science: entry https://www.esa.int/Enabling_Support/Operations/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Hubble_tracks_new_decagon_encircling_Saturn_s_south_pole rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_in_a_nutshell rejected: stale publication date",
@@ -383,6 +387,7 @@
     "who_news: entry https://www.who.int/news/item/10-05-2024-governments-agree-to-continue-their-steady-progress-on-proposed-pandemic-agreement-ahead-of-the-world-health-assembly rejected: stale publication date",
     "who_news: entry https://www.who.int/news/item/25-04-2024-spain-s-secretary-of-state-for-health-discusses-joint-global-health-priorities-with-who rejected: stale publication date",
     "who_news: entry https://www.who.int/news/item/12-04-2024-enhancing-global-health-and-well-being--who-and-the-netherlands-strengthen-their-partnership rejected: stale publication date",
+    "noaa_news: entry https://www.noaa.gov/news-release/noaa-flood-mapping-tool-now-covers-nearly-100-of-us rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/heritage/multimedia/video/great-miami-hurricane-of-1926-100-years-of-hurricane-forecasting-and-research rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/heritage/stories/origins-of-noaas-national-ocean-service-noaa-ocean-podcast-ext rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/news-release/noaa-2026-federal-recreational-red-snapper-season-exempted-South-Atlantic-fishing-permits rejected: stale publication date",
@@ -391,7 +396,6 @@
     "noaa_news: entry https://www.noaa.gov/stories/knocking-for-help-pelicans-unlikely-rescue-ext rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/news-release/noaa-selects-tomorrowio-to-help-advance-us-weather-forecasting rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/news-release/noaa-names-mississippi-state-university-to-host-new-northern-gulf-research-institute rejected: stale publication date",
-    "noaa_news: entry https://www.noaa.gov/stories/watching-wildlife-how-to-share-shore-and-sea-with-marine-animals-ext rejected: stale publication date",
-    "noaa_news: entry https://www.noaa.gov/news-release/noaa-expands-use-of-commercial-satellite-data-to-enhance-weather-forecasting rejected: stale publication date"
+    "noaa_news: entry https://www.noaa.gov/stories/watching-wildlife-how-to-share-shore-and-sea-with-marine-animals-ext rejected: stale publication date"
   ]
 }
