@@ -1,20 +1,21 @@
 {
   "schema_version": 1,
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T16:42:15.880799+00:00",
+  "generated_at": "2026-09-24T21:16:04.284770+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-63a2e77f5ee8c279298a191ae5e5358b9939b2b392b6d69dfe46c007b25877f2",
-      "title_en": "NASA to Study Human Health, Performance During Crew-13 Mission",
-      "summary_en": "During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members’ manual piloting skills,…",
+      "id": "evt-1581c9536ad67fc4205a4529bf6bf9a6d0ad0b6c5a08a4cd0a4793998ed3936d",
+      "title_en": "Practicing for Safe Landings on the Moon and Beyond",
+      "summary_en": "In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 49,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20)."
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -22,8 +23,32 @@
         {
           "source_id": "nasa_news",
           "publisher": "NASA",
-          "url": "https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/",
-          "published_at": "2026-09-24T13:53:48+00:00"
+          "url": "https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/",
+          "published_at": "2026-09-24T16:29:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-8ecd5ba52ffb3baa8c34dbc3a31b97ce6b29443267cd8ee2ce6c0fafd84017aa",
+      "title_en": "Travel",
+      "summary_en": "The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS). References Federal Travel Regulations (FTR) Traveler Extended TDY and Taxes Domestic Per Diem Rates Foreign Per Diem Rates Change of Station NSSC Travel now has…",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/centers-and-facilities/nssc/travel/",
+          "published_at": "2026-09-24T18:06:14+00:00"
         }
       ]
     },
@@ -34,10 +59,11 @@
       "category": "technology_science",
       "region": "asia_pacific",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 49,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20)."
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -51,10 +77,10 @@
       ]
     },
     {
-      "id": "evt-01ffec52c8d93115926fddd2a98b1d4fbb34857f4c717f340724245a69c760fd",
-      "title_en": "Win a trip to ESA to witness BepiColombo arrive at Mercury",
-      "summary_en": "Get ready to celebrate BepiColombo’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control! ENTRY FORM Full rules and how to enter below.",
-      "category": "other",
+      "id": "evt-c253b70c48473b1ce428994870d7eb84434a413b454696c4e21e6b18594555cf",
+      "title_en": "NASA’s Machines for Mars Make Beer Bubbly",
+      "summary_en": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
+      "category": "technology_science",
       "region": "global",
       "sports_tags": [],
       "importance_score": 49,
@@ -62,6 +88,54 @@
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
         "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/",
+          "published_at": "2026-09-24T16:41:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-d54dfc4ef2474de9f7ee3bcddb1eddda54a2cacc435269760263463bb5c1723d",
+      "title_en": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
+      "summary_en": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/",
+          "published_at": "2026-09-24T18:01:45+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-01ffec52c8d93115926fddd2a98b1d4fbb34857f4c717f340724245a69c760fd",
+      "title_en": "Win a trip to ESA to witness BepiColombo arrive at Mercury",
+      "summary_en": "Get ready to celebrate BepiColombo’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control! ENTRY FORM Full rules and how to enter below.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -81,11 +155,11 @@
       "category": "politics_security",
       "region": "africa",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -99,17 +173,17 @@
       ]
     },
     {
-      "id": "evt-2c97fc56726b1ab7d134f33b2a7d42479ac8da4a96d1c63b1370606d8e3462c7",
-      "title_en": "LIVE: World leaders tackle sea level rise, a stark marker of climate change",
-      "summary_en": "Sea level rise is among the most visible consequences of global warming, but for some countries, it is an imminent existential threat. World leaders meet Thursday to adopt a new declaration and debate the best ways to strengthen international cooperation and support vulnerable low-lying nations most at risk.",
-      "category": "society_health_environment",
+      "id": "evt-3916eeea39922ddec9c388b63ae7b4d31833615ad41ea9e660e2ca284ccff0a8",
+      "title_en": "Palestinian existence under threat, Abbas tells UN, warning of ‘another Nakba’",
+      "summary_en": "Israeli policies now threaten “the very life and existence of the Palestinian people on their homeland”, Palestinian President Mahmoud Abbas told the UN General Assembly on Thursday, urging the world not to allow “another Nakba”.",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -117,23 +191,23 @@
         {
           "source_id": "un_news",
           "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168423",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168426",
           "published_at": "2026-09-24T12:00:00+00:00"
         }
       ]
     },
     {
-      "id": "evt-bb6fd1722a4d93bd784a7feb415ceca35e0938bdffc41f8cf8d44ede8dccd1ed",
-      "title_en": "‘Peace remains only a promise’ for millions in eastern DR Congo, General Assembly hears",
-      "summary_en": "The Prime Minister of the Democratic Republic of the Congo (DRC) cautioned against growing global demand for “blood-stained minerals” in the rush to net-zero, in her speech to the UN General Assembly.",
-      "category": "other",
+      "id": "evt-3a5ebc6f9627914e751d36e1a6d41e18ba64b590166c984272830069041805dd",
+      "title_en": "Haitians can’t wait to return home and vote in elections says Prime Minister",
+      "summary_en": "“There is a people. A people who can wait no longer. A people waiting to regain security, to return home to work, to send their children to school, and to freely choose their leaders.” Those are the words of the Haitian Prime Minister, Alix Didier Fils-Aimé, who spoke at a special UN meeting on the future of security…",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -141,109 +215,15 @@
         {
           "source_id": "un_news",
           "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168422",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168429",
           "published_at": "2026-09-24T12:00:00+00:00"
         }
       ]
     },
     {
-      "id": "evt-be2a9cce9adfbe05577224d835a89f442b06a64d27c38a8c0127ff111440fdfa",
-      "title_en": "APOD: 2026 September 24 – The Ghosts of Five Supernovas",
-      "summary_en": "APOD Science APOD APOD: 2026 September 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 46,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-4)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
-          "published_at": "2026-09-24T04:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-19bd58e5be5f86ac94b5e42827b3e0e446c835ecbcccfc94590076043203937d",
-      "title_en": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
-      "summary_en": "The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. Department of State officials present. “It is my privilege to welcome the Republic of Croatia as the latest signatory of the Artemis Accords,” said NASA Deputy Matt…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 44,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-6)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/",
-          "published_at": "2026-09-23T20:37:19+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-01c12f19df23a7bded135ac80b7ce3d525d2f1b0570d5ec2f97937648a0063be",
-      "title_en": "REPLAY: Palestinian president Abbas addresses UN General Assembly",
-      "summary_en": "Palestinian president Mahmud Abbas told the UN on Thursday that Israeli policies no longer just jeopardized a two-state solution but were now threatening the \"very life and existence\" of his people. Abbas delivered prerecorded remarks to the UN’s General Assembly from his office in Ramallah after the United States…",
-      "category": "politics_security",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20260924-replay-palestinian-president-abbas-addresses-un-general-assembly",
-          "published_at": "2026-09-24T15:06:58+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-66ec247c69f3bf0fb8236c055ddd4e7c3d676f4006c1ad037ac47fa192cfd77b",
-      "title_en": "United States: Trump's unconventional welcome for Xi's state visit",
-      "summary_en": "🇺🇸 🇨🇳 In a first for a US president, Donald Trump greeted his Chinese counterpart Xi Jinping on the tarmac as the latter landed in a military airbase near Washington DC on Wednesday for a three-day state visit.",
-      "category": "politics_security",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20260924-united-states-trump-s-unconventional-welcome-for-xi-s-state-visit",
-          "published_at": "2026-09-24T14:40:50+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-af2aba894561f3320a6ce83119f01c97bdebde5420e5d48c4bc4ad64e7df139b",
-      "title_en": "🔴 Live: Palestinian President Abbas calls on UN General Assembly to 'not allow another Nakba'",
-      "summary_en": "🔴 Live: Palestinian President Abbas calls on UN General Assembly to 'not allow another Nakba'",
+      "id": "evt-5da6cc399656895248ed0614aa1f80a1206273b9140f47acbeaed656f7d08a85",
+      "title_en": "Tigray rebels in 'full-blown' war with government",
+      "summary_en": "In tonight's edition, Tigrayans in northern Ethiopia start panic buying supplies in the rush to stock up amidst fears that months of tensions have finally tipped over into full-blown conflict. Also, power cuts return to Senegal. And Yemis Alade, the Nigerian superstar, is out with a new album and speaks to France 24.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
@@ -258,8 +238,8 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/americas/20260924-live-netanyahu-faces-un-over-gaza-as-abbas-set-to-address-assembly-by-video",
-          "published_at": "2026-09-24T14:29:20+00:00"
+          "url": "https://www.france24.com/en/tigray-rebels-in-full-blown-war-with-government",
+          "published_at": "2026-09-24T20:23:08+00:00"
         }
       ]
     },
@@ -270,10 +250,11 @@
       "category": "politics_security",
       "region": "north_america",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 41,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -293,11 +274,11 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-9)."
+        "Age decay (-11)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -311,17 +292,41 @@
       ]
     },
     {
+      "id": "evt-200f343386fa73ed3bfdd0a4e94152f1ec46b383c2149cab6289a78503622f70",
+      "title_en": "DR Congo Ebola outbreak toll exceeds 3,700 deaths",
+      "summary_en": "More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up significantly and “the first encouraging signs of progress” are now being seen.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 39,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-11)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168407",
+          "published_at": "2026-09-23T12:00:00+00:00"
+        }
+      ]
+    },
+    {
       "id": "evt-f476c19ead3bbc9dfe2c0a7b92a759e938c289647d45d8dbfdda4ad7e7573d32",
       "title_en": "LIVE: Climate change is here - What happens next is still in our hands",
       "summary_en": "From deadly floods in the Himalayas to wildfires and extreme heat across Europe, 2026 has brought a succession of stark reminders of a changing climate. The task is immediate: Protect people from the impacts already unfolding while rapidly cutting the emissions of harmful gasses driving climate change. World leaders…",
       "category": "society_health_environment",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-9)."
+        "Age decay (-11)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -344,10 +349,6 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168400 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168399 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168397 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168395 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168394 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168392 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168393 rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet rejected: stale publication date",
