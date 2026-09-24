@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T09:22:24.692755+00:00",
+  "generated_at": "2026-09-24T11:18:16.075048+00:00",
   "is_underfilled": false,
   "events": [
     {
@@ -11,11 +11,11 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 48,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -35,11 +35,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 48,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -49,54 +49,6 @@
           "publisher": "NASA",
           "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
           "published_at": "2026-09-24T04:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-984ca0adc301ab9e78aef0b41159271aa32a84303a5fd1d88709f5555aed278f",
-      "title_en": "NASA Modernizes Commercial Airline Systems",
-      "summary_en": "NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a holding pattern […]",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/",
-          "published_at": "2026-09-23T22:08:54+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-080281e0fad6cbe765a9210e1b8e5909ec3c5ef949b93809b21088bf18f97889",
-      "title_en": "NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
-      "summary_en": "NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 46,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-4)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/",
-          "published_at": "2026-09-23T18:43:43+00:00"
         }
       ]
     },
@@ -125,17 +77,17 @@
       ]
     },
     {
-      "id": "evt-59b4ed0f4a6fe1c8e88429356394dcecd933bde636ab023ca6f8eee383ec85b8",
-      "title_en": "FFA 2026 Hyperwall Schedule",
-      "summary_en": "FFA 2026 Hyperwall Schedule",
-      "category": "other",
+      "id": "evt-984ca0adc301ab9e78aef0b41159271aa32a84303a5fd1d88709f5555aed278f",
+      "title_en": "NASA Modernizes Commercial Airline Systems",
+      "summary_en": "NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when your flight gets delayed on the tarmac instead of lifting off, or it ends up in a holding pattern […]",
+      "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 44,
+      "importance_score": 46,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-6)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -143,8 +95,32 @@
         {
           "source_id": "nasa_news",
           "publisher": "NASA",
-          "url": "https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/",
-          "published_at": "2026-09-23T14:58:13+00:00"
+          "url": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/",
+          "published_at": "2026-09-23T22:08:54+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-080281e0fad6cbe765a9210e1b8e5909ec3c5ef949b93809b21088bf18f97889",
+      "title_en": "NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
+      "summary_en": "NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far behind it. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-5)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/",
+          "published_at": "2026-09-23T18:43:43+00:00"
         }
       ]
     },
@@ -341,17 +317,16 @@
       ]
     },
     {
-      "id": "evt-d11f81b6063c169321e66aca5c879ba598975b37a2fe831e53ed1fa7110ad772",
-      "title_en": "No, this video doesn't disprove the 9/11 attack on the south tower of the World Trade Center",
-      "summary_en": "A former British member of parliament implied that a video filmed from a helicopter on September 11, 2001 shows that no planes actually hit the World Trade Center's south tower, but this claim would be unfounded. The plane that hit the south tower hit the other side of the building, which isn’t visible in the video.",
-      "category": "economy_business",
-      "region": "global",
+      "id": "evt-c6454b2ed620fa2b9d67c8d75d9c45f1757cb507e3d77c6b55798ff683a98b1b",
+      "title_en": "Fears of flooding, landslides as Hurricane Polo churns off Mexico coast",
+      "summary_en": "Residents of Mexico's Pacific beach towns were preparing for heavy rain and dangerous surf ​on Wednesday ‌as Hurricane Polo, a powerful Category 4 storm, tracked northwestward just ⁠offshore, threatening flooding and mudslides along the country's southwestern coast.",
+      "category": "other",
+      "region": "asia_pacific",
       "sports_tags": [],
-      "importance_score": 38,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-4)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -359,8 +334,8 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/americas/20260923-video-no-proof-plane-hit-twin-tower-9-11",
-          "published_at": "2026-09-23T19:01:33+00:00"
+          "url": "https://www.france24.com/en/video/20260924-fears-of-flooding-landslides-as-hurricane-polo-churns-off-mexico-coast",
+          "published_at": "2026-09-24T09:53:56+00:00"
         }
       ]
     }
