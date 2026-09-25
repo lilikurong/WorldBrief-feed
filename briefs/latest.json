@@ -1,13 +1,36 @@
 {
   "schema_version": 1,
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T16:47:15.229907+00:00",
+  "generated_at": "2026-09-25T21:13:28.326269+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-6df667e3b2a9f2116a48c45548e2f7a60a1d8fde8583a8417f8d8de507aade37",
-      "title_en": "Hubble Spots Chaotic Secret in Galaxy",
-      "summary_en": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas, and dust. These arms […]",
+      "id": "evt-4167bf50b5b9668217a0c123ad494a4fa705841f374f7ebe088740dc3331f826",
+      "title_en": "Weekend nor’easter likely to bring damaging winds, coastal flooding",
+      "summary_en": "Weekend nor’easter likely to bring damaging winds, coastal flooding Large waves crash over a jetty as a large coastal storm bears down on the region on March 2, 2018 in Scituate, Massachusetts. A powerful nor'easter is bringing snow, rain and high wind to much of the U.S. Northeast. (Image credit: Scott Eisen/Getty…",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "noaa_news",
+          "publisher": "NOAA",
+          "url": "https://www.noaa.gov/news/weekend-noreaster-likely-to-bring-damaging-winds-coastal-flooding",
+          "published_at": "2026-09-25T19:54:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-786c0fde739fb51be2717d28594fd8e25460c163fa99fa73f3abc8832c949cf2",
+      "title_en": "NASA Welcomes San Marino Signing the Artemis Accords",
+      "summary_en": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present. “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
@@ -15,6 +38,77 @@
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
+          "published_at": "2026-09-25T19:53:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-8f13964999fa414a8734b2ea73e449ea3cac1b052fca93e8a2b01595360461b8",
+      "title_en": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+      "summary_en": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
+          "published_at": "2026-09-25T19:36:10+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-5cfabcb81199ccc172db5b08d991105bb1007634384f97c59c48878008fc3476",
+      "title_en": "2026-2027 DWU: Middle School Design Challenge",
+      "summary_en": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
+          "published_at": "2026-09-25T17:20:51+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-6df667e3b2a9f2116a48c45548e2f7a60a1d8fde8583a8417f8d8de507aade37",
+      "title_en": "Hubble Spots Chaotic Secret in Galaxy",
+      "summary_en": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas, and dust. These arms […]",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -28,40 +122,17 @@
       ]
     },
     {
-      "id": "evt-f601308c565a4c50c7ef3e490039179f45338d28e3e78693f794526a8ae337c0",
-      "title_en": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
-      "summary_en": "For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/",
-          "published_at": "2026-09-25T14:45:51+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-0bb6a44ac3c19d3b1e733f1564ae8f70bd5cf51affbe5c0ca9df46b996ff1011",
       "title_en": "The Takeaway: UN General Assembly debate Day 2",
       "summary_en": "This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries for Security Council reform.",
       "category": "politics_security",
       "region": "africa",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -87,11 +158,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -105,17 +176,17 @@
       ]
     },
     {
-      "id": "evt-325237f67b03afc7e6984c40c7995c42f8e691db61f4384ba09a9afae2906836",
-      "title_en": "Africa needs its own AI solutions, not borrowed ones, says expert",
-      "summary_en": "Africa should focus its use of technology on solving its own real challenges rather than copying the systems and priorities of other parts of the world.",
-      "category": "technology_science",
-      "region": "africa",
+      "id": "evt-2628120fef4b59958898874676b6b5373549bf140002e302169ea34dde91dc3d",
+      "title_en": "Tuvalu urges decisive global action as rising seas threaten its future",
+      "summary_en": "Climate change remains the greatest existential threat to Tuvalu, Prime Minister Feleti Teo told the UN General Assembly on Friday, warning that the pace and scale of international action are still falling far short of what vulnerable island nations need.",
+      "category": "society_health_environment",
+      "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -123,7 +194,7 @@
         {
           "source_id": "un_news",
           "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168440",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168449",
           "published_at": "2026-09-25T12:00:00+00:00"
         }
       ]
@@ -135,11 +206,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -159,11 +230,11 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -183,11 +254,11 @@
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -201,17 +272,41 @@
       ]
     },
     {
+      "id": "evt-78ba4033da8cff99cc61e57fb2b77ff773ab0afab1b57cb540b0bbb75f53a3b7",
+      "title_en": "World News in Brief: West Bank demolitions accelerate, urgent support for Sudan, Haiti diplacement, AI hub to boost gender equality",
+      "summary_en": "The situation in the occupied West Bank continues to deteriorate, the UN human rights office has said, pointing to the “mass destruction” of Palestinian villages and forcible transfer of residents in Msafer Yatta, South Hebron Hills.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-3)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168447",
+          "published_at": "2026-09-25T12:00:00+00:00"
+        }
+      ]
+    },
+    {
       "id": "evt-7e07bc7fe6c2cfa58f91101f7bff2281b4f435c75935855a16f93349a59f4934",
       "title_en": "Sudan’s farmers are ready to return – private investment could get them there",
       "summary_en": "The war in Sudan has devastated the economy and agricultural production, but a UN-backed plan aims to mobilise private sector investment to help farmers return to their fields.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -225,17 +320,65 @@
       ]
     },
     {
+      "id": "evt-9e2b92462800e6c4dbd4b3328124d3710b7629d36b26a0924f5d7664c6b8e74e",
+      "title_en": "‘No one speaks on behalf of Lebanon’: PM Salam asserts State authority at UN",
+      "summary_en": "Lebanon’s Prime Minister, Nawaf Salam, has stressed that decisions over war and peace, and control of weapons, must rest solely with the State and its constitutional institutions.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-3)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168444",
+          "published_at": "2026-09-25T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-dac72a55c752a0bbf26023b418ca5da10ffbbabbd566405e2c4ee2e27b2ed5b8",
+      "title_en": "‘Invest with Iraq’: PM sets out vision for new economic future",
+      "summary_en": "Iraq’s Prime Minister, Ali Faleh Al-Zaidi, said his country aims to exert its influence as an active economic power in the region, and as a bridge for dialogue and cooperation between its peoples.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-3)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168443",
+          "published_at": "2026-09-25T12:00:00+00:00"
+        }
+      ]
+    },
+    {
       "id": "evt-e2234258c348f357e0369814764641ddc74db8c8145706bc797d2c7b37a975c4",
       "title_en": "Australia urges global cooperation on climate, AI checks and international law",
       "summary_en": "Australian Prime Minister Anthony Albanese underlined the need for countries to work together to address the climate crisis, emerging technologies such as AI, and the breakdown of international rules, at the United Nations General Assembly on Thursday.",
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -255,11 +398,11 @@
       "category": "other",
       "region": "asia_pacific",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 45,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-4)."
+        "Age decay (-5)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -271,123 +414,6 @@
           "published_at": "2026-09-25T04:01:00+00:00"
         }
       ]
-    },
-    {
-      "id": "evt-7a196faec35dafc04baf971e895a6ffd3f81c6f2180071c228c547c7d71ca7fd",
-      "title_en": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
-      "summary_en": "APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 46,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-4)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
-          "published_at": "2026-09-25T04:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-0c235fd18eee5ab0593b7a19996995f50b228312e869a57a640be4e04eeaf1ac",
-      "title_en": "EU vows to pursue €120 million fine on X after US backs Musk's court challenge",
-      "summary_en": "The European Union on Friday said it will pursue a €120 million fine against the X social network after the US Justice Department said it supported the efforts of X owner Elon Musk to have the case annulled. The bloc fined the platform in 2025 for breaching EU online transparency rules, notably with its pay-to-play…",
-      "category": "other",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/europe/20260925-eu-vows-to-pursue-%E2%82%AC120-million-fine-on-x-after-us-backs-musk-s-court-challenge",
-          "published_at": "2026-09-25T15:01:34+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-1326008743c0c9bd5af015618bb1c3cad19af8085e4ca07b7714bbe980c56a14",
-      "title_en": "France: Pope Leo XIV keeps visit focused on faith over politics",
-      "summary_en": "Pope Leo XIV has declined a state dinner, the Legion of Honour and a private meeting with President Emmanuel Macron, keeping his four-day France visit centred on its apostolic mission despite official talks at the Élysée. While the Vatican cited scheduling reasons, some observers see a desire to emphasise the trip's…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/france-pope-leo-xiv-keeps-visit-focused-on-faith-over-politics",
-          "published_at": "2026-09-25T14:08:48+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-3b29adbd49a5e83be0c7b106cb4611811cd7b0d246f1f22d705f475298ebeab3",
-      "title_en": "Climate breakdown: Is the EU adapting to the new normal? Europe's summer of disasters",
-      "summary_en": "It has been called Europe's disaster year. 2026 has seen more than 30,000 excess deaths linked to heatwaves, along with mega wildfires, nuclear power plants having to shut down, gas plants under pressure, droughts reducing hydropower generation from rivers and wild fluctuations in electricity prices, not to mention…",
-      "category": "society_health_environment",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/talking-europe/20260925-climate-breakdown-is-the-eu-adapting-to-the-new-normal-europe-s-summer-of-disasters",
-          "published_at": "2026-09-25T14:33:07+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-d00b8a6778551f71f735d349667f95b1bb844b2e412607f7b337362c65a3f143",
-      "title_en": "Israeli leader at UN: ‘We’re going to win. We have no other choice’",
-      "summary_en": "Prime Minister Benjamin Netanyahu used his address to the UN General Assembly to defend Israel’s strikes against Iran as a matter of national survival and described the violence in the West Bank as the work of a few “juvenile delinquents” and rejected accusations of genocide in Gaza as “the greatest lie of the…",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-9)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168431",
-          "published_at": "2026-09-24T12:00:00+00:00"
-        }
-      ]
     }
   ],
   "source_errors": [
@@ -397,11 +423,6 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168417 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168416 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168414 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168372 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168415 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168412 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168411 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168410 rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet rejected: stale publication date",
@@ -449,7 +470,6 @@
     "noaa_news: entry https://www.noaa.gov/stories/congratulations-to-botc-147-noaa-corps-newest-officers-ext rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/stories/knocking-for-help-pelicans-unlikely-rescue-ext rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/news-release/noaa-selects-tomorrowio-to-help-advance-us-weather-forecasting rejected: stale publication date",
-    "noaa_news: entry https://www.noaa.gov/news-release/noaa-names-mississippi-state-university-to-host-new-northern-gulf-research-institute rejected: stale publication date",
-    "noaa_news: entry https://www.noaa.gov/stories/watching-wildlife-how-to-share-shore-and-sea-with-marine-animals-ext rejected: stale publication date"
+    "noaa_news: entry https://www.noaa.gov/news-release/noaa-names-mississippi-state-university-to-host-new-northern-gulf-research-institute rejected: stale publication date"
   ]
 }
