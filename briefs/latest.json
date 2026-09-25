@@ -1,9 +1,57 @@
 {
   "schema_version": 1,
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T21:16:04.284770+00:00",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T03:57:21.221396+00:00",
   "is_underfilled": false,
   "events": [
+    {
+      "id": "evt-3cfeeb9b6466a3fef8ed24cc3dfdc86935298ffad482baa54b09920ebbac3ee0",
+      "title_en": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
+      "summary_en": "Côte d’Ivoire signed the Artemis Accords on Thursday, becoming the 75th signatory and marking a major milestone for this growing coalition. With the signing ceremony in the nation’s largest city, Abidjan, Côte d’Ivoire joined other like-minded nations and committed to the peaceful, transparent, and responsible…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/",
+          "published_at": "2026-09-24T21:27:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-bcaf8d88e14704fb3fb9b6b844e0f4c5abf2fe9d40fbb8f3d803c1bfe853d7ee",
+      "title_en": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
+      "summary_en": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron and Chris Birch will serve as spacecraft commander and pilot, with JAXA (Japan Aerospace…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/",
+          "published_at": "2026-09-24T21:15:46+00:00"
+        }
+      ]
+    },
     {
       "id": "evt-1581c9536ad67fc4205a4529bf6bf9a6d0ad0b6c5a08a4cd0a4793998ed3936d",
       "title_en": "Practicing for Safe Landings on the Moon and Beyond",
@@ -11,11 +59,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -35,11 +83,11 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -53,89 +101,17 @@
       ]
     },
     {
-      "id": "evt-b23e99aceb0039c334480ec6a42dc14ffb7b9a67a7f5a4e9fc622c986d009f8e",
-      "title_en": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
-      "summary_en": "Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake had struck in the nearby ocean, apparently jolting one of the two volcanoes awake. A few days later, for the first…",
-      "category": "technology_science",
-      "region": "asia_pacific",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
-          "published_at": "2026-09-24T15:47:17+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-c253b70c48473b1ce428994870d7eb84434a413b454696c4e21e6b18594555cf",
-      "title_en": "NASA’s Machines for Mars Make Beer Bubbly",
-      "summary_en": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/",
-          "published_at": "2026-09-24T16:41:01+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-d54dfc4ef2474de9f7ee3bcddb1eddda54a2cacc435269760263463bb5c1723d",
-      "title_en": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
-      "summary_en": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/",
-          "published_at": "2026-09-24T18:01:45+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-01ffec52c8d93115926fddd2a98b1d4fbb34857f4c717f340724245a69c760fd",
       "title_en": "Win a trip to ESA to witness BepiColombo arrive at Mercury",
       "summary_en": "Get ready to celebrate BepiColombo’s arrival at Mercury. Craft a welcoming message that could be a drawing, song, poem or any other art form and stand a chance to win a trip to mission control! ENTRY FORM Full rules and how to enter below.",
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 46,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -149,82 +125,57 @@
       ]
     },
     {
-      "id": "evt-0bb6a44ac3c19d3b1e733f1564ae8f70bd5cf51affbe5c0ca9df46b996ff1011",
-      "title_en": "The Takeaway: UN General Assembly debate Day 2",
-      "summary_en": "This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries for Security Council reform.",
-      "category": "politics_security",
-      "region": "africa",
+      "id": "evt-b23e99aceb0039c334480ec6a42dc14ffb7b9a67a7f5a4e9fc622c986d009f8e",
+      "title_en": "US-India Satellite Captures Time-lapse Video of Volcanic Eruption",
+      "summary_en": "Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake had struck in the nearby ocean, apparently jolting one of the two volcanoes awake. A few days later, for the first…",
+      "category": "technology_science",
+      "region": "asia_pacific",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 46,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168421",
-          "published_at": "2026-09-24T12:00:00+00:00"
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
+          "published_at": "2026-09-24T15:47:17+00:00"
         }
       ]
     },
     {
-      "id": "evt-3916eeea39922ddec9c388b63ae7b4d31833615ad41ea9e660e2ca284ccff0a8",
-      "title_en": "Palestinian existence under threat, Abbas tells UN, warning of ‘another Nakba’",
-      "summary_en": "Israeli policies now threaten “the very life and existence of the Palestinian people on their homeland”, Palestinian President Mahmoud Abbas told the UN General Assembly on Thursday, urging the world not to allow “another Nakba”.",
+      "id": "evt-56e52b8c881763c9b59ca37fbd356bfb2de024d2f99b6effab83bc8b37b16384",
+      "title_en": "Live: Pope heads to France on first state visit in 18 years",
+      "summary_en": "Pope Leo XIV flies to France on Friday for the Vatican's first state visit to the European nation in 18 years, with artificial intelligence and young believers near the top of his agenda. President Emmanuel Macron and his wife Brigitte will be on the tarmac to greet the 71-year-old pope.",
       "category": "politics_security",
-      "region": "global",
+      "region": "europe",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168426",
-          "published_at": "2026-09-24T12:00:00+00:00"
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/europe/20260925-live-pope-france-first-state-visit-18-years",
+          "published_at": "2026-09-25T01:57:04+00:00"
         }
       ]
     },
     {
-      "id": "evt-3a5ebc6f9627914e751d36e1a6d41e18ba64b590166c984272830069041805dd",
-      "title_en": "Haitians can’t wait to return home and vote in elections says Prime Minister",
-      "summary_en": "“There is a people. A people who can wait no longer. A people waiting to regain security, to return home to work, to send their children to school, and to freely choose their leaders.” Those are the words of the Haitian Prime Minister, Alix Didier Fils-Aimé, who spoke at a special UN meeting on the future of security…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168429",
-          "published_at": "2026-09-24T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-5da6cc399656895248ed0614aa1f80a1206273b9140f47acbeaed656f7d08a85",
-      "title_en": "Tigray rebels in 'full-blown' war with government",
-      "summary_en": "In tonight's edition, Tigrayans in northern Ethiopia start panic buying supplies in the rush to stock up amidst fears that months of tensions have finally tipped over into full-blown conflict. Also, power cuts return to Senegal. And Yemis Alade, the Nigerian superstar, is out with a new album and speaks to France 24.",
-      "category": "politics_security",
+      "id": "evt-c2c481d24c679539c6fb617a78aec1971dfc6c66e5faf043e81551e5e763d081",
+      "title_en": "Nepal’s catastrophic floods were ‘warning to the world,’ PM Shah tells UN",
+      "summary_en": "Nepal’s Prime Minister Balendra Shah said on Thursday that last month’s catastrophic floods were a “warning to the world” of growing climate risks in the Himalayas. He said warming was melting glaciers and permafrost and urged international support to help Nepal adapt to threats it could not face alone.",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
       "importance_score": 42,
@@ -238,15 +189,15 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/tigray-rebels-in-full-blown-war-with-government",
-          "published_at": "2026-09-24T20:23:08+00:00"
+          "url": "https://www.france24.com/en/asia-pacific/20260925-nepal-floods-warning-world-pm-shah-un",
+          "published_at": "2026-09-25T01:42:59+00:00"
         }
       ]
     },
     {
-      "id": "evt-e48cc69a556d5f5a57da3ed1624dc21777aa88dc79907b851280515459178177",
-      "title_en": "Israeli policies threaten 'life and existence' of Palestinians, Abbas tells UN",
-      "summary_en": "Palestinian President Mahmoud Abbas addressed the UN General Assembly on Thursday by video after being denied a visa to the United States for the second year in a row. In his prerecorded speech, he denounced Israeli policies that he said threatened Palestinians with a new Nakba and vowed that his people would remain…",
+      "id": "evt-3d371faacee33b3a807bb7f93a7e9276ba1bd8e377dbfec6c35ac4bdc95a3337",
+      "title_en": "Live: Iran's President says US ‘must choose’ whether to end war",
+      "summary_en": "It is for the United States to choose whether to end its war in Iran as Tehran does not wish to continue fighting, Iranian President Masoud Pezeshkian told Fox News in an interview aired Thursday. Pezeshkian took a defiant stand at the UN Wednesday, for which he travelled to New York, telling the world that Iran…",
       "category": "politics_security",
       "region": "north_america",
       "sports_tags": [],
@@ -262,93 +213,86 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/americas/20260924-israel-policies-threaten-life-existence-palestinian-says-abbas-un",
-          "published_at": "2026-09-24T15:54:28+00:00"
+          "url": "https://www.france24.com/en/middle-east/20260924-live-iran-s-president-says-us-must-choose-whether-to-end-war",
+          "published_at": "2026-09-24T23:52:57+00:00"
         }
       ]
     },
     {
-      "id": "evt-01b53f64125658ffd0627f89dcb4e42d5f2120f782986c18f4446a62c6d16a2f",
-      "title_en": "UN health agency calls for investment boost to save young lives from cancer",
-      "summary_en": "More children and young people are beating cancer, but progress remains uneven across regions and age groups, highlighting the need for increased investment to boost survival rates.",
-      "category": "society_health_environment",
+      "id": "evt-e03da8bec74111122d9cf3a56d67354711e086e2e3f5bacb64bb5c20c0668800",
+      "title_en": "Saudi reports fresh Houthi attacks as France pledges to defend key oil port",
+      "summary_en": "Saudi Arabia intercepted Houthi ballistic missiles on Thursday after warning several regions, including Mecca, of possible attacks. France said it would send military assets to help protect the Saudi oil terminal at Yanbu. The strikes came amid renewed fighting in Yemen that has killed dozens, according to sources…",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 41,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-11)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168408",
-          "published_at": "2026-09-23T12:00:00+00:00"
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260924-saudi-houthi-attacks-france-oil-port",
+          "published_at": "2026-09-24T23:34:29+00:00"
         }
       ]
     },
     {
-      "id": "evt-200f343386fa73ed3bfdd0a4e94152f1ec46b383c2149cab6289a78503622f70",
-      "title_en": "DR Congo Ebola outbreak toll exceeds 3,700 deaths",
-      "summary_en": "More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up significantly and “the first encouraging signs of progress” are now being seen.",
-      "category": "society_health_environment",
+      "id": "evt-2a4f7a8df56a2a957326e7610a269d490de415a3f5994b734ccb68d1bfb79ce2",
+      "title_en": "Trump and Xi meet, but hopes for AI cooperation stay slim",
+      "summary_en": "Chinese President Xi Jinping and US President Donald Trump have been holding talks in the Oval Office at the White House today. President Donald Trump gave the visiting leader of communist China a personal tour of several of his favorite White House features. He took him aboard the Marine One helicopter, presented…",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-11)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168407",
-          "published_at": "2026-09-23T12:00:00+00:00"
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20260924-trump-and-xi-meet-but-hopes-for-ai-cooperation-stay-slim",
+          "published_at": "2026-09-24T21:04:48+00:00"
         }
       ]
     },
     {
-      "id": "evt-f476c19ead3bbc9dfe2c0a7b92a759e938c289647d45d8dbfdda4ad7e7573d32",
-      "title_en": "LIVE: Climate change is here - What happens next is still in our hands",
-      "summary_en": "From deadly floods in the Himalayas to wildfires and extreme heat across Europe, 2026 has brought a succession of stark reminders of a changing climate. The task is immediate: Protect people from the impacts already unfolding while rapidly cutting the emissions of harmful gasses driving climate change. World leaders…",
-      "category": "society_health_environment",
-      "region": "europe",
+      "id": "evt-5da6cc399656895248ed0614aa1f80a1206273b9140f47acbeaed656f7d08a85",
+      "title_en": "Tigray rebels in 'full-blown' war with government",
+      "summary_en": "In tonight's edition, Tigrayans in northern Ethiopia start panic buying supplies in the rush to stock up amidst fears that months of tensions have finally tipped over into full-blown conflict. Also, power cuts return to Senegal. And Yemis Alade, the Nigerian superstar, is out with a new album and speaks to France 24.",
+      "category": "politics_security",
+      "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-11)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168372",
-          "published_at": "2026-09-23T12:00:00+00:00"
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tigray-rebels-in-full-blown-war-with-government",
+          "published_at": "2026-09-24T20:23:08+00:00"
         }
       ]
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168398 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168404 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168403 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168401 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168402 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168400 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168399 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168397 rejected: stale publication date",
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet rejected: stale publication date",
