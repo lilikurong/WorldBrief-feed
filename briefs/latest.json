@@ -1,9 +1,33 @@
 {
   "schema_version": 1,
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T04:02:16.014450+00:00",
+  "generated_at": "2026-09-26T10:59:04.845483+00:00",
   "is_underfilled": false,
   "events": [
+    {
+      "id": "evt-199029451d69b98622bf58c3a7c6ee8cc67e155ac8807598136ff37a247cad7c",
+      "title_en": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
+      "summary_en": "APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
+          "published_at": "2026-09-26T04:05:00+00:00"
+        }
+      ]
+    },
     {
       "id": "evt-4faa5bd27488562b60d1b502938878df914ed6993683ccc0eabd946fa74b3e38",
       "title_en": "NASA, Boeing to Provide Update on Starliner Development",
@@ -11,11 +35,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 46,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -35,11 +59,11 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 45,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
+        "Age decay (-5)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -53,65 +77,17 @@
       ]
     },
     {
-      "id": "evt-786c0fde739fb51be2717d28594fd8e25460c163fa99fa73f3abc8832c949cf2",
-      "title_en": "NASA Welcomes San Marino Signing the Artemis Accords",
-      "summary_en": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present. “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 48,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
-          "published_at": "2026-09-25T19:53:03+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-8f13964999fa414a8734b2ea73e449ea3cac1b052fca93e8a2b01595360461b8",
-      "title_en": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
-      "summary_en": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 48,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
-          "published_at": "2026-09-25T19:36:10+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-5cfabcb81199ccc172db5b08d991105bb1007634384f97c59c48878008fc3476",
       "title_en": "2026-2027 DWU: Middle School Design Challenge",
       "summary_en": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 45,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
+        "Age decay (-5)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -125,17 +101,41 @@
       ]
     },
     {
-      "id": "evt-0bb6a44ac3c19d3b1e733f1564ae8f70bd5cf51affbe5c0ca9df46b996ff1011",
-      "title_en": "The Takeaway: UN General Assembly debate Day 2",
-      "summary_en": "This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries for Security Council reform.",
-      "category": "politics_security",
-      "region": "africa",
+      "id": "evt-786c0fde739fb51be2717d28594fd8e25460c163fa99fa73f3abc8832c949cf2",
+      "title_en": "NASA Welcomes San Marino Signing the Artemis Accords",
+      "summary_en": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present. “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of…",
+      "category": "technology_science",
+      "region": "global",
       "sports_tags": [],
       "importance_score": 45,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
         "Age decay (-5)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
+          "published_at": "2026-09-25T19:53:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-0bb6a44ac3c19d3b1e733f1564ae8f70bd5cf51affbe5c0ca9df46b996ff1011",
+      "title_en": "The Takeaway: UN General Assembly debate Day 2",
+      "summary_en": "This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries for Security Council reform.",
+      "category": "politics_security",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 43,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-7)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -161,11 +161,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 43,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Age decay (-7)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -185,11 +185,11 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 43,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Age decay (-7)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -209,11 +209,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 43,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Age decay (-7)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -233,11 +233,11 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 43,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Age decay (-7)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -257,11 +257,11 @@
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 43,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Age decay (-7)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -281,11 +281,11 @@
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 43,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Age decay (-7)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -305,11 +305,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 43,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Age decay (-7)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -323,41 +323,17 @@
       ]
     },
     {
-      "id": "evt-9e2b92462800e6c4dbd4b3328124d3710b7629d36b26a0924f5d7664c6b8e74e",
-      "title_en": "‘No one speaks on behalf of Lebanon’: PM Salam asserts State authority at UN",
-      "summary_en": "Lebanon’s Prime Minister, Nawaf Salam, has stressed that decisions over war and peace, and control of weapons, must rest solely with the State and its constitutional institutions.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 45,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168444",
-          "published_at": "2026-09-25T12:00:00+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-dac72a55c752a0bbf26023b418ca5da10ffbbabbd566405e2c4ee2e27b2ed5b8",
       "title_en": "‘Invest with Iraq’: PM sets out vision for new economic future",
       "summary_en": "Iraq’s Prime Minister, Ali Faleh Al-Zaidi, said his country aims to exert its influence as an active economic power in the region, and as a bridge for dialogue and cooperation between its peoples.",
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 43,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Age decay (-7)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -377,11 +353,11 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 43,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Age decay (-7)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -395,17 +371,40 @@
       ]
     },
     {
+      "id": "evt-030c4cd9efe0e460816765daf0951807460376f55ef180b663f9339e9e69344c",
+      "title_en": "Middle-East: Iran proposes Hormuz plan, Donald Trump reportedly refuses",
+      "summary_en": "The United States had yet to publicly respond on Saturday after Iran offered a plan to reopen the strategic Strait of Hormuz, though reports indicated that President Donald Trump had rejected the proposal. The waterway key to the world's oil supply is central to the conflict between the US and Iran, which is at a…",
+      "category": "politics_security",
+      "region": "middle_east",
+      "sports_tags": [],
+      "importance_score": 42,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/middle-east-iran-proposes-hormuz-plan-donald-trump-reportedly-refuses",
+          "published_at": "2026-09-26T09:35:15+00:00"
+        }
+      ]
+    },
+    {
       "id": "evt-644e19b155b174f24e00318213a93cf0b45239e82d37b7f4a79d22aad77bfaf0",
       "title_en": "Explosive Intensification for Hurricane Polo",
       "summary_en": "Several ingredients came together off the Pacific coast of Mexico to generate one of the strongest storms the eastern Pacific basin has ever seen.",
       "category": "other",
       "region": "asia_pacific",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-8)."
+        "Age decay (-10)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -420,10 +419,10 @@
     }
   ],
   "source_errors": [
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168454 rejected: future publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168420 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168419 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168418 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168417 rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet rejected: stale publication date",
