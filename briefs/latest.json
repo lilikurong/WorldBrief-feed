@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "date": "2026-09-27",
-  "generated_at": "2026-09-27T16:35:49+00:00",
+  "generated_at": "2026-09-27T21:02:31+00:00",
   "is_underfilled": false,
   "events": [
     {
@@ -11,11 +11,11 @@
       "category": "technology_science",
       "region": "asia_pacific",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -41,11 +41,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 45,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-4)."
+        "Age decay (-5)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -59,16 +59,63 @@
       ]
     },
     {
-      "id": "evt-0b387362bc8fbba949525025feba5186ee64315f888d646fd47af1554390c1e1",
-      "title_en": "Behind the scenes of Céline Dion's high-tech comeback",
-      "summary_en": "You'll have seen the coverage of Céline Dion's return from illness and her Paris residency. But here's a different angle: the audio technology keeping her stage quiet, and the artificial intelligence isolating her voice from the noise of a 30,000-seat stadium.",
-      "category": "technology_science",
+      "id": "evt-2de35019305ccc66b1f81bf136cfa84fc4972b4dcbfb39013393f076012ba8f5",
+      "title_en": "France's far right gains ground in indirect Senate elections",
+      "summary_en": "Marine Le Pen's far-right National Rally and its allies won enough seats in France's Senate to form a parliamentary group in the upper house for the first time in the party's history Sunday, securing 14 seats out of 348. Half the upper house is elected through indirect voting every three years, with senators in the…",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/france/20260927-france-s-far-right-gains-ground-in-indirect-senate-elections",
+          "published_at": "2026-09-27T19:34:30+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-71bbcdbe02d4f8270812bda870d154dd9d62f860c9d8f2da88c9db479c651908",
+      "title_en": "Serbian President Aleksandar Vucic resigns to run for prime minister in October elections",
+      "summary_en": "Serbian President Aleksandar Vucic stepped down as the country's head of state Sunday, paving the way for him to run as his right-wing populist Serbian Progressive Party's candidate for prime minister in the October parliamentary elections.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 42,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister",
+          "published_at": "2026-09-27T18:17:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-0b387362bc8fbba949525025feba5186ee64315f888d646fd47af1554390c1e1",
+      "title_en": "Behind the scenes of Céline Dion's high-tech comeback",
+      "summary_en": "You'll have seen the coverage of Céline Dion's return from illness and her Paris residency. But here's a different angle: the audio technology keeping her stage quiet, and the artificial intelligence isolating her voice from the noise of a 30,000-seat stadium.",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 40,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -82,39 +129,17 @@
       ]
     },
     {
-      "id": "evt-2bebca83cd0ae6f05367935afb8a7913bdeac34639032e28bf3bcf702d72dd2e",
-      "title_en": "Church confronts shock of abuse crisis",
-      "summary_en": "After two days in Paris, where he drew hundreds of thousands of worshippers, Pope Leo XIV is continuing his visit to France in the southwestern pilgrimage town of Lourdes. There, he is due to meet privately with survivors of clergy sexual abuse. His four-day trip is the first official papal visit to France in nearly…",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/church-confronts-shock-of-abuse-crisis",
-          "published_at": "2026-09-27T15:01:16+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-57187eb1e497232f176742b888146381c7da859d51e50153a9c7c030d1a6a322",
       "title_en": "South Africa shootings leave 27 killed",
       "summary_en": "It has been a deadly night in South Africa, with 27 people killed in two separate shooting incidents. Police say 17 people were shot dead at a tavern outside Johannesburg by suspects armed with assault rifles, while another 10 were killed near Cape Town when gunmen opened fire at a venue selling grilled meat. No…",
       "category": "other",
       "region": "africa",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -134,10 +159,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -157,11 +183,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-9)."
+        "Age decay (-11)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -175,41 +201,17 @@
       ]
     },
     {
-      "id": "evt-23e821766b99c085c52cbe7f66c3576abb4ecdc13039c4b5702ba8de61816e4f",
-      "title_en": "UK: Several arrested as bomb disposal team examines vehicles",
-      "summary_en": "Earlier on Sunday, British police evacuated nearby homes following a major incident at a British military base. Several men were arrested on suspicion of explosives offences, while police said they believed the situation was contained. France 24 correspondent Benedicte Paviot tells us the latest from London.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/uk-several-arrested-as-bomb-disposal-team-examines-vehicles",
-          "published_at": "2026-09-27T11:07:14+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-2cd7cb3d9197b402f776c9afbee89dbc649a7496067aa7242cd267a2b34eb077",
       "title_en": "Canada urges stronger partnerships as global order faces ‘rupture’",
       "summary_en": "Canada’s Foreign Minister Anita Anand warned the UN General Assembly on Saturday that the international order has entered an era of profound disruption, calling for stronger multilateral cooperation and new partnerships as major powers increasingly turn away from global economic integration.",
       "category": "economy_business",
       "region": "north_america",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-9)."
+        "Age decay (-11)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -229,11 +231,11 @@
       "category": "politics_security",
       "region": "middle_east",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-9)."
+        "Age decay (-11)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -253,11 +255,11 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -277,11 +279,11 @@
       "category": "politics_security",
       "region": "north_america",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-9)."
+        "Age decay (-11)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -301,11 +303,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 38,
+      "importance_score": 37,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-12)."
+        "Age decay (-13)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -341,6 +343,10 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168430 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168429 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168428 rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/ rejected: stale publication date",
@@ -384,6 +390,7 @@
     "who_news: entry https://www.who.int/news/item/10-05-2024-governments-agree-to-continue-their-steady-progress-on-proposed-pandemic-agreement-ahead-of-the-world-health-assembly rejected: stale publication date",
     "who_news: entry https://www.who.int/news/item/25-04-2024-spain-s-secretary-of-state-for-health-discusses-joint-global-health-priorities-with-who rejected: stale publication date",
     "who_news: entry https://www.who.int/news/item/12-04-2024-enhancing-global-health-and-well-being--who-and-the-netherlands-strengthen-their-partnership rejected: stale publication date",
+    "noaa_news: entry https://www.noaa.gov/news/weekend-noreaster-likely-to-bring-damaging-winds-coastal-flooding rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/news-release/noaa-flood-mapping-tool-now-covers-nearly-100-of-us rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/heritage/multimedia/video/great-miami-hurricane-of-1926-100-years-of-hurricane-forecasting-and-research rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/heritage/stories/origins-of-noaas-national-ocean-service-noaa-ocean-podcast-ext rejected: stale publication date",
