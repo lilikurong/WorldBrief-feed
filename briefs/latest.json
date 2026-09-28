@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "date": "2026-09-27",
-  "generated_at": "2026-09-27T21:02:31+00:00",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T04:16:27+00:00",
   "is_underfilled": false,
   "events": [
     {
@@ -11,11 +11,11 @@
       "category": "technology_science",
       "region": "asia_pacific",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 45,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
+        "Age decay (-5)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -41,11 +41,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Age decay (-8)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -59,16 +59,112 @@
       ]
     },
     {
-      "id": "evt-2de35019305ccc66b1f81bf136cfa84fc4972b4dcbfb39013393f076012ba8f5",
-      "title_en": "France's far right gains ground in indirect Senate elections",
-      "summary_en": "Marine Le Pen's far-right National Rally and its allies won enough seats in France's Senate to form a parliamentary group in the upper house for the first time in the party's history Sunday, securing 14 seats out of 348. Half the upper house is elected through indirect voting every three years, with senators in the…",
-      "category": "other",
+      "id": "evt-a15a9104669584b7dcf5669a8763c70a00699509b19022e6b7dfeeb4674d4110",
+      "title_en": "Taylor Swift becomes most-awarded artist in MTV VMA history with 31 wins",
+      "summary_en": "Taylor Swift became the most-awarded artist in MTV Video Music Awards history on Sunday, receiving the inaugural Artist Director Honors and moving past Beyoncé with 31 awards. Swift, who said she had written and directed 18 music videos, also premiered her self-directed video for “Patient Zero,” starring Colin…",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
       "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/culture/20260928-taylor-swift-most-awarded-mtv-vmas-31-wins",
+          "published_at": "2026-09-28T02:07:35+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-8f5b46545a61827b0ddc6a12277267986346737f2b4df6596167f7605a23bb2c",
+      "title_en": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
+      "summary_en": "Ethiopia’s army chief accused Eritrea and Sudan on Sunday of backing armed groups fighting federal troops, as clashes with Tigrayan rebels intensified. The Tigray People’s Liberation Front said it was waging a “defensive war” and seized airports. A humanitarian source said rebels captured the Afar town of Erebti on…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 41,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels",
+          "published_at": "2026-09-27T23:27:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-1764a124f5fd23c964d74a942a1649214812c38bbd020f3150ebf832a567071a",
+      "title_en": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
+      "summary_en": "US President Donald Trump said on Sunday he expected talks with Iran to resume next week, despite rejecting Tehran’s proposal for a seven-day truce followed by the reopening of the Strait of Hormuz. Trump has raised the possibility of renewed air strikes on Iran, but told Axios he anticipated further negotiations.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 40,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
+          "published_at": "2026-09-27T22:10:44+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-237eefe4595a23a32be2f891aac3cbebf3a8f197663387061a00df243b4a0874",
+      "title_en": "Russian attacks kill eight in Ukraine after Moscow vows to continue war",
+      "summary_en": "Russian strikes killed eight people across Ukraine on Sunday, authorities said, a day after Moscow vowed to continue the war. President Volodymyr Zelensky said Russia had launched about 3,900 drones, aerial bombs and missiles over the past week. Ukraine accused Moscow of deliberately targeting civilians as winter…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 40,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow",
+          "published_at": "2026-09-27T21:55:28+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-2de35019305ccc66b1f81bf136cfa84fc4972b4dcbfb39013393f076012ba8f5",
+      "title_en": "France's far right gains ground in indirect Senate elections",
+      "summary_en": "Marine Le Pen's far-right National Rally and its allies won enough seats in France's Senate to form a parliamentary group in the upper house for the first time in the party's history Sunday, securing 14 seats out of 348. Half the upper house is elected through indirect voting every three years, with senators in the…",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 40,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -82,16 +178,17 @@
       ]
     },
     {
-      "id": "evt-71bbcdbe02d4f8270812bda870d154dd9d62f860c9d8f2da88c9db479c651908",
-      "title_en": "Serbian President Aleksandar Vucic resigns to run for prime minister in October elections",
-      "summary_en": "Serbian President Aleksandar Vucic stepped down as the country's head of state Sunday, paving the way for him to run as his right-wing populist Serbian Progressive Party's candidate for prime minister in the October parliamentary elections.",
+      "id": "evt-e8090e12767d483ff9ca0c2094805b082066bee595e9d038c20f51a48a52d536",
+      "title_en": "Israel revokes credentials of Dutch diplomats in West Bank over settlement goods ban",
+      "summary_en": "Israel will revoke the diplomatic accreditation of Dutch officials based in the occupied West Bank after the Netherlands began enforcing a ban on goods from Israeli settlements, Foreign Minister Gideon Saar said on Sunday. The officials have seven days to surrender their Israeli-issued diplomatic papers, he said.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -99,8 +196,8 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister",
-          "published_at": "2026-09-27T18:17:00+00:00"
+          "url": "https://www.france24.com/en/middle-east/20260927-israel-revokes-dutch-diplomats-credentials-settlement-sanctions",
+          "published_at": "2026-09-27T21:47:40+00:00"
         }
       ]
     },
@@ -111,11 +208,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 38,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -135,11 +232,11 @@
       "category": "other",
       "region": "africa",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 38,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -153,65 +250,17 @@
       ]
     },
     {
-      "id": "evt-895ab9da45e47c8af874e4604e6006fac6d4a8b965d0b8753de55b687da2f147",
-      "title_en": "Thousands evacuated amid Bangkok floods",
-      "summary_en": "Rain is easing in Thailand’s capital, but flooding continues in several low-lying areas. Thousands of people have been forced into temporary shelters after the government declared Bangkok a disaster zone on Saturday. At least eight people have died over the past 10 days as heavy rains caused widespread disruption.…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 40,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/thousands-evacuated-amid-bangkok-floods",
-          "published_at": "2026-09-27T13:59:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-158ca4be371f5147d6b77155b47a555b6971fcce464343a57e65fc3c8d5e9712",
-      "title_en": "‘Safeguard the postwar order,’ China tells UN General Assembly",
-      "summary_en": "China's Vice President, Han Zheng, urged the world to defend the postwar international order on Saturday, telling the UN General Assembly that geopolitical conflicts, widening development gaps and mounting global challenges make multilateralism more urgent than ever.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 39,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-11)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168456",
-          "published_at": "2026-09-26T12:00:00+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-2cd7cb3d9197b402f776c9afbee89dbc649a7496067aa7242cd267a2b34eb077",
       "title_en": "Canada urges stronger partnerships as global order faces ‘rupture’",
       "summary_en": "Canada’s Foreign Minister Anita Anand warned the UN General Assembly on Saturday that the international order has entered an era of profound disruption, calling for stronger multilateral cooperation and new partnerships as major powers increasingly turn away from global economic integration.",
       "category": "economy_business",
       "region": "north_america",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 37,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-11)."
+        "Age decay (-13)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -231,11 +280,11 @@
       "category": "politics_security",
       "region": "middle_east",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 37,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-11)."
+        "Age decay (-13)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -255,11 +304,11 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 37,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-3)."
+        "Age decay (-5)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -269,54 +318,6 @@
           "publisher": "France 24",
           "url": "https://www.france24.com/en/housing-crisis-fuels-madrid-protest",
           "published_at": "2026-09-27T11:17:45+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-e923e184d6f4e3b6e08355652791b2b9bb38daaca9568740cb47395cef7513cb",
-      "title_en": "Cuba warns against ‘law of the jungle’ as Foreign Minister denounces US pressure",
-      "summary_en": "Cuba’s Foreign Minister warned the UN General Assembly on Saturday that escalating military and economic pressure in Latin America and the Caribbean was threatening international law, while accusing the United States of intensifying a decades-long campaign to isolate and weaken his country.",
-      "category": "politics_security",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 39,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-11)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168458",
-          "published_at": "2026-09-26T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-199029451d69b98622bf58c3a7c6ee8cc67e155ac8807598136ff37a247cad7c",
-      "title_en": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
-      "summary_en": "APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 37,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-13)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
-          "published_at": "2026-09-26T04:05:00+00:00"
         }
       ]
     }
@@ -343,6 +344,8 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168430 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168429 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168428 rejected: stale publication date",
+    "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/ rejected: stale publication date",
