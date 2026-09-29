@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "date": "2026-09-28",
-  "generated_at": "2026-09-28T23:01:06+00:00",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T04:47:38+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-15247d1f26f8734639ec0eadca53889d4ab4c4463ffa3ea9009cb8111983cfa0",
-      "title_en": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
-      "summary_en": "On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the first time. In less than two years, NACA flew the X-1 aircraft faster than the speed of sound, marking an important milestone in aviation…",
-      "category": "technology_science",
+      "id": "evt-6bd7f40a085740ebf6832e0a0f519c9937023e6fcbec9495a82c4151e9d593c1",
+      "title_en": "October’s Night Sky Notes: Spooky Stargazing",
+      "summary_en": "The Ghoul Located within the constellation Perseus lies a star called Algol, also known as ‘Demon Star’ or ‘The Ghoul’. You can spot this star during the autumn months, along with Cassiopeia and Andromeda in the northeastern sky, beginning after 9 PM. In Greek mythology, this star represents the ‘blinking eye’ of the…",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 49,
@@ -16,6 +16,54 @@
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
         "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/",
+          "published_at": "2026-09-28T22:48:56+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-7558fb060d42a5304265927ea13102219513af8f95f797fb0b4eee050719bc98",
+      "title_en": "Mars Has Its Charmes",
+      "summary_en": "Written by Athanasios (Thanos) Klidaras, Ph.D. candidate at Purdue University Sept. 21, 2026 After a long hiatus, the Perseverance rover updates page is back. A lot has happened on Mars in the meantime, and with regular updates now resuming, there is plenty to catch up on — Perseverance has been busy. The rover has…",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/blog/mars-has-its-charmes/",
+          "published_at": "2026-09-29T01:27:52+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-15247d1f26f8734639ec0eadca53889d4ab4c4463ffa3ea9009cb8111983cfa0",
+      "title_en": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
+      "summary_en": "On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the first time. In less than two years, NACA flew the X-1 aircraft faster than the speed of sound, marking an important milestone in aviation…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -35,11 +83,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -59,11 +107,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -83,11 +131,11 @@
       "category": "technology_science",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 46,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -101,9 +149,9 @@
       ]
     },
     {
-      "id": "evt-21d73c5e7c61a0f1ad35064abeec8f0a26e1ed517ba1e3793fae986c4e94be1a",
-      "title_en": "France braces for a day of strikes and protests over civil servants' pay",
-      "summary_en": "Trade unions in France have called on public sector workers - from train drivers to teachers to health workers and police officers - to stop working and protest at the government's plan to freeze the public sector's pay index, just days before the government is set to unveil its draft budget for 2027. Plus, as Paris…",
+      "id": "evt-578cff81acc749524be7dc28e407ffa426aeed54cc7274c66a1d3fe2659ee903",
+      "title_en": "Argentina’s Milei threatens to sue UK over Falkland Islands oil project",
+      "summary_en": "Argentine President Javier Milei threatened on Monday to sue Britain over the Sea Lion oil project near the disputed Falkland Islands. Argentina claims sovereignty over the British-administered territory, where a 1982 war killed 255 British and 649 Argentine troops. Developers Navitas and Rockhopper say they hold…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
@@ -111,6 +159,54 @@
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/americas/20260929-argentina-milei-arbitration-falklands-oil-project",
+          "published_at": "2026-09-29T02:13:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-e9ddf91c45dbb5ec80d7ddd6172c8b1c0be5fbcde05c45ece14384c384e2f405",
+      "title_en": "French student protests fuel political clash ahead of 2027 Presidential vote",
+      "summary_en": "French Prime Minister Sébastien Lecornu and far-left leader Jean-Luc Mélenchon traded barbs on Monday over high school students blockading classes to demand more resources. The students cite teacher shortages, deteriorating schools and heavy schedules. The dispute comes ahead of next spring’s presidential election,…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 41,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/france/20260928-french-student-protests-political-clash-presidential-vote",
+          "published_at": "2026-09-28T23:54:27+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-21d73c5e7c61a0f1ad35064abeec8f0a26e1ed517ba1e3793fae986c4e94be1a",
+      "title_en": "France braces for a day of strikes and protests over civil servants' pay",
+      "summary_en": "Trade unions in France have called on public sector workers - from train drivers to teachers to health workers and police officers - to stop working and protest at the government's plan to freeze the public sector's pay index, just days before the government is set to unveil its draft budget for 2027. Plus, as Paris…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 40,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -124,39 +220,17 @@
       ]
     },
     {
-      "id": "evt-3377a08c8f3c8db6161b4e59d12f16f76d8f0b166d72e44d193ee90c28da0595",
-      "title_en": "RAF Fairford: AI-enhanced photos of suspects fuel false claims about their religion",
-      "summary_en": "Five men arrested over a suspected bomb plot at RAF Fairford have been released on bail as investigations continue. Meanwhile, AI-enhanced images purporting to show their faces have gone viral, with some users claiming it ‘proves’ the men are Muslim. SynthID confirms the sharpened images were created using OpenAI…",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/raf-fairford-ai-enhanced-photos-of-suspects-fuel-false-claims-about-their-religion-1",
-          "published_at": "2026-09-28T20:55:42+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-41f3d0fd77320ff23414232605597b64ae92fca8e9b6a1565aa636be1dc73049",
       "title_en": "Ethiopian forces claim Tigray town",
       "summary_en": "In tonight's edition, Ethiopia's army says it's seized a key city in the northern region of Tigray amidst escalating conflict with local rebels. Also, two mass shootings in South Africa leave at least 28 dead. And Ugandan activist Praise Aloikin Opoloje is facing court after she turned up following days of…",
       "category": "politics_security",
       "region": "africa",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -176,10 +250,11 @@
       "category": "politics_security",
       "region": "north_america",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -199,87 +274,17 @@
       ]
     },
     {
-      "id": "evt-b0eb624df74fffaeff015e5dbb16d7b09604e27a2a91182f156049e220a3edf2",
-      "title_en": "Nations League: Italy rebound in Turkey as France snatch late win in Belgium",
-      "summary_en": "Italy bounced back in style on Monday, thumping Turkey 4-1 in the rain to revive their Nations League campaign, while France edged Belgium 1-0 in Brussels with a late winner from Michael Olise. Elsewhere, Sweden beat Poland 3-1, Bosnia and Herzegovina overcame Romania 4-2, and Northern Ireland held Hungary to a…",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/sport/20260928-italy-rebound-in-turkey-as-france-win-late-in-belgium",
-          "published_at": "2026-09-28T21:38:08+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-e0fa6ad4b4e989f5f42d8b3764213e2c7f792debd7901ab853b6deac8afcb015",
-      "title_en": "Evicted 87-year-old Spanish pensioner to return home after deal",
-      "summary_en": "An 87-year-old Madrid pensioner whose eviction became a rallying point for Spain’s housing protests will be able to return home after reaching a deal with the property’s owners, her lawyer said Monday. The agreement comes as demonstrations across the country pile pressure on Prime Minister Pedro Sanchez’s government…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/europe/20260928-evicted-spanish-pensioner-to-return-home-after-housing-protest-deal-spain-madrid",
-          "published_at": "2026-09-28T22:34:14+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-68442fb44e63d301d1b6b5f64ea49c9fd962de090ac5e607af1d09215957e2c4",
-      "title_en": "Ukrainian arms producers warn competitive edge eroding due to stringent export licence rules",
-      "summary_en": "Russian drones struck Ukraine's National Academy of Sciences in the historic heart of Kyiv on Monday, in the latest deadly daytime attack on the capital. Volodymyr Zelensky has long been pleading with Ukraine’s allies for more military aid to fend off Russia. But Ukrainian weapons producers say the country could be…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/ukrainian-arms-producers-warn-competitive-edge-eroding-due-to-stringent-export-licence-rules",
-          "published_at": "2026-09-28T19:28:26+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-7268be23843ab3da0777cff6d6797cde07fbbe0221d4ff9f0a3ef5dbb4bd3e2b",
       "title_en": "France puts out massive fire that torched 42,000 hectares and smouldered for 69 days",
       "summary_en": "France's largest wildfire since 1949 has been declared extinguished more than two months after it broke out in southwestern Gironde, forcing the evacuation of around 224,000 people and covering the city of Bordeaux with a thick plume of smoke. The blaze was put under control on August 1, but continued to smoulder…",
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -299,11 +304,11 @@
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
