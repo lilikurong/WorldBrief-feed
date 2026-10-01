@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T04:47:38+00:00",
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T04:44:38+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-6bd7f40a085740ebf6832e0a0f519c9937023e6fcbec9495a82c4151e9d593c1",
-      "title_en": "October’s Night Sky Notes: Spooky Stargazing",
-      "summary_en": "The Ghoul Located within the constellation Perseus lies a star called Algol, also known as ‘Demon Star’ or ‘The Ghoul’. You can spot this star during the autumn months, along with Cassiopeia and Andromeda in the northeastern sky, beginning after 9 PM. In Greek mythology, this star represents the ‘blinking eye’ of the…",
-      "category": "other",
+      "id": "evt-e2a8bec542743c9dad9e6b7487b4eb52609a5406bb83e53b2a307cd8506f2158",
+      "title_en": "Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them",
+      "summary_en": "Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center Earth planning date: Friday, Sept. 18, 2026 Curiosity surprised us at the beginning of the week with a change in rock texture — instead of the finely layered bedrock blocks we’ve been seeing in our recent sulfate unit workspaces, suddenly we…",
+      "category": "technology_science",
       "region": "global",
       "sports_tags": [],
       "importance_score": 49,
@@ -23,135 +23,183 @@
         {
           "source_id": "nasa_news",
           "publisher": "NASA",
-          "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/",
-          "published_at": "2026-09-28T22:48:56+00:00"
+          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/",
+          "published_at": "2026-09-30T23:37:47+00:00"
         }
       ]
     },
     {
-      "id": "evt-7558fb060d42a5304265927ea13102219513af8f95f797fb0b4eee050719bc98",
-      "title_en": "Mars Has Its Charmes",
-      "summary_en": "Written by Athanasios (Thanos) Klidaras, Ph.D. candidate at Purdue University Sept. 21, 2026 After a long hiatus, the Perseverance rover updates page is back. A lot has happened on Mars in the meantime, and with regular updates now resuming, there is plenty to catch up on — Perseverance has been busy. The rover has…",
+      "id": "evt-5e742383196340e31ff9e9e790abc3c8ed162adcf4c6f1928747eca968577bfe",
+      "title_en": "Help Overlap Zoo Reveal Cosmic Dust",
+      "summary_en": "Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of view on Earth (or from a space telescope) and appear to overlap in the sky. These rare overlapping…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/",
+          "published_at": "2026-09-30T21:19:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-5f2031cbc77622f1905fd116fad3e4471d059c4fa83138e0eb4edd33261b3afb",
+      "title_en": "NASA Awards Contract to Develop 5G Communications for Moon",
+      "summary_en": "NASA has awarded Modulate Space Corporation a contract to develop key elements of a 5G communications system for use on the lunar surface with built-in Wi-Fi 6, for NASA’s Glenn Research Center in Cleveland. This accelerated effort is organized into two primary work areas that together will develop a scalable,…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/",
+          "published_at": "2026-09-30T20:41:26+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-660564f90e5e566190998abb753d14985972062ad86fe6bd8aa13dde3694d433",
+      "title_en": "NASA Adds New Science Investigations for Moon Base",
+      "summary_en": "Editor’s note: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload. NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base. The suite of science…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+          "published_at": "2026-09-30T21:11:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-2044aebdbe025cb23a09f4aeb6389da65d27520a0951976e2fb72303e6b6b9a2",
+      "title_en": "Lebanon: One in five children goes to bed hungry, says UNICEF",
+      "summary_en": "Four in five households in Lebanon struggle to afford basic necessities today, with children increasingly going without food, missing school and being pushed into work as conflict compounds years of economic crisis. \"I wanted to buy clothes for my children, but I could not. I also wanted to enrol them in school, but…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-5)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168490",
+          "published_at": "2026-09-30T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-4da32c7e0911726f81696a886a39a8f3a0d9129f5b7a09f2635e9e36ab00bd36",
+      "title_en": "Homicides fall as organised crime grows more profitable – and networked",
+      "summary_en": "Homicide rates are falling across much of the world, but organised crime is on the rise in many regions as criminal networks diversify into trafficking, migrant smuggling, and the exploitation of natural resources, a new UN report launched on Wednesday revealed.",
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 45,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-5)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/blog/mars-has-its-charmes/",
-          "published_at": "2026-09-29T01:27:52+00:00"
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168493",
+          "published_at": "2026-09-30T12:00:00+00:00"
         }
       ]
     },
     {
-      "id": "evt-15247d1f26f8734639ec0eadca53889d4ab4c4463ffa3ea9009cb8111983cfa0",
-      "title_en": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
-      "summary_en": "On Sept. 30, 1946, five National Advisory Committee of Aeronautics (NACA) engineers arrived at Muroc Army Airfield in California’s high desert to achieve supersonic flight for the first time. In less than two years, NACA flew the X-1 aircraft faster than the speed of sound, marking an important milestone in aviation…",
-      "category": "technology_science",
+      "id": "evt-8830b65efa16aa2158b73188dc3c07ff9a1e512e20282efe69df2906a86fee6c",
+      "title_en": "Could a new global panel defuse inequality’s ‘ticking time bomb’?",
+      "summary_en": "What if the world tackled inequality with the same kind of scientific firepower it has brought to the climate crisis?",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 45,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
+        "Age decay (-5)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
-          "published_at": "2026-09-28T19:20:01+00:00"
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168489",
+          "published_at": "2026-09-30T12:00:00+00:00"
         }
       ]
     },
     {
-      "id": "evt-a28825a230c438df57bca04cee2b36ada6c74ed83432ec1cee99a97d486a5d5d",
-      "title_en": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
-      "summary_en": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living through the most exciting era of space exploration since Apollo,” said NASA Administrator Jared…",
-      "category": "technology_science",
+      "id": "evt-ce8ad687f222aae2616a459669b4e2906e0a4508a62e2bc48e1009845526c3c6",
+      "title_en": "Malaysia: UN agency urges safeguards after refugees returned to Myanmar",
+      "summary_en": "The UN refugee agency, UNHCR, has voiced concern over Malaysia’s decision to return 1,476 people to Myanmar amid an ongoing civil war and a dire human rights and humanitarian situation.",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 45,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
+        "Age decay (-5)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
-          "published_at": "2026-09-28T19:26:57+00:00"
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168491",
+          "published_at": "2026-09-30T12:00:00+00:00"
         }
       ]
     },
     {
-      "id": "evt-c5f33cd512704e31e69e35e6c549c391b4e70badab871c08978d6e7bbb085fe9",
-      "title_en": "NASA Highlights Lessons Learned From Swift Boost Mission",
-      "summary_en": "A commercial mission to boost NASA’s Swift observatory concluded without raising the spacecraft’s orbit, but the agency and industry vendor gained valuable experience that will benefit future in-space servicing programs.",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/",
-          "published_at": "2026-09-28T17:44:33+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-b6253222c5eb43be20b7479ef750ab54bba8a02f63b2f72da94717924e3235b5",
-      "title_en": "Successful Earth flyby improves Juice’s course to Jupiter",
-      "summary_en": "The European Space Agency’s Jupiter Icy Moons Explorer (Juice) skimmed the very outer edge of Earth’s atmosphere on 28 September, using the gravity of our home planet to alter its route to Jupiter using very little fuel.",
-      "category": "technology_science",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 46,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-4)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "esa_space_science",
-          "publisher": "European Space Agency",
-          "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter",
-          "published_at": "2026-09-28T15:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-578cff81acc749524be7dc28e407ffa426aeed54cc7274c66a1d3fe2659ee903",
-      "title_en": "Argentina’s Milei threatens to sue UK over Falkland Islands oil project",
-      "summary_en": "Argentine President Javier Milei threatened on Monday to sue Britain over the Sea Lion oil project near the disputed Falkland Islands. Argentina claims sovereignty over the British-administered territory, where a 1982 war killed 255 British and 649 Argentine troops. Developers Navitas and Rockhopper say they hold…",
+      "id": "evt-955f4bc736d03c128a628ccc97713f1233ce9a1efd2e9685a0bd26cf38656638",
+      "title_en": "El Salvador sets 2027 presidential election as Nayib Bukele seeks third term",
+      "summary_en": "El Salvador will hold presidential elections on February 28, 2027, the electoral tribunal said Wednesday, opening the way for President Nayib Bukele to seek a third term after constitutional changes removed presidential term limits. Bukele has drawn praise for sharply reducing gang violence but faced criticism over…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
@@ -166,15 +214,39 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/americas/20260929-argentina-milei-arbitration-falklands-oil-project",
-          "published_at": "2026-09-29T02:13:40+00:00"
+          "url": "https://www.france24.com/en/americas/20261001-el-salvador-sets-2027-presidential-election-as-nayib-bukele-seeks-third-term",
+          "published_at": "2026-10-01T02:32:45+00:00"
         }
       ]
     },
     {
-      "id": "evt-e9ddf91c45dbb5ec80d7ddd6172c8b1c0be5fbcde05c45ece14384c384e2f405",
-      "title_en": "French student protests fuel political clash ahead of 2027 Presidential vote",
-      "summary_en": "French Prime Minister Sébastien Lecornu and far-left leader Jean-Luc Mélenchon traded barbs on Monday over high school students blockading classes to demand more resources. The students cite teacher shortages, deteriorating schools and heavy schedules. The dispute comes ahead of next spring’s presidential election,…",
+      "id": "evt-d93c5ef892681c1902fe566dbe3a7a76a5d49369a4a6d40e43b75810b8199a54",
+      "title_en": "Powerful Storms Continue to Prowl the Pacific",
+      "summary_en": "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
+      "category": "other",
+      "region": "asia_pacific",
+      "sports_tags": [],
+      "importance_score": 42,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-8)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/",
+          "published_at": "2026-09-30T04:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-a0df32890f919103c53730912acc195272ed20cf49618a05a3994e6ff7484197",
+      "title_en": "Trump renews calls for former Federal Reserve chief Jerome Powell's resignation",
+      "summary_en": "The Federal Reserve's watchdog on Wednesday found no grounds for a criminal referral over a roughly $1 billion cost overrun on renovations to the central bank's Washington buildings, while faulting project oversight. The findings prompted President Donald Trump to renew his call for former Fed chief Jerome Powell to…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
@@ -190,93 +262,15 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/france/20260928-french-student-protests-political-clash-presidential-vote",
-          "published_at": "2026-09-28T23:54:27+00:00"
+          "url": "https://www.france24.com/en/americas/20260930-trump-renews-calls-for-former-federal-reserve-chief-jerome-powell-resignation",
+          "published_at": "2026-09-30T23:44:27+00:00"
         }
       ]
     },
     {
-      "id": "evt-21d73c5e7c61a0f1ad35064abeec8f0a26e1ed517ba1e3793fae986c4e94be1a",
-      "title_en": "France braces for a day of strikes and protests over civil servants' pay",
-      "summary_en": "Trade unions in France have called on public sector workers - from train drivers to teachers to health workers and police officers - to stop working and protest at the government's plan to freeze the public sector's pay index, just days before the government is set to unveil its draft budget for 2027. Plus, as Paris…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 40,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/business/20260928-france-braces-for-a-day-of-strikes-and-protests-over-civil-servants-pay",
-          "published_at": "2026-09-28T20:42:09+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-41f3d0fd77320ff23414232605597b64ae92fca8e9b6a1565aa636be1dc73049",
-      "title_en": "Ethiopian forces claim Tigray town",
-      "summary_en": "In tonight's edition, Ethiopia's army says it's seized a key city in the northern region of Tigray amidst escalating conflict with local rebels. Also, two mass shootings in South Africa leave at least 28 dead. And Ugandan activist Praise Aloikin Opoloje is facing court after she turned up following days of…",
-      "category": "politics_security",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 40,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/ethiopian-forces-claim-tigray-town",
-          "published_at": "2026-09-28T20:32:38+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-653ce409e5a78d0af07d8ec439ef34301a508875116eab30c9ecf5576d3eb3fe",
-      "title_en": "Expert says UK airbase plot 'fits into a very intense pattern we've been seeing in past two months'",
-      "summary_en": "British police said Monday five men arrested near an airbase used by the United States were released on bail, as officers probed whether a \"foreign state\" could be involved in a suspected bomb plot. Speaking with FRANCE 24's Monte Francis, Yan Saint-Pierre, CEO of Modern Security Consulting Group, explains that many…",
-      "category": "politics_security",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 40,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/expert-says-uk-airbase-plot-fits-into-a-very-intense-pattern-we-ve-been-seeing-in-past-two-months",
-          "published_at": "2026-09-28T21:23:39+00:00"
-        },
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/a-propos/20260928-expert-says-uk-airbase-plot-fits-into-a-very-intense-pattern-we-ve-been-seeing-in-past-two-months",
-          "published_at": "2026-09-28T21:25:18+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-7268be23843ab3da0777cff6d6797cde07fbbe0221d4ff9f0a3ef5dbb4bd3e2b",
-      "title_en": "France puts out massive fire that torched 42,000 hectares and smouldered for 69 days",
-      "summary_en": "France's largest wildfire since 1949 has been declared extinguished more than two months after it broke out in southwestern Gironde, forcing the evacuation of around 224,000 people and covering the city of Bordeaux with a thick plume of smoke. The blaze was put under control on August 1, but continued to smoulder…",
+      "id": "evt-07b8f1b2b52ade42f74aa5f8f98b26e5a8522ff929fecf2191ee4941067201d5",
+      "title_en": "Climate change reshaping the polar oceans, says report",
+      "summary_en": "Climate change is increasingly reshaping the polar oceans, with Arctic waters warming rapidly, sea ice shrinking and wildlife losing habitat at both ends of the planet, an annual report said Wednesday. The Copernicus Ocean State Report depicts profound changes across the world's seas, from record-breaking heatwaves…",
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
@@ -292,15 +286,39 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/france/20260928-france-puts-out-massive-fire-that-torched-42-000-hectares-and-smouldered-for-69-days",
-          "published_at": "2026-09-28T17:00:08+00:00"
+          "url": "https://www.france24.com/en/video/20260930-climate-change-reshaping-the-polar-oceans-says-report",
+          "published_at": "2026-09-30T16:53:09+00:00"
         }
       ]
     },
     {
-      "id": "evt-d30341a56e359ea8864877a7e2366de6f68d6537133e9612bbe4721091422f4c",
-      "title_en": "French hotels, souvenir shops benefit from pope business boost",
-      "summary_en": "Monday is the final day of Pope Leo'svisit to France and the trip has been marked not only by an outpouring of emotion from France's Catholics but also flurry of economic activity. The first figures are beginning to come in from the pope's trip, and unsurprisingly, they're showing a big boost in tourism activity…",
+      "id": "evt-6dc26c6e4702d67e9d1aef07a423060554206459aa42168ac61c04ece9ff62ca",
+      "title_en": "Ethiopia back to civil war? Horn of Africa fears spillover effect of renewed fighting",
+      "summary_en": "After contagion in the Arabian Peninsula, should the entire Horn of Africa fear a domino effect? Just as Donald Trump’s decision to invade Iran drew the Saudis back to Yemen: did threats over the Strait of Bab el-Mandeb light the fuse in Ethiopia, where last week, unresolved issues between the government and its…",
+      "category": "politics_security",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 39,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-3)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/the-debate/20260930-ethiopia-back-to-civil-war-horn-of-africa-fears-spillover-effect-of-renewed-fighting",
+          "published_at": "2026-09-30T19:04:20+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-e89365cc89c612fe17b9ac67cd6f266f00e49f74393686dcf61ed11b65763964",
+      "title_en": "UK-France 'one in, one out' migrant exchange deal is scrapped",
+      "summary_en": "A British-French agreement aimed at reducing the number of people trying to cross the English Channel in small boats has been scrapped, London said Wednesday. The pilot programme was intended to break the business model of \"people smugglers\" by exchanging undocumented migrants who had made the crossing for people who…",
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
@@ -316,19 +334,81 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20260928-french-hotels-souvenir-shops-benefit-from-pope-business-boost",
-          "published_at": "2026-09-28T16:48:33+00:00"
+          "url": "https://www.france24.com/en/europe/20260930-uk-france-one-in-one-out-migrant-exchange-deal-is-scrapped",
+          "published_at": "2026-09-30T17:12:12+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-fe9691326893404557ced7930ed86a36b1523c869ad29ce440e3af1c4a22793d",
+      "title_en": "Clashes between French teens, police as school blockades intensify",
+      "summary_en": "French teenagers on Tuesday set fire to rubbish bins and threw projectiles at police who responded with batons and tear gas, with hundreds detained across the country over the blockades and protests demanding better conditions at schools. Since last week, students have staged protests outside hundreds of schools over…",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 39,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-3)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/clashes-between-french-teens-police-as-school-blockades-intensify",
+          "published_at": "2026-09-30T19:07:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-3d7cb8ee13c17a2334dfe825b3fadd9e0f735525c9e667f2cfdfa1d107263408",
+      "title_en": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update",
+      "summary_en": "The UN chief on Tuesday strongly condemned an airstrike that reportedly killed at least 50 people at a market in Myanmar’s Rakhine state and called for those responsible to be held to account.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 37,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-13)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168488",
+          "published_at": "2026-09-29T12:00:00+00:00"
         }
       ]
     }
   ],
   "source_errors": [
-    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168478 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168477 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168476 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168475 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168474 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168473 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168467 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168464 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168463 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168465 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168462 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168461 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168460 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168459 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168458 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168457 rejected: stale publication date",
+    "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Win_a_trip_to_ESA_to_witness_BepiColombo_arrive_at_Mercury rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_to_fly_past_Earth_for_third_gravity_assist rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Purple_swirls_on_the_Red_Planet rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_reveals_stunning_panorama_of_star_formation rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury rejected: stale publication date",
@@ -337,7 +417,6 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/08/Lion_Nebula_roars_to_life_for_Webb rejected: stale publication date",
     "who_news: entry https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health rejected: stale publication date",
     "who_news: entry https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states rejected: stale publication date",
     "who_news: entry https://www.who.int/news/item/30-07-2025-paying-tribute-to-david-nabarro rejected: stale publication date",
@@ -371,7 +450,6 @@
     "noaa_news: entry https://www.noaa.gov/stories/great-miami-hurricane-of-1926-century-of-science-advancing-warnings-from-hours-to-days rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/stories/congratulations-to-botc-147-noaa-corps-newest-officers-ext rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/stories/knocking-for-help-pelicans-unlikely-rescue-ext rejected: stale publication date",
-    "noaa_news: entry https://www.noaa.gov/news-release/noaa-selects-tomorrowio-to-help-advance-us-weather-forecasting rejected: stale publication date",
-    "noaa_news: entry https://www.noaa.gov/news-release/noaa-names-mississippi-state-university-to-host-new-northern-gulf-research-institute rejected: stale publication date"
+    "noaa_news: entry https://www.noaa.gov/news-release/noaa-selects-tomorrowio-to-help-advance-us-weather-forecasting rejected: stale publication date"
   ]
 }
