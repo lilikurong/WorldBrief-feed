@@ -1,14 +1,37 @@
 {
   "schema_version": 1,
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T12:03:48+00:00",
+  "generated_at": "2026-10-02T21:55:53+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-ddb3c8f4be27b7f866f8a4ed28d16038cf1c554e9d275429baa6f93673a4048b",
-      "title_en": "‘I have not lost my dreams’: Refugee education funding cuts threaten millions",
-      "summary_en": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to learn.",
-      "category": "politics_security",
+      "id": "evt-0811ef2b9651d15406ed90bdf232a8b4e0cf9f0578bddf67b048dbec2d5cf30e",
+      "title_en": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+      "summary_en": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that…",
+      "category": "technology_science",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+          "published_at": "2026-10-02T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-3e304270ee4701b442f4a09dbfb89a0c58225f2a9dca226fe673a63c01a1f3ff",
+      "title_en": "NASA’s DAVINCI Probe Can Stand the Heat",
+      "summary_en": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratcheted up the…",
+      "category": "technology_science",
       "region": "global",
       "sports_tags": [],
       "importance_score": 50,
@@ -20,10 +43,58 @@
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168506",
-          "published_at": "2026-10-02T12:00:00+00:00"
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/",
+          "published_at": "2026-10-02T19:00:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-51d151ff407644feba87593b623dde109c2018cb8fbfc8681ea1a23b1a1d8dc6",
+      "title_en": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
+      "summary_en": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future. In a first-of-its-kind test in NASA Langley’s Transonic Dynamics Tunnel, researchers used unsteady Pressure Sensitive Paint to study…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/",
+          "published_at": "2026-10-02T16:10:55+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-c773fd084c8da4d6eaa9af7dfbb0f02d4dea4a49a028a180db656e00e1c0233b",
+      "title_en": "NASA Campaign Explores Clouds Spawned by Wildfires",
+      "summary_en": "The Wildhorse grass fire in eastern Idaho erupted with a massive pulse of smoke. No one had expected it, but the wildfire had launched what’s known as a pyrocumulonimbus cloud, or pyroCb. It was an elusive weather phenomenon that scientists on NASA’s INSPYRE (INjected Smoke and PYRocumulonimbus Experiment) campaign…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/",
+          "published_at": "2026-10-02T16:34:57+00:00"
         }
       ]
     },
@@ -34,11 +105,11 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 45,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
+        "Age decay (-5)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -52,136 +123,112 @@
       ]
     },
     {
-      "id": "evt-6e4c8b9dd260ed6946003c2231a622b3fa9957865f1dc06d0a324ad7f199fb57",
-      "title_en": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
-      "summary_en": "What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore!",
+      "id": "evt-847df3cd20c29b3640128765e79222ccaade893d92e22a7c2446b7d9a52264e9",
+      "title_en": "Ethiopian army pushes back Tigrayan rebels",
+      "summary_en": "First, Ethiopia and Eritrea have severed ties and now with tensions spreading across the region, the African Union is urging all sides to show restraint. Meanwhile, Ethiopia's army is advancing toward the Tigrayan capital as fighting intensifies and new explosions rock Addis Ababa. Then, from boardrooms to cocoa…",
       "category": "other",
-      "region": "global",
+      "region": "africa",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
+        "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261002-ethiopian-army-pushes-back-tigrayan-rebels",
+          "published_at": "2026-10-02T20:46:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-4962ab786d95032d658688600d65aaf85e1dc65247a6b9c0ca4113d4e4817a90",
+      "title_en": "'We have to close defence gaps urgently': EU Parliament Foreign Affairs Committee chief McAllister",
+      "summary_en": "We sit down with David McAllister, the chair of the European Parliament’s Foreign Affairs Committee. He talks to us about the security threats facing Europe, and what defence gaps the EU urgently needs to close. For McAllister, the EU is \"not at war with the Russian Federation, but we are no longer at peace with…",
+      "category": "politics_security",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 41,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/talking-europe/20261002-we-have-to-close-defence-gaps-urgently-eu-parliament-foreign-affairs-committee-chief-mcallister",
+          "published_at": "2026-10-02T15:57:55+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-891c2fb5c6cfc2f13262d3925053b54ed3312f457465a729df24ccdae45f8e02",
+      "title_en": "Brazil’s Lula gears up for ‘last dance’ with run for fourth presidential term",
+      "summary_en": "President Luiz Inacio Lula da Silva will stand for re-election in Brazil on Sunday. At 80, the former steelworker hopes to capitalise on his popularity and economic successes to win a fourth term in office but is neck-and-neck in the polls with far-right rival Flavio Bolsonaro.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 41,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/americas/20261002-brazil-s-lula-gears-up-for-last-dance-with-run-for-fourth-presidential-term",
+          "published_at": "2026-10-02T16:20:06+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-454abcfcf7ee41d5778a1f1d036a914beb1b6e2522d151770b7cba74912c6c8a",
+      "title_en": "A grim winter ahead? EU states asked to prepare gas and electricity savings",
+      "summary_en": "Alarm bells are ringing about fuel prices across the EU. The average cost of diesel per litre is well above €2, whereas in October of last year it was around €1.50. Even before this latest spike, the cost of living was already biting, and it seems that the conflict in the Middle East is not going to give Europeans…",
+      "category": "politics_security",
+      "region": "middle_east",
+      "sports_tags": [],
+      "importance_score": 40,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
         "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/",
-          "published_at": "2026-10-02T04:05:00+00:00"
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/talking-europe/20261002-a-grim-winter-ahead-eu-states-asked-to-prepare-gas-and-electricity-savings",
+          "published_at": "2026-10-02T15:10:40+00:00"
         }
       ]
     },
     {
-      "id": "evt-a07f8f3912c7c28bbafbae9a1a4351e09626f08c8358859b528179c11b78bdab",
-      "title_en": "10 Things: Movie Night",
-      "summary_en": "Join Us for Movie Night with NASA NASA’s mission is to pioneer the future in space exploration and scientific discovery. NASA+ documentaries allow you to come along for the ride. It’s free. It’s on demand. And no subscription is required. Grab some popcorn and come along for the journey. Other Worlds: Europa Cosmic…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/solar-system/10-things-movie-night/",
-          "published_at": "2026-10-02T00:25:36+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-3aaa9729e36e69756fe7c541be73ac90baf59c145ef5186f73cf9b107ac5fc79",
-      "title_en": "NASA Awards Enterprise Logistics Support Services Agreements",
-      "summary_en": "NASA selected 16 companies to provide Enterprise Logistics Support Services under new agreements that will standardize requirements, improve reporting, and streamline the management of costs and resources. The $1.4 billion blanket purchase agreements will support equipment and property management, transportation,…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 45,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/",
-          "published_at": "2026-10-01T20:34:27+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-56ba44f00b52afa683bd412820873b39eadac2d38ad801f28ce1d252a02cc6d3",
-      "title_en": "NASA’s SpaceX Crew-13 Launches",
-      "summary_en": "In this Oct. 1, 2026, photo, a SpaceX Falcon 9 rocket and Dragon spacecraft launch from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 45,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
-          "published_at": "2026-10-01T18:05:38+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-7eb6dd7a0c9b63b1b9090b521a44efa83f403e33c49390f21fb939742b5aee5e",
-      "title_en": "NASA’s SpaceX Crew-13 Launches to International Space Station",
-      "summary_en": "Four crew members of NASA’s SpaceX Crew-13 mission launched at 11:10 a.m. EDT Thursday from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida for a science expedition aboard the International Space Station. “Crew-13 is another demonstration of America’s unmatched capability in human spaceflight…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 44,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-6)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/",
-          "published_at": "2026-10-01T15:59:24+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-3e8e1cf9e6fa7acf35f38b560a1607fd39dce2d5d893183031b5f881cdf1c80a",
-      "title_en": "Lula and Bolsonaro in dead heat as Brazil goes to polls",
-      "summary_en": "Brazilian presidential candidate Flavio Bolsonaro on Thursday bowed out of the final debate ahead of elections pitting him against leader Luiz Inacio Lula da Silva, who also declined to attend. Lula, on the cusp of 81, will face off against the son of ex-leader Jair Bolsonaro in a first-round vote on Sunday, with…",
+      "id": "evt-6c349f9989ed6d2f8a3c36f00e20f182f96d9fad64ca7660e2859cef51f7e42c",
+      "title_en": "Netanyahu warns of 'very heavy price' if any country found to be behind FlyDubai incident",
+      "summary_en": "Israeli Prime Minister Benjamin Netanyahu on Friday warned that any country or organisation found to be responsible for the violent clash on board an Israel-bound FlyDubai flight would \"pay a very heavy price\". While Netanyahu has alleged the co-pilot who stabbed his captain mid-flight had undergone \"Islamist…",
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -189,22 +236,23 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261002-lula-and-bolsonaro-in-dead-heat-as-brazil-goes-to-polls",
-          "published_at": "2026-10-02T09:47:20+00:00"
+          "url": "https://www.france24.com/en/middle-east/20261002-netanyahu-warns-of-very-heavy-price-if-any-country-found-to-be-behind-flydubai-incident",
+          "published_at": "2026-10-02T13:55:35+00:00"
         }
       ]
     },
     {
-      "id": "evt-4063f05babe9a13516a49b4bdeacfa66920efb937149aea21c6fca8c06e10e1f",
-      "title_en": "French pensioners set to feel pinch under belt-tightening budget",
-      "summary_en": "French pensioners will be among those expected to contribute to balancing the government's books, according to the 2027 draft budget unveiled on Thursday. Pensions exceeding 1,260 euros per month will be partially frozen and the cap on the 10% income tax deduction will be lowered, measures that received mixed…",
+      "id": "evt-8bd0d747ef1c7905d63fd9fde855f64a04486e58b41e54525b282ff10bca7b8d",
+      "title_en": "Brazil: The craze for candidate merch ahead of elections",
+      "summary_en": "Nearly 159 million Brazilians will head to the polling booths on Sunday to vote in general elections. They will elect their new MPs, see two-thirds of the Senate change ranks and, most importantly, vote for their next president.Though the vote is held by secret ballot, people wear their support on their sleeve.…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -212,46 +260,23 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261002-french-pensioners-set-to-feel-pinch-under-belt-tightening-budget",
-          "published_at": "2026-10-02T09:34:47+00:00"
+          "url": "https://www.france24.com/en/video/20261002-brazil-the-craze-for-candidate-merch-ahead-of-elections",
+          "published_at": "2026-10-02T15:17:39+00:00"
         }
       ]
     },
     {
-      "id": "evt-43ffd251b62aa360acf4eaadb5f890f97339a4b24605621a4c1732ad71f6aae5",
-      "title_en": "UN Member States weigh latest Security Council veto, this time on Iran",
-      "summary_en": "The General Assembly met on Thursday to examine the Security Council’s latest veto, cast by China and Russia over a United States-backed sanctions panel of experts on Iran nuclear facilities.",
-      "category": "politics_security",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-8)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168505",
-          "published_at": "2026-10-01T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-498342f4267a609f8a9d0e86e25b427763e37c9715e3b857c4252601761b2376",
-      "title_en": "What's real and what's fake? How AI is impacting Brazil's election race",
-      "summary_en": "With just two days to go before the first round of Brazil's presidential election, artificial intelligence is taking centre stage, whether it's a deepfake avatar of former president Jair Bolsonaro to support his son's candidacy, or an AI-generated working-class female voter criticising President Luiz Inacio Lula da…",
+      "id": "evt-a16ac7779a504ec31632e4958f403588ea64a6a89ad784416cdc20fa4c5a3b71",
+      "title_en": "Spanish lawmakers vote down affordable housing bills in blow to Sanchez’s government",
+      "summary_en": "Demonstrators protesting against Spain's housing crisis reacted with fury on Friday after the country's parliament rejected two bills put forward by the government that centre-left Prime Minister Pedro Sanchez hoped would address their concerns. Rents have doubled over the past decade, with average prices now almost…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -259,130 +284,14 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/focus/20261002-what-s-real-and-what-s-fake-how-ai-is-impacting-brazil-s-election-race",
-          "published_at": "2026-10-02T11:34:37+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-49f206efa2cf8d97f2d5f7dd4b686383dcddf92f1450bd2237054c93051f7bc3",
-      "title_en": "Flydubai hero pilot tells Modi 'I could not let all those people die'",
-      "summary_en": "Smit Machchhar, the Indian captain who was attacked by his co-pilot onboard the Flydubai flight 1073 in an apparent attempt to crash the plane, on Friday told Prime Minister Narendra Modi that although he was severely injured in the altercation, “I could not let all those people die”. Although collapsed, he made a…",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261002-flydubai-hero-pilot-tells-modi-i-could-not-let-all-those-people-die",
-          "published_at": "2026-10-02T09:04:45+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-56207be6bfe30c4a2ced7f6616c4232236bed8b88d8da977db79903d72c7d758",
-      "title_en": "French website publishes evidence for antisemitism claims against Bardella",
-      "summary_en": "French investigative journalism website Mediapart said Thursday it had been able to authenticate antisemitic messages from 2013 attributed to far-right presidential candidate Marine Le Pen's de facto deputy Jordan Bardella. The allegations come just seven months out from the election where voters will choose a…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261002-french-website-publishes-evidence-for-antisemitism-claims-against-bardella",
-          "published_at": "2026-10-02T09:27:41+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-9fa3661d9c2eb3b5017e03604839937e9c44cc66c3b37a1bcd5939d726bfcb79",
-      "title_en": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, breast cancer treatment expanded in West Bank",
-      "summary_en": "The enduring radioactive legacy of US nuclear bomb testing in the Marshall Islands took centre stage at the Human Rights Council on Thursday.",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-8)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168503",
-          "published_at": "2026-10-01T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-f281bc5bb19adf19de04e5301f5c586a0d1c5cdf7cd334031e0d9177fef0dba4",
-      "title_en": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO",
-      "summary_en": "The deadly flash floods in northern Nepal have severely disrupted employment and livelihoods, with wider impacts beyond communities that were directly affected, the International Labour Organization (ILO) said in a preliminary assessment released on Thursday.",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-8)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168500",
-          "published_at": "2026-10-01T12:00:00+00:00"
+          "url": "https://www.france24.com/en/europe/20261002-spanish-lawmakers-vote-down-affordable-housing-bills-in-blow-to-sanchez-s-government",
+          "published_at": "2026-10-02T15:12:47+00:00"
         }
       ]
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168497 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168498 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168496 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168489 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168495 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168493 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168491 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168490 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168488 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168486 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168485 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168483 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168482 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168481 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168480 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168478 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168477 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168476 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168475 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168474 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168473 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168467 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168464 rejected: stale publication date",
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors rejected: stale publication date",
@@ -423,6 +332,7 @@
     "who_news: entry https://www.who.int/news/item/10-05-2024-governments-agree-to-continue-their-steady-progress-on-proposed-pandemic-agreement-ahead-of-the-world-health-assembly rejected: stale publication date",
     "who_news: entry https://www.who.int/news/item/25-04-2024-spain-s-secretary-of-state-for-health-discusses-joint-global-health-priorities-with-who rejected: stale publication date",
     "who_news: entry https://www.who.int/news/item/12-04-2024-enhancing-global-health-and-well-being--who-and-the-netherlands-strengthen-their-partnership rejected: stale publication date",
+    "noaa_news: entry https://www.noaa.gov/stories/first-ever-olive-ridley-sea-turtle-nested-in-california-ext rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/news/weekend-noreaster-likely-to-bring-damaging-winds-coastal-flooding rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/news-release/noaa-flood-mapping-tool-now-covers-nearly-100-of-us rejected: stale publication date",
     "noaa_news: entry https://www.noaa.gov/heritage/multimedia/video/great-miami-hurricane-of-1926-100-years-of-hurricane-forecasting-and-research rejected: stale publication date",
