@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T21:55:53+00:00",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T04:19:10+00:00",
   "is_underfilled": false,
   "events": [
     {
@@ -11,10 +11,11 @@
       "category": "technology_science",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 48,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20)."
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -34,10 +35,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20)."
+        "Highest source tier: 1 (+20).",
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -51,17 +53,41 @@
       ]
     },
     {
+      "id": "evt-c79577ffa66e9c81a6bbd894f1888438173d0c68ac3a4ba88b93998e6205a264",
+      "title_en": "La NASA abre solicitudes para próxima promoción de directores de vuelo",
+      "summary_en": "Lee esta nota de prensa en inglés aquí. La NASA busca líderes para uno de los puestos más prestigiosos de la Tierra en el ámbito de los vuelos espaciales tripulados: director de vuelo en el control de misión del Centro Espacial Johnson de la agencia, en Houston. Esta función es fundamental para reforzar el liderazgo…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-3)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/",
+          "published_at": "2026-10-02T16:36:25+00:00"
+        }
+      ]
+    },
+    {
       "id": "evt-51d151ff407644feba87593b623dde109c2018cb8fbfc8681ea1a23b1a1d8dc6",
       "title_en": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
       "summary_en": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future. In a first-of-its-kind test in NASA Langley’s Transonic Dynamics Tunnel, researchers used unsteady Pressure Sensitive Paint to study…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 46,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -75,41 +101,17 @@
       ]
     },
     {
-      "id": "evt-c773fd084c8da4d6eaa9af7dfbb0f02d4dea4a49a028a180db656e00e1c0233b",
-      "title_en": "NASA Campaign Explores Clouds Spawned by Wildfires",
-      "summary_en": "The Wildhorse grass fire in eastern Idaho erupted with a massive pulse of smoke. No one had expected it, but the wildfire had launched what’s known as a pyrocumulonimbus cloud, or pyroCb. It was an elusive weather phenomenon that scientists on NASA’s INSPYRE (INjected Smoke and PYRocumulonimbus Experiment) campaign…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/",
-          "published_at": "2026-10-02T16:34:57+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-3be70a717b78ac1ed58085f9cf56c5160781bf46d0fd4319c8d6f29ecfafeeac",
       "title_en": "Rains Swamp the Gandak River",
       "summary_en": "After days of torrential rain, the river rose to record-breaking levels in parts of Nepal and India.",
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Age decay (-8)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -129,10 +131,11 @@
       "category": "other",
       "region": "africa",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -146,41 +149,17 @@
       ]
     },
     {
-      "id": "evt-4962ab786d95032d658688600d65aaf85e1dc65247a6b9c0ca4113d4e4817a90",
-      "title_en": "'We have to close defence gaps urgently': EU Parliament Foreign Affairs Committee chief McAllister",
-      "summary_en": "We sit down with David McAllister, the chair of the European Parliament’s Foreign Affairs Committee. He talks to us about the security threats facing Europe, and what defence gaps the EU urgently needs to close. For McAllister, the EU is \"not at war with the Russian Federation, but we are no longer at peace with…",
-      "category": "politics_security",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/talking-europe/20261002-we-have-to-close-defence-gaps-urgently-eu-parliament-foreign-affairs-committee-chief-mcallister",
-          "published_at": "2026-10-02T15:57:55+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-891c2fb5c6cfc2f13262d3925053b54ed3312f457465a729df24ccdae45f8e02",
       "title_en": "Brazil’s Lula gears up for ‘last dance’ with run for fourth presidential term",
       "summary_en": "President Luiz Inacio Lula da Silva will stand for re-election in Brazil on Sunday. At 80, the former steelworker hopes to capitalise on his popularity and economic successes to win a fourth term in office but is neck-and-neck in the polls with far-right rival Flavio Bolsonaro.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -200,11 +179,11 @@
       "category": "politics_security",
       "region": "middle_east",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 38,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -218,17 +197,41 @@
       ]
     },
     {
+      "id": "evt-4962ab786d95032d658688600d65aaf85e1dc65247a6b9c0ca4113d4e4817a90",
+      "title_en": "'We have to close defence gaps urgently': EU Parliament Foreign Affairs Committee chief McAllister",
+      "summary_en": "We sit down with David McAllister, the chair of the European Parliament’s Foreign Affairs Committee. He talks to us about the security threats facing Europe, and what defence gaps the EU urgently needs to close. For McAllister, the EU is \"not at war with the Russian Federation, but we are no longer at peace with…",
+      "category": "politics_security",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 38,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-4)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/talking-europe/20261002-we-have-to-close-defence-gaps-urgently-eu-parliament-foreign-affairs-committee-chief-mcallister",
+          "published_at": "2026-10-02T15:57:55+00:00"
+        }
+      ]
+    },
+    {
       "id": "evt-6c349f9989ed6d2f8a3c36f00e20f182f96d9fad64ca7660e2859cef51f7e42c",
       "title_en": "Netanyahu warns of 'very heavy price' if any country found to be behind FlyDubai incident",
       "summary_en": "Israeli Prime Minister Benjamin Netanyahu on Friday warned that any country or organisation found to be responsible for the violent clash on board an Israel-bound FlyDubai flight would \"pay a very heavy price\". While Netanyahu has alleged the co-pilot who stabbed his captain mid-flight had undergone \"Islamist…",
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 38,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -248,11 +251,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 38,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -272,11 +275,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 38,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
