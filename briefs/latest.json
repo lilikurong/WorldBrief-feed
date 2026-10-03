@@ -1,9 +1,33 @@
 {
   "schema_version": 1,
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T11:15:43+00:00",
+  "generated_at": "2026-10-03T15:53:36+00:00",
   "is_underfilled": false,
   "events": [
+    {
+      "id": "evt-6094275533edf9e86280758f63ce42547363fee780f964868e3bbada1f0c1279",
+      "title_en": "Uganda’s UN-supported wildlife forensics lab turns ivory seizures into convictions",
+      "summary_en": "The package originated in Entebbe, Uganda, bound for Cairo, containing 10 kilograms of thumb-sized pieces that could have been either bone or elephant ivory.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168469",
+          "published_at": "2026-10-03T12:00:00+00:00"
+        }
+      ]
+    },
     {
       "id": "evt-4ae5dd9bf393ca1b4ffff44d3ee51cad907eea044bb616fc822cc4a47b3077b8",
       "title_en": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
@@ -11,11 +35,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -35,11 +59,11 @@
       "category": "technology_science",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 44,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Age decay (-6)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -59,11 +83,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 44,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Age decay (-6)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -83,11 +107,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 44,
+      "importance_score": 43,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-6)."
+        "Age decay (-7)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -101,26 +125,48 @@
       ]
     },
     {
-      "id": "evt-047a1aa3ddc0544125bf983b5c7a31d2a45d5a17e5d6700c29b89fff7f98c43d",
-      "title_en": "‘Money alone won’t get us there’: UN steps up aid for 12 forgotten crises",
-      "summary_en": "Getting aid to people in the world’s most neglected emergencies takes more than money. It takes open roads, open borders and leaders willing to help it reach those in dire need.",
-      "category": "other",
+      "id": "evt-5b761c7be595bbbe20d95a91809085884534ad20688791a71840cbe2ce70faff",
+      "title_en": "Italy’s Ustica enigma: Can French files solve mystery crash blamed on stray missile?",
+      "summary_en": "France’s decision to share defence documents with the Italian judiciary has raised hopes of a breakthrough in investigations into the 1980 crash of a passenger jet near the island of Ustica, which a former Italian president claimed was mistakenly shot down by a French fighter jet. Sceptics caution that the files are…",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168516",
-          "published_at": "2026-10-02T12:00:00+00:00"
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/europe/20261003-italy-ustica-enigma-can-french-files-solve-mystery-crash-blamed-on-stray-missile-gaddafi",
+          "published_at": "2026-10-03T15:42:45+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-9e0604cfb914281ba50f4cd9422edf5a47aa6050e403deafd77be014adeffaf6",
+      "title_en": "Fresh protests over housing flare in Spain after lawmakers reject relief measures",
+      "summary_en": "Tens of thousands of protesters marched in Madrid and other cities in Spain on Saturday to demand affordable housing, fuelled by anger at lawmakers who narrowly rejected measures put forward by the government of Prime Minister Pedro Sanchez to strengthen protection for tenants.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 42,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures",
+          "published_at": "2026-10-03T13:20:35+00:00"
         }
       ]
     },
@@ -131,11 +177,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 41,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
+        "Age decay (-9)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -155,11 +201,11 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 41,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
+        "Age decay (-9)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -179,11 +225,11 @@
       "category": "other",
       "region": "middle_east",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 41,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
+        "Age decay (-9)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -203,11 +249,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 41,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
+        "Age decay (-9)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -227,11 +273,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 41,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
+        "Age decay (-9)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -243,128 +289,15 @@
           "published_at": "2026-10-02T12:00:00+00:00"
         }
       ]
-    },
-    {
-      "id": "evt-ddb3c8f4be27b7f866f8a4ed28d16038cf1c554e9d275429baa6f93673a4048b",
-      "title_en": "‘I have not lost my dreams’: Refugee education funding cuts threaten millions",
-      "summary_en": "A teenage girl who fled war-torn Sudan for neighbouring Egypt and hopes to pursue a technology degree is an example of why countries must ensure that young refugees can continue to learn.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 43,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168506",
-          "published_at": "2026-10-02T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-9d32c441984d56407bc6dc94004183606c3aa57dcf07087ac7264c2700b22153",
-      "title_en": "Flavio Bolsonaro: In the name of the father, sons, and holy ideology",
-      "summary_en": "The first round of Brazil’s presidential election on Sunday pits two well-known names in the political ring: Lula vs. Bolsonaro. But it’s not former president Jair Bolsonaro facing off against the incumbent head of state – it’s his eldest son, Flavio Bolsonaro. He’s less charismatic than his father but just as…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/americas/20261003-flavio-bolsonaro-in-the-name-of-the-father-sons-and-holy-ideology",
-          "published_at": "2026-10-03T09:48:12+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-6c349f9989ed6d2f8a3c36f00e20f182f96d9fad64ca7660e2859cef51f7e42c",
-      "title_en": "Netanyahu warns of 'very heavy price' if any country found to be behind FlyDubai incident",
-      "summary_en": "Israeli Prime Minister Benjamin Netanyahu on Friday warned that any country or organisation found to be responsible for the violent clash on board an Israel-bound FlyDubai flight would \"pay a very heavy price\". While Netanyahu has alleged the co-pilot who stabbed his captain mid-flight had undergone \"Islamist…",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-7)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261002-netanyahu-warns-of-very-heavy-price-if-any-country-found-to-be-behind-flydubai-incident",
-          "published_at": "2026-10-02T13:55:35+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-9fa3661d9c2eb3b5017e03604839937e9c44cc66c3b37a1bcd5939d726bfcb79",
-      "title_en": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, breast cancer treatment expanded in West Bank",
-      "summary_en": "The enduring radioactive legacy of US nuclear bomb testing in the Marshall Islands took centre stage at the Human Rights Council on Thursday.",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-15)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168503",
-          "published_at": "2026-10-01T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-f281bc5bb19adf19de04e5301f5c586a0d1c5cdf7cd334031e0d9177fef0dba4",
-      "title_en": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO",
-      "summary_en": "The deadly flash floods in northern Nepal have severely disrupted employment and livelihoods, with wider impacts beyond communities that were directly affected, the International Labour Organization (ILO) said in a preliminary assessment released on Thursday.",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-15)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168500",
-          "published_at": "2026-10-01T12:00:00+00:00"
-        }
-      ]
     }
   ],
   "source_errors": [
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168505 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168504 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168503 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168502 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168500 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168499 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168497 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168498 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168496 rejected: stale publication date",
@@ -380,7 +313,6 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168482 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168481 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168480 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168478 rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors rejected: stale publication date",
