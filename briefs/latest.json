@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T11:55:38+00:00",
+  "generated_at": "2026-10-04T16:37:30+00:00",
   "is_underfilled": false,
   "events": [
     {
@@ -11,11 +11,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 46,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -29,33 +29,32 @@
       ]
     },
     {
-      "id": "evt-6094275533edf9e86280758f63ce42547363fee780f964868e3bbada1f0c1279",
-      "title_en": "Uganda’s UN-supported wildlife forensics lab turns ivory seizures into convictions",
-      "summary_en": "The package originated in Entebbe, Uganda, bound for Cairo, containing 10 kilograms of thumb-sized pieces that could have been either bone or elephant ivory.",
-      "category": "other",
+      "id": "evt-0695cb1fe1163fe58504d22ce29ec72cde4300ec07deb878e5127003bfac9efa",
+      "title_en": "Why I quit the movement shaping AI",
+      "summary_en": "Artificial intelligence insiders are quitting their jobs, saying the technology could mean the end of humanity. Pope Leo in France warned of a “paradise of machines”. And the New York Times reported this week that one of AI firm Anthropic’s co-founders spent months lobbying religious thinkers on the possibility that…",
+      "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-7)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168469",
-          "published_at": "2026-10-03T12:00:00+00:00"
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/tech-24/20261004-why-i-quit-the-movement-shaping-ai",
+          "published_at": "2026-10-04T14:30:32+00:00"
         }
       ]
     },
     {
-      "id": "evt-4b202f93e44b8ad33f3657137f22c1e0c762b9fdf1aeb17c642c1d48ca1c7827",
-      "title_en": "Brazil: A portrait of Flavio Bolsonaro",
-      "summary_en": "Brazilians are voting for governors and lawmakers, but the biggest stakes are in the presidential race. Twelve candidates are on the ballot, but the contest is seen as a toss-up between President Luiz Inacio Lula da Silva and Flavio Bolsonaro. Lula is seeking a fourth and final term, warning that Brazil’s sovereignty…",
+      "id": "evt-7985e767db60749789b22358a53b18ae54f730d8091644409946a7f93e9554b2",
+      "title_en": "Woman at centre of Cornell gang rape lawsuit targeted with threats, lawyer says",
+      "summary_en": "The woman who alleged that she was drugged and raped by seven male students at a Cornell University fraternity house has been the target of threats, her lawyer told CNN on Sunday. Cornell's president earlier voiced support for an external review of the Ivy League institution facing widespread outcry over its handling…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
@@ -70,16 +69,16 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/brazil-a-portrait-of-flavio-bolsonaro",
-          "published_at": "2026-10-04T09:49:19+00:00"
+          "url": "https://www.france24.com/en/americas/20261004-woman-at-center-of-cornell-gang-rape-allegations-targeted-with-threats-jane-doe",
+          "published_at": "2026-10-04T16:25:01+00:00"
         }
       ]
     },
     {
-      "id": "evt-53a5de3eac896dcf6d3b4c828d5418eb8cee53235c9f9466dfb76ff40b33b88d",
-      "title_en": "Russian strike hits Kyiv amid Chancellor Merz visit",
-      "summary_en": "Moscow has once again bombed one of Kyiv’s bridges, despite the presence of German Chancellor Friedrich Merz in the Ukrainian capital. The visit was unplanned, but Merz says it was intended to show Germany’s support for Ukraine. France 24 correspondent Gulliver Cragg, reporting from Kyiv, says traffic has resumed on…",
-      "category": "other",
+      "id": "evt-bec84b85826adc3923a2df5f08d174b3de308efbd60f3763dc141754edc9b888",
+      "title_en": "German Chancellor in Kyiv: \"Ukraine will need our support\"",
+      "summary_en": "German Chancellor Friedrich Merz visited Ukraine on Sunday to show solidarity after Russian attacks on Kyiv infrastructure, including three bridges. Last month, Germany’s foreign minister called for de-escalation during talks with his Russian counterpart at the UN, drawing criticism from Sergei Lavrov, who urged…",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
       "importance_score": 42,
@@ -93,8 +92,128 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit",
-          "published_at": "2026-10-04T09:52:14+00:00"
+          "url": "https://www.france24.com/en/german-chancellor-in-kyiv-ukraine-will-need-our-support",
+          "published_at": "2026-10-04T14:37:56+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-0cc818e89c66df86bf7907fd318f7773fd84ba126d4f1aa34389ebeb79e05eb8",
+      "title_en": "Rwandan genocide suspect 'hunter' Dafroza Gauthier dies at 72",
+      "summary_en": "For nearly 30 years, Dafroza Gauthier, along with her husband Alain, tracked down Rwandan refugees in France suspected of having participated in the Tutsi genocide. She died in Reims on Saturday after dedicating her life to bringing to justice those allegedly responsible for the 1994 massacre of more than 800,000…",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 41,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/africa/20261004-rwandan-genocide-hunter-dafroza-gauthier-dies-at-72",
+          "published_at": "2026-10-04T12:12:24+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-2503e52a72d17e7e8f7fb89006cb54c18458d8689371366472482fda9fd35f12",
+      "title_en": "Lula and Bolsonaro face off in Brazil presidential race",
+      "summary_en": "Twelve candidates are on the ballot, but the presidential race is centred on two rivals: President Luiz Inacio Lula da Silva and Flavio Bolsonaro. Lula is seeking a fourth and final term, warning that Brazil’s sovereignty is at stake amid pressure from Donald Trump. Bolsonaro, meanwhile, has highlighted his ties to…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 41,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race",
+          "published_at": "2026-10-04T11:56:08+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-3c1332273d2d4b6caa09c698166ce72f2f1e5ad005a3bf3553294a819d0284c9",
+      "title_en": "West Bank: Palestinians ‘harassed’ by settlers’ increasing use of drones",
+      "summary_en": "Palestinians and activists report an increased use of drones in the occupied West Bank, particularly by the army and settlers, to whom the government supplies the drones directly. The drones are used to intimidate, monitor, demolish and make daily life unbearable.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 41,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20261004-occupied-west-bank-palestinians-harassed-settlers-drones",
+          "published_at": "2026-10-04T12:01:27+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-3eff94f73ef0301ce6518033486a8bd84e1df81326635d80df7209343ce69e48",
+      "title_en": "The week in pictures: Disaster averted on Flydubai flight, French school protests and Bangkok floods",
+      "summary_en": "From French highschoolers protesting to demand better learning conditions to a Flydubai flight diverted to Saudi Arabia after a flightcrew member's onboard attack and flooded streets in Bangkok, FRANCE 24 looks back at the week's most striking pictures.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 41,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20261004-the-week-in-pictures-disaster-averted-flydubai-flight-french-school-protests-and-bangkok-floods",
+          "published_at": "2026-10-04T13:35:11+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-510857988ade28b4482a8c934316849879f64e1a3a8450a93260858c118998a6",
+      "title_en": "Lula de Silva: 80-year-old incumbent Brazilian president seeks 4th term",
+      "summary_en": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Nearly 160 million voters will also pick lawmakers, senators and governors in an election…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 41,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/lula-de-silva-80-year-old-incumbent-brazilian-president-seeks-4th-term",
+          "published_at": "2026-10-04T13:17:55+00:00"
         }
       ]
     },
@@ -105,10 +224,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 41,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -124,14 +244,15 @@
     {
       "id": "evt-b6cd842e0f3bef4f82416502e6777145898b151f2c9118c86e96655f8c498710",
       "title_en": "Who are the mystery pilots who successfully landed endangered Flydubai flight 1073?",
-      "summary_en": "A passenger on Flydubai flight 1073 has described the actions of on-duty crew members who rushed into the cockpit to stabilise and land the plane after the co-pilot attacked the captain with a crash axe. The flight carrying 182 people en route to Israel was able to make an emergency landing in Saudi Arabia after a…",
+      "summary_en": "A passenger on Flydubai flight 1073 has described the actions of on-duty crew members who rushed into the cockpit to stabilise and land the plane after the co-pilot attacked the captain with a crash axe. The flight carrying 182 people en route to Israel Wednesday was able to make an emergency landing in Saudi Arabia…",
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -145,88 +266,17 @@
       ]
     },
     {
-      "id": "evt-d8569f4414ef270f1cf1ce80880187291fc9e3645615616174492d28b4d007d6",
-      "title_en": "Israel prepares to mark October 7",
-      "summary_en": "An Israeli strike on a civilian vehicle in Gaza on Sunday killed one Palestinian and wounded at least 11 others. Israel’s military said it was targeting a Hamas militant. Palestinians have reported a surge in Israeli fire and airstrikes across Gaza over the past month, with more than 75,000 people killed and much of…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/israel-prepares-to-mark-october-7",
-          "published_at": "2026-10-04T10:59:38+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-8623384c6560f0c641156546bc7316f23a448952e042ebed6b0deae2c1d7b84b",
-      "title_en": "Bosnia votes in general election with wartime divisions still dominating",
-      "summary_en": "Bosnia is heading to the polls on Sunday after a general election campaign dominated by parties that identify closely with the ethnic divisions of its 1990s war. Voters will elect a vast number of officials across multiple tiers of government, in a complex system that has held the partitioned country together since…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/bosnia-votes-in-general-election-with-wartime-divisions-still-dominating",
-          "published_at": "2026-10-04T06:51:38+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-a1166b6517adaa505d4088e8c659b5c58f87c6caabeed23498cc91b07cf3661b",
-      "title_en": "Flock's AI tracking sparks privacy fears and violence",
-      "summary_en": "In the US, Flock Security cameras form an AI-powered surveillance network that records licence plates and other vehicle information. Their controversial use has become a political issue ahead of the midterm elections, and the cameras are increasingly being targeted by vandals. Caitlin Brown explains.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/flock-s-ai-tracking-sparks-privacy-fears-and-violence",
-          "published_at": "2026-10-04T08:23:37+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-4ae5dd9bf393ca1b4ffff44d3ee51cad907eea044bb616fc822cc4a47b3077b8",
       "title_en": "APOD: 2026 October 3 – Selfie at Vera Rubin Ridge",
       "summary_en": "APOD Science APOD APOD: 2026 October 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 38,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-10)."
+        "Age decay (-12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -246,11 +296,11 @@
       "category": "technology_science",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 37,
+      "importance_score": 35,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-13)."
+        "Age decay (-15)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -262,102 +312,13 @@
           "published_at": "2026-10-02T19:30:00+00:00"
         }
       ]
-    },
-    {
-      "id": "evt-3e304270ee4701b442f4a09dbfb89a0c58225f2a9dca226fe673a63c01a1f3ff",
-      "title_en": "NASA’s DAVINCI Probe Can Stand the Heat",
-      "summary_en": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratcheted up the…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 37,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-13)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/",
-          "published_at": "2026-10-02T19:00:36+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-3fc02f7571d7ecfe1122268035c8ebd96c97671a60e1d295f6abda2ed1a89eac",
-      "title_en": "Tennessee prison chief who oversaw botched Christa Pike execution resigns",
-      "summary_en": "The head of Tennessee's prison system has resigned in the first major shake-up since the stunning failed execution of Christa Pike, who is in critical condition after surviving two lethal injections. Tennessee Governor Bill Lee, who previously denied Pike clemency, has halted further executions through the rest of…",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 36,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-6)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/americas/20261003-tennessee-prison-chief-who-oversaw-botched-christa-pike-execution-resigns",
-          "published_at": "2026-10-03T17:24:14+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-38a917774084ae91486f770452122045fb0610032b8fb04b30a8dbf59dfaf336",
-      "title_en": "Global life expectancy bounces back to near pre-pandemic levels, WHO says",
-      "summary_en": "People around the world are living longer again, with global life expectancy almost fully recovered from the disruption of the COVID-19 pandemic, the World Health Organization (WHO) said on Friday.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-15)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168515",
-          "published_at": "2026-10-02T12:00:00+00:00"
-        }
-      ]
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168505 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168504 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168503 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168502 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168500 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168499 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168497 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168498 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168496 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168489 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168495 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168493 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168491 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168490 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168488 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168486 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168485 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168483 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168482 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168481 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168480 rejected: stale publication date",
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
+    "nasa_news: entry https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/ rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile rejected: stale publication date",
