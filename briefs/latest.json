@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T20:43:19+00:00",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T04:50:04+00:00",
   "is_underfilled": false,
   "events": [
     {
@@ -11,11 +11,11 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 45,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
+        "Age decay (-5)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -35,11 +35,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Age decay (-8)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -53,40 +53,17 @@
       ]
     },
     {
-      "id": "evt-0811ef2b9651d15406ed90bdf232a8b4e0cf9f0578bddf67b048dbec2d5cf30e",
-      "title_en": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
-      "summary_en": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that…",
-      "category": "technology_science",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-8)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
-          "published_at": "2026-10-02T19:30:00+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-0a67e8bbff88ae0585580bef80781ca572048397de6cd9a763d036d2c2b5a738",
       "title_en": "Lula and Bolsonaro make final push for votes ahead of Brazil's knife-edge election",
       "summary_en": "Brazil's President Luiz Inacio Lula da Silva and his main challenger Flavio Bolsonaro wrapped up their campaigns on Saturday in the powerhouse state of Sao Paulo, where a fifth of the nation's vote is based, seeking to rally supporters and convince the undecided on the eve of Sunday's nail-biter election.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -100,17 +77,65 @@
       ]
     },
     {
+      "id": "evt-b258596262a144714398a01e57a3e415c9b412ba83c3aff28dc14de972f308c9",
+      "title_en": "Latvia exit polls put PM's pro-Ukraine party ahead but coalition partners stumble",
+      "summary_en": "Latvian Prime Minister Andris Kulbergs' pro-Ukraine and pro-Europe party was seen winning a parliamentary election on Saturday by an unexpectedly wide margin, partial results showed, even as projected results for other coalition parties suggested the centrist PM would have to form a new ruling coalition.",
+      "category": "politics_security",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 40,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble",
+          "published_at": "2026-10-03T20:58:30+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-0811ef2b9651d15406ed90bdf232a8b4e0cf9f0578bddf67b048dbec2d5cf30e",
+      "title_en": "Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission",
+      "summary_en": "NASA’s SpaceX Crew-12 mission is ending, with the crew scheduled to return in early October. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will head home from the International Space Station after supporting research that…",
+      "category": "technology_science",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 39,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-11)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/",
+          "published_at": "2026-10-02T19:30:00+00:00"
+        }
+      ]
+    },
+    {
       "id": "evt-3e304270ee4701b442f4a09dbfb89a0c58225f2a9dca226fe673a63c01a1f3ff",
       "title_en": "NASA’s DAVINCI Probe Can Stand the Heat",
       "summary_en": "The engineering development unit for NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) probe is photographed prior to a major thermal evaluation. The DAVINCI team put the yoga ball-sized vessel into a ceramic-lined chamber with heat-scorched walls and ratcheted up the…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-8)."
+        "Age decay (-11)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -124,40 +149,17 @@
       ]
     },
     {
-      "id": "evt-c914a64b5a995e4f0102b490f5dfb2e4889dcc2d6d516dadee079996b9ce1292",
-      "title_en": "Putin's war for the history books: Dmytro Kuleba speaks to France 24",
-      "summary_en": "The Bronze Horseman, the iconic equestrian statue in Senate Square in St Petersburg, was commissioned by Catherine the Great in honor of Peter the Great, the city's founder. The pedestal of the statue bears a laconic dedication, \"To Peter the First, Catherine the Second, 1782\". Does Putin want to be the third,…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20261003-putin-s-war-for-the-history-books-dmytro-kuleba-speaks-to-france-24",
-          "published_at": "2026-10-03T18:08:42+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-3fc02f7571d7ecfe1122268035c8ebd96c97671a60e1d295f6abda2ed1a89eac",
       "title_en": "Tennessee prison chief who oversaw botched Christa Pike execution resigns",
       "summary_en": "The head of Tennessee's prison system has resigned in the first major shake-up since the stunning failed execution of Christa Pike, who is in critical condition after surviving two lethal injections. Tennessee Governor Bill Lee, who previously denied Pike clemency, has halted further executions through the rest of…",
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -171,17 +173,41 @@
       ]
     },
     {
+      "id": "evt-c914a64b5a995e4f0102b490f5dfb2e4889dcc2d6d516dadee079996b9ce1292",
+      "title_en": "Putin's war for the history books: Dmytro Kuleba speaks to France 24",
+      "summary_en": "The Bronze Horseman, the iconic equestrian statue in Senate Square in St Petersburg, was commissioned by Catherine the Great in honor of Peter the Great, the city's founder. The pedestal of the statue bears a laconic dedication, \"To Peter the First, Catherine the Second, 1782\". Does Putin want to be the third,…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 39,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-3)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261003-putin-s-war-for-the-history-books-dmytro-kuleba-speaks-to-france-24",
+          "published_at": "2026-10-03T18:08:42+00:00"
+        }
+      ]
+    },
+    {
       "id": "evt-51d151ff407644feba87593b623dde109c2018cb8fbfc8681ea1a23b1a1d8dc6",
       "title_en": "NASA Model Wing Lights Up During First Pressure Sensitive Paint Tests",
       "summary_en": "Groundbreaking tests at NASA’s Langley Research Center in Hampton, Virginia, are paving the way for new wind tunnel capabilities for designing the aircraft technologies of the future. In a first-of-its-kind test in NASA Langley’s Transonic Dynamics Tunnel, researchers used unsteady Pressure Sensitive Paint to study…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 38,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-9)."
+        "Age decay (-12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -201,11 +227,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 38,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -225,11 +251,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 37,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-10)."
+        "Age decay (-13)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -249,11 +275,11 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 37,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-10)."
+        "Age decay (-13)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -273,11 +299,11 @@
       "category": "other",
       "region": "middle_east",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 37,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-10)."
+        "Age decay (-13)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -286,30 +312,6 @@
           "source_id": "un_news",
           "publisher": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/10/1168511",
-          "published_at": "2026-10-02T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-86b174a76a9a174fa259782e85c8203fef74b443e3ca7fdb96463fc8f73c8d63",
-      "title_en": "Escalating fighting in Yemen deepens food security crisis",
-      "summary_en": "Renewed conflict in Yemen has triggered a surge in hunger that could have consequences in the wider region and beyond, the World Food Programme (WFP) warned on Friday.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 40,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-10)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168509",
           "published_at": "2026-10-02T12:00:00+00:00"
         }
       ]
@@ -337,6 +339,9 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168482 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168481 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168480 rejected: stale publication date",
+    "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/ rejected: stale publication date",
+    "nasa_news: entry https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/ rejected: stale publication date",
+    "nasa_news: entry https://science.nasa.gov/solar-system/10-things-movie-night/ rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors rejected: stale publication date",
