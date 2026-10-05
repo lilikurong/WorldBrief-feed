@@ -1,23 +1,22 @@
 {
   "schema_version": 1,
   "date": "2026-10-05",
-  "generated_at": "2026-10-05T04:37:54+00:00",
+  "generated_at": "2026-10-05T13:54:46+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-6db1f663e783a004b3750e4fe461c1ef3aca0b0426226c35c3e68c761136cbdb",
-      "title_en": "Evenepoel snatches photo-finish win to clinch European road cycling crown",
-      "summary_en": "Belgium's Olympic road racing champion Remco Evenepoel took the European championship title on Sunday after outsprinting Italy's Giulio Ciccone in a tight photo finish, just weeks after narrowly missing out on the world championship crown.",
+      "id": "evt-af08e3bbda940e7ce140dd2460352456f111ed50148bff76cc6dcf15aa333283",
+      "title_en": "Japan bids farewell to Asian Games after fortnight of turmoil and records",
+      "summary_en": "The 20th Asian Games closed on Sunday after a rocky fortnight lit ​up by youthful brilliance in the sporting arenas but tempered by logistical dysfunction and subdued public interest. Olympic Council of Asia (OCA) President Sheikh Joaan bin Hamad Al Thani declared the Games closed at Mizuho Park Athletic Stadium,…",
       "category": "sports",
-      "region": "europe",
+      "region": "asia_pacific",
       "sports_tags": [
         "olympics"
       ],
-      "importance_score": 50,
+      "importance_score": 54,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-4).",
         "Sports preference: olympics (+12)."
       ],
       "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
@@ -26,8 +25,56 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/sport/20261004-evenepoel-snatches-photo-finish-win-to-clinch-european-road-cycling-crown",
-          "published_at": "2026-10-04T16:28:45+00:00"
+          "url": "https://www.france24.com/en/video/20261005-japan-bids-farewell-to-asian-games-after-fortnight-of-turmoil-and-records",
+          "published_at": "2026-10-05T13:01:56+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-2db610abd61893d3798c8165a1741c1be1a9d8b9165b20770502afed8da0c9ce",
+      "title_en": "Moon-Like Madagascar",
+      "summary_en": "A bright lens of anorthosite, a rock type prevalent on the lunar surface, is cradled within sheared rocks in the country’s south.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-3)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/",
+          "published_at": "2026-10-05T04:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-7d65a328baa78e8336049fb3ab1def14c9709b3d02b1526b9f30f75086ada13a",
+      "title_en": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
+      "summary_en": "APOD Science APOD APOD: 2026 October 5 – M104:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-3)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
+          "published_at": "2026-10-05T04:05:00+00:00"
         }
       ]
     },
@@ -38,11 +85,11 @@
       "category": "technology_science",
       "region": "north_america",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 45,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
+        "Age decay (-5)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -62,11 +109,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 44,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
+        "Age decay (-6)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -80,65 +127,85 @@
       ]
     },
     {
-      "id": "evt-20865cf98eb4cf270e2676b1951a75291a4486f57f967d12e645afbde08e6654",
-      "title_en": "Beyond the Moon: Space Week around the world",
-      "summary_en": "Right after the Soviet Union launched Sputnik in 1957, UNOOSA, the UN Office for Outer Space Affairs, was established and has since been monitoring developments across more than 77 successful lunar missions and other journeys while also taking a lead role in the annual World Space Week, which runs from 4 to 10 October.",
+      "id": "evt-208f0071541e2b08c542d47dafd6756861d4891d662db8f02824a9613f0eea60",
+      "title_en": "US bombers leave UK air base amid 'new threats': What we know so far",
+      "summary_en": "The United States confirmed that it had withdrawn all B-1 bombers from the British airbase of RAF Fairford, reportedly due to \"new threats,\" with Britain's government insisting Monday the site is safe. France 24's Philip Turle takes a look at what we know so far.",
+      "category": "politics_security",
+      "region": "north_america",
+      "sports_tags": [],
+      "importance_score": 42,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261005-us-bombers-leave-uk-air-base-amid-new-threats-what-we-know-so-far",
+          "published_at": "2026-10-05T13:00:14+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-2428ff9b544c026ec62bcd49c59833c4756bb10f9f86a585494bc0bd36d42175",
+      "title_en": "France high school protests: Can the government regain control?",
+      "summary_en": "Up to 500 schools are expected to be totally or partially closed in France as student protests continue to rock the country. The demonstrations, which have been going on for over two weeks, have spread nationwide and are set to continue and the unrest appears to have caught the Macron government off guard. The…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 42,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261005-france-high-school-protests-can-the-government-regain-control",
+          "published_at": "2026-10-05T13:03:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-41a2780ac1b524aacd40f417ed3519d86b394a72830a850b07e329b118e940f1",
+      "title_en": "Mountaineer takes cancer research and quality of life to new heights... 8,000 metres, to be precise!",
+      "summary_en": "Delano D’Souza is pleased to welcome Dr Shauna Burke, Associate Professor in Exercise and Health Psychology at the University of Leeds. A passionate mountaineer who first summited Mount Everest in 2005, Dr Burke returned to the world’s highest mountain earlier this year, following her diagnosis with stage four breast…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168517",
-          "published_at": "2026-10-04T12:00:00+00:00"
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/mountaineer-takes-cancer-research-and-quality-of-life-to-new-heights-8-000-metres-to-be-precise",
+          "published_at": "2026-10-05T11:16:43+00:00"
         }
       ]
     },
     {
-      "id": "evt-e2591c66f95f566711535dcf04b2e6a5206a6ce7e45806a5419285805e369c93",
-      "title_en": "‘He felt heard’: How a film brought a UN report to life in Xochimilco",
-      "summary_en": "A documentary drawn from United Nations University research was screened at the COP30 climate conference and film festivals across Europe. Its most important journey, though, was the one back to the Mexico City canals where it was filmed.",
-      "category": "technology_science",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 45,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168492",
-          "published_at": "2026-10-04T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-1024be140e78d4b2440982ac97dd7fec61fc3f54764f7e6f85c5cc1eaa566bfa",
-      "title_en": "Brazil presidential election heads to runoff as Bolsonaro leads Lula",
-      "summary_en": "Brazilians voted Sunday in a high-stakes presidential election pitting incumbent Luiz Inácio Lula da Silva against Senator Flávio Bolsonaro amid a regional shift to the right. Bolsonaro is the son of jailed former president Jair Bolsonaro. A runoff will take place October 25 if no candidate wins an outright majority.",
+      "id": "evt-451b453be6f6f9880e9129fd43cd146e0c3bdc997bee33b8e391e979b16c3d9f",
+      "title_en": "Trump heads to Nebraska as Republicans fear strongholds could flip",
+      "summary_en": "US President ​Donald Trump will visit Nebraska on Monday to rally Republicans and promote his economic ​record, taking his message of new investment and manufacturing to a state where farmers and truckers face sharply higher diesel prices and voters worry about inflation. His stop in ​the ‌city of Grand Island is…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -146,23 +213,22 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula",
-          "published_at": "2026-10-05T00:16:05+00:00"
+          "url": "https://www.france24.com/en/video/20261005-trump-heads-to-nebraska-as-republicans-fear-strongholds-could-flip",
+          "published_at": "2026-10-05T13:05:12+00:00"
         }
       ]
     },
     {
-      "id": "evt-b05cb1ff6fbe417930ce95ebf9b181fba2613f396ae0249eaac9576461c047b3",
-      "title_en": "US withdraws all B-1 bombers from British military base RAF Fairford",
-      "summary_en": "The Pentagon confirmed on Sunday that all US B-1 bombers deployed to Britain’s RAF Fairford had returned home following a security incident that prompted nearby evacuations. Police found no explosives after reports of suspicious activity at the base last Sunday. Five London-based British men arrested were…",
+      "id": "evt-687c589dde56573edfb614caa0f3081778aca23f39ad85c3756385342f5ad148",
+      "title_en": "Ethiopian govt retakes Tigray capital as rebels pull out",
+      "summary_en": "Pro-government forces have regained control of the capital of Tigray, they said on Sunday, dealing a major setback to the opposition alliance that rules the ​northern Ethiopian region.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -170,47 +236,22 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/europe/20261004-us-bombers-raf-fairford-uk-pentagon",
-          "published_at": "2026-10-04T22:50:23+00:00"
+          "url": "https://www.france24.com/en/video/20261005-ethiopian-govt-retakes-tigray-capital-as-rebels-pull-out",
+          "published_at": "2026-10-05T12:57:25+00:00"
         }
       ]
     },
     {
-      "id": "evt-daf6c5a690804f173fe9fa64be14fe9f7f671de94029d13b3d971232362ea2a6",
-      "title_en": "Pacific leaders urge climate action as UN pre-COP talks open in Fiji",
-      "summary_en": "Pacific leaders urged action on climate change as UN pre-COP talks opened in Fiji's Nadi on Monday, ahead of next month's COP31 summit in Turkey. Discussions in Fiji and Tuvalu will focus on limiting warming to 1.5C, improving access to climate finance and protecting oceans as rising seas threaten communities.",
-      "category": "society_health_environment",
-      "region": "asia_pacific",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/environment/20261004-pacific-leaders-climate-action-un-pre-cop-talks-fiji",
-          "published_at": "2026-10-04T23:21:10+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-2d9218c9a46b59f0806566052cf8e8d64cc82de8923fd24e8e79eaaa1f34d035",
-      "title_en": "Iran says no military solution to war as peace talks with US stall",
-      "summary_en": "Iran's diplomat said on Sunday there was no military solution to the US war against Iran as peace talks appeared stalled. Washington has scaled back attacks in favour of economic pressure, while Iran's attempted Hormuz blockade remains contentious. A UK maritime agency reported another tanker hit by an unidentified…",
+      "id": "evt-a9024412d1fb73c88bdfdc2bc9971d1f624049880f3295b8f048775f93fe9f05",
+      "title_en": "'Very bad result for Lula: Bolsonaro is far more effective at speaking to that growing middle class'",
+      "summary_en": "Eve Irvine is pleased to welcome Felipe Krause, the head of Oxford University's Brazilian Studies Programme. Brazil's election reflects a political landscape that has become increasingly polarized, explains Krause. And he describes the current mood as one of “tired polarization: People are just exhausted. They feel…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -218,95 +259,23 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261004-iran-us-military-middle-east-war-peace-talks",
-          "published_at": "2026-10-04T21:41:47+00:00"
+          "url": "https://www.france24.com/en/very-bad-result-for-lula-bolsonaro-is-far-more-effective-at-speaking-to-that-growing-middle-class",
+          "published_at": "2026-10-05T12:54:49+00:00"
         }
       ]
     },
     {
-      "id": "evt-8c590b2d5a34a318759332a0c550090c44df85754527fdab89c42a6ffc52aeb2",
-      "title_en": "Brazil heads to the polls for high-stakes election between Lula and Flavio Bolsonaro",
-      "summary_en": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Nearly 160 million voters will also pick lawmakers, senators and governors in an election…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 39,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/brazil-heads-to-the-polls-for-high-stakes-election-between-lula-and-flavio-bolsonaro",
-          "published_at": "2026-10-04T16:38:55+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-d2480cd560e3300cb2f8adf208c78ad573f005b41240d3b5d7c0ba37e5e1d119",
-      "title_en": "A Profile of Brazil's Potential President",
-      "summary_en": "France 24's Gavin Lee speaks to Brazil analyst Henrique Tavares Furtado about how Flavio Bolsonaro is pledging to reshape the country, and asks: who is the man behind the political persona?",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 39,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20261004-a-profile-of-brazil-s-potential-president",
-          "published_at": "2026-10-04T18:34:51+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-bec84b85826adc3923a2df5f08d174b3de308efbd60f3763dc141754edc9b888",
-      "title_en": "German Chancellor in Kyiv: \"Ukraine will need our support\"",
-      "summary_en": "German Chancellor Friedrich Merz visited Ukraine on Sunday to show solidarity after Russian attacks on Kyiv infrastructure, including three bridges. Last month, Germany’s foreign minister called for de-escalation during talks with his Russian counterpart at the UN, drawing criticism from Sergei Lavrov, who urged…",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 38,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-4)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/german-chancellor-in-kyiv-ukraine-will-need-our-support",
-          "published_at": "2026-10-04T14:37:56+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-0cc818e89c66df86bf7907fd318f7773fd84ba126d4f1aa34389ebeb79e05eb8",
-      "title_en": "Rwandan genocide suspect 'hunter' Dafroza Gauthier dies at 72",
-      "summary_en": "For nearly 30 years, Dafroza Gauthier, along with her husband Alain, tracked down Rwandan refugees in France suspected of having participated in the Tutsi genocide. She died in Reims on Saturday after dedicating her life to bringing to justice those allegedly responsible for the 1994 massacre of more than 800,000…",
+      "id": "evt-0ee6bf80d5dea052818fd61b234cbf73caa16f234dbe43c632790e6a456a7e62",
+      "title_en": "Up to 500 French schools to be closed Monday as protests continue",
+      "summary_en": "Up to 500 French high ⁠schools will begin a second week of total or partial closures on Monday as protests over dilapidated schools and classrooms, overcrowding and teacher shortages precede a nationwide day of demonstrations on Tuesday. Reporting from outside a high school in the Paris suburb of Aubervilliers,…",
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 37,
+      "importance_score": 41,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-5)."
+        "Age decay (-1)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -314,94 +283,19 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/africa/20261004-rwandan-genocide-hunter-dafroza-gauthier-dies-at-72",
-          "published_at": "2026-10-04T12:12:24+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-19ef85f00921329ef118533497d4740344d9eae3f8b16a0fa2c408ac9ca1473b",
-      "title_en": "Rotting food waste emits 5 times more greenhouse gases than planes",
-      "summary_en": "Rotting food waste is causing up to 10 per cent of total global greenhouse gas emissions – five times more than the entire aviation sector, the UN’s environment agency warned this week.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 37,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-13)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168507",
-          "published_at": "2026-10-03T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-3eff94f73ef0301ce6518033486a8bd84e1df81326635d80df7209343ce69e48",
-      "title_en": "The week in pictures: Disaster averted on Flydubai flight, French school protests and Bangkok floods",
-      "summary_en": "From French highschoolers protesting to demand better learning conditions to a Flydubai flight diverted to Saudi Arabia after a flightcrew member's onboard attack and flooded streets in Bangkok, FRANCE 24 looks back at the week's most striking pictures.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 37,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-5)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261004-the-week-in-pictures-disaster-averted-flydubai-flight-french-school-protests-and-bangkok-floods",
-          "published_at": "2026-10-04T13:35:11+00:00"
+          "url": "https://www.france24.com/en/video/20261005-up-to-500-french-schools-to-be-closed-monday-as-protests-continue",
+          "published_at": "2026-10-05T08:46:01+00:00"
         }
       ]
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168516 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168515 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168513 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168512 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168511 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168509 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168508 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168506 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168505 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168504 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168503 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168502 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168500 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168499 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168497 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168498 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168496 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168489 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168495 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168493 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168491 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168490 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168488 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168486 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168485 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168483 rejected: stale publication date",
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/centers-and-facilities/langley/nasa-model-wing-lights-up-during-first-pressure-sensitive-paint-tests/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/news-release/nasa-opens-applications-for-next-class-of-flight-directors/ rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors rejected: stale publication date",
