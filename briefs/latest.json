@@ -1,39 +1,132 @@
 {
   "schema_version": 1,
   "date": "2026-10-05",
-  "generated_at": "2026-10-05T13:54:46+00:00",
+  "generated_at": "2026-10-05T23:50:58+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-af08e3bbda940e7ce140dd2460352456f111ed50148bff76cc6dcf15aa333283",
-      "title_en": "Japan bids farewell to Asian Games after fortnight of turmoil and records",
-      "summary_en": "The 20th Asian Games closed on Sunday after a rocky fortnight lit ​up by youthful brilliance in the sporting arenas but tempered by logistical dysfunction and subdued public interest. Olympic Council of Asia (OCA) President Sheikh Joaan bin Hamad Al Thani declared the Games closed at Mizuho Park Athletic Stadium,…",
-      "category": "sports",
-      "region": "asia_pacific",
-      "sports_tags": [
-        "olympics"
-      ],
-      "importance_score": 54,
+      "id": "evt-1a9f3da384a2eb36469f5e9e640fd4690b586a06221c8d4488303cc8d8d8d67b",
+      "title_en": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+      "summary_en": "NASA and SpaceX are targeting no earlier than 8:05 a.m. EDT, Wednesday, Oct. 7, for the undocking of the agency’s SpaceX Crew-12 mission from the International Space Station, pending weather conditions. An Oct. 7 undock puts NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie…",
+      "category": "technology_science",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 50,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Sports preference: olympics (+12)."
+        "Highest source tier: 1 (+20)."
       ],
-      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261005-japan-bids-farewell-to-asian-games-after-fortnight-of-turmoil-and-records",
-          "published_at": "2026-10-05T13:01:56+00:00"
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
+          "published_at": "2026-10-05T21:44:40+00:00"
         }
       ]
     },
     {
-      "id": "evt-2db610abd61893d3798c8165a1741c1be1a9d8b9165b20770502afed8da0c9ce",
-      "title_en": "Moon-Like Madagascar",
-      "summary_en": "A bright lens of anorthosite, a rock type prevalent on the lunar surface, is cradled within sheared rocks in the country’s south.",
+      "id": "evt-8917befc420a8d0bf0c1da3b8ae63907e8cfb061e29a54d48153263f42671900",
+      "title_en": "NASA Astronaut Christina Koch at Eagles vs. Rams",
+      "summary_en": "NASA astronaut and mission specialist of the agency’s Artemis II mission, Christina Koch, leads the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia. NASA’s engagement at NFL…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/image-article/nasa-astronaut-christina-koch-at-eagles-vs-rams/",
+          "published_at": "2026-10-05T17:42:56+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-9e39eb16b70d0d46df28593a12359e80300540eff4d0958db25d9da2060fdeaa",
+      "title_en": "NASA Testing Aims at Supercooled Large Droplet Aviation Safety",
+      "summary_en": "NASA is leveraging its expertise and enhancing its test facilities to help address a rare but persistent aviation hazard: icing that occurs when aircraft encounter unusually large, very cold water droplets in clouds. The problem, known as “supercooled large droplet icing,” occurs when aircraft fly through clouds…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/image-article/nasa-testing-aims-at-supercooled-large-droplet-aviation-safety/",
+          "published_at": "2026-10-05T15:27:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-ca04edbe81f8f2c7c1935c8b8e81f4598b3e76f00b6e5d3b0d66cfdbe5ff84ad",
+      "title_en": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
+      "summary_en": "New analysis of archival Hubble data points to the possibility of “dead” white dwarf stars hosting second-generation planetary systems.",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/",
+          "published_at": "2026-10-05T15:00:35+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-046e53e4fb920372e12f215fd0c105ddc3fa3e9be19bde17befa76acf30be3f9",
+      "title_en": "Security, sacrifice or opportunity: Visions differ over effective climate action",
+      "summary_en": "Should the world move away sharply from fossil fuels, or manage a slower, more careful retreat?",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-3)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168526",
+          "published_at": "2026-10-05T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-12dbced2177abb7b0c9d779000fa17039b4bf53ff8cab1c150855a0130134e79",
+      "title_en": "One day behind bars: Students and incarcerated women break prison stigma in Thailand",
+      "summary_en": "“Your mind follows the thread, one by one, row by row. You know? It’s like meditation. I don’t like machines.”",
       "category": "other",
       "region": "global",
       "sports_tags": [],
@@ -47,18 +140,18 @@
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/",
-          "published_at": "2026-10-05T04:01:00+00:00"
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168518",
+          "published_at": "2026-10-05T12:00:00+00:00"
         }
       ]
     },
     {
-      "id": "evt-7d65a328baa78e8336049fb3ab1def14c9709b3d02b1526b9f30f75086ada13a",
-      "title_en": "APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams",
-      "summary_en": "APOD Science APOD APOD: 2026 October 5 – M104:… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
-      "category": "technology_science",
+      "id": "evt-588ec63d708e5ea4eb14b379bbf9a7389fe16cfa6737bff0d86152ac1468edea",
+      "title_en": "ICC unseals four arrest warrants over Taliban persecution of women and girls",
+      "summary_en": "The International Criminal Court (ICC) has made public four arrest warrants against senior Taliban figures, accusing them of persecuting women and girls in Afghanistan, which amounts to a crime against humanity.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 47,
@@ -71,65 +164,41 @@
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/",
-          "published_at": "2026-10-05T04:05:00+00:00"
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168521",
+          "published_at": "2026-10-05T12:00:00+00:00"
         }
       ]
     },
     {
-      "id": "evt-cc454875217e13a6ae5c482ff532cd755a0c1180272de92c8c9b9659bd23c6f6",
-      "title_en": "Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek",
-      "summary_en": "Written by Lucy Thompson, Senior Research Scientist, University of New Brunswick, Canada Earth planning date: Friday, Sept. 25, 2026 Before we landed, the area of Gale crater that we planned to explore was divided up into rectangular parcels with designated names. The names were chosen after small towns associated…",
-      "category": "technology_science",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 45,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-5)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/",
-          "published_at": "2026-10-04T21:13:07+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-28175fa21345044b4f23c883b40ce09e70adc1972f88291de1caff0a8785575d",
-      "title_en": "Mapping the Gaps in NASA’s Return to the Moon, featuring Richard Spolzino",
-      "summary_en": "“I want to be able to look at a rocket launch and say, ‘I touched a piece of this.’” That’s how Richard Spolzino describes the thing he’s chasing. Not a title, not a specific mission, not even NASA itself, just the ability to point at something real and know his work made it possible. At […]",
-      "category": "technology_science",
+      "id": "evt-b0d735fc9ed0b6239ce5fb38d37f182c06855322be200a12ec00992379ce0298",
+      "title_en": "Extreme heat making pregnancy a ‘new fault line’ in climate crisis",
+      "summary_en": "Pregnancy and childbirth have become a “new fault line in the global climate crisis” as extreme heat worsens, the head of the UN climate action body (UNFCCC) warned on Monday, calling for maternal and newborn health to be built into countries’ climate plans.",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 44,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-6)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/",
-          "published_at": "2026-10-04T19:10:59+00:00"
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168522",
+          "published_at": "2026-10-05T12:00:00+00:00"
         }
       ]
     },
     {
-      "id": "evt-208f0071541e2b08c542d47dafd6756861d4891d662db8f02824a9613f0eea60",
-      "title_en": "US bombers leave UK air base amid 'new threats': What we know so far",
-      "summary_en": "The United States confirmed that it had withdrawn all B-1 bombers from the British airbase of RAF Fairford, reportedly due to \"new threats,\" with Britain's government insisting Monday the site is safe. France 24's Philip Turle takes a look at what we know so far.",
+      "id": "evt-e2a73051b2cd679e7624307e32ad545e3ba38affdb80be2f5cb9404ab96bfda8",
+      "title_en": "Quebec votes as separatist surge poses test for Canada PM",
+      "summary_en": "Quebec separatists eyed a return to power in Canada's majority French-speaking province Monday in an election that could test Prime Minister Mark Carney's message of national unity to confront the United States. Carney is popular in Quebec, and the possible success of the separatist Parti Quebecois (PQ) is not seen…",
       "category": "politics_security",
       "region": "north_america",
       "sports_tags": [],
@@ -144,131 +213,39 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261005-us-bombers-leave-uk-air-base-amid-new-threats-what-we-know-so-far",
-          "published_at": "2026-10-05T13:00:14+00:00"
+          "url": "https://www.france24.com/en/quebec-votes-as-separatist-surge-poses-test-for-canada-pm",
+          "published_at": "2026-10-05T21:36:57+00:00"
         }
       ]
     },
     {
-      "id": "evt-2428ff9b544c026ec62bcd49c59833c4756bb10f9f86a585494bc0bd36d42175",
-      "title_en": "France high school protests: Can the government regain control?",
-      "summary_en": "Up to 500 schools are expected to be totally or partially closed in France as student protests continue to rock the country. The demonstrations, which have been going on for over two weeks, have spread nationwide and are set to continue and the unrest appears to have caught the Macron government off guard. The…",
+      "id": "evt-e36ba36370e60e1b35450aa37d9abfcb5b3861a37a182b0d1670667e9655b2e2",
+      "title_en": "New York declares statewide disaster emergency as measles cases rise",
+      "summary_en": "New York Governor Kathy Hochul declared a statewide disaster emergency on Monday as a measles outbreak spreads through under-immunised rural communities, with 108 cases reported this year. The order expands who can administer MMR vaccines and comes as neighbouring Pennsylvania battles an outbreak that has killed five…",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 42,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/americas/20261005-new-york-declares-statewide-disaster-emergency-as-measles-cases-rise",
+          "published_at": "2026-10-05T21:23:04+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-023a7c02a86cd94c045cc3f30d0f720e922fd723f32856e4796b0740d57544fe",
+      "title_en": "Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say",
+      "summary_en": "Saudi-backed Yemeni government forces staged a lightning advance on ​Monday to retake the coast around the Bab el-Mandeb Strait up to the city of Mocha, the government said, pushing the Iran-backed Houthis out of most of the areas they seized last month. FRANCE 24's Monte Francis reports.",
       "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261005-france-high-school-protests-can-the-government-regain-control",
-          "published_at": "2026-10-05T13:03:41+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-41a2780ac1b524aacd40f417ed3519d86b394a72830a850b07e329b118e940f1",
-      "title_en": "Mountaineer takes cancer research and quality of life to new heights... 8,000 metres, to be precise!",
-      "summary_en": "Delano D’Souza is pleased to welcome Dr Shauna Burke, Associate Professor in Exercise and Health Psychology at the University of Leeds. A passionate mountaineer who first summited Mount Everest in 2005, Dr Burke returned to the world’s highest mountain earlier this year, following her diagnosis with stage four breast…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/mountaineer-takes-cancer-research-and-quality-of-life-to-new-heights-8-000-metres-to-be-precise",
-          "published_at": "2026-10-05T11:16:43+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-451b453be6f6f9880e9129fd43cd146e0c3bdc997bee33b8e391e979b16c3d9f",
-      "title_en": "Trump heads to Nebraska as Republicans fear strongholds could flip",
-      "summary_en": "US President ​Donald Trump will visit Nebraska on Monday to rally Republicans and promote his economic ​record, taking his message of new investment and manufacturing to a state where farmers and truckers face sharply higher diesel prices and voters worry about inflation. His stop in ​the ‌city of Grand Island is…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261005-trump-heads-to-nebraska-as-republicans-fear-strongholds-could-flip",
-          "published_at": "2026-10-05T13:05:12+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-687c589dde56573edfb614caa0f3081778aca23f39ad85c3756385342f5ad148",
-      "title_en": "Ethiopian govt retakes Tigray capital as rebels pull out",
-      "summary_en": "Pro-government forces have regained control of the capital of Tigray, they said on Sunday, dealing a major setback to the opposition alliance that rules the ​northern Ethiopian region.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261005-ethiopian-govt-retakes-tigray-capital-as-rebels-pull-out",
-          "published_at": "2026-10-05T12:57:25+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-a9024412d1fb73c88bdfdc2bc9971d1f624049880f3295b8f048775f93fe9f05",
-      "title_en": "'Very bad result for Lula: Bolsonaro is far more effective at speaking to that growing middle class'",
-      "summary_en": "Eve Irvine is pleased to welcome Felipe Krause, the head of Oxford University's Brazilian Studies Programme. Brazil's election reflects a political landscape that has become increasingly polarized, explains Krause. And he describes the current mood as one of “tired polarization: People are just exhausted. They feel…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/very-bad-result-for-lula-bolsonaro-is-far-more-effective-at-speaking-to-that-growing-middle-class",
-          "published_at": "2026-10-05T12:54:49+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-0ee6bf80d5dea052818fd61b234cbf73caa16f234dbe43c632790e6a456a7e62",
-      "title_en": "Up to 500 French schools to be closed Monday as protests continue",
-      "summary_en": "Up to 500 French high ⁠schools will begin a second week of total or partial closures on Monday as protests over dilapidated schools and classrooms, overcrowding and teacher shortages precede a nationwide day of demonstrations on Tuesday. Reporting from outside a high school in the Paris suburb of Aubervilliers,…",
-      "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 41,
@@ -283,19 +260,108 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261005-up-to-500-french-schools-to-be-closed-monday-as-protests-continue",
-          "published_at": "2026-10-05T08:46:01+00:00"
+          "url": "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say",
+          "published_at": "2026-10-05T19:17:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-2833714958d564584ea3fa85a34460fed66cd67f30ec237f56180870de0d8a4e",
+      "title_en": "Ethiopia again demands access to the Red Sea",
+      "summary_en": "In tonight's edition, Ethiopia's leader Abiy Ahmed secures another term, but his country is sliding back into conflict. Also, several major cities across Senegal are battered by torrential rains. And some of the migrants being deported from the US fear the return to countries criminalizing homosexuality.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 41,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/ethiopia-again-demands-access-to-the-red-sea",
+          "published_at": "2026-10-05T20:28:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-2a4c744a4e76d63a4bc0d250caf7b4514a7a8b633df195e19f1fe7764823fcd7",
+      "title_en": "Russian officials say 'situation under control' after plague reports",
+      "summary_en": "Moscow on Monday downplayed reports that a laboratory technician had died of plague, stressing that post-mortem tests had not detected the disease, while Washington said it was closely monitoring the situation. Reports on Friday that plague had killed a 28-year-old woman named Darya Shipilova, who had been working…",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 41,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/russian-officials-say-situation-under-control-after-plague-reports",
+          "published_at": "2026-10-05T19:19:10+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-7b976516fdddce3d4a23b072f36eb7bdf1f6c5e2218bfd00ae3b00bc6578dac0",
+      "title_en": "Concerns of US interference weigh on Brazil vote",
+      "summary_en": "Conservative Senator Flavio Bolsonaro pulled off a surprise on Sunday in the first round of Brazil’s presidential election by finishing ahead of the incumbent left-wing President Lula, whom he will face in the runoff on October 25. Suspicions of U.S. interference have been hanging over the campaign, even as Donald…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 41,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/concerns-of-us-interference-weigh-on-brazil-vote",
+          "published_at": "2026-10-05T20:37:01+00:00"
         }
       ]
     }
   ],
   "source_errors": [
-    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168507 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168469 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168516 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168515 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168513 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168512 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168511 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168509 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168508 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168506 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168505 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168504 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168503 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168502 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168500 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168499 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168497 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168498 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168496 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168489 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168495 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168493 rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/news-release/la-nasa-abre-solicitudes-para-proxima-promocion-de-directores-de-vuelo/ rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors rejected: stale publication date",
