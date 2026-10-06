@@ -1,9 +1,79 @@
 {
   "schema_version": 1,
-  "date": "2026-10-05",
-  "generated_at": "2026-10-05T23:50:58+00:00",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T05:24:08+00:00",
   "is_underfilled": false,
   "events": [
+    {
+      "id": "evt-3981ada2b7622d6362e64853d87d184d29cfb9cddc4d5abd46078b2c1778dc85",
+      "title_en": "The Beaver Brown Waters of Rupert Bay",
+      "summary_en": "Dissolved organic matter and suspended sediment mingle in the southernmost extent of James Bay.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/",
+          "published_at": "2026-10-06T04:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-94416e22741d084bbdf1f8a9d4660b468306a815101c0358b073156a6ced07b7",
+      "title_en": "APOD: 2026 October 6 – A Complete Auroral Oval from SMILE",
+      "summary_en": "APOD Science APOD APOD: 2026 October 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
+          "published_at": "2026-10-06T04:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-650ad43c3c238ff04dda9238f949ca3b0555122b551478c553a67dfba8167a86",
+      "title_en": "A Journey to the Depths of Ancient Mars?",
+      "summary_en": "Written by Alex Jones, Ph.D. candidate at Imperial College London Sept. 29, 2026 After spending the last six months exploring “Lac de Charmes,” a region of ancient rock beyond Jezero crater’s western rim, Perseverance has stumbled upon a vast field of light-toned rocks peppering the Martian surface. Light-colored…",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/",
+          "published_at": "2026-10-06T00:48:54+00:00"
+        }
+      ]
+    },
     {
       "id": "evt-1a9f3da384a2eb36469f5e9e640fd4690b586a06221c8d4488303cc8d8d8d67b",
       "title_en": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
@@ -11,10 +81,11 @@
       "category": "technology_science",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 48,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20)."
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -34,11 +105,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -58,11 +129,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 46,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -76,122 +147,120 @@
       ]
     },
     {
-      "id": "evt-ca04edbe81f8f2c7c1935c8b8e81f4598b3e76f00b6e5d3b0d66cfdbe5ff84ad",
-      "title_en": "Suspected Second-generation Planet Solves NASA Hubble Cold Case",
-      "summary_en": "New analysis of archival Hubble data points to the possibility of “dead” white dwarf stars hosting second-generation planetary systems.",
-      "category": "technology_science",
+      "id": "evt-413a670fa0d5fe7a9ace1ae8d8c008e9526ddbffcebd1ca53faa879747d027b1",
+      "title_en": "Live: Tens of thousands expected at Paris protests as unions join students",
+      "summary_en": "Up to 40,000 people are expected to march in Paris on Tuesday as French trade unions join high school students protesting school conditions. The demonstrations have been marked by clashes with police, arrests, and injuries, including a 15-year-old student whose hand was blown off after he picked up a ‌police grenade.…",
+      "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
+        "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/europe/20261006-live-tens-of-thousands-expected-at-paris-protests-as-unions-join-students",
+          "published_at": "2026-10-06T02:31:54+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-582a60e7fcae1b020daf07615691122ffc94b90020299c2d74829958ceb2830a",
+      "title_en": "Trump targets tax-free diesel as Republicans approach midterms",
+      "summary_en": "President Donald Trump on Monday signed an executive order to ease limits on tax-free red-dyed diesel as fuel prices put pressure on Republican candidates. Trump said the move would save farmers millions of dollars and lower the cost of goods, though analysts said the change would not benefit farmers already using…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 42,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/americas/20261006-trump-targets-tax-free-diesel-as-republicans-approach-midterms",
+          "published_at": "2026-10-06T03:08:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-60663a63c1d253e7c83f8505673b4e09d9beb48f7131cc4454078f2d08d4185f",
+      "title_en": "Trump approves firing-squad execution of Fort Hood shooter Nidal Hasan",
+      "summary_en": "President Donald Trump approved a firing squad execution on Monday for Nidal Hasan, the US Army psychiatrist convicted of killing 13 people at Fort Hood in 2009. Hasan's execution will be the first carried out by the US military since 1961, with the date and location yet to be set by the Army.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 41,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-1)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/americas/20261006-trump-approves-firing-squad-execution-of-fort-hood-shooter-nidal-hasan",
+          "published_at": "2026-10-06T01:31:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-2833714958d564584ea3fa85a34460fed66cd67f30ec237f56180870de0d8a4e",
+      "title_en": "Ethiopia again demands access to the Red Sea",
+      "summary_en": "In tonight's edition, Ethiopia's leader Abiy Ahmed secures another term, but his country is sliding back into conflict. Also, several major cities across Senegal are battered by torrential rains. And some of the migrants being deported from the US fear the return to countries criminalizing homosexuality.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 40,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
         "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/missions/hubble/suspected-second-generation-planet-solves-nasa-hubble-cold-case/",
-          "published_at": "2026-10-05T15:00:35+00:00"
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/ethiopia-again-demands-access-to-the-red-sea",
+          "published_at": "2026-10-05T20:28:19+00:00"
         }
       ]
     },
     {
-      "id": "evt-046e53e4fb920372e12f215fd0c105ddc3fa3e9be19bde17befa76acf30be3f9",
-      "title_en": "Security, sacrifice or opportunity: Visions differ over effective climate action",
-      "summary_en": "Should the world move away sharply from fossil fuels, or manage a slower, more careful retreat?",
+      "id": "evt-7b976516fdddce3d4a23b072f36eb7bdf1f6c5e2218bfd00ae3b00bc6578dac0",
+      "title_en": "Concerns of US interference weigh on Brazil vote",
+      "summary_en": "Conservative Senator Flavio Bolsonaro pulled off a surprise on Sunday in the first round of Brazil’s presidential election by finishing ahead of the incumbent left-wing President Lula, whom he will face in the runoff on October 25. Suspicions of U.S. interference have been hanging over the campaign, even as Donald…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168526",
-          "published_at": "2026-10-05T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-12dbced2177abb7b0c9d779000fa17039b4bf53ff8cab1c150855a0130134e79",
-      "title_en": "One day behind bars: Students and incarcerated women break prison stigma in Thailand",
-      "summary_en": "“Your mind follows the thread, one by one, row by row. You know? It’s like meditation. I don’t like machines.”",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168518",
-          "published_at": "2026-10-05T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-588ec63d708e5ea4eb14b379bbf9a7389fe16cfa6737bff0d86152ac1468edea",
-      "title_en": "ICC unseals four arrest warrants over Taliban persecution of women and girls",
-      "summary_en": "The International Criminal Court (ICC) has made public four arrest warrants against senior Taliban figures, accusing them of persecuting women and girls in Afghanistan, which amounts to a crime against humanity.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168521",
-          "published_at": "2026-10-05T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-b0d735fc9ed0b6239ce5fb38d37f182c06855322be200a12ec00992379ce0298",
-      "title_en": "Extreme heat making pregnancy a ‘new fault line’ in climate crisis",
-      "summary_en": "Pregnancy and childbirth have become a “new fault line in the global climate crisis” as extreme heat worsens, the head of the UN climate action body (UNFCCC) warned on Monday, calling for maternal and newborn health to be built into countries’ climate plans.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168522",
-          "published_at": "2026-10-05T12:00:00+00:00"
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/concerns-of-us-interference-weigh-on-brazil-vote",
+          "published_at": "2026-10-05T20:37:01+00:00"
         }
       ]
     },
@@ -202,10 +271,11 @@
       "category": "politics_security",
       "region": "north_america",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -225,10 +295,11 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -242,65 +313,17 @@
       ]
     },
     {
-      "id": "evt-023a7c02a86cd94c045cc3f30d0f720e922fd723f32856e4796b0740d57544fe",
-      "title_en": "Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say",
-      "summary_en": "Saudi-backed Yemeni government forces staged a lightning advance on ​Monday to retake the coast around the Bab el-Mandeb Strait up to the city of Mocha, the government said, pushing the Iran-backed Houthis out of most of the areas they seized last month. FRANCE 24's Monte Francis reports.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say",
-          "published_at": "2026-10-05T19:17:05+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-2833714958d564584ea3fa85a34460fed66cd67f30ec237f56180870de0d8a4e",
-      "title_en": "Ethiopia again demands access to the Red Sea",
-      "summary_en": "In tonight's edition, Ethiopia's leader Abiy Ahmed secures another term, but his country is sliding back into conflict. Also, several major cities across Senegal are battered by torrential rains. And some of the migrants being deported from the US fear the return to countries criminalizing homosexuality.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/ethiopia-again-demands-access-to-the-red-sea",
-          "published_at": "2026-10-05T20:28:19+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-2a4c744a4e76d63a4bc0d250caf7b4514a7a8b633df195e19f1fe7764823fcd7",
       "title_en": "Russian officials say 'situation under control' after plague reports",
       "summary_en": "Moscow on Monday downplayed reports that a laboratory technician had died of plague, stressing that post-mortem tests had not detected the disease, while Washington said it was closely monitoring the situation. Reports on Friday that plague had killed a 28-year-old woman named Darya Shipilova, who had been working…",
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -314,17 +337,17 @@
       ]
     },
     {
-      "id": "evt-7b976516fdddce3d4a23b072f36eb7bdf1f6c5e2218bfd00ae3b00bc6578dac0",
-      "title_en": "Concerns of US interference weigh on Brazil vote",
-      "summary_en": "Conservative Senator Flavio Bolsonaro pulled off a surprise on Sunday in the first round of Brazil’s presidential election by finishing ahead of the incumbent left-wing President Lula, whom he will face in the runoff on October 25. Suspicions of U.S. interference have been hanging over the campaign, even as Donald…",
-      "category": "politics_security",
+      "id": "evt-736c1079aff3ba82b69cf0db320440d6c18ecd3ff7c61bb09079aabcd910a25f",
+      "title_en": "Indian alleged mastermind of online child abuse ring goes on trial in Paris",
+      "summary_en": "Rohan Rane, an Indian national who came to France to study before becoming a fitness coach, went on trial on Monday behind closed doors in Paris, on charges of torture and acts of barbarity against minors. Investigators say he is the leader of a neo-Nazi child exploitation ring that ran its operations via messaging…",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -332,36 +355,14 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/concerns-of-us-interference-weigh-on-brazil-vote",
-          "published_at": "2026-10-05T20:37:01+00:00"
+          "url": "https://www.france24.com/en/france/20261005-indian-alleged-mastermind-of-online-child-abuse-ring-goes-on-trial-in-paris",
+          "published_at": "2026-10-05T20:15:18+00:00"
         }
       ]
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168507 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168469 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168516 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168515 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168513 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168512 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168511 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168509 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168508 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168506 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168505 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168504 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168503 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168502 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168500 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168499 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168497 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168498 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168496 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168489 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168495 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/09/1168493 rejected: stale publication date",
-    "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/ rejected: stale publication date",
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors rejected: stale publication date",
