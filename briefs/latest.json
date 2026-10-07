@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06T22:27:30+00:00",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T04:53:06+00:00",
   "is_underfilled": false,
   "events": [
     {
@@ -11,12 +11,12 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 55,
+      "importance_score": 53,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
         "Independent source confirmation (+8).",
-        "Age decay (-3)."
+        "Age decay (-5)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -42,11 +42,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -66,11 +66,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -90,11 +90,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -114,11 +114,11 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 47,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -132,146 +132,49 @@
       ]
     },
     {
-      "id": "evt-408269756a8429374456bdc09cb4741d0197f2d6bf5d8c4290a3d6533a34fc05",
-      "title_en": "‘Ebola takes the people children depend on’: UNICEF",
-      "summary_en": "The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) is robbing children of their loved ones – with some succumbing to the deadly disease themselves, the UN Children’s Fund (UNICEF) reported on Tuesday.",
-      "category": "society_health_environment",
+      "id": "evt-0a3529040c981c7f5e7492612b14eeb0c71a0c246283f6f5ca27f1ee29d7651e",
+      "title_en": "Israel marks third anniversary of October 7 attack as election looms",
+      "summary_en": "Israel will mark the third anniversary of the October 7, 2023 Hamas attack on Wednesday with memorial events across the country, as heightened security surrounds the commemorations and voters prepare for an election in which the deadliest day in Israel’s history is expected to remain a central issue.",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168531",
-          "published_at": "2026-10-06T12:00:00+00:00"
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20261007-israel-marks-third-anniversary-of-october-7-attack-as-election-looms",
+          "published_at": "2026-10-07T02:14:22+00:00"
         }
       ]
     },
     {
-      "id": "evt-6a640df13d0182eb6800d58a98c5cd14f48796c310ca71294d4f4f062030398f",
-      "title_en": "From drought to deluge: ‘Super’ El Niño’s expanding reach",
-      "summary_en": "Across Papua New Guinea, water sources are drying up, crops are failing and food prices are rising months before the worst agricultural impacts are expected. Behind those warning signs is an El Niño whose Pacific Ocean temperatures have already surpassed the equivalent measurements during the historic 1997 and 2015…",
+      "id": "evt-3981ada2b7622d6362e64853d87d184d29cfb9cddc4d5abd46078b2c1778dc85",
+      "title_en": "The Beaver Brown Waters of Rupert Bay",
+      "summary_en": "Dissolved organic matter and suspended sediment mingle in the southernmost extent of James Bay.",
       "category": "other",
-      "region": "asia_pacific",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168537",
-          "published_at": "2026-10-06T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-83ae8667403976f6f20e84fc357deeadee1946946944ce3ff217b4c35b8c4204",
-      "title_en": "When streets become pharmacies: Booming illicit markets in Central Africa",
-      "summary_en": "Antibiotics, malaria treatments, painkillers, opioids. More than 250 tonnes of medical products were seized over six years in Central Africa. Behind those numbers is an illicit market that thrives not simply despite the region’s fragile health systems, but in part because of them.",
-      "category": "economy_business",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168527",
-          "published_at": "2026-10-06T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-8ee5f5f7ca20ff7b3e4d0cb037c48faf3b8fc61705e93b9f9874f7b7dea5f1c4",
-      "title_en": "In Islamabad, Guterres calls for end to US-Iran conflict",
-      "summary_en": "The UN Secretary-General appealed on Tuesday for an end to the United States-Iran war and the toll it has taken on global trade, as he began an official visit to Pakistan.",
-      "category": "politics_security",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168532",
-          "published_at": "2026-10-06T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-9012edc99fbd9fd97319cce6a087461826a38d0ad8cf990b109fc76afca2c509",
-      "title_en": "Djibouti faces ‘overlapping emergencies’ as Yemen’s refugee exodus continues",
-      "summary_en": "Djibouti is facing “overlapping emergencies” as refugees fleeing the conflict in Yemen arrive on its shores while migrants continue to travel in the opposite direction, the UN migration agency (IOM) warned on Tuesday.",
-      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
+        "Age decay (-8)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168535",
-          "published_at": "2026-10-06T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-b022fb6b284e55253aa95d08e624497246e75db9f6dcb90de3a273c76c702502",
-      "title_en": "Testing and monitoring underway in suspected Russia plague death",
-      "summary_en": "The death of a lab worker in Russia’s Siberia region has sparked concerns over a possible plague case, the UN World Health Organization (WHO) said on Tuesday, adding that it was following the situation closely.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168533",
-          "published_at": "2026-10-06T12:00:00+00:00"
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/",
+          "published_at": "2026-10-06T04:01:00+00:00"
         }
       ]
     },
@@ -282,10 +185,11 @@
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -299,39 +203,17 @@
       ]
     },
     {
-      "id": "evt-5066fe6ce10fa74256c14f894e0b8672f12f8b46d8bbef0b3d67e40d93991534",
-      "title_en": "German ex-spy chief arrested for suspected espionage, treason",
-      "summary_en": "A former German spy chief was arrested Tuesday on suspicion of espionage and treason, an embarrassing case at a time when the country is seeking to broaden the powers of its intelligence agencies. August Hanning, who ran Germany's BND foreign intelligence agency from 1998 to 2005, is accused of espionage, treason and…",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/german-ex-spy-chief-arrested-for-suspected-espionage-treason",
-          "published_at": "2026-10-06T19:42:27+00:00"
-        }
-      ]
-    },
-    {
       "id": "evt-532f7f239de29d812d8536c33ebcf1c2de5638fbffdb39891d7d7b294812e52c",
       "title_en": "Kenya reports first-ever Ebola death",
       "summary_en": "In tonight's edition, Kenya records its first Ebola death after a man travelled from the DRC via Uganda. Also, Comoros is tightening the rules on who can do business. In South Africa, concerns are growing that xenophobia and hostility toward foreign nationals could be driving African tourists away.",
       "category": "economy_business",
       "region": "africa",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -345,16 +227,17 @@
       ]
     },
     {
-      "id": "evt-7a7e97be2d05674ab3e8e5e1f7c63a40555f85b366f7822c89e346ff0aab2c33",
-      "title_en": "Police make seventh arrest over UK airbase incident",
-      "summary_en": "A seventh man was arrested Tuesday over a major incident last month at a British military airbase used by the United States to launch strikes on Iran, police said. The arrest came a day after President Donald Trump said the United States had withdrawn all B-1 bombers from RAF Fairford because of \"threats\" he believed…",
-      "category": "politics_security",
-      "region": "north_america",
+      "id": "evt-68b4708bb4a08a46ce05b930a456e619150353fd196d0aad26a35757a44be45b",
+      "title_en": "Russian lab worker’s death sparks plague fears as unverified claims spread online",
+      "summary_en": "The death of a 28-year-old Russian lab worker at Siberia’s Irkutsk Anti-Plague Institute has sparked online panic about a ‘plague’, despite the WHO assessing the public health risk in Russia as low. Unverified claims about how she became ill, including a laboratory accident involving a test tube, are circulating…",
+      "category": "society_health_environment",
+      "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -362,22 +245,23 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/police-make-seventh-arrest-over-uk-airbase-incident",
-          "published_at": "2026-10-06T19:51:46+00:00"
+          "url": "https://www.france24.com/en/russian-lab-worker-s-death-sparks-plague-fears-as-unverified-claims-spread-online-1",
+          "published_at": "2026-10-06T20:58:31+00:00"
         }
       ]
     },
     {
-      "id": "evt-f10abca8e65428d77394e09382bf7eb8d59bea5601863383795ce80066540a83",
-      "title_en": "Students, unions and teachers in mass movement to demand better learning conditions",
-      "summary_en": "A quarter of a million demonstrators took to the streets across France on Tuesday as unions and teachers joined high school students demanding better learning conditions in protests that later descended into sporadic clashes with security forces. A French policeman was on Tuesday charged with violence over the firing…",
+      "id": "evt-70163ce7639e7c719648b15c73a24d134ba3a69c449f45976aa02effc53b14ba",
+      "title_en": "Trump says he will speak to Putin over reported plague death in Russia",
+      "summary_en": "US President Donald Trump said Tuesday he would speak “very soon” with Russian President Vladimir Putin over the reported plague death of a laboratory technician, as Washington and the World Health Organization pressed Moscow for greater transparency and clarity over conflicting accounts of the incident in Siberia.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -385,8 +269,32 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/students-unions-and-teachers-in-mass-movement-to-demand-better-learning-conditions",
-          "published_at": "2026-10-06T19:39:39+00:00"
+          "url": "https://www.france24.com/en/europe/20261006-trump-says-he-will-speak-to-putin-over-reported-plague-death-in-russia",
+          "published_at": "2026-10-06T22:51:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-5066fe6ce10fa74256c14f894e0b8672f12f8b46d8bbef0b3d67e40d93991534",
+      "title_en": "German ex-spy chief arrested for suspected espionage, treason",
+      "summary_en": "A former German spy chief was arrested Tuesday on suspicion of espionage and treason, an embarrassing case at a time when the country is seeking to broaden the powers of its intelligence agencies. August Hanning, who ran Germany's BND foreign intelligence agency from 1998 to 2005, is accused of espionage, treason and…",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 39,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-3)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/german-ex-spy-chief-arrested-for-suspected-espionage-treason",
+          "published_at": "2026-10-06T19:42:27+00:00"
         }
       ]
     },
@@ -397,11 +305,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 39,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
+        "Age decay (-3)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -419,24 +327,82 @@
           "published_at": "2026-10-06T17:05:39+00:00"
         }
       ]
+    },
+    {
+      "id": "evt-7a7e97be2d05674ab3e8e5e1f7c63a40555f85b366f7822c89e346ff0aab2c33",
+      "title_en": "Police make seventh arrest over UK airbase incident",
+      "summary_en": "A seventh man was arrested Tuesday over a major incident last month at a British military airbase used by the United States to launch strikes on Iran, police said. The arrest came a day after President Donald Trump said the United States had withdrawn all B-1 bombers from RAF Fairford because of \"threats\" he believed…",
+      "category": "politics_security",
+      "region": "north_america",
+      "sports_tags": [],
+      "importance_score": 39,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-3)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/police-make-seventh-arrest-over-uk-airbase-incident",
+          "published_at": "2026-10-06T19:51:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-85909c2b7f18d093b6d31ad130b90b1ca78a1e07c9e3d5009cf489e373890398",
+      "title_en": "France erupts overs schools: Why the violence surrounding surprise movement?",
+      "summary_en": "It’s a protest movement that a broke, lame-duck French government did not see coming. Civil servants this Tuesday joining high schoolers now in their third week of picketing over long-deteriorating classroom conditions. The usual recipe for wearing down movements in France has recently been to match eventual violence…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 39,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-3)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/the-debate/20261006-france-erupts-overs-schools-why-the-violence-surrounding-surprise-movement",
+          "published_at": "2026-10-06T19:12:08+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-89937820dde18a74f433cf5d622d409b948d1d4c75fd06a99ad0fc6059efcf8c",
+      "title_en": "Tens of thousands demand better education in demonstrations across France",
+      "summary_en": "Tens of thousands of demonstrators took to the streets across France on Tuesday, as unions and teachers joined high school students who for days have been demanding better learning conditions in protests punctuated by violent confrontations.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 38,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-4)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261006-tens-of-thousands-demand-better-education-in-demonstrations-across-france",
+          "published_at": "2026-10-06T16:04:34+00:00"
+        }
+      ]
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168517 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168492 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168507 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168469 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168516 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168515 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168513 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168512 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168511 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168509 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168508 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168506 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168505 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168504 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168503 rejected: stale publication date",
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors rejected: stale publication date",
