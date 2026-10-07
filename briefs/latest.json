@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T04:53:06+00:00",
+  "generated_at": "2026-10-07T12:51:15+00:00",
   "is_underfilled": false,
   "events": [
     {
@@ -11,12 +11,12 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 53,
+      "importance_score": 51,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
         "Independent source confirmation (+8).",
-        "Age decay (-5)."
+        "Age decay (-7)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -36,17 +36,17 @@
       ]
     },
     {
-      "id": "evt-0c01208a1a4433581c4a119641362013091c16aaa3d1f1898a89777bff4b0f04",
-      "title_en": "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
-      "summary_en": "After delivering more than 11,000 pounds of supplies, science experiments, and other cargo to the International Space Station for NASA, Northrop Grumman’s Cygnus XL spacecraft is scheduled to depart Friday, Oct. 9, as part of the company’s Commercial Resupply Services-24 mission, or Northrop Grumman CRS-24. Watch…",
+      "id": "evt-b60f5e7b672cde99b8ae3e737ac42dae42189b0e8967081720832bfb408fc5dc",
+      "title_en": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
+      "summary_en": "APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 48,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -54,23 +54,23 @@
         {
           "source_id": "nasa_news",
           "publisher": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/",
-          "published_at": "2026-10-06T18:31:40+00:00"
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
+          "published_at": "2026-10-07T04:05:00+00:00"
         }
       ]
     },
     {
-      "id": "evt-686cb0aff207fde2e825ad78692195ac2bd4e3382558376c648cda00410788db",
-      "title_en": "NASA Glenn Invites Phase 1 Proposals for Aerospace Power Systems Laboratory",
-      "summary_en": "NASA’s Glenn Research Center in Cleveland is seeking Phase 1 proposals for the design and construction of the Aerospace Power Systems Laboratory. The principal purpose of this procurement is to deliver a laboratory facility to support the testing and development of power systems, with associated site work,…",
+      "id": "evt-f3a4a76d76924d629e342ee482790e237bebecf1ea8d4094efa0f3ab9fa6afcd",
+      "title_en": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
+      "summary_en": "Satellite records show Arctic sea ice covering less of the ocean in both winter and summer.",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 48,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -78,32 +78,8 @@
         {
           "source_id": "nasa_news",
           "publisher": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasa-glenn-invites-phase-1-proposals-for-aerospace-power-systems-laboratory/",
-          "published_at": "2026-10-06T17:55:52+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-9681965e6ba5d1918701f30076d093da5f4fdd58a7c3c7fc661637487123fed2",
-      "title_en": "October 2026 Satellite Puzzler",
-      "summary_en": "Your challenge is to tell us the location of the satellite image and why it is interesting.",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/earth/earth-observatory/october-2026-satellite-puzzler/",
-          "published_at": "2026-10-06T18:27:38+00:00"
+          "url": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/",
+          "published_at": "2026-10-07T04:00:00+00:00"
         }
       ]
     },
@@ -114,11 +90,11 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 44,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-3)."
+        "Age decay (-6)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -132,9 +108,32 @@
       ]
     },
     {
-      "id": "evt-0a3529040c981c7f5e7492612b14eeb0c71a0c246283f6f5ca27f1ee29d7651e",
-      "title_en": "Israel marks third anniversary of October 7 attack as election looms",
-      "summary_en": "Israel will mark the third anniversary of the October 7, 2023 Hamas attack on Wednesday with memorial events across the country, as heightened security surrounds the commemorations and voters prepare for an election in which the deadliest day in Israel’s history is expected to remain a central issue.",
+      "id": "evt-45d71011c32cac629e0534cfffa3e626cfdb2ff41d78a0ed7ffd21686d1a8d40",
+      "title_en": "France suspends stun grenade use at student protests ahead of PM speech",
+      "summary_en": "France has suspended the use of stun grenades by police at student-led demonstrations, the interior minister said Wednesday, as allegations of police brutality mounted after days of sometimes violent demonstrations across the country. Tens of thousands of people took to the streets across France on Tuesday demanding…",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 42,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261007-france-suspends-stun-grenade-use-at-student-protests-ahead-of-pm-speech",
+          "published_at": "2026-10-07T10:55:39+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-a32818871e9586f34a7569e3dc10a2ae6e4ec56612fd11d1768158dcf6ec0df2",
+      "title_en": "French government scrambles to calm nationwide student protests",
+      "summary_en": "The French government is looking to appease protesters after a week of high school student protests that spread across the nation. President Emmanuel Macron held a meeting Monday with his Prime Minister, Interior minister and Education minister in hopes of coming up with a solution to appease the protesters. But…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
@@ -149,47 +148,22 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261007-israel-marks-third-anniversary-of-october-7-attack-as-election-looms",
-          "published_at": "2026-10-07T02:14:22+00:00"
+          "url": "https://www.france24.com/en/video/20261007-french-government-scrambles-to-calm-nationwide-student-protests",
+          "published_at": "2026-10-07T10:54:38+00:00"
         }
       ]
     },
     {
-      "id": "evt-3981ada2b7622d6362e64853d87d184d29cfb9cddc4d5abd46078b2c1778dc85",
-      "title_en": "The Beaver Brown Waters of Rupert Bay",
-      "summary_en": "Dissolved organic matter and suspended sediment mingle in the southernmost extent of James Bay.",
-      "category": "other",
+      "id": "evt-ca1024d76d2ced447771c5bc4d72fe1b0038d4b09ee62da2a378aae12a980c25",
+      "title_en": "Houthis attack Aden airport as fighting intensifies in Yemen",
+      "summary_en": "Yemen's Houthis attacked Aden's international airport with ballistic missiles and explosive-laden drones on Wednesday, the country's Transport Ministry said, as fighting between the Iran-aligned group and Saudi-backed government forces intensified. Fighting has been focussed in recent days on areas around the Bab…",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20).",
-        "Age decay (-8)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/",
-          "published_at": "2026-10-06T04:01:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-4d5c5c99329eef41e07a6bbefcae8bb6cff55818c939b4fac4e572cd29c600e3",
-      "title_en": "How much does France spend on education?",
-      "summary_en": "Protests have been gripping France with students demanding better learning conditions and more equal opportunities. The education ministry is among the few that have been granted an increase in next year's draft budgets, but critics say it still doesn't catch up with inflation. We take a closer look. Plus, OpenAI has…",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 40,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -197,71 +171,22 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/business/20261006-how-much-does-france-spend-on-education",
-          "published_at": "2026-10-06T20:29:58+00:00"
+          "url": "https://www.france24.com/en/video/20261007-houthis-attack-aden-airport-as-fighting-intensifies-in-yemen",
+          "published_at": "2026-10-07T10:20:01+00:00"
         }
       ]
     },
     {
-      "id": "evt-532f7f239de29d812d8536c33ebcf1c2de5638fbffdb39891d7d7b294812e52c",
-      "title_en": "Kenya reports first-ever Ebola death",
-      "summary_en": "In tonight's edition, Kenya records its first Ebola death after a man travelled from the DRC via Uganda. Also, Comoros is tightening the rules on who can do business. In South Africa, concerns are growing that xenophobia and hostility toward foreign nationals could be driving African tourists away.",
-      "category": "economy_business",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 40,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/kenya-reports-first-ever-ebola-death",
-          "published_at": "2026-10-06T21:28:01+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-68b4708bb4a08a46ce05b930a456e619150353fd196d0aad26a35757a44be45b",
-      "title_en": "Russian lab worker’s death sparks plague fears as unverified claims spread online",
-      "summary_en": "The death of a 28-year-old Russian lab worker at Siberia’s Irkutsk Anti-Plague Institute has sparked online panic about a ‘plague’, despite the WHO assessing the public health risk in Russia as low. Unverified claims about how she became ill, including a laboratory accident involving a test tube, are circulating…",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 40,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/russian-lab-worker-s-death-sparks-plague-fears-as-unverified-claims-spread-online-1",
-          "published_at": "2026-10-06T20:58:31+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-70163ce7639e7c719648b15c73a24d134ba3a69c449f45976aa02effc53b14ba",
-      "title_en": "Trump says he will speak to Putin over reported plague death in Russia",
-      "summary_en": "US President Donald Trump said Tuesday he would speak “very soon” with Russian President Vladimir Putin over the reported plague death of a laboratory technician, as Washington and the World Health Organization pressed Moscow for greater transparency and clarity over conflicting accounts of the incident in Siberia.",
+      "id": "evt-ece9e10109e7a679c384c7e66179304a3af46fd6aa7323dd48f3fa6df2450ecd",
+      "title_en": "Trump to speak to Putin on plague as US, UN urge transparency",
+      "summary_en": "US President Donald Trump said Tuesday he would speak very soon with Russian President Vladimir Putin over the reported plague death of a laboratory technician, as Washington and the United Nations called for transparency from Moscow. Russian authorities denied that they were imposing anti-plague measures and played…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-2)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -269,47 +194,22 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/europe/20261006-trump-says-he-will-speak-to-putin-over-reported-plague-death-in-russia",
-          "published_at": "2026-10-06T22:51:48+00:00"
+          "url": "https://www.france24.com/en/video/20261007-trump-to-speak-to-putin-on-plague-as-us-un-urge-transparency",
+          "published_at": "2026-10-07T10:19:01+00:00"
         }
       ]
     },
     {
-      "id": "evt-5066fe6ce10fa74256c14f894e0b8672f12f8b46d8bbef0b3d67e40d93991534",
-      "title_en": "German ex-spy chief arrested for suspected espionage, treason",
-      "summary_en": "A former German spy chief was arrested Tuesday on suspicion of espionage and treason, an embarrassing case at a time when the country is seeking to broaden the powers of its intelligence agencies. August Hanning, who ran Germany's BND foreign intelligence agency from 1998 to 2005, is accused of espionage, treason and…",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 39,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-3)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/german-ex-spy-chief-arrested-for-suspected-espionage-treason",
-          "published_at": "2026-10-06T19:42:27+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-730ee001b3f7ea2d38fa159efa4929f923755fa13b4968fcce258f248851f942",
-      "title_en": "Brazil 'has moved to the right progressively over the last two decades', expert says",
-      "summary_en": "Senator Flavio Bolsonaro received on Monday endorsements ​from Ronaldo Caiado and Romeu Zema, two right-wing politicians who ran against him in Sunday's first-round vote, ​for ‌the runoff against President Luiz ⁠Inacio Lula da Silva later this month. Speaking with FRANCE 24's Sharon Gaffney, Anthony Pereira,…",
+      "id": "evt-edb002dd846e8c511feeec39fcfb482fdedefbce77cd31de1b062aae5b887baa",
+      "title_en": "Live: Israel marks three years since Hamas’s deadly October 7 attacks",
+      "summary_en": "Israel marks the third anniversary of Hamas's October 7, 2023 attack on Wednesday, just weeks before an election in which the deadliest day in the country's history will be front and centre. Memorial events are planned throughout the day to pay tribute to the scores of people killed by militants led by the Islamist… Israelis on Wednesday began commemorations for the victims of Hamas’s October 7, 2023 attacks, which killed 1,200 people and saw 251 hostages taken. This year – the third anniversary of the attacks – is the first time all the hostages or their remains are home. Follow our liveblog for the latest developments.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-3)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -317,29 +217,28 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/brazil-has-moved-to-the-right-progressively-over-the-last-two-decades-expert-says",
-          "published_at": "2026-10-06T17:03:02+00:00"
+          "url": "https://www.france24.com/en/middle-east/20261007-middle-east-live-houthis-target-airport-in-yemen-as-israel-marks-october-7-anniversary",
+          "published_at": "2026-10-07T02:46:40+00:00"
         },
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/a-propos/20261006-brazil-has-moved-to-the-right-progressively-over-the-last-two-decades-expert-says",
-          "published_at": "2026-10-06T17:05:39+00:00"
+          "url": "https://www.france24.com/en/video/20261007-israel-marks-three-years-since-hamas-s-october-7-attack",
+          "published_at": "2026-10-07T10:24:00+00:00"
         }
       ]
     },
     {
-      "id": "evt-7a7e97be2d05674ab3e8e5e1f7c63a40555f85b366f7822c89e346ff0aab2c33",
-      "title_en": "Police make seventh arrest over UK airbase incident",
-      "summary_en": "A seventh man was arrested Tuesday over a major incident last month at a British military airbase used by the United States to launch strikes on Iran, police said. The arrest came a day after President Donald Trump said the United States had withdrawn all B-1 bombers from RAF Fairford because of \"threats\" he believed…",
-      "category": "politics_security",
+      "id": "evt-fcb0eb76275ffa061bef9640c9bee0dca7aa10f539d010c0b712748df07ea9f4",
+      "title_en": "Cancer cases rising among young people, research finds",
+      "summary_en": "New major research has found that cases of several different types of cancer have risen sharply among young people in England, the United States, and the Netherlands. Researchers are not exactly sure why there has been such an increase, but say it could be linked to a growing rate of obesity, poor diets and a lack of…",
+      "category": "technology_science",
       "region": "north_america",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 42,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-3)."
+        "Highest source tier: 2 (+12)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -347,23 +246,23 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/police-make-seventh-arrest-over-uk-airbase-incident",
-          "published_at": "2026-10-06T19:51:46+00:00"
+          "url": "https://www.france24.com/en/video/20261007-cancer-cases-rising-among-young-people-research-finds",
+          "published_at": "2026-10-07T10:17:18+00:00"
         }
       ]
     },
     {
-      "id": "evt-85909c2b7f18d093b6d31ad130b90b1ca78a1e07c9e3d5009cf489e373890398",
-      "title_en": "France erupts overs schools: Why the violence surrounding surprise movement?",
-      "summary_en": "It’s a protest movement that a broke, lame-duck French government did not see coming. Civil servants this Tuesday joining high schoolers now in their third week of picketing over long-deteriorating classroom conditions. The usual recipe for wearing down movements in France has recently been to match eventual violence…",
+      "id": "evt-3bfd60845c362fb867bdcf2db945fff59293f78210ac1df8156522a188b39830",
+      "title_en": "Live: France suspends stun grenade use in school protests after 15-year-old loses hand",
+      "summary_en": "The French government has suspended the police use of stun grenades against protesting high school students, the interior minister announced Wednesday, after a teenager had his hand blown off up to the elbow by one fired by police. Eighteen internal probes have been launched in response to allegations of police…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 41,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12).",
-        "Age decay (-3)."
+        "Age decay (-1)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -371,32 +270,8 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/the-debate/20261006-france-erupts-overs-schools-why-the-violence-surrounding-surprise-movement",
-          "published_at": "2026-10-06T19:12:08+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-89937820dde18a74f433cf5d622d409b948d1d4c75fd06a99ad0fc6059efcf8c",
-      "title_en": "Tens of thousands demand better education in demonstrations across France",
-      "summary_en": "Tens of thousands of demonstrators took to the streets across France on Tuesday, as unions and teachers joined high school students who for days have been demanding better learning conditions in protests punctuated by violent confrontations.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 38,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-4)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261006-tens-of-thousands-demand-better-education-in-demonstrations-across-france",
-          "published_at": "2026-10-06T16:04:34+00:00"
+          "url": "https://www.france24.com/en/france/20261007-live-france-suspends-stun-grenade-use-school-protests-after-15-year-old-loses-hand",
+          "published_at": "2026-10-07T07:47:49+00:00"
         }
       ]
     }
