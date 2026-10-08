@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "date": "2026-10-07",
-  "generated_at": "2026-10-07T22:52:18+00:00",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T05:03:25+00:00",
   "is_underfilled": false,
   "events": [
     {
@@ -11,10 +11,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 48,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20)."
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -34,10 +35,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 48,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20)."
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -57,10 +59,11 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 48,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 1 (+20)."
+        "Highest source tier: 1 (+20).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -80,11 +83,11 @@
       "category": "technology_science",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 46,
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 1 (+20).",
-        "Age decay (-2)."
+        "Age decay (-4)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -98,9 +101,153 @@
       ]
     },
     {
-      "id": "evt-02ab1aff03aa98fa5fa99868c15fef1f7470a342b050ee59094a02efe57784cb",
-      "title_en": "French PM vows to address debt despite student protests",
-      "summary_en": "French Prime Minister Sebastien Lecornu has tried to calm both student protesters and jittery bond markets. In an address to the nation, Lecornu stressed that the education ministry had not seen any cuts in last week's budget proposal, but insisted the government must cut its public deficit to 5%. There are growing…",
+      "id": "evt-216d2b7346a7733a33c522e1ce66ea863bb02b93da1fec9ae2bc229a9b4a87e2",
+      "title_en": "‘No plague case’ in Siberia, Russia tells WHO as assessments continue",
+      "summary_en": "Health authorities in Russia say there is “no plague case” in Siberia following reports last week that a lab technician had died of pneumonia of an unknown origin in the region, World Health Organization (WHO) officials said on Wednesday.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-5)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168547",
+          "published_at": "2026-10-07T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-277925354753dd5329639ad6f47e7b639c42b6e2dc6fdba56a51bdd184663928",
+      "title_en": "World News in Brief: Child migrants in Europe, Greenland forced contraception scandal, FAO hunger updates",
+      "summary_en": "New data on child migrants published on Wednesday highlighted the harrowing treatment many face while travelling to Europe in search of work and shelter.",
+      "category": "other",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-5)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168546",
+          "published_at": "2026-10-07T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-3b2bfd38a12d7ce42270b653da024845a9bc97b07bdc8b5213359b88ef632c8b",
+      "title_en": "Reform, or lose trust: Governments press the UN to reflect the world as it is",
+      "summary_en": "Can the UN still remain relevant if it still looks and acts like the organization it was when it was formed in 1945? The debate over UN reform at the General Assembly in New York last month produced a striking common refrain from a diverse range of Member States.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-5)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168540",
+          "published_at": "2026-10-07T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-550784032efec47586a08e8464ef2956ea4927b674d82c1df66600552a9c6165",
+      "title_en": "WHO releases first global guidelines on child obesity as cases surge",
+      "summary_en": "Child and adolescent obesity has quadrupled since 1990, rising from two per cent to around eight per cent of youngsters in the five-to-19 age group, according to the UN World Health Organization (WHO).",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-5)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168536",
+          "published_at": "2026-10-07T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-cbd149398709faf96f9e95fe281e58955e9e36850360c0112bed7ffd8333fc9e",
+      "title_en": "Kenya races to trace all contacts after first Ebola death, WHO official says",
+      "summary_en": "Kenya’s first Ebola death has triggered a race to trace everyone the victim came into contact with, as the United Nations and partners provide full support, the World Health Organization’s (WHO) top official in the country has told UN News in her first interview on the case.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-5)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168542",
+          "published_at": "2026-10-07T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-f743bd026a7bf08ac53a5e9cbe09ae516e0e24e5453dd8ae3bec9a7220c981eb",
+      "title_en": "Critical funding gap threatens health response in Yemen",
+      "summary_en": "The World Health Organization (WHO) warned that significantly more resources are required to scale up its response in Yemen amid escalating conflict and rising needs.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 1 (+20).",
+        "Age decay (-5)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168541",
+          "published_at": "2026-10-07T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-e9bb19878d4db630947186303fd13ea2af2b72e39684b8a2092b832ec3aeeb36",
+      "title_en": "Live: French high school, university students call for fresh protests as funding demands grow",
+      "summary_en": "French high school and university students were called out to protest again on Thursday, two days after a large turnout demanding more funding, as the government made a series of conciliatory gestures aimed at ending the crisis. Follow our liveblog for all the latest developments.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
@@ -108,6 +255,30 @@
       "score_reasons": [
         "Base score: 30.",
         "Highest source tier: 2 (+12)."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/france/20261008-live-students-fourth-round-protests-education-funding-france",
+          "published_at": "2026-10-08T03:28:21+00:00"
+        }
+      ]
+    },
+    {
+      "id": "evt-02ab1aff03aa98fa5fa99868c15fef1f7470a342b050ee59094a02efe57784cb",
+      "title_en": "French PM vows to address debt despite student protests",
+      "summary_en": "French Prime Minister Sebastien Lecornu has tried to calm both student protesters and jittery bond markets. In an address to the nation, Lecornu stressed that the education ministry had not seen any cuts in last week's budget proposal, but insisted the government must cut its public deficit to 5%. There are growing…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 40,
+      "score_reasons": [
+        "Base score: 30.",
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -127,10 +298,11 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 2 (+12).",
+        "Age decay (-2)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -144,194 +316,70 @@
       ]
     },
     {
-      "id": "evt-437af565377a408ba9608ab06f812b3ac5e4d08e3f2d4951a96af63aa0a2f48e",
-      "title_en": "DNC sues Trump administration over taxpayer-funded TV ads promoting president",
-      "summary_en": "The Democratic National Committee sued President Donald Trump’s administration on Wednesday over taxpayer-funded television ads promoting his political message, alleging illegal government propaganda. The lawsuit seeks to halt federal funding for the ads, which have cost more than $12 million to air ahead of…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/americas/20261007-dnc-sues-trump-administration-taxpayer-funded-tv-ads",
-          "published_at": "2026-10-07T22:27:23+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-5ff428043dd510656baebc34d61d17dada7b6fbd55a7cee44a7d41fa139f2985",
-      "title_en": "France schools protests: more than 6,000 arrested since start of demonstrations",
-      "summary_en": "After more than two weeks of high school protests across France, police have arrested a total of 6,100 individuals, the majority of whom are minors who, until now, had no previous criminal record. So, what has happend to these students, and what lies ahead for them? FRANCE 24's Caitlin Brown has more.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/france-schools-protests-more-than-6-100-arrested-since-start-of-demonstrations",
-          "published_at": "2026-10-07T20:17:55+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-69659bf488a263b22bb006b42f7eb23e69b35c8823bc3363f79184331d5a7772",
-      "title_en": "Israel marks three years since October 7 attack ahead of elections",
-      "summary_en": "Israel marked the third anniversary of Hamas’s October 7 attack on Wednesday with silent tributes and renewed strikes on Gaza as political debate intensified ahead of elections. Families gathered at the Nova festival site and Kfar Aza kibbutz. Gaza officials said strikes killed five people despite a year-old…",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261007-israel-three-years-october-7-attack-elections",
-          "published_at": "2026-10-07T21:50:07+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-919913c7dcd446ece290b9098f33cb38b9480ede326114f453a83ebc031043c5",
-      "title_en": "UN health agency wants more details from Russia on suspected pneumonic plague case",
-      "summary_en": "A top official with the World Health Organization said Wednesday it doesn’t know how a lab worker in Siberia died, and she urged Russia to provide more information about a case that prompted global concerns about suspected pneumonic plague. FRANCE 24's Monte Francis reports.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/un-health-agency-wants-more-details-from-russia-on-suspected-pneumonic-plague-case",
-          "published_at": "2026-10-07T21:24:45+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-9c4dd0a7e4516bd1b944d3fda623d0af12c3e266ab55d4e7dd15aef779acb98d",
-      "title_en": "France suspends stun grenade use at student protests after pupil loses hand",
-      "summary_en": "France has suspended the use of stun grenades by police at student-led demonstrations, the interior minister said Wednesday, as allegations of police brutality mounted after days of sometimes violent demonstrations across the country. Tens of thousands of people took to the streets across France on Tuesday demanding…",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/france-suspends-stun-grenade-use-at-student-protests-after-pupil-loses-hand",
-          "published_at": "2026-10-07T21:19:20+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-d3db586521c9618d51dd20934ae43b543b1d41cddbe8e5a838935c10ce287cfd",
-      "title_en": "Africa joins the data center backlash",
-      "summary_en": "In tonight's edition, witnesses say Eritrean troops have moved into Ethiopia's Tigray region, but Asmara rejects the reports. Also, the African Union launches the Africa Credit Rating Agency, aiming to assess the financial health of African states and companies. And South African civil society is pushing back against…",
-      "category": "society_health_environment",
+      "id": "evt-83ae8667403976f6f20e84fc357deeadee1946946944ce3ff217b4c35b8c4204",
+      "title_en": "When streets become pharmacies: Booming illicit markets in Central Africa",
+      "summary_en": "Antibiotics, malaria treatments, painkillers, opioids. More than 250 tonnes of medical products were seized over six years in Central Africa. Behind those numbers is an illicit market that thrives not simply despite the region’s fragile health systems, but in part because of them.",
+      "category": "economy_business",
       "region": "africa",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 37,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12)."
+        "Highest source tier: 1 (+20).",
+        "Age decay (-13)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/africa-joins-the-data-center-backlash",
-          "published_at": "2026-10-07T20:37:55+00:00"
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168527",
+          "published_at": "2026-10-06T12:00:00+00:00"
         }
       ]
     },
     {
-      "id": "evt-131a1d41d26a55aa4dafc388ac70eca49607cd9bf36a29490dd1767332b9f149",
-      "title_en": "Trump says 'we don't think' Russian plague is bio-weapon",
-      "summary_en": "US President Donald Trump said Wednesday that the death of a Russian plague laboratory worker did not appear to be linked to a biological weapon. \"We don't think so. We're going to find out soon enough, but we don't think so,\" Trump told reporters in the Oval Office when asked if a \"bio-weapon\" was involved. Russia…",
+      "id": "evt-8ee5f5f7ca20ff7b3e4d0cb037c48faf3b8fc61705e93b9f9874f7b7dea5f1c4",
+      "title_en": "In Islamabad, Guterres calls for end to US-Iran conflict",
+      "summary_en": "The UN Secretary-General appealed on Tuesday for an end to the United States-Iran war and the toll it has taken on global trade, as he began an official visit to Pakistan.",
       "category": "politics_security",
-      "region": "global",
+      "region": "north_america",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 37,
       "score_reasons": [
         "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
+        "Highest source tier: 1 (+20).",
+        "Age decay (-13)."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/trump-says-we-don-t-think-russian-plague-is-bio-weapon",
-          "published_at": "2026-10-07T19:04:48+00:00"
-        }
-      ]
-    },
-    {
-      "id": "evt-381d31556e4596abc04deb88fe8be1fe828f61ab6b8c7ffedc40b921e1ef9bea",
-      "title_en": "Evicted pensioner Maricarmen Abascal, heart of Spain's housing protests, dies",
-      "summary_en": "Maricarmen ​Abascal, the 87-year-old woman whose eviction sparked housing ​protests in Spain, has died, Madrid's tenants' union said on Wednesday. Massive protests following Abascal's eviction spiralled into a political crisis, eventually leading Prime Minister Pedro Sanchez to call a snap election.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Base score: 30.",
-        "Highest source tier: 2 (+12).",
-        "Age decay (-1)."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/europe/20261007-evicted-pensioner-maricarmen-abascal-heart-of-spain-housing-protests-has-died",
-          "published_at": "2026-10-07T19:19:07+00:00"
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168532",
+          "published_at": "2026-10-06T12:00:00+00:00"
         }
       ]
     }
   ],
   "source_errors": [
-    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168530 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168529 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168528 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168526 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168522 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168521 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168520 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168519 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168518 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168517 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168492 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168507 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168469 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168516 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168515 rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors rejected: stale publication date",
