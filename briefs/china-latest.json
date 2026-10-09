@@ -1,21 +1,46 @@
 {
   "schema_version": 1,
   "edition": "china",
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T12:46:17+00:00",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-09T22:23:49+00:00",
   "is_underfilled": true,
   "events": [
     {
-      "id": "evt-625b25cf5a88db1e26e1ac9758c7295009e596a0aabe3e2059eee50ee28c6429",
-      "title_en": "‘It gave me a superpower – question everything’: ​as punk turns 50, bands from China to Greenland explain how it fires up their lives",
-      "summary_en": "Whether on the frontline in Ukraine or skate parks in Soweto, the genre is still a vital outlet for disaffected people everywhere. Here, musicians explain how they rage against the machine Andriy Zholob, vocalist/guitarist, Beton: When MTV arrived in Ukraine, I heard Nirvana, the Offspring, Bad Brains, Social…",
-      "category": "other",
+      "id": "evt-3187c476924f30bcc26be669d8931dd789cb22520cfb3f783face50d993a754c",
+      "title_en": "China agrees to ‘halve’ hybrid car exports to EU in landmark deal",
+      "summary_en": "Brussels says Beijing’s shipments could fall by more than half over four years, cutting millions of vehicles amid fears for European jobs The EU said it has reached a landmark deal with China to “halve” its sales of hybrid cars in the bloc amid fears surging sales could kill off parts of the European car industry.…",
+      "category": "economy_business",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 46,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.656×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 7.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_business",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal",
+          "published_at": "2026-10-09T15:05:57+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-52d97ffb9279058e22b7cc09c89b61f43674d471552c873cf2abd5d76fe48648",
+      "title_en": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
+      "summary_en": "Commissioner Stéphane Séjourné says bloc will support 46 strategic projects including lithium and rare earths plants The EU is “pulling out all the stops” to fend off an imminent potential trade crisis with China, the industry commissioner, Stéphane Séjourné, has said, as the bloc announced its backing for a string…",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 45,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.717×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 5.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.599×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 8.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -23,8 +48,8 @@
         {
           "source_id": "guardian_china",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/music/2026/oct/09/global-bands-on-how-punk-fires-up-their-lives",
-          "published_at": "2026-10-09T07:00:41+00:00",
+          "url": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war",
+          "published_at": "2026-10-09T13:31:04+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
@@ -37,10 +62,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.553×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 10.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.317×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 19.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -56,16 +81,16 @@
       ]
     },
     {
-      "id": "evt-935b991ba73cb6c89616126088f4430e0df4dd40687d9fd63122d20a8e2abddc",
-      "title_en": "Chinese commerce minister meets with EU trade chief in Beijing",
-      "summary_en": "Chinese Commerce Minister Wang Wentao on Thursday held a meeting with European Commissioner for Trade and Economic Security Maros Sefcovic in Beijing.",
-      "category": "politics_security",
-      "region": "europe",
+      "id": "evt-94774fed37b3013e83a83dc63edd05019b531a25b0c81e74e9763bce8e9ce65e",
+      "title_en": "China warns Philippines to cease provocations, false claims",
+      "summary_en": "The China Coast Guard (CCG) on Thursday warned the Philippine side to immediately stop its infringements, provocations and false claims after a Philippine Coast Guard vessel transported an injured person from a grounded vessel near Ren'ai Jiao.",
+      "category": "other",
+      "region": "global",
       "sports_tags": [],
-      "importance_score": 35,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.245×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 24.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.281×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 22.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -73,35 +98,10 @@
         {
           "source_id": "cgtn_china",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-08/Chinese-commerce-minister-meets-with-EU-trade-chief-in-Beijing-1R4VxG03528/p.html",
-          "published_at": "2026-10-08T12:26:34+00:00",
+          "url": "https://news.cgtn.com/news/2026-10-09/China-warns-Philippines-to-cease-provocations-false-claims-1R5L2r0pPyw/p.html",
+          "published_at": "2026-10-09T00:26:13+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-c13d78188a7e29612667d5426b935eca583cdcf721c4a8f173ee2c56caa05e7c",
-      "title_en": "China’s succession crisis: a generation of entrepreneurs is retiring, but are their children ready to take over?",
-      "summary_en": "Family run private businesses helped power China’s economic miracle, but the next generation is finding it difficult to carry on the work of their parents Growing up, Ayu would watch his parents put together hand made leather shoes on the ground floor of their three storey home in the Chinese city of Wenzhou. Their…",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.115×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 37.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_china",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/08/china-succession-crisis-factory-workers-manufacturing-family-businesses",
-          "published_at": "2026-10-07T23:19:03+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
         }
       ]
     }
@@ -122,13 +122,7 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168532 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168531 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168527 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168530 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168529 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168528 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168526 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168522 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168521 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168520 rejected: stale publication date",
+    "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars rejected: stale publication date",
@@ -155,9 +149,9 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/sounds/play/w3ct8gly?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c617kl241z91o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -191,8 +185,12 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/oct/02/weather-tracker-eastern-spain-torrential-rain-flooding-nepal-landslides rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/moment-karl-deisseroth-tells-his-family-he-won-the-nobel-prize-in-medicine-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/society/2026/oct/07/gene-therapy-can-partly-restore-sight-in-blind-people-researchers-reveal rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/world/2026/oct/07/who-says-it-does-not-have-full-picture-from-russia-following-suspected-plague-death rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/jonathan-the-giant-tortoise-194-offers-up-insight-into-secrets-of-longevity rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/20/the-guardian-view-on-ai-v-mathematicians-humans-are-still-vital-to-the-field-but-tech-firms-refuse-to-see-that rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/17/take-good-care-of-your-tailbone-i-didnt-my-derriere-has-never-been-the-same rejected: stale publication date",
@@ -203,20 +201,19 @@
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/14/did-you-solve-it-do-you-have-the-brain-of-an-engineer rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/14/can-you-solve-it-do-you-have-the-brain-of-an-engineer rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/this-is-what-the-2026-nobel-prize-for-chemistry-is-all-about rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/05/nobel-prize-in-medicine-2026-unlocking-the-mysteries-of-the-brain rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/02/scientists-could-one-day-remove-your-bad-memories-heres-how rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/07/trump-steel-plant-iowa-skepticism rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/07/washington-state-millionaire-tax rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/oct/04/trump-communism-republicans rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/07/canada-weston-family-buys-boots-uk rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/uk-news/2026/oct/04/violence-rail-workers-passengers-risk-assaults-uk-railways-soar-record-high-transport rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/world/2026/oct/07/satellite-images-attack-jets-china-military-facility-laos rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/us-news/2026/oct/05/wanying-zhang-fbi-arrest-china-spy-taiwan rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing rejected: stale publication date",
@@ -231,9 +228,6 @@
     "guardian_china: entry https://www.theguardian.com/business/2026/sep/28/china-and-us-cut-reciprocal-tariffs rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/world/2026/sep/26/france-statue-of-liberty-china-pandas-what-do-diplomatic-gifts-mean-and-how-do-you-choose-one rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/news/ng-interactive/2026/sep/25/trump-lashes-out-un-fed-supreme-court rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/world/2026/sep/26/dream-come-true-six-year-old-rubiks-cube-world-record rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-06/Chaka-Salt-Lake-welcomes-National-Day-holiday-crowds-1R1iq1uWzBe/p.html rejected: stale publication date",
     "cgtn_china: entry https://newsus.cgtn.com/news/2026-10-07/Atlanta-zoo-to-debut-new-pandas-and-habitat--1R2e8bQYiNq/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-06/CMG-documentary-reveals-China-s-crackdown-on-telecom-fraud-in-Myanmar-1R1C0jdaJlm/p.html rejected: stale publication date",
