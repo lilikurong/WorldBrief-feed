@@ -2,20 +2,20 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-10-10",
-  "generated_at": "2026-10-10T04:51:54+00:00",
+  "generated_at": "2026-10-10T12:04:33+00:00",
   "is_underfilled": false,
   "events": [
     {
       "id": "evt-cf7a10462cc6327d8b9d6ca0b332b05444db6494f9a8e4c6ac95ee54dd4f6f66",
       "title_en": "Nobel Prize in Peace 2026 awarded to Navi Pillay",
-      "summary_en": "In tonight's programme, South African judge and human rights champion Navi Pillay has been awarded the Nobel Peace Prize. Also in Kenya health officials in Nairobi are still racing to track dozens of people linked to the man who died from the virus earlier this week. And finally, Moroccan-British photographer Hassan… Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza. The… The…",
+      "summary_en": "In tonight's programme, South African judge and human rights champion Navi Pillay has been awarded the Nobel Peace Prize. Also in Kenya health officials in Nairobi are still racing to track dozens of people linked to the man who died from the virus earlier this week. And finally, Moroccan-British photographer Hassan… Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza. The… Former…",
       "category": "politics_security",
       "region": "africa",
       "sports_tags": [],
-      "importance_score": 77,
+      "importance_score": 71,
       "score_reasons": [
-        "Weighted score: impact=1.000×0.35, coverage=1.000×0.25, freshness=0.189×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: nobel_award; independent publisher groups: 6; age: 28.9h.",
+        "Weighted score: impact=1.000×0.35, coverage=0.792×0.25, freshness=0.124×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: nobel_award; independent publisher groups: 3; age: 36.1h.",
         "Significance: nobel_award; An announced Nobel award recognizes a major contribution with international significance."
       ],
       "importance_text_en": "Rule-based significance: An announced Nobel award recognizes a major contribution with international significance.",
@@ -30,22 +30,6 @@
           "publisher_group": "nobel"
         },
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168558",
-          "published_at": "2026-10-09T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "un_news"
-        },
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
-          "published_at": "2026-10-09T15:07:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        },
-        {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
@@ -54,76 +38,84 @@
           "publisher_group": "guardian"
         },
         {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T17:37:10+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        },
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
-          "published_at": "2026-10-09T20:29:30+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        },
-        {
           "source_id": "france24",
           "publisher": "France 24",
           "url": "https://www.france24.com/en/south-african-judge-awarded-nobel-peace-prize",
           "published_at": "2026-10-09T21:53:23+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-791ddc8ae4df38534ad52cc41612954de0047a036e2c938181a0e83bb1317402",
-      "title_en": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-      "summary_en": "The 2026 Nobel Peace Prize was awarded to South African Navanethem “Navi” Pillay on Friday, October 9, 2026. The 85-year-old South Africa-born served as United Nations High Commissioner for Human Rights and chair of the Independent International Commission of Inquiry on the Occupied Palestinian Territories. BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza.",
-      "category": "politics_security",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 70,
-      "score_reasons": [
-        "Weighted score: impact=1.000×0.35, coverage=0.500×0.25, freshness=0.461×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: nobel_award; independent publisher groups: 2; age: 13.4h.",
-        "Significance: nobel_award; An announced Nobel award recognizes a major contribution with international significance."
-      ],
-      "importance_text_en": "Rule-based significance: An announced Nobel award recognizes a major contribution with international significance.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T15:26:33+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
         },
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261009-2026-nobel-peace-prize-who-is-navanethem-navi-pillay",
-          "published_at": "2026-10-09T15:47:45+00:00",
+          "url": "https://www.france24.com/en/video/20261010-navanethem-navi-pillay-wins-the-nobel-peace-prize",
+          "published_at": "2026-10-10T09:25:54+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-0360944089cb68a462c5e7b3ba33c3da7e4314ee2ec9f190c7f677d622fed340",
-      "title_en": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
-      "summary_en": "Ukraine bombed a Russian fuel site, hours after US President Trump and Russian President Putin announced a diesel deal.",
+      "id": "evt-c2ef81cd027aab489210d54a033844b077eb87c805f153e0505225cac32044d7",
+      "title_en": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
+      "summary_en": "US president says agreement needed to lower American fuel prices, but move likely to create fresh crisis with Ukraine and Nato allies Donald Trump was on a fresh collision course with the Ukrainian president, Volodymyr Zelenskyy, and European allies after a stunning agreement to buy Russian diesel, upending years of…",
       "category": "politics_security",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.895×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
+          "published_at": "2026-10-10T10:09:46+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-d682cd55b06e19caf4ba2bcd84a48769a68bca24b04f4ac9568339cedc75d34e",
+      "title_en": "UK must not be beholden to foreign AI, says head of Alan Turing Institute",
+      "summary_en": "George Williamson says ‘national resilience’ is key focus of ATI amid US and China’s runaway leadership in field The UK must not become dependent on foreign AI systems that can be switched off at short notice and must develop its own versions of the technology, according to the head of the Alan Turing Institute. The…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.888×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson",
+          "published_at": "2026-10-10T10:00:55+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-387c7f08cc27b2e6c6754724ec291b8c750a00d3543d7829a1597085a4d239d4",
+      "title_en": "Exposing an alleged crime kingpin’s Cambodian empire",
+      "summary_en": "In an exclusive investigation, 101 East goes undercover in Cambodia to expose the empire of an alleged crime kingpin.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.980×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.967×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -131,10 +123,135 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip?traffic_source=rss",
-          "published_at": "2026-10-10T04:30:34+00:00",
+          "url": "https://www.aljazeera.com/video/101-east/2026/10/10/exposing-an-alleged-crime-kingpins-cambodian-empire?traffic_source=rss",
+          "published_at": "2026-10-10T11:30:00+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-84b6559fa2dd3177bc7cfd1bed814d774cfc35c43a14d5f937d1ed5137585760",
+      "title_en": "Manchester City whistleblower Rui Pinto to remain under police protection",
+      "summary_en": "Pinto's lawyers recently denounced irregularities in the proceedings, highlighting the real threats facing their client.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.953×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/10/manchester-city-whistleblower-rui-pinto-to-stay-under-police-protection?traffic_source=rss",
+          "published_at": "2026-10-10T11:14:13+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-a28c2cdb0441509aa7cd17bd6169285f5dcfd46b5011ce961f83427c895e9d25",
+      "title_en": "How drones are hunting fires hidden beneath the Cairngorms",
+      "summary_en": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.863×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_science",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-10T09:31:14+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-76b12c1ad495068700dc687685e9b2a677f8d4163e78863bef91aca049bdf380",
+      "title_en": "India's 'cockroach' movement: \"This is unprecedented\"",
+      "summary_en": "Indian police detained Abhijeet Dipke, head of the satirical Cockroach Janta Party (CJP) movement, on Saturday ahead of a major protest against the Election Commission, the party said. \"This is unprecedented,\" our guest Subir Sinha, director of the SOAS South Asia Institute, says.",
+      "category": "politics_security",
+      "region": "asia_pacific",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.854×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261010-india-s-cockroach-movement-this-is-unprecedented",
+          "published_at": "2026-10-10T09:20:21+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-acbc653382f50fc11eada8454814982bd7cc9f4defa2c06cd037d150932893e7",
+      "title_en": "France: Scientists conduct microgravity experiments on parabolic flights",
+      "summary_en": "This week in Bordeaux, the CNES, the French space agency, launched a microgravity research campaign with scientists from all over the world. It gave them the opportunity to conduct experiments in weightlessness during parabolic flights aboard a specially equipped Airbus, without having to send their equipment into…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.850×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261010-france-scientists-conduct-microgravity-experiments-on-parabolic-flights",
+          "published_at": "2026-10-10T09:15:56+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-5b2abdd9e4b7a42ad91bf26ad02759d3666c153abc9c8e7d137302dd2e76a713",
+      "title_en": "APOD: 2026 October 10 – Lunar Farside",
+      "summary_en": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.630×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 8.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+          "published_at": "2026-10-10T04:05:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
         }
       ]
     },
@@ -145,10 +262,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.883×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.582×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 9.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -164,91 +281,16 @@
       ]
     },
     {
-      "id": "evt-48929a209e16a28e0671990cdd6e7398bc3d848e4807b64fd0999390e8f66aef",
-      "title_en": "Commentator Katie Zacharia picked as new White House press secretary",
-      "summary_en": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-      "category": "technology_science",
+      "id": "evt-c1a9947420f61101f6e0c3cc5f0194255fde40ad530baccbe9f54684963fbd31",
+      "title_en": "Putin, Trump hold phone talks on Ukraine crisis, energy supply",
+      "summary_en": "Russian President Vladimir Putin held a telephone conversation with US President Donald Trump on Friday, during which considerable attention was paid to prospects for resolving the Ukraine crisis, the Kremlin said.",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 40,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.700×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 6.2h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-09T22:41:21+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-ac37d9dfdbccffd38dbc3e98daf6474ef8d25a815302ac74c670b9a6697603e7",
-      "title_en": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-      "summary_en": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers A controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr,…",
-      "category": "technology_science",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 46,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.657×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 7.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
-          "published_at": "2026-10-09T21:36:18+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-fd19099d7648ef211d1672e9c0981c8e62390ccf37700a535dd111c68a451db2",
-      "title_en": "Israeli drone attack wounds six in Lebanon near Syria border",
-      "summary_en": "Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon's health authorities say.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 46,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.772×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border?traffic_source=rss",
-          "published_at": "2026-10-10T00:22:52+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-58b55e01c26c4ec35566ec3d57f377358c44e83181baa6748d21568118a5d1a7",
-      "title_en": "US sanctions on ICC draw criticism from UN, member states",
-      "summary_en": "UN Secretary-General António Guterres and foreign ministers of eight countries on Friday criticized the US announcement of sanctions against the International Criminal Court.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 45,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.713×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 5.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.471×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 13.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -256,8 +298,8 @@
         {
           "source_id": "cgtn_world",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-10/news-1R7mNT6P2fK/p.html",
-          "published_at": "2026-10-09T23:00:30+00:00",
+          "url": "https://news.cgtn.com/news/2026-10-10/news-1R7mVQzBS1y/p.html",
+          "published_at": "2026-10-09T23:02:18+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -270,10 +312,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 44,
+      "importance_score": 40,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.540×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 10.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.356×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 17.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -289,172 +331,34 @@
       ]
     },
     {
-      "id": "evt-05ed6fc9a720fc0e6ed71eacb272c38a284b5116a2d7d009f5399e73e12b6483",
-      "title_en": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-      "summary_en": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 43,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.504×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 11.9h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
-          "published_at": "2026-10-09T16:59:24+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-0a0976d62818c4888e53cae85fd41fad289d5c213c26e5a0ade26b62d0e903e3",
-      "title_en": "Paris court jails Indian man for leading sadist neo-Nazi cult that tortured girls",
-      "summary_en": "A 29-year-old Indian man was sentenced to 20 years in prison Friday in a Paris trial over his alleged involvement in an international criminal network that targeted vulnerable children in the US, Britain and Canada and coerced them into producing violent and sexual videos.",
-      "category": "other",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.591×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 9.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/france/20261009-paris-court-jails-indian-man-for-leading-sadist-neo-nazi-cult-that-tortured-girls",
-          "published_at": "2026-10-09T19:45:41+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-24822f5170293a4ccda848d41e674a288e37d8e4c2765240149d979b10aa277f",
-      "title_en": "Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war",
-      "summary_en": "US President Donald Trump said Friday that Russia had agreed to immediately supply more than 300,000 tonnes of diesel to US and global markets in an effort to cut fuel prices before November's midterm elections. The move marks a stunning change of policy after the US and its allies hit Russia with waves of sanctions…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.599×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 8.9h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war",
-          "published_at": "2026-10-09T20:00:24+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-3187c476924f30bcc26be669d8931dd789cb22520cfb3f783face50d993a754c",
-      "title_en": "China agrees to ‘halve’ hybrid car exports to EU in landmark deal",
-      "summary_en": "Brussels says Beijing’s shipments could fall by more than half over four years, cutting millions of vehicles amid fears for European jobs The EU said it has reached a landmark deal with China to “halve” its sales of hybrid cars in the bloc amid fears surging sales could kill off parts of the European car industry.…",
-      "category": "economy_business",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.452×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 13.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_business",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal",
-          "published_at": "2026-10-09T15:05:57+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-95e08d5574d0783d16ffa828733509d806cc8aaa8f0cf96aabadc2f5b368039c",
-      "title_en": "Global trade reaches record $35 trillion despite conflicts",
-      "summary_en": "World trade reached a record $35 trillion in 2025 – but developing countries were held back from greater participation in the global economy because of new technological and policy barriers, the UN trade and development agency UNCTAD said on Friday.",
+      "id": "evt-eb8251b466150710e3b3472d3fc95666c3d159d270e9aa2c5fcfc7f20cc8a25f",
+      "title_en": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+      "summary_en": "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 39,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.378×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 16.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.289×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 21.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168566",
-          "published_at": "2026-10-09T12:00:00+00:00",
+          "source_id": "bbc_business",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-09T14:36:35+00:00",
           "published_precision": "second",
-          "publisher_group": "un_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-85b39de47969be92257cd3270ba7d9cb08babc4a93238079b7d2095a7ff115a7",
-      "title_en": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
-      "summary_en": "UN human rights chief Volker Türk said on Thursday he was appalled by a wave of attacks that have killed civilians across Ukraine over the past four days.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.094×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 40.9h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168557",
-          "published_at": "2026-10-08T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "un_news"
+          "publisher_group": "bbc"
         }
       ]
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168548 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168547 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168546 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168542 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168541 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168540 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168536 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168538 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168539 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168537 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168535 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168533 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168532 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168531 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168527 rejected: stale publication date",
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
+    "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile rejected: stale publication date",
@@ -469,10 +373,12 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cwvgrx5ner6go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -487,7 +393,10 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/sounds/play/w3ct8gly?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/cmd6dv1446lno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/videos/c8p3gzenvylyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/ckzd65665q1yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c617kl241z91o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -529,8 +438,7 @@
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/moment-karl-deisseroth-tells-his-family-he-won-the-nobel-prize-in-medicine-video rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/07/gene-therapy-can-partly-restore-sight-in-blind-people-researchers-reveal rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/world/2026/oct/07/who-says-it-does-not-have-full-picture-from-russia-following-suspected-plague-death rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/jonathan-the-giant-tortoise-194-offers-up-insight-into-secrets-of-longevity rejected: stale publication date",
@@ -547,6 +455,7 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/this-is-what-the-2026-nobel-prize-for-chemistry-is-all-about rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/05/nobel-prize-in-medicine-2026-unlocking-the-mysteries-of-the-brain rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/07/trump-steel-plant-iowa-skepticism rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/07/washington-state-millionaire-tax rejected: stale publication date",
