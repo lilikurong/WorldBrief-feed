@@ -2,33 +2,125 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-10-11",
-  "generated_at": "2026-10-11T04:38:29+00:00",
+  "generated_at": "2026-10-11T12:18:14+00:00",
   "is_underfilled": false,
   "events": [
     {
+      "id": "evt-2cbb43e0d727c06c990531325cc45e1f6654714d98542c144ee3b79347fa588b",
+      "title_en": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
+      "summary_en": "US president Donald Trump says he is weighing whether the US will join Saudi strikes against the Iran-backed Houthis The Guardian’s diplomatic correspondent Patrick Wintour has offered some context on the latest between the Houthis and the Saudi kingdom. Saturday’s incident comes amid an escalation of missile strikes…",
+      "category": "politics_security",
+      "region": "middle_east",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.959×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+          "published_at": "2026-10-11T11:34:25+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-a8d3736757b9963778b9b164dc007f1a1009e058d471b8d4e66e8bed267620fd",
+      "title_en": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "summary_en": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.938×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T11:11:42+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-05b1a40fd2209404c64c578d54a8ae04e5ffdb335f3a54175be97a6b0cc5a5aa",
+      "title_en": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
+      "summary_en": "Search and rescue operations conducted after vessel carrying more than 300 people capsizes near Guhere.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.959×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
+          "published_at": "2026-10-11T11:34:40+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-12b705f6e616a1bb06e8557009f8c352a3b0d86217a3a185481cda15a67d0201",
+      "title_en": "Trump’s brash remarks entertain crowd at election rally in Tennessee",
+      "summary_en": "US President Donald Trump told his supporters they would applaud anything he says.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.966×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trumps-brash-remarks-entertain-crowd-at-election-rally-in-tennessee?traffic_source=rss",
+          "published_at": "2026-10-11T11:42:50+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
       "id": "evt-cf7a10462cc6327d8b9d6ca0b332b05444db6494f9a8e4c6ac95ee54dd4f6f66",
-      "title_en": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize",
-      "summary_en": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza. The… South African jurist and former UN High Commissioner for Human Rights Navi Pillay was on Friday announced as the winner of the 2026 Nobel Peace Prize.",
+      "title_en": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "summary_en": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza. The…",
       "category": "politics_security",
       "region": "africa",
       "sports_tags": [],
-      "importance_score": 63,
+      "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=1.000×0.35, coverage=0.500×0.25, freshness=0.096×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: nobel_award; independent publisher groups: 2; age: 40.6h.",
+        "Weighted score: impact=1.000×0.35, coverage=0.000×0.25, freshness=0.080×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: nobel_award; independent publisher groups: 1; age: 43.8h.",
         "Significance: nobel_award; An announced Nobel award recognizes a major contribution with international significance."
       ],
       "importance_text_en": "Rule-based significance: An announced Nobel award recognizes a major contribution with international significance.",
       "is_breaking": false,
       "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168558",
-          "published_at": "2026-10-09T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "un_news"
-        },
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
@@ -40,16 +132,16 @@
       ]
     },
     {
-      "id": "evt-ecefc2a8190a7097e2460ea90b247fdac8fe40aaa85bdeae8a8ce57218420c6f",
-      "title_en": "India detains thousands, locks down Delhi to foil election chief protest",
-      "summary_en": "Police detained more than 2,000 protesters and the founder of the \"cockroach\" youth movement in Delhi on Saturday as security forces locked down parts of the capital to thwart a rally demanding the resignation of India's election chief. Our correspondent Navodita Kumari tells us more. Police detained more than 2,000 protesters and the founder of the \"Cockroach\" youth movement in Delhi on Saturday, Reuters reported, citing a Ministry of Home Affairs official who spoke on condition of anonymity.",
+      "id": "evt-4e6c047fcd54fe369cd7f26b286f386fa4b82cc9d9fd990836c9825098f9e2bd",
+      "title_en": "Ukraine ready to halt refinery strikes if Moscow stops energy attacks",
+      "summary_en": "Ukrainian President Volodymyr Zelensky on Sunday said Kyiv was ready to halt strikes Russian oil refineries if Moscow stopped attacks on Ukrainian energy infrastructure. The announcement comes after US President Donald Trump publicly urged him to stop targeting Russian refineries.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 53,
+      "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.479×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 2; age: 12.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.893×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -57,11 +149,103 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261010-india-detains-thousands-locks-down-delhi-to-foil-election-chief-protest",
-          "published_at": "2026-10-10T15:54:28+00:00",
+          "url": "https://www.france24.com/en/europe/20261011-ukraine-ready-halt-refinery-strikes-if-moscow-stops-energy-attacks-zelensky-says",
+          "published_at": "2026-10-11T10:21:07+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
-        },
+        }
+      ]
+    },
+    {
+      "id": "evt-20077891a9ca52bfb904837c2402dc142e5087dca6fccddc90ec8dfa3f8943aa",
+      "title_en": "At least 4 dead as cyclone Isaias drenches southern US",
+      "summary_en": "Four people died in the southeastern United States as post-tropical cyclone Isaias threatened flooding and tornado risks Saturday as it moved northward after making landfall on Florida's Gulf Coast.",
+      "category": "other",
+      "region": "north_america",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.841×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261011-at-least-4-dead-as-cyclone-isaias-drenches-southern-us",
+          "published_at": "2026-10-11T09:18:48+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-70975cd3c025961b623701da968def19b3fcfb6d588f00767acd90add884aeaf",
+      "title_en": "'I watched Apollo 17 launch with Neil Armstrong'",
+      "summary_en": "Dermot Gethings was 16 when Nasa picked him to watch the Apollo 17 launch alongside Neil Armstrong.",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.717×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 5.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_science",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd86nglrggo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T06:32:51+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-7c6b66f5b4d3d6192ab0b7dc3395a5c2930e4557819ab96a59722eabd30c1e1b",
+      "title_en": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+      "summary_en": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.622×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 8.2h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/",
+          "published_at": "2026-10-11T04:05:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-9caf3e09a18babe3e09d113518770853ed858208c8be4af8d54a9878e191668d",
+      "title_en": "India detains thousands, locks down Delhi over election chief protest",
+      "summary_en": "Police detained more than 2,000 protesters and the founder of the \"Cockroach\" youth movement in Delhi on Saturday, Reuters reported, citing a Ministry of Home Affairs official who spoke on condition of anonymity.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 41,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.512×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 11.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
         {
           "source_id": "cgtn_world",
           "publisher": "CGTN",
@@ -73,191 +257,16 @@
       ]
     },
     {
-      "id": "evt-1dd15e534a629d0a1449cd879fd2ea4adbdcd22162345fe18c51fea7cb8e06f5",
-      "title_en": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-      "summary_en": "Saudi and US officials blame the attack on Yemen's Houthis, who have not taken responsibility for the latest strike.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.961×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T03:57:22+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-67da49d12f2168d79e5aee888cfa47c5df525000e9672a00ace6fd160175e2ba",
-      "title_en": "ICE agent in New York shooting also involved in assault of pregnant woman",
-      "summary_en": "An ICE agent involved in the Oct 8 shooting in New York was also filmed during a controversial arrest in Minneapolis.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.973×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
-          "published_at": "2026-10-11T04:10:08+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-9d64d9290c491478a8ab820c711f8db20e7e63942c823f8fc341719656600a72",
-      "title_en": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "summary_en": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.843×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T01:41:29+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-e3007e1958cdc14dcb340406de87e25e6f3135c9ebb56621a33f17bd5993ff31",
-      "title_en": "Hurricane Simon strengthens to category 4 as it nears western Mexico",
-      "summary_en": "Hurricane Simon strengthened into a powerful Category 4 storm as it swept toward Mexico's west coast, where it was expected to make landfall late Saturday or early Sunday.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.811×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_world",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-11/Hurricane-Simon-strengthens-to-category-4-as-it-nears-western-Mexico-1R95S6A4R4k/p.html",
-          "published_at": "2026-10-11T01:00:18+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-74e60f3056d17468ad4de4d77593a13641e482b2f4756471dbc92fff8e9591e1",
-      "title_en": "Thousands gather in London to express support for Palestinians after three years of ‘genocide’",
-      "summary_en": "Twenty arrested in first march since Ed Miliband declared UK’s position was that Israel’s occupation of West Bank was unlawful Thousands of people have gathered in central London to express their support for Palestinians after three years of “genocide” carried out against them by Israel. The demonstrators, many…",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 43,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.507×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 11.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/10/thousands-in-london-express-support-for-palestinians-after-three-years-genocide",
-          "published_at": "2026-10-10T16:52:15+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-fbfd51611c50fa09872eecc78eb81cc3c270cf71345f76ef7aadc02c861e5dd3",
-      "title_en": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
-      "summary_en": "Fresh off final game with Argentina, Messi leads Miami against DC United in Major League Soccer in the United States.",
-      "category": "sports",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 43,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.607×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 8.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
-          "published_at": "2026-10-10T19:59:08+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-4c8cb7db192074576279fe8c73f4355817d3af9255642b56e7ddfa711bd66c55",
-      "title_en": "At least twelve killed, multiple people wounded in attack on Riyadh airport",
-      "summary_en": "At least twelve people were killed in an attack on Riyadh's King Khalid International Airport on Saturday, including an Egyptian flight attendant, according to a medical source at a local hospital. Earlier this week, another attack on the airport by the Houthis killed three people and damaged a plane, though the…",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.543×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 10.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
-          "published_at": "2026-10-10T18:03:32+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
       "id": "evt-961605b937b24fa4f4e3cf8f57d40580d894b93019c039c444673ec81b325ed4",
       "title_en": "NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium",
       "summary_en": "As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience Zone, located at…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.437×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 14.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.281×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 22.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -273,41 +282,16 @@
       ]
     },
     {
-      "id": "evt-cc4edef31c490ee8ab589f88d06022723140d0770504ea9a15df585410c8f71a",
-      "title_en": "Study explores links between 19th-century Manchester workers and enslaved Africans in Caribbean",
-      "summary_en": "Global Threads research project reveals how slavery hung ‘like a spectre’ over the Peterloo massacre and other Mancunian struggles for equality They were the killings that changed Britain, paving the way for working-class people’s right to vote, as well as leading to the founding of the Manchester Guardian. In the…",
-      "category": "technology_science",
-      "region": "latin_america",
-      "sports_tags": [],
-      "importance_score": 40,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.383×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 16.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/news/2026/oct/10/study-explores-links-between-19th-century-manchester-workers-and-enslaved-africans-in-caribbean",
-          "published_at": "2026-10-10T12:00:56+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
       "id": "evt-41262285a509b43babf953131db0e0bdd9f2a904afaa6ce9dd1a3056b92c9cce",
       "title_en": "CGTN Poll: Pragmatic dialogue matters more as protectionism rises",
       "summary_en": "China and the European Union (EU) have agreed to maintain stable bilateral economic and trade ties and make them more balanced as they concluded the second meeting of their trade and investment consultation mechanism in Beijing. The CGTN survey finds that 87.2% of the respondents agree that China and Europe have…",
       "category": "economy_business",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.413×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 15.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.265×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 23.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -321,86 +305,14 @@
           "publisher_group": "cgtn"
         }
       ]
-    },
-    {
-      "id": "evt-5b2abdd9e4b7a42ad91bf26ad02759d3666c153abc9c8e7d137302dd2e76a713",
-      "title_en": "APOD: 2026 October 10 – Lunar Farside",
-      "summary_en": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 38,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.242×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 24.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
-          "published_at": "2026-10-10T04:05:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-61555be21a72e669a15569c841f191b30fc4babbd0793361f9acc2d66948c1b9",
-      "title_en": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
-      "summary_en": "The Security Council met to discuss the crisis in Yemen Friday, where a Houthi offensive launched in September has sharply escalated the 12-year-long war for control of the country and spillover from the US-Iran war has provoked a new displacement crisis. Live coverage below and for full meetings updates, go here.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.096×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 40.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168559",
-          "published_at": "2026-10-09T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "un_news"
-        }
-      ]
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168557 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168556 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168555 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168554 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168553 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168551 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168550 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168548 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168547 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168546 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168542 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168541 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168540 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168536 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168538 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168539 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168537 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168535 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168533 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168532 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168531 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168527 rejected: stale publication date",
+    "un_news: The read operation timed out",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/ rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets rejected: stale publication date",
@@ -416,9 +328,16 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck8dzq095lj3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -441,20 +360,24 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6ly0vxd2v9eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sounds/play/w3ct8g9x?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/cmd6dv1446lno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cq98zdp612pko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c5n49x09e3l9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c8p3gzenvylyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/ckzd65665q1yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c617kl241z91o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -486,9 +409,11 @@
     "bbc_china: entry https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026 rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/08/japan-beer-giants-raided-over-suspicions-they-colluded-to-set-the-price-of-beverages rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/08/indonesia-wildfires-gross-negligence-lawsuit-haze-region rejected: stale publication date",
@@ -497,19 +422,20 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/oct/02/weather-tracker-eastern-spain-torrential-rain-flooding-nepal-landslides rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/07/gene-therapy-can-partly-restore-sight-in-blind-people-researchers-reveal rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/world/2026/oct/07/who-says-it-does-not-have-full-picture-from-russia-following-suspected-plague-death rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/jonathan-the-giant-tortoise-194-offers-up-insight-into-secrets-of-longevity rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/gordon-brown-british-households-5000-richer-innovation rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/20/the-guardian-view-on-ai-v-mathematicians-humans-are-still-vital-to-the-field-but-tech-firms-refuse-to-see-that rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/17/take-good-care-of-your-tailbone-i-didnt-my-derriere-has-never-been-the-same rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/06/plague-outbreak-russian-lab-worker-dies-in-siberia-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/06/narcolepsy-why-youve-been-thinking-about-it-all-wrong-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/01/science-of-memory-manipulation-podcast rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/14/did-you-solve-it-do-you-have-the-brain-of-an-engineer rejected: stale publication date",
@@ -517,17 +443,21 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/this-is-what-the-2026-nobel-prize-for-chemistry-is-all-about rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/05/nobel-prize-in-medicine-2026-unlocking-the-mysteries-of-the-brain rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/09/trump-immigration-cost-social-security rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/media/2026/oct/08/trump-media-ban-hearing rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/08/starbucks-chipotle-merger rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/08/top-bosses-goldman-sachs-bonus-pot rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/09/anti-private-equity-comedy-influencers rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/07/washington-state-millionaire-tax rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/world/2026/oct/09/thieves-make-off-with-haul-from-prestigious-italian-winery-marchesi-antinori rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/07/canada-weston-family-buys-boots-uk rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/music/2026/oct/09/global-bands-on-how-punk-fires-up-their-lives rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/08/china-succession-crisis-factory-workers-manufacturing-family-businesses rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/07/satellite-images-attack-jets-china-military-facility-laos rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars rejected: stale publication date",
