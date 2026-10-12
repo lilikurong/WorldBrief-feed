@@ -2,20 +2,86 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-10-12",
-  "generated_at": "2026-10-11T21:37:40+00:00",
+  "generated_at": "2026-10-12T04:53:47+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-12923e442c1207f486083a7691952445f24fbfaaf5142786f42e90a21fe85cea",
-      "title_en": "Politics live: Greens call for US execution live stream to be blocked; Frydenberg doesn’t rule out politics return",
-      "summary_en": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Labor not watering down trust tax bill, says Mulino The assistant treasurer, Daniel Mulino, says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary trusts. We’re not watering this down. This is a…",
-      "category": "other",
+      "id": "evt-2271a9941712576483037a65081984e45fa287d6e2bebf11d268476efd8dd442",
+      "title_en": "Imran Khan’s party decries ‘coup’ after Pakistan suspends provincial government",
+      "summary_en": "Suspension of provincial government escalates standoff with Khan’s PTI party a week after his supporters began marching to demand his release Pakistan has declared a state of emergency in a province ⁠led by Imran ​Khan’s PTI party and suspended its government, a move a party spokesperson described as “more of a coup… Pakistan has suspended Khyber Pakhtunkhwa's PTI-led government after declaring a state of emergency in the province.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 57,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.611×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 2; age: 8.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
+          "published_at": "2026-10-12T00:22:11+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        },
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
+          "published_at": "2026-10-11T20:21:13+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-380496da17b1cf04b5ced4754968976c0d6ee4d9005534be1ef99e9ef9268e44",
+      "title_en": "Trump says Russia and Ukraine reached 'energy ceasefire'",
+      "summary_en": "Trump says Russia and Ukraine reached 'energy ceasefire'",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.982×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.430×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 2; age: 14.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_world",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-11/news-1Ra5cISdAIg/p.html",
+          "published_at": "2026-10-11T14:17:02+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        },
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/americas/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire",
+          "published_at": "2026-10-11T14:41:09+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-e0c249b55cdc6908a6fb79c6931acac8664bef476586e535cca3ffc0d56fc919",
+      "title_en": "Australian politics live: Joyce likens US public execution to ‘Roman amphitheatre’; Coalition targets small business minister over credit card ban",
+      "summary_en": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino, says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary trusts. We’re not…",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.986×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -24,48 +90,23 @@
           "source_id": "guardian_world",
           "publisher": "The Guardian",
           "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
-          "published_at": "2026-10-11T21:19:10+00:00",
+          "published_at": "2026-10-12T04:38:51+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-71be25f88177f0fc5ed1734a910a3979860b81701f9403aa69f60b24a07e01c7",
-      "title_en": "'Prepare for the unthinkable' warning over autumn flooding",
-      "summary_en": "Those living in flood-hit areas say they are worried, and have started preparing.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.957×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_science",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T20:51:30+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-39ea743c069afce4c4563af00b557f740a1326e8c58335824cbef57d51e46a4f",
-      "title_en": "Two killed near Israeli-occupied area in south Lebanon",
-      "summary_en": "Despite ceasefire reached between Israel and Lebanon in June, Israeli attacks continue.",
+      "id": "evt-8fcf3c08a74f1927c30dc276bbab5f12207c5f8f6f01691be311d979b9119ccc",
+      "title_en": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
+      "summary_en": "Ethiopian government forces entered Adigrat in northern Tigray after rebel fighters withdrew.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.952×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.950×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -73,49 +114,49 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
-          "published_at": "2026-10-11T20:46:45+00:00",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
+          "published_at": "2026-10-12T04:00:56+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-19ef63b78bacefe971da3bae7e3c838aa72feac4eb3bf0e5f42b1acbc8775273",
-      "title_en": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
-      "summary_en": "Unidentified projectile strikes King Khalid airport as escalating attacks threaten to draw more countries into Yemen conflict Middle East crisis live – latest updates Analysis: attack will force rethink of Trump strategy A projectile hit a passenger terminal at the airport in Riyadh on Sunday, the day after a deadly…",
+      "id": "evt-eabf1be8a9a6844689a2dc86b31e864a5d947f95b4110e102bcf7e4bff8d1fda",
+      "title_en": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+      "summary_en": "Documentary draws on 24 anonymous Israeli sources accusing military of killing Palestinians in Gaza using AI systems.",
       "category": "politics_security",
-      "region": "middle_east",
+      "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.757×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.972×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-          "published_at": "2026-10-11T16:49:05+00:00",
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+          "published_at": "2026-10-12T04:24:18+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
+          "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-db9dbf0f48d409abd96892c66851daf36622932f782cb11f3c92f8ea50327626",
-      "title_en": "UK PM Burnham warns French voters of Russian political influence on back of Brexit vote",
-      "summary_en": "British Prime Minister Andy Burnham on Sunday warned French and German voters of potential for Russian influence in upcoming elections, on the back of \"clear\" interference in Britain's referendum on European Union membership in 2016. Russia has previously denied meddling in the Brexit vote, while former British…",
-      "category": "other",
-      "region": "europe",
+      "id": "evt-28a46b8dec3a080938d194104b4a4453be5a1e06d0af481dee725b1ebf82add0",
+      "title_en": "El Nino breaks Pacific temperature record as weather pattern intensifies",
+      "summary_en": "An intensifying El Nino pushed sea surface temperatures in a key Pacific monitoring region to a record 29.70C in September, the EU’s Copernicus climate service said Monday. Forecasters expect the weather pattern, which raises drought and flood risks and exacerbates global warming, to become the strongest ever…",
+      "category": "society_health_environment",
+      "region": "asia_pacific",
       "sports_tags": [],
       "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.895×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.856×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -123,35 +164,85 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote",
-          "published_at": "2026-10-11T19:42:09+00:00",
+          "url": "https://www.france24.com/en/environment/20261012-el-nino-pacific-temperature-record-weather",
+          "published_at": "2026-10-12T02:12:30+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-791d653aa24c7b2ab828f4992277ac0872db1d1f1ab0f346a05b861f04606d87",
-      "title_en": "Power bank fire forces plane to emergency land in India",
-      "summary_en": "A plane flying from Delhi to Chennai made an emergency landing after a power bank reportedly caught fire on board.",
-      "category": "economy_business",
+      "id": "evt-ef8f260605006e29611108c119b0d9b7445bea39bf3780111bdd7068d86c6bbb",
+      "title_en": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+      "summary_en": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 44,
+      "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.700×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 6.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.745×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 5.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
-          "published_at": "2026-10-11T15:26:29+00:00",
+          "source_id": "bbc_science",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T23:48:25+00:00",
           "published_precision": "second",
-          "publisher_group": "aljazeera"
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-00cb76d762019e3b65c8b845008564033555530aaeaa980c2cfae8822394a536",
+      "title_en": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "summary_en": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.702×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-11T22:45:58+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-1eee1f0f6ddf1c63465f7da61c6341a8bb42f7cd6f1479f9b3eefc1369f06360",
+      "title_en": "Sustaining livelihoods amid crisis in Gaza",
+      "summary_en": "Nidaa, Hanaa and Hanin have different stories, but share a common thread: the determination to build something of their own and keep it going despite extraordinary challenges facing them in war-ravaged Gaza.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 40,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.377×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 16.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168569",
+          "published_at": "2026-10-11T12:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "un_news"
         }
       ]
     },
@@ -162,10 +253,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 39,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.618×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 8.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.406×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 15.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -181,41 +272,16 @@
       ]
     },
     {
-      "id": "evt-70975cd3c025961b623701da968def19b3fcfb6d588f00767acd90add884aeaf",
-      "title_en": "'I watched Apollo 17 launch with Neil Armstrong'",
-      "summary_en": "Dermot Gethings was 16 when Nasa picked him to watch the Apollo 17 launch alongside Neil Armstrong.",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.419×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 15.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_science",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckdd86nglrggo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-11T06:32:51+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
       "id": "evt-7c6b66f5b4d3d6192ab0b7dc3395a5c2930e4557819ab96a59722eabd30c1e1b",
       "title_en": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
       "summary_en": "APOD Science APOD APOD: 2026 October 11 – Ice… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.363×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 17.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.239×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 24.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -237,10 +303,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 36,
+      "importance_score": 35,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.164×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 31.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.108×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 38.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -256,16 +322,16 @@
       ]
     },
     {
-      "id": "evt-9caf3e09a18babe3e09d113518770853ed858208c8be4af8d54a9878e191668d",
-      "title_en": "India detains thousands, locks down Delhi over election chief protest",
-      "summary_en": "Police detained more than 2,000 protesters and the founder of the \"Cockroach\" youth movement in Delhi on Saturday, Reuters reported, citing a Ministry of Home Affairs official who spoke on condition of anonymity.",
-      "category": "politics_security",
-      "region": "global",
+      "id": "evt-d308da2c8b6f1324a04626eedc4b5c97139c3c0b4c6deb7a425f5e3819e1b4f3",
+      "title_en": "Astronomers identify host galaxy of most distant fast radio burst",
+      "summary_en": "Astronomers have identified the host galaxy of the most distant fast radio burst (FRB) ever detected, using South Africa's MeerKAT radio telescope and NASA's James Webb Space Telescope, the South African Radio Astronomy Observatory (SARAO) said.",
+      "category": "technology_science",
+      "region": "africa",
       "sports_tags": [],
-      "importance_score": 36,
+      "importance_score": 35,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.299×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 20.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.236×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 25.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -273,8 +339,8 @@
         {
           "source_id": "cgtn_world",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-11/India-detains-thousands-locks-down-Delhi-over-election-chief-protest-1R96MYgPvaM/p.html",
-          "published_at": "2026-10-11T00:42:23+00:00",
+          "url": "https://news.cgtn.com/news/2026-10-11/Astronomers-identify-host-galaxy-of-most-distant-fast-radio-burst-1R9gZ3ySOBO/p.html",
+          "published_at": "2026-10-11T03:52:29+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -282,7 +348,30 @@
     }
   ],
   "source_errors": [
-    "un_news: The read operation timed out",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168567 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168566 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168565 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168564 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168562 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168561 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168559 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168558 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168557 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168556 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168555 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168554 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168553 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168551 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168550 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168548 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168547 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168546 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168542 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168541 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168540 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168536 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168538 rejected: stale publication date",
+    "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/image-article/cosmic-house-of-mirrors/ rejected: stale publication date",
@@ -305,30 +394,13 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/ck8dzq095lj3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c8g47z3r4dzvo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm3wve9l057vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c693z8dz1kq4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -341,7 +413,6 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6ly0vxd2v9eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -354,8 +425,6 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c8p3gzenvylyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/ckzd65665q1yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -402,7 +471,6 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/09/india-dehli-cockroach-party-weekend-demonstration-mass-detention rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/05/this-is-india-asian-games-winners-success rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/05/jailed-imran-khan-march-on-islamabad-pakistan rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/09/why-youve-probably-been-thinking-about-narcolepsy-all-wrong rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset rejected: stale publication date",
@@ -419,7 +487,6 @@
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/06/narcolepsy-why-youve-been-thinking-about-it-all-wrong-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/01/science-of-memory-manipulation-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/14/did-you-solve-it-do-you-have-the-brain-of-an-engineer rejected: stale publication date",
@@ -461,47 +528,57 @@
     "guardian_china: entry https://www.theguardian.com/news/2026/sep/29/why-am-i-obsessed-with-chinas-ancient-golden-age-i-took-my-daughter-on-a-trip-to-find-out rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/sep/28/china-and-us-cut-reciprocal-tariffs rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/How-China-s-grassroots-governance-helps-build-cities-for-the-people--1R4rpKZykG4/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/French-president-s-diplomatic-adviser-to-visit-China-1R4EJxyomxG/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/China-s-space-program-at-70-What-do-global-partners-see--1R4KQEmh9sY/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/Xi-Jinping-s-key-remarks-on-city-governance-1R5KyKjphLO/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/China-s-Yellow-River-turns-the-tide-in-water-wings-and-livelihoods-1R4FRwx2fRK/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/Chinese-scientists-develop-nuclear-optical-clock-1R52wnVU14k/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/China-warns-Philippines-to-cease-provocations-false-claims-1R5L2r0pPyw/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/How-Jingdezhen-uses-urban-renewal-to-keep-young-makers-craft-alive-1R4FOW6PM40/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-07/My-City-My-Say-Reading-Beijing-1R32HIACLG8/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/Foreign-Ministry-China-nominates-Dr-Song-Li-for-WHO-chief-election-1R4K0QbLgKA/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/In-numbers-2-142-billion-trips-during-China-s-National-Day-holiday-1R4ZEk4o5ry/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/President-of-Togo-s-Council-of-Ministers-to-visit-China-1R4FPQqN6dG/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/China-Laos-power-line-passes-1-billion-kWh-1R4FLrUaDvi/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/Xi-Jinping-s-key-remarks-on-cultural-development-1R54Yy3rV16/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/Tracing-the-Long-March-through-its-historic-sites-1R3p29t1JN6/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/Admire-exquisite-Ming-era-Buddhist-statues-at-Beijing-s-Zhihua-Temple-1R4HhDrPFi8/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/When-accessibility-is-built-into-the-city-1R4Jbo58lXi/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/Changchun-2027-World-University-Games-marks-100-day-countdown-1R522NvcJaM/p.html rejected: stale publication date",
-    "cgtn_china: entry https://newsus.cgtn.com/news/2026-10-09/Chinese-aunties-show-their-spin-on-basketball-1R5vRg6N4zu/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/EV-charging-surges-on-Chinese-expressways-during-holiday-1R4Ai8jYQzC/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/Chinese-commerce-minister-meets-with-EU-trade-chief-in-Beijing-1R4VxG03528/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/Crafting-heritage-Art-trio-reveals-the-ideas-behind-their-creations-1R4E08JKc1O/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/China-s-He-Lifeng-UK-s-John-Healey-hold-video-call-on-economic-ties-1R50w9sh7Es/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-08/French-president-s-diplomatic-adviser-to-visit-China-1R4EJxyomxG/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-08/Chinese-commerce-minister-meets-with-EU-trade-chief-in-Beijing-1R4VxG03528/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-08/AU-facilitators-urge-ceasefire-compliance-in-eastern-DR-Congo-1R4KApUlTig/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-08/Foreign-Ministry-China-nominates-Dr-Song-Li-for-WHO-chief-election-1R4K0QbLgKA/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-08/news-1R58YDRgd7G/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-08/news-1R4UMOJTbVK/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-08/UN-forecasts-stronger-El-Ni-o-conditions-through-December-1R52csPwhFu/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/US-freezes-green-cards-for-Microsoft-IT-firms-probes-universities-1R5OcH1eeTS/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-08/Xi-Jinping-s-key-remarks-on-cultural-development-1R54Yy3rV16/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/Cuban-FM-says-US-has-no-authority-to-decide-who-can-trade-with-Cuba-1R5P9ZtOWsM/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-07/Africa-CDC-sends-emergency-team-to-Kenya-after-Ebola-case-1R30ByiPGwg/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-08/China-s-He-Lifeng-UK-s-John-Healey-hold-video-call-on-economic-ties-1R50w9sh7Es/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/Former-Philippine-President-Duterte-fit-to-stand-trial-ICC-says-1R5VquJaEaQ/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-08/China-s-space-program-at-70-What-do-global-partners-see--1R4KQEmh9sY/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-08/Expert-Japan-s-nuclear-submarine-push-reveals-political-calculations-1R4V2oTlb9u/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/China-warns-Philippines-to-cease-provocations-false-claims-1R5L2r0pPyw/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-08/World-s-largest-chinstrap-penguin-colony-plunges-by-63--1R4G96EW6kw/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/Quarantine-completed-in-Russia-s-Irkutsk-after-lab-worker-s-death-1R5QbwUlFfy/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/Chinese-envoy-Japan-s-remilitarization-drive-threatens-regional-peace-1R6o6GZaYGA/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/China-s-FAST-telescope-finds-rare-triple-star-system-still-evolving-1R6bq1rL8Z2/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/China-picks-up-pace-on-Great-Green-Wall-1R6iNSsgNLq/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-10/Peng-Liyuan-urges-development-of-digital-education-access-for-women-1R7u8ZefbW0/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/China-slams-Japan-s-right-wing-forces-over-AI-distortion-of-WWII-1R6Dl0AMavm/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/Symposium-held-to-study-Xi-s-works-on-culture-1R6zQjPACHe/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/Wang-Yi-meets-with-delegation-of-leaders-from-Pacific-Island-countries-1R6wHwxjRNm/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/China-issues-guidelines-on-developing-new-quality-productive-forces-1R6ANt3mNS8/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/Jiajin-The-Snow-Mountain-Challenge-1QPRty2wHQs/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/Night-tour-of-Longmen-One-step-a-thousand-years-1R6kNNSdADC/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-10/China-rolls-out-19-measures-to-advance-new-quality-productive-forces-1R7ziRQWdRC/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/China-EU-reach-trade-outcomes-after-Beijing-talks-1R6zmQdgsoM/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/China-sees-service-consumption-growth-during-National-Day-holiday-1R5UNomUhVe/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/Buyunchaokete-shines-on-serve-to-book-Shanghai-showdown-with-Ruud-1R5YrkX44us/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/Spring-Summer-2027-Shanghai-Fashion-Week-kicks-off--1R6bkJ10QTK/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/AI-Powered-hotline-How-technology-helps-Beijing-see-hear-and-act-1R4GQzLY9Xy/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/Unraveling-the-Vanishing-Mystery-of-the-34th-Division-1QRxSRJSlXy/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/Macao-draws-record-National-Day-crowds-1R6lurnnz0s/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/How-a-foreigner-s-complaint-reveals-people-s-city-warmth-1R4Lk0vDyz6/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/Hong-Kong-SAR-draws-1-6-mln-visitor-arrivals-during-Nat-l-Day-holiday-1R5MnOHzSkU/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/From-trendsetting-landmark-to-global-youth-culture-hub-1R62LPFqlTW/p.html rejected: stale publication date",
+    "cgtn_china: entry https://newsaf.cgtn.com/news/2026-10-09/China-extends-2-million-grant-to-Kenya-for-Ebola-and-drought-1R6w0pbIQx2/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-08/Taicang-South-Garden-Private-garden-of-a-Ming-Dynasty-chief-minister-1R4AVhoQW8E/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/2027-Spring-Summer-Shanghai-Fashion-Week-kicks-off-1R60vT5iee4/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/Botswana-s-president-to-pay-state-visit-to-China-Oct-12-to-17-1R6hiS8gxeo/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/Visa-free-policies-boost-China-s-inbound-tourism-for-National-Day-1R6q2jVL0NG/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/US-county-sues-to-block-Trump-s-Triumphal-Arch-project-1R6aTQRk6SA/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/Okinawa-assembly-resolution-seeks-US-forces-action-after-murder-case-1R63wqTwZri/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-09/Lesotho-confirms-measles-outbreak-in-two-northern-districts-1R6HYIk12Ks/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-10/news-1R7mNT6P2fK/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-09/Ethiopian-parliament-approves-new-cabinet-of-23-members-1R6FZOvDnTq/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/China-slams-Japan-s-right-wing-forces-over-AI-distortion-of-WWII-1R6Dl0AMavm/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsus.cgtn.com/news/2026-10-10/Trump-strikes-deal-with-Putin-on-oil--1R79VL8POE0/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-10/Peng-Liyuan-urges-development-of-digital-education-access-for-women-1R7u8ZefbW0/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-09/New-Ebola-vaccine-trials-begin-in-Uganda-amid-deadly-DR-Congo-outbreak-1R6k5OUqbaU/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-08/Chinese-scientists-develop-nuclear-optical-clock-1R52wnVU14k/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/Macao-draws-record-National-Day-crowds-1R6lurnnz0s/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/Botswana-s-president-to-pay-state-visit-to-China-Oct-12-to-17-1R6hiS8gxeo/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/Russia-denies-reports-of-second-case-linked-to-Siberian-plague-lab-1R6C0Y4W21a/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/Trump-administration-is-suspending-Microsoft-from-a-green-card-program-1R6wc1ZMShq/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/El-Ni-o-and-warming-waters-in-fight-over-future-of-Hurricane-Isaias-1R6yis3atvG/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/Wang-Yi-meets-with-delegation-of-leaders-from-Pacific-Island-countries-1R6wHwxjRNm/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/Singapore-Mongolia-to-open-applications-for-carbon-credit-projects-1R66vVOIW88/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/China-EU-reach-trade-outcomes-after-Beijing-talks-1R6zmQdgsoM/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/Japan-s-cabinet-approves-bill-for-1st-food-consumption-tax-cut-1R6blDjgAh2/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-09/South-Africa-withdraws-asylum-directive-after-anti-migrant-violence-1R6DJYOHz3O/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-10/news-1R7mVQzBS1y/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/One-name-per-category-Football-s-ultimate-debate-1R5XIbZGoy4/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-09/China-extends-2-million-grant-to-Kenya-for-Ebola-and-drought-1R6w0pbIQx2/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/Anthropic-updates-usage-policy-to-curb-abusive-prompting-of-Claude-AI-1R61FzOEt9u/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-09/Trump-s-super-intelligence-rebrand-is-going-nowhere-experts-say-1R6wJREjIxa/p.html rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/chemistry/2026/press-release/ rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/literature/2026/press-release/ rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/peace/2026/press-release/ rejected: stale publication date",
