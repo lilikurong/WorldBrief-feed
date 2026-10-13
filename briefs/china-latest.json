@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
   "edition": "china",
-  "date": "2026-10-12",
-  "generated_at": "2026-10-12T14:43:21+00:00",
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T00:16:56+00:00",
   "is_underfilled": true,
   "events": [
     {
-      "id": "evt-7c89595f1e43a1921a20a2003e16d30fe25b0f3d8ef4ec2d6189828def1c0383",
-      "title_en": "2026 Paris Motor Show: Western carmakers face steep competition from Chinese rivals",
-      "summary_en": "The Paris Motor Show roars into gear this Monday, with over 200 auto sector brands showcasing their latest models and innovations. Chinese brands like BYD, Xpeng and Zeekr are among those present and getting lots of attention as their market share has surged in the past few years. In this edition, we speak to John…",
-      "category": "economy_business",
-      "region": "global",
+      "id": "evt-84a2f5baa8e45cf45b1b87137e3abf25184cc25e78412e8bcd2f513a859838a4",
+      "title_en": "Paris Motor Show kicks off as China-EU rivalry heats up",
+      "summary_en": "The biennial Paris Motor Show kicks off with a record number of Chinese brands descending on the French capital. European carmakers are fighting back, showcasing their latest models, as the EU announced a deal with China to limit the imports of hybrids. France 24's Charles Pellegrin has been speaking with CEOs of…",
+      "category": "other",
+      "region": "europe",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 47,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.988×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.830×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -23,35 +23,60 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/business/20261012-2026-paris-motor-show-western-carmakers-face-steep-competition-from-chinese-rivals",
-          "published_at": "2026-10-12T14:30:53+00:00",
+          "url": "https://www.france24.com/en/tv-shows/business/20261012-paris-motor-show-kicks-off-as-china-eu-rivalry-heats-up",
+          "published_at": "2026-10-12T21:03:50+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-a902e34f041b6a4c8b341bd713fed229915904ac23f8b2b7476946567a13c181",
-      "title_en": "Zizou Bergs stuns Alcaraz in Shanghai as Zverev claims year-end top ranking",
-      "summary_en": "After defending his Japan Open title after returning from injury, Alcaraz never found his rhythm in a scrappy contest.",
-      "category": "other",
+      "id": "evt-1ee0ab6091b15afbbb9e33e7f42e90106ba40ac4d33058a43f52a94b791cb883",
+      "title_en": "Stellantis and Renault back UK to get EU car industry protection",
+      "summary_en": "Bosses of Citroën owner and French carmaker also urge UK government to consider limiting imports from China Stellantis and Renault have backed the UK car industry for inclusion in proposed rules to protect EU industry, but urged the British government to consider limiting imports of Chinese cars. Emanuele Cappellano,…",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 46,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.972×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.671×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/12/zizou-bergs-stuns-alcaraz-in-shanghai-as-zverev-claims-year-end-top-ranking?traffic_source=rss",
-          "published_at": "2026-10-12T14:14:04+00:00",
+          "source_id": "guardian_china",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/12/stellantis-renault-uk-eu-car-industry-imports-china",
+          "published_at": "2026-10-12T17:22:05+00:00",
           "published_precision": "second",
-          "publisher_group": "aljazeera"
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-0d9cc9805b87b09dd9e310575a44b01da22f0747b2f1cc5d22f23d8535d6bb85",
+      "title_en": "Chinese cars vs Europe: Who will win the battle for the market?",
+      "summary_en": "The biennial Paris Motor Show officially opened this Monday in France. Over 200 auto sector brands will be present, rivalling for attention with their latest models and innovations. This competition for attention mirrors the competition for market share. This is especially true between local European brands and…",
+      "category": "economy_business",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 43,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.632×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 7.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/chinese-cars-vs-europe-who-will-win-the-battle-for-the-market",
+          "published_at": "2026-10-12T16:20:54+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
         }
       ]
     },
@@ -62,46 +87,21 @@
       "category": "economy_business",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.825×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.475×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 12.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_business",
+          "source_id": "guardian_china",
           "publisher": "The Guardian",
           "url": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
           "published_at": "2026-10-12T11:23:55+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-dac5d695758b479c43408ecd6f11c4e67412e5b78e5105ebef987b8dbff401e3",
-      "title_en": "Are European automakers capable of withstanding Chinese competition?",
-      "summary_en": "The Paris Motor Show opens its doors today, and with it come mounting economic and diplomatic issues. The European Union has just announced that it has secured a commitment from China to moderate the flow of hybrid vehicles into the block's market. It opens the prospect of cutting China's export by more than a half…",
-      "category": "politics_security",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 46,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.781×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/are-european-automakers-capable-of-withstanding-chinese-competition",
-          "published_at": "2026-10-12T10:26:22+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
         }
       ]
     },
@@ -112,10 +112,10 @@
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.454×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 13.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.261×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 23.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -137,10 +137,10 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.496×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 12.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.285×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 21.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -154,42 +154,35 @@
           "publisher_group": "cgtn"
         }
       ]
-    },
-    {
-      "id": "evt-80310ca912f8b18efb08acb95ec6106051f260d1c7ac25ea50e95b44ed814761",
-      "title_en": "Volkswagen boss backs EU plan to bolster domestic European industry",
-      "summary_en": "Oliver Blume says ‘Made in Europe’ rules to counter rapid rise of lower-price Chinese brands ‘must reward real value creation’ The boss of Volkswagen has backed EU proposals to boost its domestic industry, arguing European carmakers need to be able to “compete under comparable conditions” with Chinese rivals. Oliver…",
-      "category": "other",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 38,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.283×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 21.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_china",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
-          "published_at": "2026-10-11T16:53:01+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
     }
   ],
   "source_errors": [
-    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168568 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168571 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168545 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168570 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168567 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168566 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168565 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168564 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168562 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168561 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168559 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168558 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168557 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168556 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168555 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168554 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168553 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168551 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168550 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168548 rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/image-article/cosmic-house-of-mirrors/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/ rejected: stale publication date",
-    "nasa_news: entry https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/ rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets rejected: stale publication date",
@@ -222,7 +215,6 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -232,13 +224,11 @@
     "bbc_business: entry https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sounds/play/w3ct8g9x?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/cry4x353vz2eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/videos/cmd6dv1446lno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cm78pwq47vp1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c8p3gzenvylyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/ckzd65665q1yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -284,11 +274,13 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/09/india-dehli-cockroach-party-weekend-demonstration-mass-detention rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/05/this-is-india-asian-games-winners-success rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/10/skies-across-the-uk-illuminated-by-the-northern-lights rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/07/gene-therapy-can-partly-restore-sight-in-blind-people-researchers-reveal rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/gordon-brown-british-households-5000-richer-innovation rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/20/the-guardian-view-on-ai-v-mathematicians-humans-are-still-vital-to-the-field-but-tech-firms-refuse-to-see-that rejected: stale publication date",
@@ -300,28 +292,24 @@
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/14/did-you-solve-it-do-you-have-the-brain-of-an-engineer rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/14/can-you-solve-it-do-you-have-the-brain-of-an-engineer rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/09/why-youve-probably-been-thinking-about-narcolepsy-all-wrong rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/this-is-what-the-2026-nobel-prize-for-chemistry-is-all-about rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/05/nobel-prize-in-medicine-2026-unlocking-the-mysteries-of-the-brain rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/commentisfree/2026/oct/09/heathrow-third-runway-money-pit rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/education/2026/oct/10/pre-apprenticeship-scheme-landmark-alan-milburn-youth-jobs-crisis-report rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/media/2026/oct/10/telegraph-owner-axel-springer-newsroom-job-cuts-u-turn rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/money/2026/oct/10/uk-savings-interest-rate-deals-nsi-bonds rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/10/uaw-president-shawn-fain-wins-re-election rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/oct/10/hiut-denim-jeans-cardigan-wales-manufacturing rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/lifeandstyle/2026/oct/10/squeezy-olive-oil-bottle-meghan-markle-pot-filler-tap-chefs-gadgets-home-kitchens rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/global-development/2026/oct/10/tourism-expansion-v-turtle-nests-the-dispute-dividing-communities-in-one-tobago-resort rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/film/2026/oct/09/ai-threat-britain-directors-ridley-scott-guy-ritchie rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/10/tsa-union-agency-checkpoints-chairs rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/10/uaw-president-shawn-fain-wins-re-election rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/world/2026/oct/09/flock-job-cuts rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/09/trump-immigration-cost-social-security rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/09/anti-private-equity-comedy-influencers rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/news/video/2026/oct/08/will-they-wont-they-eu-flirts-with-uk-rejoining-the-latest rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/australia-news/video/2026/oct/06/openai-australia-parliamentary-inquiry-jason-kwon-video rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/media/video/2026/oct/06/anthropic-ai-australia-parliament-inquiry-government-websites-breach-video rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/money/2026/oct/10/storm-proof-home-roof-garden-pipes-flooding-winter rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/money/gallery/2026/oct/09/new-build-homes-for-first-time-buyers-in-england-in-pictures rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/07/washington-state-millionaire-tax rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/world/2026/oct/09/thieves-make-off-with-haul-from-prestigious-italian-winery-marchesi-antinori rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/07/canada-weston-family-buys-boots-uk rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/books/2026/oct/10/chinese-ballet-maos-last-dancer-li-cunxin-memoir-follow-up-14-years rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war rejected: stale publication date",
@@ -339,7 +327,6 @@
     "guardian_china: entry https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/sep/30/inside-the-ukrainian-military-unit-training-fighters-from-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/news/2026/sep/29/why-am-i-obsessed-with-chinas-ancient-golden-age-i-took-my-daughter-on-a-trip-to-find-out rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/business/2026/sep/28/china-and-us-cut-reciprocal-tariffs rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/Chinese-envoy-Japan-s-remilitarization-drive-threatens-regional-peace-1R6o6GZaYGA/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/China-s-FAST-telescope-finds-rare-triple-star-system-still-evolving-1R6bq1rL8Z2/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-09/China-picks-up-pace-on-Great-Green-Wall-1R6iNSsgNLq/p.html rejected: stale publication date",
