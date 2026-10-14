@@ -2,9 +2,59 @@
   "schema_version": 1,
   "edition": "china",
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T03:58:38+00:00",
+  "generated_at": "2026-10-14T11:23:58+00:00",
   "is_underfilled": true,
   "events": [
+    {
+      "id": "evt-b88bf3d27c2fcc39f47d405992bc5f10c7d0ffb3aecf27a50446292ecac965fc",
+      "title_en": "China’s exports surge amid AI-driven demand",
+      "summary_en": "Exports grew by 36.3 percent in September, the biggest leap since the COVID-19 pandemic.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.875×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/14/chinas-exports-sugrge?traffic_source=rss",
+          "published_at": "2026-10-14T09:05:17+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-e523be99b8be4edd7c07adf88c55b5d3cd3314d91536768a95df4cf068119381",
+      "title_en": "UK resists EU pressure to hit China with tariffs",
+      "summary_en": "Exclusive: Business secretary says he will not change trade rules due to EU pressure and denies UK will become a ‘back door’ for cheap imports The business secretary has hit back at European demands for British tariffs on Chinese imports, saying the government will not change its trade rules because of pressure from…",
+      "category": "politics_security",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.691×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_china",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/14/uk-will-not-put-tariffs-on-chinese-vehicles-says-jonathan-reynolds",
+          "published_at": "2026-10-14T05:00:45+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
     {
       "id": "evt-1685e09e4b588336f00d09e0cf26c506c9b85b2f3f8bcb7960a42517e17e73e6",
       "title_en": "Graduate student accused of poisoning colleague and trying to flee to China arrested at LAX",
@@ -12,10 +62,10 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 44,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.837×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.545×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 10.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -31,16 +81,41 @@
       ]
     },
     {
+      "id": "evt-bca5c6346b092fc3123d698616be88d99033f60a1fce64489dc7e276a80a8a32",
+      "title_en": "China and North Korea to open New Yalu River Bridge, state media reports",
+      "summary_en": "The long-delayed bridge will formally open on Thursday, according to China's state-run Xinhua news agency.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 44,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.670×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
+          "published_at": "2026-10-14T04:27:18+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
       "id": "evt-84887de6831d51a0da294074d14e35a86ebfb676b712945e38c292da0e0ac589",
       "title_en": "Zhao Leji meets Botswana's president, Togo's council president",
       "summary_en": "China's top legislator Zhao Leji met separately with Botswana's President Duma Gideon Boko and President of the Council of Ministers of Togo Faure Essozimna Gnassingbé in Beijing on Tuesday.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.878×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.572×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 9.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -56,27 +131,27 @@
       ]
     },
     {
-      "id": "evt-a88c5a7832f2a08465f7db0bfeb196b9aa19a387e032e3d1173e1c3dbe8d7763",
-      "title_en": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
-      "summary_en": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
-      "category": "other",
+      "id": "evt-9b4c7e216da1ec95cd75f7f2702674eb591af42a800730206b2fa7938b7ff6ae",
+      "title_en": "Moon samples from near, far sides to go on display at Airshow China",
+      "summary_en": "Lunar samples from the near and the far sides of the moon will be on display at the 16th China International Aviation and Aerospace Exhibition, also known as Airshow China, the State Administration of Science, Technology and Industry for National Defense (SASTIND) said Tuesday.",
+      "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.709×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 5.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.582×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 9.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_china",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-13T22:02:09+00:00",
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-14/Moon-samples-from-near-far-sides-to-go-on-display-at-Airshow-China-1Re445722Gc/p.html",
+          "published_at": "2026-10-14T02:01:16+00:00",
           "published_precision": "second",
-          "publisher_group": "bbc"
+          "publisher_group": "cgtn"
         }
       ]
     },
@@ -87,10 +162,10 @@
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.708×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 6.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.461×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 13.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -104,85 +179,25 @@
           "publisher_group": "bbc"
         }
       ]
-    },
-    {
-      "id": "evt-1749fcee875c5a8b2a9dff573e289cd12535a5074c881ce487cd2f224fb6a76a",
-      "title_en": "China is bringing car production to EU",
-      "summary_en": "China has moved from exporting cars to bringing entire auto industry ecosystems, building up production capacity in Europe and boosting partnerships with local companies. Arthur D. Little's automotive expert Philipp Seidel tells France 24 that while tariffs and quotas can buy time, EU carmakers must improve their own…",
-      "category": "other",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 44,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.684×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 6.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/business/20261013-china-is-bringing-car-production-to-eu",
-          "published_at": "2026-10-13T21:23:38+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-8e5021617ce42ea8a33830d383fac3d8896bbd1f9539aa4a49f5978451b8e600",
-      "title_en": "Xi Jinping proposes principles for settling Africa's hotspot issues",
-      "summary_en": "Chinese President Xi Jinping on Tuesday put forward four principles for the constructive participation of all parties in the settlement of hotspot issues in Africa, during his meeting with President of the Council of the Togolese Republic Faure Essozimna Gnassingbé, who is on an official visit to China.",
-      "category": "politics_security",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 40,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.464×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 13.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-13/Xi-Jinping-proposes-principles-for-settling-Africa-s-hotspot-issues-1RdkFVRaVKo/p.html",
-          "published_at": "2026-10-13T14:40:58+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-635061c69e75c3d6067214e884c2d6862e909464ebd5cf8664de0672e715b5ea",
-      "title_en": "‘Super app’ aimed at UK students uses servers owned by Chinese firm on US blacklist",
-      "summary_en": "ZyMix platform has contract with Tencent, which US alleges has links to People’s Liberation Army A new messaging and payment “super app” marketed at British students uses servers owned by a Chinese company that has been put on a US military blacklist for its alleged affiliation to the People’s Liberation Army. ZyMix,…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 38,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.250×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 24.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_china",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/oct/13/super-app-uk-students-servers-china-us-blacklist",
-          "published_at": "2026-10-13T04:00:14+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
     }
   ],
   "source_errors": [
-    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168573 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168569 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168572 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168568 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168571 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168545 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168570 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168567 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168566 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168565 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168564 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168562 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168561 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168559 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168558 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168557 rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets rejected: stale publication date",
@@ -197,7 +212,12 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cjzxl7ee4e9xo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -217,16 +237,17 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqx2z2xx0k2lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cm78pwq47vp1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/ckdd86nglrggo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c8p3gzenvylyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/ckzd65665q1yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -238,7 +259,6 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cdep67jnn9zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c8r2074l0rmo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/clyxw8550y8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/clyrdkxvmmpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -259,10 +279,13 @@
     "guardian_world: entry https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026 rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/oct/10/cockroach-party-rally-delhi-protests-chief-election-officer-resigns rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/10/skies-across-the-uk-illuminated-by-the-northern-lights rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/starwatch-mars-signposts-beautiful-beehive-star-cluster rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study rejected: stale publication date",
@@ -288,12 +311,14 @@
     "guardian_business: entry https://www.theguardian.com/world/2026/oct/09/flock-job-cuts rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/09/anti-private-equity-comedy-influencers rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/uk-news/2026/oct/11/farmers-uk-food-security-producers-supply-chains rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/world/2026/oct/09/thieves-make-off-with-haul-from-prestigious-italian-winery-marchesi-antinori rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/07/canada-weston-family-buys-boots-uk rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/books/2026/oct/10/chinese-ballet-maos-last-dancer-li-cunxin-memoir-follow-up-14-years rejected: stale publication date",
@@ -308,7 +333,7 @@
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/us-news/2026/oct/02/arrest-smuggled-computer-servers-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/02/starbucks-urged-close-stores-in-chinas-xinjiang rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-12/Togo-China-has-advantages-in-hosting-ocean-treaty-secretariat-1Rb8SN7upMs/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-12/US-reverses-course-on-Britain-s-testing-of-AI-models-Telegraph-says-1RaV1PoemTC/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-12/China-s-growth-offers-opportunity-over-shock-experts-say-1Ra6s4uUbOo/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-12/How-does-a-city-hear-what-s-not-working--1RaSXwN7buU/p.html rejected: stale publication date",
