@@ -1,129 +1,46 @@
 {
   "schema_version": 1,
   "edition": "world",
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T11:23:58+00:00",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-14T16:45:18+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-8c8049a66e95164d9c4c91886269d5b5f3f3bd3fd58d0cb9fb9bebdfbcbf5750",
-      "title_en": "Trump says 'massive' oil, gas and mineral exploration to begin in Greenland",
-      "summary_en": "US President Donald Trump said on Wednesday that a \"massive\" oil, gas and mineral exploration was slated to begin in Greenland. The US, Denmark and Greenland last month signed a security agreement after Trump's repeated threats to seize control of the island. The US president also praises the security advantages of last month's deal with Denmark and Greenland.",
-      "category": "politics_security",
+      "id": "evt-49df5716e92e919ed22fd7f9a4070cd27b9195ddce05fd0366192d728098eb27",
+      "title_en": "Industrial fire linked to fish and eels' deaths",
+      "summary_en": "Chemicals from firewater runoff entered a brook and spread downstream where dead fish and eels were later found, the Environment Agency has confirmed.",
+      "category": "society_health_environment",
       "region": "global",
-      "sports_tags": [],
-      "importance_score": 58,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.762×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 2; age: 4.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/europe/20261014-trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland",
-          "published_at": "2026-10-14T06:41:15+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        },
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss",
-          "published_at": "2026-10-14T08:08:42+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-5365490696d41c08d2cee5c4012a66108b5aed50b7a5106583bd08969ba05de1",
-      "title_en": "Job cuts could fund diesel price drop says deputy",
-      "summary_en": "With the ongoing war in the Middle East increasing prices, one deputy is ask for duty to be frozen.",
-      "category": "politics_security",
-      "region": "middle_east",
       "sports_tags": [],
       "importance_score": 53,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.990×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.992×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_business",
+          "source_id": "bbc_science",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6x2qw2xn1x4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-14T11:13:10+00:00",
+          "url": "https://www.bbc.co.uk/news/videos/cqrky20ndv1jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-14T16:36:48+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-396a3e2fca84f365282ba1c78feab719735b54247cbb94c51e6a568e7c7e1121",
-      "title_en": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – Europe live",
-      "summary_en": "European Commission declined to comment on reported disruption to Starlink’s services in Ukraine Ukrainian soldiers have access to Starlink satellite internet restricted Rutte gets asked “is Russia foolish enough to consider attacking any of Nato countries?” He says “we don’t think so” and that there is “no imminent…",
-      "category": "technology_science",
+      "id": "evt-c02d4436c3f36a5c6b18693ea94e9dd53a499491df6a78a7d4fc451cacc5743b",
+      "title_en": "Ukrainian military’s access to Starlink satellite internet suddenly restricted",
+      "summary_en": "Launch of Russian ballistic missiles on Ukraine, with no US warning, coincides with outage of Starlink managed by Musk’s SpaceX Europe live – latest updates Ukraine’s military has suddenly had its access to Starlink satellite internet terminals restricted as the Trump administration has increased pressure on Ukraine…",
+      "category": "politics_security",
       "region": "europe",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.985×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
-          "published_at": "2026-10-14T11:08:25+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-b1bf993b3c55fe5aa3a982ee915ecb4273dd6a31c68aa411820d4104c58b4e24",
-      "title_en": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-      "summary_en": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.981×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_business",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-14T11:04:12+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-913211ad61c61cd43971778e489ddbd05fc005b3f8c86407a2acf2dec7aec49c",
-      "title_en": "Ukrainian soldiers in combat have access to Starlink satellite internet restricted",
-      "summary_en": "Outage of terminals managed by Elon Musk’s SpaceX comes as Russia launches ballistic missiles at Ukraine without any advance warning from US Ukrainian soldiers in combat have suddenly had their access to Starlink satellite internet terminals restricted as the Trump administration has increased pressure on Ukraine to…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 51,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.927×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.975×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -132,16 +49,91 @@
           "source_id": "guardian_world",
           "publisher": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
-          "published_at": "2026-10-14T10:05:36+00:00",
+          "published_at": "2026-10-14T16:18:46+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-f17ae77d0816b932df60c231c7866817bde67ac75bf520f5d1b9bc5cace2107c",
-      "title_en": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
-      "summary_en": "Japanese journalist Imai Yuki arrested on Sakhalin for allegedly spying on Russian defence capabilities, says the FSB.",
+      "id": "evt-e3f471954775ca355f0f31c0fbfbfc16bcb5eda80a556910a9fc43924c5aee6a",
+      "title_en": "'It's rough out here': Americans struggle with rising inflation",
+      "summary_en": "US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.955×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_business",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-14T15:57:11+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-392b8337a2dfdccd4d70196d9a270c6b338e7ee11a9b21a0b172531b850cfc2a",
+      "title_en": "NASA’s Space X CRS-35 Launch Jellyfish",
+      "summary_en": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.920×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
+          "published_at": "2026-10-14T15:18:38+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-dddd0365374c147048e1b3014ee32e214f68d72e54637bf74faf22df5d679220",
+      "title_en": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+      "summary_en": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could function in the brutal cold of the Moon’s South Pole, where nighttime temperatures plunge…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.888×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
+          "published_at": "2026-10-14T14:41:21+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-1fe37e55a5c745d74a2184af2c69cd7fd3ec219170cfc482146aee551b3ba039",
+      "title_en": "UN official warns of looming food crisis as Hormuz fertiliser plan stalls",
+      "summary_en": "Without a quick deal to move fertiliser through the strait, agricultural productivity would 'significantly drop'.",
       "category": "other",
       "region": "global",
       "sports_tags": [],
@@ -156,24 +148,24 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising?traffic_source=rss",
-          "published_at": "2026-10-14T10:46:55+00:00",
+          "url": "https://www.aljazeera.com/news/2026/10/14/un-official-warns-of-looming-food-crisis-as-hormuz-fertiliser-plan-stalls?traffic_source=rss",
+          "published_at": "2026-10-14T16:08:09+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-3cbcae3e7462664ae46d738d498e1f3f2c8cdbb2e31622e7a349e7727ed1060a",
-      "title_en": "How a radio glitch triggered a false hijack alert in Germany",
-      "summary_en": "Authorities scrambled fighter jets to escort a plane from Corfu to Nuremberg after a pilot sent a hijack alert.",
+      "id": "evt-4d3f8d51e6a29db318d799d34be773d514ced7806d9d8cff178a379c2f7dbab7",
+      "title_en": "Fire erupts at Albania’s Education Ministry as protests enter third day",
+      "summary_en": "At least 16 additional protesters have been arrested after clashing with riot police.",
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.917×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.979×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -181,24 +173,99 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/14/how-a-radio-glitch-triggered-a-false-hijack-alert-in-germany?traffic_source=rss",
-          "published_at": "2026-10-14T09:53:54+00:00",
+          "url": "https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss",
+          "published_at": "2026-10-14T16:23:20+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-e45e6080d50964ab26904302ae799691287c3519f0a9c51a31f72c05c84d8ff4",
-      "title_en": "Ex-gang leader sentenced to minimum 40 years for Tupac murder",
-      "summary_en": "Duane \"Keffe D\" Davis, the former Los Angeles gang leader who boasted for years of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to trial, was sentenced to a minimum 40 years in prison on Tuesday. The sentence, which will likely see him die in custody, comes three decades after…",
-      "category": "society_health_environment",
-      "region": "global",
+      "id": "evt-34a3633bfd4f6ffe897290ed50687fab20cf27e1f11ded70702f2ced502daa48",
+      "title_en": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
+      "summary_en": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK Jr Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The…",
+      "category": "politics_security",
+      "region": "africa",
       "sports_tags": [],
       "importance_score": 49,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.904×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.818×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
+          "published_at": "2026-10-14T13:16:30+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-096fc147ea78e7977bb3b695695aa79c3a3f7c1daaedea294865b177dee883b2",
+      "title_en": "Yemen: WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery",
+      "summary_en": "Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.760×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168591",
+          "published_at": "2026-10-14T12:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "un_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-3d49c56a45aef5b1782612fa6ea114066c1e11ba8fd98ef9001a9b3ffd0691c7",
+      "title_en": "WHO calls for urgent health action across the Eastern Mediterranean",
+      "summary_en": "The head of the World Health Organization (WHO) has called for promoting, providing and protecting health in the Eastern Mediterranean region, home to some of the world’s top humanitarian crises such as Sudan, Yemen and the Occupied Palestinian Territory.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.760×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168590",
+          "published_at": "2026-10-14T12:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "un_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-4590baf61385109f5a113a826b8fd1b1eeb25425f4b7a9ddcd0b736b85a99e84",
+      "title_en": "Ukraine accuses SpaceX of crippling military missions as ties with US worsen",
+      "summary_en": "Ukraine accused Elon Musk's SpaceX on Wednesday of limiting Starlink services, crippling its drones, as Russian missiles knocked out power stations in attacks President Volodymyr Zelensky called \"ostentatious disrespect\" to Donald Trump. Kyiv's relationship with Washington has taken a sharp turn for the worse since…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.851×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -206,8 +273,33 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261014-ex-gang-leader-sentenced-to-minimum-40-years-for-tupac-murder",
-          "published_at": "2026-10-14T09:39:35+00:00",
+          "url": "https://www.france24.com/en/video/20261014-ukraine-accuses-spacex-of-crippling-military-missions-as-ties-with-us-worsen",
+          "published_at": "2026-10-14T13:57:22+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-5447f0a84e84b2a878be4f4fb166d6bad9a51eeb31a48a344bdc3c778967086f",
+      "title_en": "Duane Davis sentenced to minimum 40 years for Tupac killing",
+      "summary_en": "Duane Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to trial, was sentenced to a minimum 40 years in prison on Tuesday. FRANCE 24's Wassim Cornet reports from Los Angeles, United States.",
+      "category": "society_health_environment",
+      "region": "north_america",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.844×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261014-duane-davis-sentenced-to-minimum-40-years-for-tupac-killing",
+          "published_at": "2026-10-14T13:48:46+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
@@ -220,10 +312,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 39,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.572×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 9.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.420×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 15.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -245,10 +337,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 39,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.582×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 9.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.427×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 14.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -264,82 +356,39 @@
       ]
     },
     {
-      "id": "evt-f27035c4652595bb244924be10403ce5b6f36fa6f57850f37fffe4041f09bd9d",
-      "title_en": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
-      "summary_en": "NASA engineer and astronaut Christina Koch will serve as the agency’s acting deputy chief engineer beginning on Sunday, Nov. 1, following the retirement of Katherine Van Hooser, who will conclude more than 35 years of distinguished service to the agency on Wednesday, Oct. 21. In her new role, Koch will help lead…",
+      "id": "evt-d11e3a3a942fd532b4a4d2bb0c5d7fe5a5c5474917013f4b0ac5ae77212c9f13",
+      "title_en": "Mars moon lander set to launch on 19 October",
+      "summary_en": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. MMX is led by the…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.427×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 14.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.190×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 28.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
-          "published_at": "2026-10-13T20:41:11+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-25f48864a541690d1a8c38deae40efa83e563bf5926a14db409a7b7f16e404e9",
-      "title_en": "800 million young people face a future without jobs",
-      "summary_en": "Approximately 800 million young people entering the labour market in developing economies over the coming years will not find jobs unless countries act, the head of the UN Development Programme (UNDP) warned on Tuesday, as the agency launched two initiatives to boost investment and employment.",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 38,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.259×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 23.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168588",
+          "source_id": "esa_space_science",
+          "publisher": "European Space Agency",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
           "published_at": "2026-10-13T12:00:00+00:00",
           "published_precision": "second",
-          "publisher_group": "un_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-944a6463d44ae4ed7f703f5eacc1d508ff8b1c73454824b422609ae9e666e6ac",
-      "title_en": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update",
-      "summary_en": "Fewer people from West Africa are reaching Europe by sea, but the journey has not become safer, the UN migration agency (IOM) said on Tuesday.",
-      "category": "society_health_environment",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 38,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.259×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 23.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168587",
-          "published_at": "2026-10-13T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "un_news"
+          "publisher_group": "esa_space_science"
         }
       ]
     }
   ],
   "source_errors": [
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168581 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168580 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168578 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168577 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168576 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168575 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168574 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168573 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168569 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168572 rejected: stale publication date",
@@ -354,8 +403,6 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168562 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168561 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168559 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168558 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168557 rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets rejected: stale publication date",
@@ -372,12 +419,8 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cjzxl7ee4e9xo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -395,12 +438,12 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqx2z2xx0k2lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/ckdd86nglrggo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c8p3gzenvylyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -408,7 +451,6 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9787?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9786?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -436,16 +478,16 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026 rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/12/scientist-russia-plague-victim-lab-worker-pandemic rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/10/skies-across-the-uk-illuminated-by-the-northern-lights rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/starwatch-mars-signposts-beautiful-beehive-star-cluster rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software rejected: stale publication date",
@@ -456,17 +498,16 @@
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/06/plague-outbreak-russian-lab-worker-dies-in-siberia-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/jonathan-the-giant-tortoise-194-offers-up-insight-into-secrets-of-longevity rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/did-you-solve-it-the-treacherous-puzzle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/14/did-you-solve-it-do-you-have-the-brain-of-an-engineer rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/09/why-youve-probably-been-thinking-about-narcolepsy-all-wrong rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/this-is-what-the-2026-nobel-prize-for-chemistry-is-all-about rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/10/tsa-union-agency-checkpoints-chairs rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/10/uaw-president-shawn-fain-wins-re-election rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/world/2026/oct/09/flock-job-cuts rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/09/anti-private-equity-comedy-influencers rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
@@ -489,8 +530,6 @@
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/04/trump-communism-republicans rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/us-news/2026/oct/02/arrest-smuggled-computer-servers-china rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/business/2026/oct/02/starbucks-urged-close-stores-in-chinas-xinjiang rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-12/Togo-China-has-advantages-in-hosting-ocean-treaty-secretariat-1Rb8SN7upMs/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-12/US-reverses-course-on-Britain-s-testing-of-AI-models-Telegraph-says-1RaV1PoemTC/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-12/China-s-growth-offers-opportunity-over-shock-experts-say-1Ra6s4uUbOo/p.html rejected: stale publication date",
