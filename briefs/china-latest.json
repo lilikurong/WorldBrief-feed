@@ -2,20 +2,95 @@
   "schema_version": 1,
   "edition": "china",
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T03:40:53+00:00",
+  "generated_at": "2026-10-15T11:00:34+00:00",
   "is_underfilled": true,
   "events": [
     {
-      "id": "evt-c108ccc2423cc2abbbaac2362460e606d679fe1ac1e4cbe268636a7e8aa8d7e3",
-      "title_en": "North Korea and China open new bridge after 12-year delay",
-      "summary_en": "The opening of the road bridge, set to become a major trade route, was announced by Chinese state media.",
+      "id": "evt-18f7eec541ad843a13c1f27c9b313493a5a89c42cad183a64e2c1f6dcf7f44fd",
+      "title_en": "Long-delayed China-North Korea bridge officially opens",
+      "summary_en": "China and North Korea have officially opened the New Yalu River Bridge after a 12-year delay.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.944×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens?traffic_source=rss",
+          "published_at": "2026-10-15T10:00:58+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-6c3c5f97dbd03177442b52a2c395ce5a1c998f95278d13ac66fd449a5fafadac",
+      "title_en": "New four-lane bridge opens between China, North Korea",
+      "summary_en": "A new four-lane road bridge linking China and North Korea finally opened on Thursday, 12 years late, enabling the Asian giant and its isolated nuclear-armed neighbour to step up cross-border trade substantially. China is its neighbour's largest trading partner and a vital diplomatic and political backer, although…",
+      "category": "politics_security",
+      "region": "asia_pacific",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.939×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261015-new-four-lane-bridge-opens-between-china-north-korea",
+          "published_at": "2026-10-15T09:54:44+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-70dc3b32a77887dd4366203d7bce5db173551b0f041131dceece83d5e981ae96",
+      "title_en": "China, North Korea open long-delayed border bridge",
+      "summary_en": "China and North Korea officially opened their most significant land border crossing on Thursday, aiming to rejuvenate trade and commerce after years of strained ties and pandemic-related disruptions. Trucks festooned with the national flags of the neighbours drove across the long-delayed 3-km (2-mile) New Yalu River…",
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 52,
+      "importance_score": 49,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.961×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.948×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261015-china-north-korea-open-long-delayed-border-bridge",
+          "published_at": "2026-10-15T10:05:12+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-c108ccc2423cc2abbbaac2362460e606d679fe1ac1e4cbe268636a7e8aa8d7e3",
+      "title_en": "North Korea and China open new bridge after 12-year delay",
+      "summary_en": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.767×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -24,34 +99,34 @@
           "source_id": "bbc_china",
           "publisher": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-15T02:59:30+00:00",
+          "published_at": "2026-10-15T06:24:45+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-83afb791dcfca46c76bdd854fb4d2ef1cf2c630090537d7b3326375f08e1a548",
-      "title_en": "China calls for efforts to stop influx of illicit weapons into Haiti",
-      "summary_en": "A Chinese envoy to the United Nations on Wednesday called for efforts to stop the influx of illicit weapons into Haiti, after the Security Council adopted a resolution on renewing the sanctions regime against the country for one year.",
-      "category": "politics_security",
+      "id": "evt-dd0f41d551c920c6795cd42d9090a749b189ab7ea74c1e4786bdb59044c06b97",
+      "title_en": "The global economy is muddling through against the odds. But a storm is coming | Larry Elliott",
+      "summary_en": "Finance ministers gathering for the IMF annual meeting know the need for multilateral cooperation to deal with many crises. There is little chance of that Not much has gone right for the global economy this year, and plenty has gone wrong. Two big regional wars are destabilising prices and supply chains everywhere.…",
+      "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 47,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.876×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.707×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "cgtn_world",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-15/China-calls-for-efforts-to-stop-influx-of-illicit-weapons-into-Haiti-1RfLmzBMzNC/p.html",
-          "published_at": "2026-10-15T01:22:57+00:00",
+          "source_id": "guardian_china",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf",
+          "published_at": "2026-10-15T05:00:22+00:00",
           "published_precision": "second",
-          "publisher_group": "cgtn"
+          "publisher_group": "guardian"
         }
       ]
     },
@@ -62,10 +137,10 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 43,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.787×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.515×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 11.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -81,66 +156,41 @@
       ]
     },
     {
-      "id": "evt-fdb80194972247059e4f11c42ac7b3362c06daf5af032c79e2e4e010fe2a2dec",
-      "title_en": "UK’s ‘incoherent’ approach to China plagued by lack of expertise, report says",
-      "summary_en": "International alliance of China-sceptic legislators warns of risks inherent in misjudging bilateral relationship The UK’s approach to China is “beset by incoherence” and plagued by a lack of senior expertise, according to a report warning of the risks inherent in misjudging the bilateral relationship. An audit by the…",
-      "category": "other",
+      "id": "evt-83afb791dcfca46c76bdd854fb4d2ef1cf2c630090537d7b3326375f08e1a548",
+      "title_en": "China calls for efforts to stop influx of illicit weapons into Haiti",
+      "summary_en": "A Chinese envoy to the United Nations on Wednesday called for efforts to stop the influx of illicit weapons into Haiti, after the Security Council adopted a resolution on renewing the sanctions regime against the country for one year.",
+      "category": "politics_security",
       "region": "global",
-      "sports_tags": [],
-      "importance_score": 44,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.540×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 10.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_china",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says",
-          "published_at": "2026-10-14T17:00:14+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-c9637e17c43b7951ba0083997b273fdc239a5faaed0fac8c08764f04ff2d711d",
-      "title_en": "Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns",
-      "summary_en": "Ola Källenius says it will ‘weaken the industry on both sides’ ahead of act intended to counter non-EU competition Locking the UK out of the EU’s flagship industrial “Made in Europe” legislation would amount to a “deliberate choice” by EU leaders to “hurt” the car industry across the bloc, the head of Mercedes-Benz…",
-      "category": "other",
-      "region": "europe",
       "sports_tags": [],
       "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.452×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 13.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.573×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 9.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_china",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius",
-          "published_at": "2026-10-14T13:57:03+00:00",
+          "source_id": "cgtn_world",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-15/China-calls-for-efforts-to-stop-influx-of-illicit-weapons-into-Haiti-1RfLmzBMzNC/p.html",
+          "published_at": "2026-10-15T01:22:57+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
+          "publisher_group": "cgtn"
         }
       ]
     },
     {
-      "id": "evt-73924a49c6fdf686136d8a91b1a1afd5bb0f8da62d705837b6eaef328ff64f8f",
-      "title_en": "Maritime security in Asia sets example for global cooperation",
-      "summary_en": "Maritime security in Asia sets example for global cooperation",
-      "category": "politics_security",
-      "region": "asia_pacific",
+      "id": "evt-64cb5ef7b7ff11d5264fbe0fff2d569d55d9866c4012c8624f665e06e43e9bc4",
+      "title_en": "China's Zhuque-2E rocket launches 10 satellites into space",
+      "summary_en": "China launched a Zhuque-2E Y4 carrier rocket from the Dongfeng commercial space innovation pilot zone in northwest China on Wednesday.",
+      "category": "technology_science",
+      "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.428×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 14.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.290×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 21.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -148,10 +198,35 @@
         {
           "source_id": "cgtn_china",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-14/Maritime-security-in-Asia-sets-example-for-global-cooperation-1ReNzl5YzYs/p.html",
-          "published_at": "2026-10-14T13:00:34+00:00",
+          "url": "https://news.cgtn.com/news/2026-10-14/China-s-Zhuque-2E-rocket-launches-10-satellites-into-space-1ReYXyOhz5C/p.html",
+          "published_at": "2026-10-14T13:36:30+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
+        }
+      ]
+    },
+    {
+      "id": "evt-e523be99b8be4edd7c07adf88c55b5d3cd3314d91536768a95df4cf068119381",
+      "title_en": "UK resists EU pressure to hit China with tariffs",
+      "summary_en": "Exclusive: Business secretary says he will not change trade rules due to EU pressure and denies UK will become a ‘back door’ for cheap imports The business secretary has hit back at European demands for British tariffs on Chinese imports, saying the government will not change its trade rules because of pressure from…",
+      "category": "politics_security",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 36,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.177×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 30.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_china",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/14/uk-will-not-put-tariffs-on-chinese-vehicles-says-jonathan-reynolds",
+          "published_at": "2026-10-14T05:00:45+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
         }
       ]
     }
@@ -207,7 +282,6 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/ckdd86nglrggo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -233,14 +307,14 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026 rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/12/this-is-india-electoral-revision-protests rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/12/scientist-russia-plague-victim-lab-worker-pandemic rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/10/skies-across-the-uk-illuminated-by-the-northern-lights rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/starwatch-mars-signposts-beautiful-beehive-star-cluster rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/society/2026/oct/13/women-autoimmune-conditions-psychological-misdiagnosis-cambridge-study rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software rejected: stale publication date",
@@ -248,13 +322,14 @@
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/gordon-brown-british-households-5000-richer-innovation rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/20/the-guardian-view-on-ai-v-mathematicians-humans-are-still-vital-to-the-field-but-tech-firms-refuse-to-see-that rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/13/surprising-psychology-morbid-curiosity-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/06/plague-outbreak-russian-lab-worker-dies-in-siberia-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/jonathan-the-giant-tortoise-194-offers-up-insight-into-secrets-of-longevity rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/did-you-solve-it-the-treacherous-puzzle-of-the-round-table rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/sep/14/did-you-solve-it-do-you-have-the-brain-of-an-engineer rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/09/why-youve-probably-been-thinking-about-narcolepsy-all-wrong rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/this-is-what-the-2026-nobel-prize-for-chemistry-is-all-about rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos rejected: stale publication date",
@@ -269,6 +344,8 @@
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/film/2026/oct/13/its-my-time-review-michelle-yeoh-excels-in-rocky-style-quest-to-be-rubiks-cube-champ rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/business/2026/oct/13/super-app-uk-students-servers-china-us-blacklist rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/12/stellantis-renault-uk-eu-car-industry-imports-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry rejected: stale publication date",
@@ -282,15 +359,20 @@
     "guardian_china: entry https://www.theguardian.com/us-news/2026/oct/05/wanying-zhang-fbi-arrest-china-spy-taiwan rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/04/trump-communism-republicans rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Paris-Motor-Show-opens-with-record-number-of-Chinese-brands-1Rctww7PkCA/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Shanghai-wins-first-WIPO-City-of-Innovation-award-1Rctb3LBsSk/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/China-hosts-Great-Wall-2026-International-Forum-on-Counter-Terrorism-1RcEdy2lARy/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Why-Chinese-shopping-malls-are-holding-sneak-eating-contests-1Rd7frBm6I0/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Redefining-the-field-Why-this-Luoyang-powerhouse-blew-me-away-1RcJHEvw8F2/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/From-smog-skies-to-blue-skies-China-s-urban-governance-transformation-1RbICudLJLi/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Foreign-diplomats-embrace-China-s-livestream-commerce-1RbBlwFJYxG/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/China-s-global-industry-fair-showcases-latest-industrial-innovations-1RcLR6zSCxG/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/China-s-top-legislator-meets-with-Vietnam-s-National-Assembly-chairman-1RcnAMqXDyw/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Chinese-vice-premier-meets-with-Apple-executive-chairman-1RcoeYcFN04/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/How-Cities-Are-Responding-to-an-Aging-Population-1RcqJtkGLNm/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/The-Long-March-in-Song-From-Hardship-to-Hope-1RcEyXV0t8I/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/How-Changchun-revived-its-industrial-heritage-1RcmTWntyCY/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Technology-drives-China-s-disaster-reduction-solutions-to-the-world-1RcwpVcEmoU/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-13/Paris-Motor-Show-opens-with-record-number-of-Chinese-brands-1Rctww7PkCA/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-13/China-s-top-legislator-meets-with-Vietnam-s-National-Assembly-chairman-1RcnAMqXDyw/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-13/Iran-condemns-British-claim-of-Iran-s-role-in-airbase-incident-1RcoV4MVS92/p.html rejected: stale publication date",
