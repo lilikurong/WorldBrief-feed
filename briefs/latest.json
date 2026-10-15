@@ -2,53 +2,20 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-10-16",
-  "generated_at": "2026-10-15T16:30:39+00:00",
+  "generated_at": "2026-10-15T21:02:40+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-d35e668e9eacf99efbba16c9a111868b4acedee5aeddc3a2118d391a937bc05b",
-      "title_en": "Trump says Fort Hood US shooter execution will not be livestreamed",
-      "summary_en": "US President Donald Trump said Thursday that he was cancelling plans to livestream the firing squad execution of a convicted military base shooter – a project that had sparked outrage in the United States. Nidal Hasan is scheduled to be executed on December 3 at Fort Hood in Texas, where he killed 13 people in 2009. US president reverses Pentagon's plan to publicly stream execution of Nidal Malik Hasan after outcry.",
-      "category": "politics_security",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 61,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.888×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 2; age: 2.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss",
-          "published_at": "2026-10-15T14:27:35+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        },
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/americas/20261015-fort-hood-shooter-s-firing-squad-execution-will-not-be-livestreamed-trump-says",
-          "published_at": "2026-10-15T14:58:05+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-b54e5605150d0a6a43f256c1d2a9cbe5cca33ed31cf61aa467536cfa423437b2",
-      "title_en": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "summary_en": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "id": "evt-4caa638b6fc7d0a0bf2cde3b7c5a9c0415cc4c0fdf59409b0e8afdf024880428",
+      "title_en": "Letters with 'suspicious substances' sent to US election offices",
+      "summary_en": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 53,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.998×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.990×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -56,249 +23,99 @@
         {
           "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-15T16:28:10+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-15T20:52:13+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-eadc12eb818eead384fa9d9a5ad8b64e55a01b5971866c92418e9565ffe23904",
-      "title_en": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters take your questions live",
-      "summary_en": "The high cost of living has Americans angrier than ever. Guardian reporters answer your questions now about the economy before voters head to the polls Sign up or sign in to ask your question semitone asks: What do we make of an electorate that will twice elect a known sex pest and adjudged sex abuser, a proud racist…",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 53,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.992×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
-          "published_at": "2026-10-15T16:21:57+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-1913cc5ed8956c6b01d33eda2267d328e5480f542fbd047132e4dd72b47d04f2",
-      "title_en": "John Healey poised to raise taxes on banks in budget",
-      "summary_en": "Exclusive: Chancellor to target sector in his first budget to help offset damage caused by Iran war on public finances John Healey is poised to tax Britain’s banks in his 28 October budget to help offset the damage inflicted on the public finances by war in the Middle East, the Guardian understands. The chancellor is…",
+      "id": "evt-7fb6a44cff2903e782929c29c14d8c5791b22b6c70dd46b375bb454c1b245774",
+      "title_en": "US winter is likely to be wetter and warmer, forecasters say, with more snow in the south",
+      "summary_en": "El Niño will likely shift weather patterns to bring more rain, but much snow still isn’t forecast for the northern sates Winter in the United States looks like it will generally be wetter and warmer, but not necessarily snowier, according to the federal government’s seasonal outlook and other meteorologists’…",
       "category": "politics_security",
-      "region": "middle_east",
+      "region": "north_america",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.987×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget",
-          "published_at": "2026-10-15T16:17:05+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-ab377dbcd0109626fa13e4dad5edffbf85722f4e2e23ec567ccd3a3488f89d39",
-      "title_en": "NASA Awards Enable Research, Technology to Build Future Workforce",
-      "summary_en": "NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.969×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/",
-          "published_at": "2026-10-15T15:57:47+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-e8132467aed835e28536b8e2dee15e4ae46527052670a07a22d6ef165d9a420f",
-      "title_en": "BBC Inside Science",
-      "summary_en": "How can we to compete against a natural force with the power of 25 atomic bombs?",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.971×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_science",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-15T16:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-2db7590aba4b4e86cd251cad9a1e199a5188d67ca13d8097b31d6b4b522635b7",
-      "title_en": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
-      "summary_en": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected. In…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 51,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.914×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/",
-          "published_at": "2026-10-15T14:57:21+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-8d954dd85c0ffe84fa664ad012249460e2e765f948fab51d9dac3745b42f0feb",
-      "title_en": "'We're done': Ukraine resumes strikes on Russian oil refineries as 'only leverage' for peace talks",
-      "summary_en": "Delano D'Souza is pleased to welcome Peter Zalmayev, Founder and Director of the Eurasia Democracy Initiative, LIVE from Kyiv. As Zelensky declares Ukraine \"done\" with Trump's self-declared energy ceasefire and resumes strikes on Russian oil refineries, Zalmayev warns: \"When you talk about the energy ceasefire, it…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.984×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.982×0.20, authority=0.900×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261015-we-re-done-ukraine-resumes-strikes-on-russian-oil-refineries-as-only-leverage-for-peace-talks-1",
-          "published_at": "2026-10-15T16:14:25+00:00",
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/15/winter-weather-snow-rain",
+          "published_at": "2026-10-15T20:44:18+00:00",
           "published_precision": "second",
-          "publisher_group": "france24"
+          "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-cabd35a15b5c5e7e930a07729b08481643377a4a005cf465b34e7cafe1c0f535",
-      "title_en": "Election delay 'a terrible disappointment', Palestinian activist Samer Sinijlawi says",
-      "summary_en": "In an interview with FRANCE 24, Palestinian activist Samer Sinijlawi called the postponement of the first legislative elections in 20 years to September 2027 \"a terrible disappointment\" for a generation that has never had a chance to vote. He also dismissed the citing of Israeli restrictions as an excuse, pointing…",
+      "id": "evt-a291efdb78a068646f895b97895dbaa5ff2d02d23e53cdd82eb494ea81e8f5d8",
+      "title_en": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+      "summary_en": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.940×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
+          "published_at": "2026-10-15T19:58:08+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-6a76971b2812afaa6e5b1fc4c68876cfd93e23e352a8a9d0c60694a45d2aec6a",
+      "title_en": "France drops opposition to UK being included in ‘Made in Europe’ legislation",
+      "summary_en": "British government must however align with the European Union’s position over tariffs on Chinese EVs France has dropped its opposition to the UK being included in the EU’s “Made in Europe” legislation as long as the British government aligns with the bloc’s position over tariffs on Chinese EVs. France on Thursday…",
       "category": "politics_security",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.913×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_china",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/15/france-drops-opposition-to-uk-being-included-in-made-in-europe-legislation",
+          "published_at": "2026-10-15T19:28:34+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-08a875c4298d3dfd309905fa83927e6f5d09fa2a0b2e1136d0126080c3d59f70",
+      "title_en": "At least 7 crew members missing after drone attacks on ships in Black Sea",
+      "summary_en": "Emergency teams are searching for 7 missing crew after two chemical tankers were attacked in the Black Sea.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.987×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261015-election-delay-a-terrible-disappointment-palestinian-activist-samer-sinijlawi-says",
-          "published_at": "2026-10-15T16:17:23+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-1650badf119ca52008991ce8883d742e600a07d29f48d0b49f70f278b1f63bcc",
-      "title_en": "WHO urges vigilance after Kenya confirms second Ebola case",
-      "summary_en": "The World Health Organization (WHO) continues to support Kenya’s efforts to contain Ebola after a second person tested positive for the Bundibugyo virus, the UN agency’s representative in the country said on Thursday.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 48,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.771×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168602",
-          "published_at": "2026-10-15T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "un_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-ba4b15594795301b78bff500c3c0a2207991f18883240193c2ecd21c688536ac",
-      "title_en": "WHO urges faster action to end lead exposure which kills 3.5 million annually",
-      "summary_en": "Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 48,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.771×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168600",
-          "published_at": "2026-10-15T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "un_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-da0bb93b94326a95904ac6ecb98d33ba1ad35f35bba5ec014919b9360cdc4783",
-      "title_en": "The Rebel Tours: Money or morals?",
-      "summary_en": "Some West Indies cricketers toured apartheid South Africa in the 1980's, breaking one of the biggest sporting boycotts.",
-      "category": "other",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 48,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.855×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.969×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -306,24 +123,149 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss",
-          "published_at": "2026-10-15T13:48:17+00:00",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss",
+          "published_at": "2026-10-15T20:29:52+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-427c7aa440c95eefdbb773c02a6f2ea7e84f75b121ac6502ebe0fa3eb422ba44",
-      "title_en": "UN concerned over Israeli attacks on Palestinian civilians",
-      "summary_en": "UN humanitarians on Wednesday said that they remain deeply concerned about continued Israeli attacks affecting civilians and populated areas in the occupied Palestinian territory.",
-      "category": "other",
+      "id": "evt-aa3c1af7672d4c3eab836fecb14a90a40f845b0a53646873e0d0cc0eb4fe6b3a",
+      "title_en": "NASA Satellites Observe Historic 2026 El Niño",
+      "summary_en": "A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatorial Pacific. NASA…",
+      "category": "technology_science",
+      "region": "asia_pacific",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.838×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/",
+          "published_at": "2026-10-15T17:59:22+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-d6870a36b5bd2097dfc0a8cb2163ab85db02e3d624e7243853140a60b4a48fb8",
+      "title_en": "Kinshasa braces for potential conflict as Kabila joins M23",
+      "summary_en": "In tonight's edition, as Joseph Kabila returns to centre stage with a new alliance with the M23 rebels, political leaders in Congo are having to choose sides. Also, the US is calling for restraint in Ethiopia as a rights group warns that the conflict in Tigray is already taking a toll on civilians. And the season of…",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.415×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 15.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.968×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/kinshasa-braces-for-potential-conflict-as-kabila-joins-m23",
+          "published_at": "2026-10-15T20:29:20+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-a101923d5df9d812ba87000566465699d88561f73441bb5cd48b6ddc8f143d53",
+      "title_en": "'I paid thousands to a company for jobs that never came'",
+      "summary_en": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.807×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_business",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-15T17:19:49+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-fb648801aedb427ff2a18e34acf74dffb5008b6b72ddcc62a149e6c01f3f0c6a",
+      "title_en": "Fake AI images of protester go viral after woman punched at Trump's Ohio rally",
+      "summary_en": "A protester who heckled Donald Trump at his midterm rally in Youngstown, Ohio, was physically assaulted and removed from the event, but fake AI-generated photos recreating the incident are going viral online. The images carry digital watermarks identifying them as AI-generated. While footage confirms the woman was…",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.930×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.2h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/fake-ai-images-of-protester-go-viral-after-woman-punched-at-trump-s-ohio-rally",
+          "published_at": "2026-10-15T19:47:44+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-9dd8db9f03b4c5290287383f0286ef6cf010c6ca5401d955a8c9fc974ffe0f40",
+      "title_en": "DR Congo protests Formula 1’s ‘indefensible’ decision to race in Rwanda",
+      "summary_en": "Formula One returns to Africa for the first time since 1993, but DRC slams decision to stage race in Rwanda.",
+      "category": "other",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.802×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/15/congo-protests-formula-1s-indefensible-decision-to-race-in-rwanda?traffic_source=rss",
+          "published_at": "2026-10-15T17:13:17+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-797290f9637c6bb7020574d04e31dee6876dfff28d8f20a03a2aaec787e33d03",
+      "title_en": "Ecuador to shore up electric system ahead of peak El Niño months",
+      "summary_en": "Ecuador is set to shore up its electric system to ensure service during the critical months of the El Niño weather phenomenon, forecast to run from late November through February, President Daniel Noboa said Wednesday.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 37,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.323×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 19.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -331,8 +273,8 @@
         {
           "source_id": "cgtn_world",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-15/UN-concerned-over-Israeli-attacks-on-Palestinian-civilians-1RfJuNgtmsE/p.html",
-          "published_at": "2026-10-15T01:15:58+00:00",
+          "url": "https://news.cgtn.com/news/2026-10-15/Ecuador-to-shore-up-electric-system-ahead-of-peak-El-Ni-o-months-1RfK6XnhgQw/p.html",
+          "published_at": "2026-10-15T01:29:47+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -347,10 +289,10 @@
       "sports_tags": [
         "olympics"
       ],
-      "importance_score": 38,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.125×0.20, authority=0.750×0.15, preference=1.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 36.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.096×0.20, authority=0.750×0.15, preference=1.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 40.5h."
       ],
       "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
       "is_breaking": false,
@@ -367,24 +309,7 @@
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168589 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168588 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168587 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168586 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168585 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168583 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168582 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168581 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168580 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168578 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168577 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168576 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168575 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168574 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168573 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168569 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168572 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168568 rejected: stale publication date",
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought rejected: stale publication date",
@@ -418,9 +343,8 @@
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/sport/football/videos/cj20vkpd61kqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/videos/cr86zjv5plp5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/ckdd86nglrggo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9787?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9786?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -444,21 +368,17 @@
     "guardian_world: entry https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/12/this-is-india-electoral-revision-protests rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/12/scientist-russia-plague-victim-lab-worker-pandemic rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/13/women-autoimmune-conditions-psychological-misdiagnosis-cambridge-study rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/gordon-brown-british-households-5000-richer-innovation rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/20/the-guardian-view-on-ai-v-mathematicians-humans-are-still-vital-to-the-field-but-tech-firms-refuse-to-see-that rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/13/surprising-psychology-morbid-curiosity-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/06/plague-outbreak-russian-lab-worker-dies-in-siberia-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/jonathan-the-giant-tortoise-194-offers-up-insight-into-secrets-of-longevity rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/did-you-solve-it-the-treacherous-puzzle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
@@ -468,6 +388,8 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/this-is-what-the-2026-nobel-prize-for-chemistry-is-all-about rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/media/2026/oct/13/bbc-trump-lawsuit-deposition rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
@@ -490,7 +412,6 @@
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/us-news/2026/oct/05/wanying-zhang-fbi-arrest-china-spy-taiwan rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/business/2026/oct/04/trump-communism-republicans rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Paris-Motor-Show-opens-with-record-number-of-Chinese-brands-1Rctww7PkCA/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Shanghai-wins-first-WIPO-City-of-Innovation-award-1Rctb3LBsSk/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/China-hosts-Great-Wall-2026-International-Forum-on-Counter-Terrorism-1RcEdy2lARy/p.html rejected: stale publication date",
