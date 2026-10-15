@@ -2,14 +2,14 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-10-15",
-  "generated_at": "2026-10-15T03:40:53+00:00",
+  "generated_at": "2026-10-15T11:00:34+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-5f84c3741b31b029eb481e655ac5ef7f28c6715449fc6f8c9b2ce155697c9dbd",
-      "title_en": "Anthropic flags revenue surge to investors ahead of stock market debut",
-      "summary_en": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-      "category": "economy_business",
+      "id": "evt-fa070485925aa8400c134c8c6f908074418666046fc2050607145de378addd94",
+      "title_en": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "summary_en": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 53,
@@ -21,26 +21,26 @@
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_business",
+          "source_id": "bbc_science",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-15T03:33:08+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-15T10:53:40+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-e5fc74bbe5e94cff8cd84495e2588dd062b5dc19e1d2f190e0e9e3ec2c9ee196",
-      "title_en": "Texas Democrat James Talarico faces grilling from voters at town hall in tight Senate race",
-      "summary_en": "Talarico casts himself as a moderate who would put Texans’ needs over party allegiances amid close contest against Republican Ken Paxton James Talarico, the Texas Democratic nominee for Senate, sat face to face with several undecided voters who grilled him on a slew of contentious issues including Israel’s military…",
+      "id": "evt-30bb91cb860598e51da2c7608948d54829d58662c81f17821d89ef8e81a63f4d",
+      "title_en": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
+      "summary_en": "Zelenskyy said he felt ‘betrayed’ by the US after Trump’s diesel deal with Russia and the Starlink restrictions Just as the leaders sit down at the big table in Brussels, Romania has said that seven people are still missing after a fire on a vessel in Romanian territorial waters of the Black Sea. Suspected Russian…",
       "category": "politics_security",
-      "region": "global",
+      "region": "europe",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.969×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.966×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -48,49 +48,99 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/oct/15/texas-democrat-james-talarico-televised-town-hall-us-politics",
-          "published_at": "2026-10-15T03:08:18+00:00",
+          "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+          "published_at": "2026-10-15T10:24:21+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-b6a03972b9292aa6f96035d043d2f737aaa41a2249fffb0b26a7e5df1c6cb28e",
-      "title_en": "Trump tries to rally support for Republican candidates as top Super Pac for Senate Democrats pours millions into key races – as it happened",
-      "summary_en": "This liveblog is now closed. Sign up for the Breaking News US email Donald Trump has yet to weigh in on the late night ruling from a federal judge that blocks him from barring CNN, MS Now and Politico access to the White House grounds. Previously, the president had blasted Judge Timothy Kelly – a Trump appointee –…",
+      "id": "evt-736991233b7bedf6261f087d9212ac9d5369e4a2905cc8f8deb133616a59ba6c",
+      "title_en": "US officials considering ad campaign to urge South African Afrikaners to emigrate",
+      "summary_en": "Exclusive: Trump has falsely claimed Afrikaners are facing ‘white genocide’, but very few have applied to live in US The US government could spend hundreds of thousands of dollars on a media campaign in South Africa to figure out why more white Afrikaners are not applying to become refugees to the US, as Donald Trump…",
       "category": "politics_security",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.943×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/15/us-officials-ad-campaign-south-africa-afrikaners-refugees",
+          "published_at": "2026-10-15T10:00:10+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-b19869191ff809cbe4f63b654779678c8255b8d1c63cb59827057e40b6409bb6",
+      "title_en": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+      "summary_en": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+      "category": "economy_business",
       "region": "global",
       "sports_tags": [],
       "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.915×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.916×0.20, authority=0.900×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
-          "published_at": "2026-10-15T02:08:19+00:00",
+          "source_id": "bbc_business",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-15T09:29:54+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
+          "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-319c95fd6051058e6f65c88124f89db25f782f6f2b31fc6053460edc08bd044b",
-      "title_en": "Teenager dies as heavy rain floods Istanbul",
-      "summary_en": "Roads collapse and hospitals take in water as floods swamp Turkiye's largest city, shutting schools and halting traffic.",
-      "category": "other",
+      "id": "evt-4f03f55ad8cf6138c47ae70aae5ffe5bd1468948576137279e6b318f165749ac",
+      "title_en": "Musk suggests US govt behind any slowdown in Ukraine's Starshield system",
+      "summary_en": "SpaceX boss Elon Musk said Wednesday that any disruptions reported by Ukraine in using the Starshield satellite communications system would be the responsibility of the US government, not his company. \"Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US…",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.973×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.951×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261015-musk-suggests-us-govt-behind-any-slowdown-in-ukraine-s-starshield-system",
+          "published_at": "2026-10-15T10:08:05+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-5bacba531a08358fa0111094f565997f7ef0afdf444a6641aa7c217e3b070178",
+      "title_en": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
+      "summary_en": "The tournament is scheduled to begin on January 7 but could be moved by a year if needed, AFC president says.",
+      "category": "politics_security",
+      "region": "asia_pacific",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.984×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -98,10 +148,85 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
-          "published_at": "2026-10-15T03:12:02+00:00",
+          "url": "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
+          "published_at": "2026-10-15T10:44:03+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-9467bf2328a565fcde50d74f3132f236b6e97606e75e7969929bab45d88afb1d",
+      "title_en": "FIFA set for rule change after Balogun red card row at the World Cup: reports",
+      "summary_en": "The governing body's council is expected to prohibit disciplinary committees from overturning match suspensions.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.986×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss",
+          "published_at": "2026-10-15T10:46:08+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-ff4f4698bc4488bff1fdfd62f0ceee7c9bf883e187a2ebce920d6816cb6a01e7",
+      "title_en": "Kenya reports second Ebola case, family member of first patient",
+      "summary_en": "Kenya reported a second case of Ebola on Wednesday, about a week after recording its first ever infection of the viral disease when a Kenyan who had been living in Congo died in a Nairobi hospital ​on October 5. The ‌second patient, a 39-year-old man, is a close family member of the first case and was already ⁠in…",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.980×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261015-kenya-reports-second-ebola-case-family-member-of-first-patient",
+          "published_at": "2026-10-15T10:39:48+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-44fe2c3b0a991feaff3edf0d24b38728a9919efcabc092bace635cbbf4be2a7d",
+      "title_en": "APOD: 2026 October 15 – The Milky Way over Manhattan",
+      "summary_en": "APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 46,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.670×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
+          "published_at": "2026-10-15T04:05:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
         }
       ]
     },
@@ -112,10 +237,10 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 43,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.935×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.612×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 8.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -131,116 +256,16 @@
       ]
     },
     {
-      "id": "evt-a5119f47ba7a78c648324b9d0d8d158378440d6b1948871e983dd3d93f97289b",
-      "title_en": "Thousands protest across Colombia against new right-wing president",
-      "summary_en": "Thousands of Colombians protested peacefully across the country on Wednesday against right-wing President Abelardo de la Espriella, in the opposition’s first major demonstrations since he took office in August. Former leftist President Gustavo Petro led a rally in Bogota, joined by trade unionists, Indigenous groups,…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.905×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/americas/20261015-thousands-protest-colombia-right-wing-president",
-          "published_at": "2026-10-15T01:57:26+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-fe1904c1da7935c99eecaf9ac91692e0858a2804f54d0367a4efc6913ca9c1b4",
-      "title_en": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-      "summary_en": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 48,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.787×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_china",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-14T23:32:11+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-5b310b413ddb564d1925776482c0bd1ee1f08b5d10f215f9d76802e66975d01d",
-      "title_en": "Lula’s party accuses Meta of election interference ahead of Brazil runoff",
-      "summary_en": "Brazilian President Luiz Inacio Lula da Silva’s party plans to file a complaint against Meta with the Organisation of American States, alleging election interference, his campaign said Wednesday. The party accuses Meta of restricting Lula’s online content ahead of the October 25 presidential runoff against Senator…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.803×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/americas/20261014-lula-party-meta-election-interference-brazil-runoff",
-          "published_at": "2026-10-14T23:52:58+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-f96623d65c3278625c1b0b72496d9c6ef6a00e3b0217f15f95b7e5196978d959",
-      "title_en": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
-      "summary_en": "President Laura Fernandez says mega-prison is part of 'tough-on-crime model' embraced by her government.",
-      "category": "politics_security",
-      "region": "latin_america",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.827×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss",
-          "published_at": "2026-10-15T00:24:03+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
       "id": "evt-1f6a78dab15bbecefbd53d4cb437cd08ca14a80eeab978085cc119ea5f073116",
       "title_en": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
       "summary_en": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 41,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.650×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 7.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.426×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 14.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -256,27 +281,29 @@
       ]
     },
     {
-      "id": "evt-ccd3cb7e8a4bda61c9db618dbcffadd8a4e71ab9aac43c57f303dadcd7d0fdb3",
-      "title_en": "NASA Astronauts to Answer Questions from Florida Students",
-      "summary_en": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12 p.m. EDT Friday, Oct. 16, and will stream live on the agency’s Learn With NASA YouTube channel. This…",
-      "category": "technology_science",
+      "id": "evt-f08f18699bb381467a7ca05bfdb8fb3a6ebadd195efc598e39c1249d51ae79be",
+      "title_en": "Wushu set to make historic Olympic debut at 2026 Dakar Youth Games",
+      "summary_en": "Wushu set to make historic Olympic debut at 2026 Dakar Youth Games",
+      "category": "sports",
       "region": "global",
-      "sports_tags": [],
-      "importance_score": 45,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.613×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 8.5h."
+      "sports_tags": [
+        "olympics"
       ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "importance_score": 39,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.172×0.20, authority=0.750×0.15, preference=1.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 30.5h."
+      ],
+      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/",
-          "published_at": "2026-10-14T19:12:51+00:00",
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-14/Wushu-set-to-make-historic-Olympic-debut-at-2026-Dakar-Youth-Games-1RedzqVdfYk/p.html",
+          "published_at": "2026-10-14T04:33:01+00:00",
           "published_precision": "second",
-          "publisher_group": "nasa_news"
+          "publisher_group": "cgtn"
         }
       ]
     },
@@ -287,10 +314,10 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.404×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 15.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.265×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 23.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -312,10 +339,10 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.404×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 15.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.265×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 23.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -327,58 +354,6 @@
           "published_at": "2026-10-14T12:00:00+00:00",
           "published_precision": "second",
           "publisher_group": "un_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-f08f18699bb381467a7ca05bfdb8fb3a6ebadd195efc598e39c1249d51ae79be",
-      "title_en": "Wushu set to make historic Olympic debut at 2026 Dakar Youth Games",
-      "summary_en": "Wushu set to make historic Olympic debut at 2026 Dakar Youth Games",
-      "category": "sports",
-      "region": "global",
-      "sports_tags": [
-        "olympics"
-      ],
-      "importance_score": 41,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.263×0.20, authority=0.750×0.15, preference=1.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 23.1h."
-      ],
-      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-14/Wushu-set-to-make-historic-Olympic-debut-at-2026-Dakar-Youth-Games-1RedzqVdfYk/p.html",
-          "published_at": "2026-10-14T04:33:01+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-d11e3a3a942fd532b4a4d2bb0c5d7fe5a5c5474917013f4b0ac5ae77212c9f13",
-      "title_en": "Mars moon lander set to launch on 19 October",
-      "summary_en": "The Martian Moons eXploration (MMX) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. MMX is led by the…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.101×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 39.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "esa_space_science",
-          "publisher": "European Space Agency",
-          "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-          "published_at": "2026-10-13T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "esa_space_science"
         }
       ]
     }
@@ -434,7 +409,6 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/ckdd86nglrggo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -460,14 +434,14 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026 rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/12/this-is-india-electoral-revision-protests rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/12/scientist-russia-plague-victim-lab-worker-pandemic rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/10/skies-across-the-uk-illuminated-by-the-northern-lights rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/starwatch-mars-signposts-beautiful-beehive-star-cluster rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/society/2026/oct/13/women-autoimmune-conditions-psychological-misdiagnosis-cambridge-study rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software rejected: stale publication date",
@@ -475,13 +449,14 @@
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/gordon-brown-british-households-5000-richer-innovation rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/20/the-guardian-view-on-ai-v-mathematicians-humans-are-still-vital-to-the-field-but-tech-firms-refuse-to-see-that rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/13/surprising-psychology-morbid-curiosity-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/06/plague-outbreak-russian-lab-worker-dies-in-siberia-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/jonathan-the-giant-tortoise-194-offers-up-insight-into-secrets-of-longevity rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/did-you-solve-it-the-treacherous-puzzle-of-the-round-table rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/sep/14/did-you-solve-it-do-you-have-the-brain-of-an-engineer rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/09/why-youve-probably-been-thinking-about-narcolepsy-all-wrong rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/this-is-what-the-2026-nobel-prize-for-chemistry-is-all-about rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos rejected: stale publication date",
@@ -496,6 +471,8 @@
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/film/2026/oct/13/its-my-time-review-michelle-yeoh-excels-in-rocky-style-quest-to-be-rubiks-cube-champ rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/business/2026/oct/13/super-app-uk-students-servers-china-us-blacklist rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/12/stellantis-renault-uk-eu-car-industry-imports-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry rejected: stale publication date",
@@ -509,15 +486,20 @@
     "guardian_china: entry https://www.theguardian.com/us-news/2026/oct/05/wanying-zhang-fbi-arrest-china-spy-taiwan rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/04/trump-communism-republicans rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Paris-Motor-Show-opens-with-record-number-of-Chinese-brands-1Rctww7PkCA/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Shanghai-wins-first-WIPO-City-of-Innovation-award-1Rctb3LBsSk/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/China-hosts-Great-Wall-2026-International-Forum-on-Counter-Terrorism-1RcEdy2lARy/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Why-Chinese-shopping-malls-are-holding-sneak-eating-contests-1Rd7frBm6I0/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Redefining-the-field-Why-this-Luoyang-powerhouse-blew-me-away-1RcJHEvw8F2/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/From-smog-skies-to-blue-skies-China-s-urban-governance-transformation-1RbICudLJLi/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Foreign-diplomats-embrace-China-s-livestream-commerce-1RbBlwFJYxG/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/China-s-global-industry-fair-showcases-latest-industrial-innovations-1RcLR6zSCxG/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/China-s-top-legislator-meets-with-Vietnam-s-National-Assembly-chairman-1RcnAMqXDyw/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Chinese-vice-premier-meets-with-Apple-executive-chairman-1RcoeYcFN04/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/How-Cities-Are-Responding-to-an-Aging-Population-1RcqJtkGLNm/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/The-Long-March-in-Song-From-Hardship-to-Hope-1RcEyXV0t8I/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/How-Changchun-revived-its-industrial-heritage-1RcmTWntyCY/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-13/Technology-drives-China-s-disaster-reduction-solutions-to-the-world-1RcwpVcEmoU/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-13/Paris-Motor-Show-opens-with-record-number-of-Chinese-brands-1Rctww7PkCA/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-13/China-s-top-legislator-meets-with-Vietnam-s-National-Assembly-chairman-1RcnAMqXDyw/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-13/Iran-condemns-British-claim-of-Iran-s-role-in-airbase-incident-1RcoV4MVS92/p.html rejected: stale publication date",
