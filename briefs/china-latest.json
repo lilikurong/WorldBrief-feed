@@ -2,9 +2,92 @@
   "schema_version": 1,
   "edition": "china",
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T03:36:56+00:00",
+  "generated_at": "2026-10-16T10:56:13+00:00",
   "is_underfilled": true,
   "events": [
+    {
+      "id": "evt-39908e04f2419303784f0d765b6551caa7dfddb15977f896df8d53674b9f050f",
+      "title_en": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "summary_en": "'The Palestinian question is the greatest historical injustice of this century,' China's foreign minister said. Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 58,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.630×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 2; age: 8.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_china",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-16T08:45:54+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        },
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
+          "published_at": "2026-10-16T02:56:21+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-c37dc3ac9dd0a7828fe3e2aa5fd8c31cb5c4c6342f20be384305b5cc5f0b1af1",
+      "title_en": "China-North Korea border bridge may do little to spur trade, experts say",
+      "summary_en": "Sanctions and a North Korean leadership that prioritises security dim prospects for trade, analysts say.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.913×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/16/china-north-korea-border-bridge-may-do-little-to-spur-trade-experts-say?traffic_source=rss",
+          "published_at": "2026-10-16T09:21:40+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-59848aeb734e4f0f64975cfdc34d3097096c9c3ea573095159fd1cc14d8de25f",
+      "title_en": "Like dinosaur eggs in the sand: the pterosaur museum built to thrive in the Gobi desert",
+      "summary_en": "How architects worked with harsh environment to create sustainable building in location where fossils were found Viewed from afar, the silver-hued Hami Pterosaur Museum almost looks like a space base on Mars. Viewed from above, it resembles a collection of dinosaur eggs in the sand. Nestled in the Gobi desert, in…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.710×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 5.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_china",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/oct/16/dinosaur-eggs-pterosaur-museum-built-gobi-desert",
+          "published_at": "2026-10-16T05:00:51+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
     {
       "id": "evt-2ed4c76b98b6f2e4279c0b89843e927aac03bf8e1c8d0d2eca772307686d1585",
       "title_en": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
@@ -12,10 +95,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 44,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.839×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.550×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 10.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -31,66 +114,16 @@
       ]
     },
     {
-      "id": "evt-39908e04f2419303784f0d765b6551caa7dfddb15977f896df8d53674b9f050f",
-      "title_en": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
-      "summary_en": "'The Palestinian question is the greatest historical injustice of this century,' China's foreign minister said.",
+      "id": "evt-09801d63f3fe1299b61e5747405b684b672b81c21ca1dd817628193c1685d4de",
+      "title_en": "Wang Yi: China-Türkiye cooperation benefits global economic recovery",
+      "summary_en": "Chinese Foreign Minister Wang Yi met with Turkish Foreign Minister Hakan Fidan on Thursday on the sidelines of the 7th Summit of the Conference on Interaction and Confidence Building Measures in Asia in Baku.",
       "category": "economy_business",
-      "region": "global",
+      "region": "asia_pacific",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 43,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.962×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
-          "published_at": "2026-10-16T02:56:21+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-6a76971b2812afaa6e5b1fc4c68876cfd93e23e352a8a9d0c60694a45d2aec6a",
-      "title_en": "France drops opposition to UK being included in ‘Made in Europe’ legislation",
-      "summary_en": "British government must however align with the European Union’s position over tariffs on Chinese EVs France has dropped its opposition to the UK being included in the EU’s “Made in Europe” legislation as long as the British government aligns with the bloc’s position over tariffs on Chinese EVs. In a breakthrough for…",
-      "category": "politics_security",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 45,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.625×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 8.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_china",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/15/france-drops-opposition-to-uk-being-included-in-made-in-europe-legislation",
-          "published_at": "2026-10-15T19:28:34+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-30a0e5772dcd22c685e7bbf538fa34cdd8f5a905f6a59b2bfb91e4656db6b553",
-      "title_en": "Premier Li holds talks with president of Council of Togolese Republic",
-      "summary_en": "Chinese Premier Li Qiang held talks in Beijing on Thursday with President of the Council of the Togolese Republic Faure Essozimna Gnassingbé, who is on an official visit to China.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.502×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 11.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.619×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 8.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -98,8 +131,8 @@
         {
           "source_id": "cgtn_china",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-15/Premier-Li-holds-talks-with-president-of-Council-of-Togolese-Republic-1RgKVmjU784/p.html",
-          "published_at": "2026-10-15T15:40:06+00:00",
+          "url": "https://news.cgtn.com/news/2026-10-16/Wang-Yi-China-T-rkiye-cooperation-benefits-global-economic-recovery-1RhvnTsPh96/p.html",
+          "published_at": "2026-10-16T02:37:10+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -112,10 +145,10 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.294×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 21.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.193×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 28.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -131,16 +164,16 @@
       ]
     },
     {
-      "id": "evt-ce57d7c6b39ac4a7a557029614851ee5c165dbefbe721001f9fc038118540584",
-      "title_en": "China-Europe EV cooperation: Building a greener future together",
-      "summary_en": "From battery production to vehicle manufacturing and technology sharing, China and Europe are deepening cooperation across the EV industry. Joint investments and industrial partnerships are creating new opportunities for both sides and are helping drive a greener future.",
-      "category": "technology_science",
-      "region": "europe",
+      "id": "evt-c49e26c5c4838010a33bca0ba840de632f08019d011cdce01161dc6a94e995be",
+      "title_en": "China steps up efforts to build a Healthy China by 2035",
+      "summary_en": "China has outlined new priorities for its healthcare system as it works toward building a Healthy China by 2035, with a stronger focus on disease prevention, health management and medical innovation.",
+      "category": "society_health_environment",
+      "region": "global",
       "sports_tags": [],
       "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.326×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 19.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.303×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 20.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -148,54 +181,16 @@
         {
           "source_id": "cgtn_china",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-15/China-Europe-EV-cooperation-Building-a-greener-future-together-1RgeMiAmJkA/p.html",
-          "published_at": "2026-10-15T08:12:24+00:00",
+          "url": "https://news.cgtn.com/news/2026-10-15/China-steps-up-efforts-to-build-a-Healthy-China-by-2035-1RgfktmALK0/p.html",
+          "published_at": "2026-10-15T14:14:33+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-fe1904c1da7935c99eecaf9ac91692e0858a2804f54d0367a4efc6913ca9c1b4",
-      "title_en": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-      "summary_en": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 37,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.198×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 28.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_china",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-14T23:32:11+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
         }
       ]
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168589 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168588 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168587 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168586 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168585 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168583 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168582 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168581 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168580 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168578 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168577 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168576 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168575 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168574 rejected: stale publication date",
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought rejected: stale publication date",
@@ -211,6 +206,9 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -231,12 +229,14 @@
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/cr86zjv5plp5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/ckdd86nglrggo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9787?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9786?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c914d43gg2zdo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cdep67jnn9zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c8r2074l0rmo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -254,12 +254,10 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c6lyqlx0kp0po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_china: entry https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/14/leaders-of-indias-cockroach-party-jailed-for-violating-ban-on-protest-site rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/14/india-protests-election-commission-gyanesh-kumar rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/12/this-is-india-electoral-revision-protests rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests rejected: stale publication date",
@@ -282,6 +280,7 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/09/why-youve-probably-been-thinking-about-narcolepsy-all-wrong rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/this-is-what-the-2026-nobel-prize-for-chemistry-is-all-about rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/media/2026/oct/13/bbc-trump-lawsuit-deposition rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban rejected: stale publication date",
@@ -293,6 +292,7 @@
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/politics/2026/oct/14/uk-will-not-put-tariffs-on-chinese-vehicles-says-jonathan-reynolds rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/film/2026/oct/13/its-my-time-review-michelle-yeoh-excels-in-rocky-style-quest-to-be-rubiks-cube-champ rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/13/super-app-uk-students-servers-china-us-blacklist rejected: stale publication date",
@@ -306,10 +306,10 @@
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/08/china-succession-crisis-factory-workers-manufacturing-family-businesses rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/07/satellite-images-attack-jets-china-military-facility-laos rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/us-news/2026/oct/05/wanying-zhang-fbi-arrest-china-spy-taiwan rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-14/Zhao-Leji-meets-Botswana-s-president-Togo-s-council-president-1Re38DVzl7y/p.html rejected: stale publication date",
     "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-14/Beijing-forum-focuses-on-smarter-people-centered-cities-1RdxyyECXmM/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-14/Iran-summons-UK-envoy-over-airbase-incident-accusations-1Re36gxMrOE/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-14/-Seen-and-heard-Jack-H-Knott-on-Beijing-s-12345-hotline-1RdsacJ3Mas/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-13/Full-text-Joint-statement-between-China-and-Botswana-1RdjoPQh2dW/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-14/How-China-s-growth-shapes-global-cooperation-and-our-shared-future--1Re9ayVJ0pa/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-13/China-sentences-3-from-Myanmar-telecom-fraud-ring-to-death-1Rd6vdhEe0o/p.html rejected: stale publication date",
