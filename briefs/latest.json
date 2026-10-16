@@ -1,229 +1,129 @@
 {
   "schema_version": 1,
   "edition": "world",
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T10:56:13+00:00",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-16T16:15:59+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-39908e04f2419303784f0d765b6551caa7dfddb15977f896df8d53674b9f050f",
-      "title_en": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "summary_en": "'The Palestinian question is the greatest historical injustice of this century,' China's foreign minister said. Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
-      "category": "politics_security",
+      "id": "evt-7f4212682f5a30f1c3aa4187fd5188ccbec49d73d7645d14018fbd72582a3554",
+      "title_en": "India's 'cockroach' party founder detained ahead of protest",
+      "summary_en": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders. Indian police detained Cockroach Janta Party founder Abhijeet Dipke ahead of a protest.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 58,
+      "importance_score": 61,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.630×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 2; age: 8.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.770×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 2; age: 4.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_china",
+          "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-16T08:45:54+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-16T11:44:31+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         },
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
-          "published_at": "2026-10-16T02:56:21+00:00",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/india-police-detain-cockroach-party-founder-ahead-of-protest?traffic_source=rss",
+          "published_at": "2026-10-16T12:55:54+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-368ca7ca0e3dbf41ef3d115cb86daa83c4c9e6fed374712d941050e07668e314",
-      "title_en": "Banks expect to be hit with higher taxes in Budget",
-      "summary_en": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
-      "category": "other",
+      "id": "evt-36a82d2480f2e64bf0a52471a6d38b67936dbed442329f5e7decbf2be12b649a",
+      "title_en": "‘Tough to watch, impossible to ignore’: what the reviewers say about NAZA documentary",
+      "summary_en": "Film interviewing military insiders about mass killing of civilians in Gaza receives widespread praise around the world Critics around the world have hailed the award-winning documentary NAZA as a “brilliant and harrowing” film that is “impossible to ignore”. NAZA, which is produced by the Guardian and details…",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.962×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.969×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_business",
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/film/2026/oct/16/tough-to-watch-impossible-to-ignore-what-the-reviewers-say-about-naza-documentary",
+          "published_at": "2026-10-16T15:42:46+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-64dad32d7c1612dd77fc699ba9364067d63235ffba74111155c976dd0829f355",
+      "title_en": "Starlink access still not fully restored for Ukraine’s military, says Zelenskyy",
+      "summary_en": "Ukrainian president says US limiting access was a ‘dangerous and unpleasant surprise’, amid reports the order came from inside White House Europe live – latest updates Volodymyr Zelenskyy has said the Ukrainian military’s access to the Starlink satellite internet service has not yet been fully restored, as media…",
+      "category": "politics_security",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.966×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/16/ukraine-military-starlink-access-starshield-volodymyr-zelenskyy",
+          "published_at": "2026-10-16T15:39:41+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-10508bfe2e0a98cdc00e4898a60c16f38cd95367e93ecd73e3b8044e8c35a580",
+      "title_en": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "summary_en": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.904×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-16T10:16:27+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-16T14:31:04+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-a4e53448fc24f7e5bd87ae2dd9e164c34d2a98f45551e5c21887554045ae4092",
-      "title_en": "Trump calls Ukraine’s renewed strikes on Russian oil refineries ‘a disgrace’",
-      "summary_en": "US president says Zelenskyy ‘more difficult ​to deal with ​than Putin’ after ‘energy ceasefire’ collapses Europe live – latest updates Donald Trump has called Ukraine’s renewed strikes on Russian oil refineries “a disgrace”, while renewing his criticism of Volodymyr ⁠Zelenskyy after an energy ceasefire between Russia…",
-      "category": "politics_security",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.949×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.9h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
-          "published_at": "2026-10-16T10:01:58+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-034e530765e8d4b4a199daa7cd753e0fb4f50f427ebb3e004085e14ec3de9c2e",
-      "title_en": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
-      "summary_en": "The UN is warning that nearly one million displaced Palestinians face flooding risks as winter approaches.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.959×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
-          "published_at": "2026-10-16T10:12:34+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-9603fb5b0be4d9251185d71c0f48375c12bddd4de67138b55f788a87b4b1d96f",
-      "title_en": "Ofgem could force energy suppliers to pay rivals if they lure customers with cheaper deals",
-      "summary_en": "Regulator for Great Britain weighs up reintroducing market stabilisation charge to prevent firms going bust Energy suppliers could be forced to pay a charge to rivals if they lure customers with cheaper deals, as the industry regulator for Great Britain attempts to prevent suppliers going bust this winter. Ofgem has…",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.856×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/oct/16/ofgem-energy-suppliers-pay-rivals-customers-cheaper-deals",
-          "published_at": "2026-10-16T08:14:53+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-ec902fbb60e01aede84620b67b14d838adcef2d896faceef857c1c4b1dd5e498",
-      "title_en": "How books are being scanned and destroyed to train artificial intelligence",
-      "summary_en": "To train artificial intelligence models, millions of physical books are being digitised and destroyed. Our colleagues at France 2 investigate this controversial practice and the risk of seeing many rare second-hand books disappear forever.",
+      "id": "evt-a25b0568e753d5ba7a646cecba0e47347582bae206917ff1ed2ff0d71bddf0a3",
+      "title_en": "I Am Artemis: Allison Mjoen",
+      "summary_en": "As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, helped shape the systems and ground operations that will…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.922×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/focus/20261016-how-books-are-being-scanned-and-destroyed-to-train-artificial-intelligence",
-          "published_at": "2026-10-16T09:31:56+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-f9d5fe34e6ee89a69fb313c43f290c1a743c22150afa1333ff24a31859fb9654",
-      "title_en": "US considers hitting Iran with 'Mother of All Bombs'",
-      "summary_en": "The United States is considering using its biggest non-nuclear bomb against Iran if President Donald Trump should decide to renew combat in the war that has hit a deadlock, CNN reported Thursday. Diplomatic efforts to end the conflict, which erupted with US-Israeli strikes on Iran in February, have been at an impasse…",
-      "category": "politics_security",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.918×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261016-us-considers-hitting-iran-with-mother-of-all-bombs",
-          "published_at": "2026-10-16T09:27:05+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-e3f36ff5f56fd88dc5f740c74b867191a7d71016ba4174c8812798e869883783",
-      "title_en": "Asian Cup in Saudi Arabia still on, organisers say, but golf tour postponed",
-      "summary_en": "Asian Cup preparations continue for January, but Asian Tour delays golf's Saudi Invitational after Houthi attacks.",
-      "category": "other",
-      "region": "asia_pacific",
-      "sports_tags": [],
-      "importance_score": 48,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.874×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss",
-          "published_at": "2026-10-16T08:36:54+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-7a696806f05f39360f6714cb75076e969d23855d255bb48240e59bb8e929f19b",
-      "title_en": "APOD: 2026 October 16 – Chasing the International Space Station",
-      "summary_en": "APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 46,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.673×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 6.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.898×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -231,10 +131,135 @@
         {
           "source_id": "nasa_news",
           "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
-          "published_at": "2026-10-16T04:05:00+00:00",
+          "url": "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/",
+          "published_at": "2026-10-16T14:24:29+00:00",
           "published_precision": "second",
           "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-383da669d5ce2909cbf5304f05f5980f196460ac8f8a09e9174bdd4d837f9115",
+      "title_en": "Indonesia's forest fires spark public health crisis across Southeast Asia",
+      "summary_en": "Massive wildfires in Indonesia show no sign of letting up. The environmental disaster is turning into a pollution crisis across Southeast Asia, as toxic haze from the blazes spread to neighbouring countries.",
+      "category": "society_health_environment",
+      "region": "asia_pacific",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.953×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/access-asia/20261016-indonesia-s-forest-fires-spark-public-health-crisis-across-southeast-asia",
+          "published_at": "2026-10-16T15:26:25+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-7e6bb34a0536745f79e5404a334f1c22cd9c1d6beda60ca581250a9c5f27f81f",
+      "title_en": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
+      "summary_en": "About 67 percent of Gaza's population projected to face crisis-level food insecurity or worse through the end of 2026.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.964×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
+          "published_at": "2026-10-16T15:37:25+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-a71ef54c6a643e9d94b55f1305203ed7da2e02eaefed5148988718f4b23b1709",
+      "title_en": "NASA’s Hubble Spies Spiral’s Edge",
+      "summary_en": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.814×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+          "published_at": "2026-10-16T12:42:08+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-4c1ed2f024c3bf9012491cf75d209d71dbc966f3aed913610c3971ca6bb85c3a",
+      "title_en": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
+      "summary_en": "A new ‘zero-click’ hack uses ads to target victims without any action needed on their part.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.888×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
+          "published_at": "2026-10-16T14:12:13+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-ca3ef67b4f13be049e7d1874ba04d75e016a008d94f8323cfcaed8ca1f9947a0",
+      "title_en": "South African rugby player Hyron ​Andrews dies in France ahead of Champions Cup debut",
+      "summary_en": "Hyron ​Andrews, a 31-year-old rugby player for the Lions team, was found dead at a hotel in France on Friday, the day before the South African club ​are due to play La Rochelle in the Champions Cup. The match will go ahead in his honour, his team said.",
+      "category": "other",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.861×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/sport/20261016-south-african-rugby-player-found-dead-in-french-hotel-ahead-of-champions-cup-debut",
+          "published_at": "2026-10-16T13:40:05+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
         }
       ]
     },
@@ -245,10 +270,10 @@
       "category": "economy_business",
       "region": "asia_pacific",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 40,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.619×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 8.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.455×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 13.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -264,16 +289,16 @@
       ]
     },
     {
-      "id": "evt-318e5cfb71d2a74d165c95624b1449e839432324906fd1b90e8075954104d6ad",
-      "title_en": "Russia investigates suspected monkeypox outbreak near Moscow",
-      "summary_en": "Russian health authorities have launched an epidemiological investigation and implemented comprehensive anti-epidemic measures following a suspected monkeypox outbreak in the Moscow Region, officials announced on October 15.",
-      "category": "society_health_environment",
-      "region": "global",
+      "id": "evt-3b7500e4ef24ddf3d6b2e1c920d12f1afc901f31f7821e57efbf4db4e8ec7f77",
+      "title_en": "Vermont's tourism sector declines amid US-Canada trade war",
+      "summary_en": "Vermont's tourism sector declines amid US-Canada trade war",
+      "category": "politics_security",
+      "region": "north_america",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.631×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 8.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.366×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 17.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -281,35 +306,10 @@
         {
           "source_id": "cgtn_world",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-16/Russia-investigates-suspected-monkeypox-outbreak-near-Moscow-1RhzCeqpcsM/p.html",
-          "published_at": "2026-10-16T02:57:58+00:00",
+          "url": "https://newsus.cgtn.com/news/2026-10-16/Vermont-s-tourism-sector-declines-amid-US-Canada-trade-war-1Rhjp1M0NaM/p.html",
+          "published_at": "2026-10-15T22:53:07+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-a291efdb78a068646f895b97895dbaa5ff2d02d23e53cdd82eb494ea81e8f5d8",
-      "title_en": "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
-      "summary_en": "NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.421×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 15.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
-          "published_at": "2026-10-15T19:58:08+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
         }
       ]
     }
@@ -331,6 +331,12 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ckdd8egder5ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -354,10 +360,11 @@
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/videos/cr86zjv5plp5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9787?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9786?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -379,6 +386,7 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c6lyqlx0kp0po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago rejected: stale publication date",
@@ -390,7 +398,6 @@
     "guardian_science: entry https://www.theguardian.com/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/13/women-autoimmune-conditions-psychological-misdiagnosis-cambridge-study rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/society/2026/oct/08/teenager-first-person-testicular-tissue-transplant-uk-cancer-chemotherapy-fertility rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/gordon-brown-british-households-5000-richer-innovation rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service rejected: stale publication date",
@@ -404,19 +411,19 @@
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/09/why-youve-probably-been-thinking-about-narcolepsy-all-wrong rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/this-is-what-the-2026-nobel-prize-for-chemistry-is-all-about rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/06/nobel-prize-in-physics-2026-high-energy-cosmic-neutrinos rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/moment-karl-deisseroth-tells-his-family-he-won-the-nobel-prize-in-medicine-video rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/media/2026/oct/13/bbc-trump-lawsuit-deposition rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/13/martin-shkreli-ftc-ruling-pharma-ban rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/uk-news/2026/oct/11/farmers-uk-food-security-producers-supply-chains rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/world/2026/oct/09/thieves-make-off-with-haul-from-prestigious-italian-winery-marchesi-antinori rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/politics/2026/oct/14/uk-will-not-put-tariffs-on-chinese-vehicles-says-jonathan-reynolds rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/film/2026/oct/13/its-my-time-review-michelle-yeoh-excels-in-rocky-style-quest-to-be-rubiks-cube-champ rejected: stale publication date",
