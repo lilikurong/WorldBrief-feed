@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "edition": "china",
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T15:10:06+00:00",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-17T20:16:49+00:00",
   "is_underfilled": true,
   "events": [
     {
@@ -12,10 +12,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 53,
+      "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.991×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.738×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 5.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -37,10 +37,10 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 45,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.842×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.627×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 8.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -56,41 +56,16 @@
       ]
     },
     {
-      "id": "evt-cd513428e996683ebc785edaa51be9d3b48e079513c05f7975b9fc7dd60cde4f",
-      "title_en": "Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final",
-      "summary_en": "The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 48,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.871×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss",
-          "published_at": "2026-10-17T12:46:48+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
       "id": "evt-256b1382af4d69df1bfa511735be247f3483a5469beb2ba274a4e9d21d94a03a",
       "title_en": "Chinese FM meets Israeli president",
       "summary_en": "Chinese Foreign Minister Wang Yi met with Israeli President Isaac Herzog at the latter's request on the sidelines of the Seventh Summit of the Conference on Interaction and Confidence Building Measures in Asia on Thursday.",
       "category": "politics_security",
       "region": "asia_pacific",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.478×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 12.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.356×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 17.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -106,16 +81,41 @@
       ]
     },
     {
+      "id": "evt-a768a94653838d5d5bcb745c7d5c1e0c33630547df16b360cdb310934be2ea6f",
+      "title_en": "Croatian president meets Chinese FM, pledges to strengthen cooperation",
+      "summary_en": "Croatian President Zoran Milanovic met with visiting Chinese Foreign Minister Wang Yi in Zagreb on Friday, expressing Croatia's willingness to strengthen exchanges at all levels and advance mutually beneficial cooperation with China.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 38,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.354×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 18.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-17/Croatian-president-meets-Chinese-FM-pledges-to-strengthen-cooperation-1Rj1dxTpLC8/p.html",
+          "published_at": "2026-10-17T02:18:04+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        }
+      ]
+    },
+    {
       "id": "evt-39908e04f2419303784f0d765b6551caa7dfddb15977f896df8d53674b9f050f",
       "title_en": "China tells Israel to stop 'forced establishment' of West Bank settlements",
       "summary_en": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 36,
+      "importance_score": 35,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.173×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 30.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.129×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 35.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -137,10 +137,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 36,
+      "importance_score": 35,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.139×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 34.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.104×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 39.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -154,35 +154,13 @@
           "publisher_group": "guardian"
         }
       ]
-    },
-    {
-      "id": "evt-86bec6f22336c1a450652d3aabc310da40b25b4ef46a7a65929c40b0b7c24660",
-      "title_en": "Single neurons act like tiny computers, China study finds",
-      "summary_en": "Scientists in China say a single brain cell can behave like a tiny computer, weighing evidence and testing guesses on the spot. The finding, from the Chinese Academy of Sciences' Center for Excellence in Brain Science and Intelligence Technology, could point the way toward a more flexible generation of artificial…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.238×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 24.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-16/Single-neurons-act-like-tiny-computers-China-study-finds-1Rii3XGnN4Y/p.html",
-          "published_at": "2026-10-16T14:19:25+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
     }
   ],
   "source_errors": [
     "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
+    "nasa_news: entry https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/ rejected: stale publication date",
+    "nasa_news: entry https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/ rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought rejected: stale publication date",
@@ -198,7 +176,9 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -232,9 +212,11 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6kgqr9n8082o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -242,13 +224,17 @@
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cqgm0jepyl01o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/ck24096pndy9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cjy56e4v6exzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9787?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9786?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -278,11 +264,13 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/14/leaders-of-indias-cockroach-party-jailed-for-violating-ban-on-protest-site rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/15/times-up-for-the-leap-second-as-scientists-swap-it-for-the-leap-hour rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests rejected: stale publication date",
@@ -298,6 +286,7 @@
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/13/surprising-psychology-morbid-curiosity-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/15/norman-mccubbin-obituary rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/us-news/video/2026/oct/14/spacex-rocket-launch-creates-glowing-space-jellyfish-cloud-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/07/jonathan-the-giant-tortoise-194-offers-up-insight-into-secrets-of-longevity rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/did-you-solve-it-the-treacherous-puzzle-of-the-round-table rejected: stale publication date",
@@ -308,6 +297,7 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/this-is-what-the-2026-nobel-prize-for-chemistry-is-all-about rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/moment-karl-deisseroth-tells-his-family-he-won-the-nobel-prize-in-medicine-video rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september rejected: stale publication date",
@@ -323,6 +313,7 @@
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/world/2026/oct/15/france-drops-opposition-to-uk-being-included-in-made-in-europe-legislation rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius rejected: stale publication date",
