@@ -2,7 +2,7 @@
   "schema_version": 1,
   "edition": "china",
   "date": "2026-10-17",
-  "generated_at": "2026-10-17T03:26:51+00:00",
+  "generated_at": "2026-10-17T10:18:25+00:00",
   "is_underfilled": true,
   "events": [
     {
@@ -12,10 +12,10 @@
       "category": "politics_security",
       "region": "asia_pacific",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 43,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.941×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.633×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 7.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -37,10 +37,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 43,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.936×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.630×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 8.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -62,10 +62,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.340×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 18.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.229×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 25.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -81,41 +81,16 @@
       ]
     },
     {
-      "id": "evt-59848aeb734e4f0f64975cfdc34d3097096c9c3ea573095159fd1cc14d8de25f",
-      "title_en": "Like dinosaur eggs in the sand: the pterosaur museum built to thrive in the Gobi desert",
-      "summary_en": "How architects worked with harsh environment to create sustainable building in location where fossils were found Viewed from afar, the silver-hued Hami Pterosaur Museum almost looks like a space base on Mars. Viewed from above, it resembles a collection of dinosaur eggs in the sand. Nestled in the Gobi desert, in…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 38,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.274×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 22.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_china",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/oct/16/dinosaur-eggs-pterosaur-museum-built-gobi-desert",
-          "published_at": "2026-10-16T05:00:51+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
       "id": "evt-2ed4c76b98b6f2e4279c0b89843e927aac03bf8e1c8d0d2eca772307686d1585",
       "title_en": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
       "summary_en": "Meta says Muse excels at ‘multi-step reasoning’ and ‘complex software engineering’ as it races to catch up to Chinese rivals Meta on Thursday launched a new open-weight AI model which it claims rivals, and in some cases outperforms, similar products from leading Chinese developers. Muse Spark Open “is the most…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 37,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.212×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 26.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.142×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 33.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -129,25 +104,35 @@
           "publisher_group": "guardian"
         }
       ]
+    },
+    {
+      "id": "evt-59848aeb734e4f0f64975cfdc34d3097096c9c3ea573095159fd1cc14d8de25f",
+      "title_en": "Like dinosaur eggs in the sand: the pterosaur museum built to thrive in the Gobi desert",
+      "summary_en": "How architects worked with harsh environment to create sustainable building in location where fossils were found Viewed from afar, the silver-hued Hami Pterosaur Museum almost looks like a space base on Mars. Viewed from above, it resembles a collection of dinosaur eggs in the sand. Nestled in the Gobi desert, in…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 36,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.184×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 29.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_china",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/oct/16/dinosaur-eggs-pterosaur-museum-built-gobi-desert",
+          "published_at": "2026-10-16T05:00:51+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168598 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168597 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168596 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168595 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168594 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168592 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168591 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168590 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168589 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168588 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168587 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168586 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168585 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168583 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168582 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168581 rejected: stale publication date",
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought rejected: stale publication date",
@@ -189,7 +174,6 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -198,11 +182,12 @@
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/videos/ck24096pndy9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cjy56e4v6exzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -220,6 +205,7 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c86ey5n9vx9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_china: entry https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -230,10 +216,13 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c6lyqlx0kp0po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/14/leaders-of-indias-cockroach-party-jailed-for-violating-ban-on-protest-site rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/14/india-protests-election-commission-gyanesh-kumar rejected: stale publication date",
@@ -246,6 +235,7 @@
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/gordon-brown-british-households-5000-richer-innovation rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/20/the-guardian-view-on-ai-v-mathematicians-humans-are-still-vital-to-the-field-but-tech-firms-refuse-to-see-that rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/13/surprising-psychology-morbid-curiosity-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/us-news/video/2026/oct/14/spacex-rocket-launch-creates-glowing-space-jellyfish-cloud-video rejected: stale publication date",
@@ -257,6 +247,7 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/09/why-youve-probably-been-thinking-about-narcolepsy-all-wrong rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/this-is-what-the-2026-nobel-prize-for-chemistry-is-all-about rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/moment-karl-deisseroth-tells-his-family-he-won-the-nobel-prize-in-medicine-video rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico rejected: stale publication date",
@@ -269,6 +260,7 @@
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/politics/2026/oct/14/uk-will-not-put-tariffs-on-chinese-vehicles-says-jonathan-reynolds rejected: stale publication date",
@@ -283,6 +275,12 @@
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/music/2026/oct/09/global-bands-on-how-punk-fires-up-their-lives rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/08/china-succession-crisis-factory-workers-manufacturing-family-businesses rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-15/Trailer-China-Quest-As-We-Age-1RglPze81mE/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-15/OIV-Congress-debuts-in-Asia-exploring-Ningxia-wine-and-tea-culture-1Rg9k8WDCmI/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-15/Why-cling-to-zero-sum-thinking-in-the-age-of-AI--1RfZnEMMrZe/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-15/China-s-AI-rise-Can-jobs-keep-pace-with-the-rise-of-the-robots--1RfTKBdjscg/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-15/Fall-turns-pink-A-dreamy-seasonal-spectacle-1Rg4bloo3Xa/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-15/-Resonance-of-Dunhuang-concert-in-Ottawa-Canada-1Rg26D1Kqys/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-15/Cuba-slams-US-pressure-on-UN-vote-against-embargo-1RfK2JP3iRG/p.html rejected: stale publication date",
     "cgtn_world: entry https://newsus.cgtn.com/news/2026-10-15/Mexican-healthcare-workers-protest-for-better-wages-conditions-1RfziGFwmYg/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-15/Opening-ceremony-held-for-new-China-DPRK-border-bridge-over-Yalu-River-1RfSEPz7kuk/p.html rejected: stale publication date",
