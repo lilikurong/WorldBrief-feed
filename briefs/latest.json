@@ -1,46 +1,21 @@
 {
   "schema_version": 1,
   "edition": "world",
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T15:32:38+00:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-18T20:15:40+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-0b72bda3a77e21327fe1110dede3b83286edca34d60f4d5bc5caf269c9fb31ab",
-      "title_en": "French government in crisis talks after ‘colossal failure of the state’",
-      "summary_en": "Ministers, officials and police under pressure over response to days of violent unrest in cities across France The French government was in crisis talks on Sunday after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and looted, and more than 2000 people…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.979×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
-          "published_at": "2026-10-18T15:10:32+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
       "id": "evt-2a729fcff616e0ac5f578d6c33937d79eed4019836cad6bf4ad229615e8b17cf",
       "title_en": "Fuel leak spreads more than two miles along River Taff",
-      "summary_en": "Public Health Wales advise people living nearby to shut their doors and windows due to the smell.",
+      "summary_en": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.980×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.949×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -49,23 +24,23 @@
           "source_id": "bbc_science",
           "publisher": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-18T15:11:09+00:00",
+          "published_at": "2026-10-18T19:20:57+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-0b35214ccbb8cb72b0ac27ec42e2e05c83b86f8bfd17b1bd07c1a9eecfcec06b",
-      "title_en": "Israeli settlers attack European diplomats in West Bank",
-      "summary_en": "French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh, in the occupied West Bank, injuring three people and damaging a car, in the latest violent attempt… The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "id": "evt-4eccbd2b489f22772d5525275ff94791ebe19761c21e5464b899b659e60faf01",
+      "title_en": "Netanyahu casts doubt on settler attack witnessed by Guardian reporter",
+      "summary_en": "Assault on European delegation in West Bank exposes government’s response to violence even when those targeted represent Israel’s allies Hours after Israeli militants attacked a delegation of European diplomats, French clerics and a visiting mayor in the occupied West Bank, Israel’s leader, Benjamin Netanyahu,…",
       "category": "politics_security",
       "region": "europe",
       "sports_tags": [],
       "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.305×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 2; age: 20.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.911×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -73,57 +48,24 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-          "published_at": "2026-10-17T18:57:56+00:00",
+          "url": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
+          "published_at": "2026-10-18T18:39:23+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
-        },
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-18T12:16:14+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-4d9534e8ee057d714b811a665b3fa6c29ca160365fe0b8bc9f44da6865f898ee",
-      "title_en": "Search for Amelia Earhart's plane resumes after stormy weather",
-      "summary_en": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
-      "category": "other",
-      "region": "asia_pacific",
-      "sports_tags": [],
-      "importance_score": 51,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.903×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-18T13:47:07+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-9634f488792b6902735afce27010eb17f4242009fa82d3d00a276fa8fcd51ada",
-      "title_en": "A timeline of West Bank attacks on Palestinians and foreign officials",
-      "summary_en": "Settler pogroms have escalated, coinciding with the annual olive harvest season in the occupied West Bank.",
-      "category": "economy_business",
+      "id": "evt-bb12bddcda41aefa088efe6f96d7b41e1328f386b160c9e5ffc30bed66f3e922",
+      "title_en": "India’s crackdown on cockroaches, critics and cameras",
+      "summary_en": "A government at war with its critics - from young protesters to the media.",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.952×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.959×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -131,24 +73,49 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss",
-          "published_at": "2026-10-18T14:42:01+00:00",
+          "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
+          "published_at": "2026-10-18T19:31:45+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-b892b935802cf19e5c05dc55f453d3616b81937e1b7cf897c8d99597fce14550",
-      "title_en": "Who capped Starlink in Ukraine? Musk, Trump and Rubio give three different answers",
-      "summary_en": "Ukraine says speed limits on Starlink are still hampering military efforts to fight off Russian drones, days after a surprise network slowdown that Kyiv called deliberate and Washington denied ordering.",
+      "id": "evt-d71317afcff8936105434f3b3b89b5bc095909522cb746504051a9835f32ab64",
+      "title_en": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+      "summary_en": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, Canada’s prime minister…",
       "category": "politics_security",
-      "region": "global",
+      "region": "north_america",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.961×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.857×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+          "published_at": "2026-10-18T17:34:53+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-0bb2d5de72188998ad6092844c0c0bcaecb262d439b52004dfc05f8fb98ec495",
+      "title_en": "Macron says 'nothing justifies' violence in protests during address to nation",
+      "summary_en": "French President Emmanuel Macron said that \"nothing justifies\" violence during an address to the nation on Sunday, a day after demonstrations drew hundreds of thousands of people to the streets to protest the rising cost of living and poor school conditions. Police arrested more than 2,300 people over the weekend…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.916×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -156,17 +123,17 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/tech-24/20261018-who-capped-starlink-in-ukraine-musk-trump-and-rubio-give-three-different-answers",
-          "published_at": "2026-10-18T14:51:28+00:00",
+          "url": "https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation",
+          "published_at": "2026-10-18T18:44:15+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-a535d2e6b5dced40f28a3a486fb6568a6bdbc7d861af4cd744540c945aa50e6e",
-      "title_en": "'Like we had a war': France left reeling after nationwide violent protests",
-      "summary_en": "France on Sunday is dealing with the aftermath of nationwide protests that damaged around 1,500 businesses and caused losses estimated at hundreds of millions of euros. Police arrested an estimated 1,800 people across the country during Saturday's demonstrations over the cost of living and school conditions.",
+      "id": "evt-eb8b95bc9b303ea7f61c29819bc4cfeaca19befeb6c59103dc680e403a1b7f4d",
+      "title_en": "REPLAY: French President Emmanuel Macron addresses the nation after unrest",
+      "summary_en": "French President Emmanuel Macron on Sunday vowed there would be \"full transparency\" over the response by security forces to protests that turned violent this weekend, after criticism that police preparations had been inadequate.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
@@ -181,24 +148,24 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/france/20261018-like-we-had-a-war-france-left-reeling-after-nationwide-violent-protests",
-          "published_at": "2026-10-18T13:50:00+00:00",
+          "url": "https://www.france24.com/en/video/20261018-replay-french-president-emmanuel-macron-addresses-the-nation-after-unrest",
+          "published_at": "2026-10-18T18:33:34+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-d17b6e2f9b8194b0532d84276931971e25fea7f121ecea204d993e72a300eaca",
-      "title_en": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
-      "summary_en": "Akhlaghi's experience centres on ballistic missiles, aerospace technology and defence-industrial production.",
-      "category": "technology_science",
+      "id": "evt-ed9fbb64a81c47956843a3d0ec0019bfeb7c4d71e03df8cacfcaabf26e79ad57",
+      "title_en": "JERUSALEM DAILY: Settlers attack EU diplomats",
+      "summary_en": "Israeli settlers attacked an EU delegation in the occupied West Bank while it was visiting olive harvesters near Taybeh.",
+      "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.815×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.871×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -206,8 +173,8 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss",
-          "published_at": "2026-10-18T12:00:04+00:00",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
+          "published_at": "2026-10-18T17:52:37+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
@@ -220,10 +187,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 41,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.516×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 11.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.393×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 16.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -239,16 +206,41 @@
       ]
     },
     {
+      "id": "evt-0084c0945574bde020bee353970d13e9ceb29f479cc86af510d610fea4a6667d",
+      "title_en": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "summary_en": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 38,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.279×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 22.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-17T22:09:50+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
       "id": "evt-2a58831056351f150682d360de9073a69a2539888a9d2be690705731d275f1b9",
       "title_en": "Chinese premier backs high-quality China-Kyrgyzstan-Uzbekistan railway",
       "summary_en": "Chinese Premier Li Qiang said on Saturday that China stands ready to ensure the high-quality implementation of the China-Kyrgyzstan-Uzbekistan railway project.",
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.435×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 14.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.331×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 19.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -264,41 +256,16 @@
       ]
     },
     {
-      "id": "evt-134f299197299f8adc53b0d5f82c48d35e198595aa8603711bee5fcf1a06f196",
-      "title_en": "COP17: The world has a plan to save nature. Is it working?",
-      "summary_en": "The UN Secretary-General has called for an end to the “war on nature”. On Monday, governments gathering in Yerevan, Armenia, will have to confront a more practical question: are they doing enough to win the peace and put the world’s biodiversity goals back on track?",
-      "category": "politics_security",
+      "id": "evt-1ac464fee184887f25ed288f79036d64ef530a9565c7db4b47a53d940d8e69e7",
+      "title_en": "Zambia launches oral cholera vaccination campaign to contain outbreak",
+      "summary_en": "Zambia on Friday launched an oral cholera vaccination campaign targeting Lusaka, the capital and epicenter of the current outbreak, alongside Chibombo District in the country's Central Province.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 37,
+      "importance_score": 35,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.204×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 27.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168618",
-          "published_at": "2026-10-17T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "un_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-286cc40005045bad90fd54d51501fceb53213d9795be9faba55faebdf1703027",
-      "title_en": "The electric flying car race with Tesla and Alef Aeronautics",
-      "summary_en": "Tesla has unveiled a Roadster capable of launching itself into the air. Meanwhile, California startup Alef Aeronautics is developing its own flying car, using a very different technology.",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 37,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.304×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 20.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.228×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 25.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -306,8 +273,8 @@
         {
           "source_id": "cgtn_world",
           "publisher": "CGTN",
-          "url": "https://newsus.cgtn.com/news/2026-10-18/The-electric-flying-car-race-with-Tesla-and-Alef-Aeronautics-1Rkmpytv34A/p.html",
-          "published_at": "2026-10-17T18:55:39+00:00",
+          "url": "https://newsaf.cgtn.com/news/2026-10-18/Zambia-launches-oral-cholera-vaccination-campaign-to-contain-outbreak-1RjUWzCNueI/p.html",
+          "published_at": "2026-10-17T18:41:39+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -322,8 +289,8 @@
       "sports_tags": [],
       "importance_score": 35,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.129×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 35.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.098×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 40.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -368,6 +335,8 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168586 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168585 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168583 rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/ rejected: stale publication date",
@@ -389,6 +358,10 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -479,10 +452,14 @@
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/16/amelia-earhart-new-zeland-museum-aerial-survey-photos-nikumaroro-island rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/16/india-cockroach-janta-party-leader-detained-amid-crackdown-protests rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest rejected: stale publication date",
@@ -497,7 +474,6 @@
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/12/scientist-russia-plague-victim-lab-worker-pandemic rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/gordon-brown-british-households-5000-richer-innovation rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/13/surprising-psychology-morbid-curiosity-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast rejected: stale publication date",
@@ -524,11 +500,11 @@
     "guardian_business: entry https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/uk-news/2026/oct/11/farmers-uk-food-security-producers-supply-chains rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/world/2026/oct/09/thieves-make-off-with-haul-from-prestigious-italian-winery-marchesi-antinori rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/environment/2026/oct/16/dinosaur-eggs-pterosaur-museum-built-gobi-desert rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/15/france-drops-opposition-to-uk-being-included-in-made-in-europe-legislation rejected: stale publication date",
@@ -545,7 +521,6 @@
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/books/2026/oct/10/chinese-ballet-maos-last-dancer-li-cunxin-memoir-follow-up-14-years rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/music/2026/oct/09/global-bands-on-how-punk-fires-up-their-lives rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-15/Xi-highlights-China-s-commitment-to-opening-up-as-Canton-Fair-opens-1RghUMtX4ac/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-15/Chinese-researchers-solve-3D-Ghys-conjecture-with-homegrown-AI-model-1RgD8zQ3Z3a/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-16/Men-Madmen-or-Gods-Heroism-Defined-Breaking-Through-Episode-3-1RgERL2Ixm8/p.html rejected: stale publication date",
