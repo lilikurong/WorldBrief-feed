@@ -1,21 +1,71 @@
 {
   "schema_version": 1,
   "edition": "china",
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T15:32:38+00:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-18T20:15:40+00:00",
   "is_underfilled": true,
   "events": [
     {
-      "id": "evt-d1e5fe48e2455b5a6b25081aea313b794569bd18f595d3cf5b65c7a1c81ba138",
-      "title_en": "Taiwan residents' trips to mainland rise nearly 20% in first 8 months",
-      "summary_en": "Taiwan residents made more than 2.49 million trips to the Chinese mainland in the first eight months of 2026, up 19.63% year on year, according to the island's tourism department.",
+      "id": "evt-03f0eab2fc6caf918979c6dae62a6a907b819f1b44dbbd66b9798254aa289e01",
+      "title_en": "The Guardian view on plague in Russia: what is most worrying is the lack of information | Editorial",
+      "summary_en": "In the three weeks since a health worker’s death in Siberia, officials have stonewalled the WHO – setting a worrying precedent for future pandemics Is there a plague outbreak in Russia? If the answer were a clear yes, there shouldn’t be much reason to worry. With swift medical intervention, plague is treatable. But…",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.805×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_china",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/18/the-guardian-view-on-plague-in-russia-what-is-most-worrying-is-the-lack-of-information",
+          "published_at": "2026-10-18T16:30:04+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-10cde04932e3db7e1c1dbe42495f7ff121a17d57170cb429c0ea3298a0bc1f62",
+      "title_en": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
+      "summary_en": "China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to 'alter the status quo'.",
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 47,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.458×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 13.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.802×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
+          "published_at": "2026-10-18T16:25:52+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-0e59048af23383016b9451bf36234ef4ebc1f9e0062c8870fbe86566f9f1d173",
+      "title_en": "China Quest: As We Age",
+      "summary_en": "China Quest: As We Age",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 37,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.341×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 18.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -23,8 +73,8 @@
         {
           "source_id": "cgtn_china",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-18/Taiwan-residents-trips-to-mainland-rise-nearly-20-in-first-8-months-1RkKjMQN4E8/p.html",
-          "published_at": "2026-10-18T02:02:09+00:00",
+          "url": "https://news.cgtn.com/news/2026-10-18/China-Quest-As-We-Age-1RkOaSGTCw0/p.html",
+          "published_at": "2026-10-18T01:37:06+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -37,10 +87,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 38,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.242×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 24.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.185×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 29.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -52,81 +102,6 @@
           "published_at": "2026-10-17T15:00:33+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-83f3c7a1f28a4b3a34aaec43a226d1dce315e8397f6cf093bf9b3bd0c8d4a985",
-      "title_en": "Nursery owner in China jailed for life after hundreds of children poisoned",
-      "summary_en": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 37,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.206×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 27.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-17T12:11:58+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-49a1d8cdb50a55ce5de7bb2fc508e1f577d29a9cd243c5007fa39083d7dc367d",
-      "title_en": "Faisal Islam: Why China and AI are worrying global finance bosses",
-      "summary_en": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.114×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 37.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_business",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-17T01:59:48+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-c6c43a2a413afd7932d78503ff4ccfa43c6ea182ff12b74609bc32274d261ed0",
-      "title_en": "The Survivors Who Sparked a New Era | Breaking Through, Episode 5",
-      "summary_en": "By the time the Long March reached its conclusion, the Central Red Army had been reduced to a mere fraction of its original strength. Yet, this resilient remnant would go on to shape the course of modern Chinese history. How had they survived against such impossible odds?",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.247×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 24.2h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-17/The-Survivors-Who-Sparked-a-New-Era-Breaking-Through-Episode-5-1RjTxynlphS/p.html",
-          "published_at": "2026-10-17T15:20:42+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
         }
       ]
     }
@@ -160,6 +135,8 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168586 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168585 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168583 rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/ rejected: stale publication date",
@@ -181,6 +158,10 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -271,10 +252,14 @@
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/16/amelia-earhart-new-zeland-museum-aerial-survey-photos-nikumaroro-island rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/16/india-cockroach-janta-party-leader-detained-amid-crackdown-protests rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest rejected: stale publication date",
@@ -289,7 +274,6 @@
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/12/scientist-russia-plague-victim-lab-worker-pandemic rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/gordon-brown-british-households-5000-richer-innovation rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/13/surprising-psychology-morbid-curiosity-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/07/all-the-news-and-science-from-the-2026-nobel-prizes-podcast rejected: stale publication date",
@@ -316,11 +300,11 @@
     "guardian_business: entry https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/uk-news/2026/oct/11/farmers-uk-food-security-producers-supply-chains rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/world/2026/oct/09/thieves-make-off-with-haul-from-prestigious-italian-winery-marchesi-antinori rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/environment/2026/oct/16/dinosaur-eggs-pterosaur-museum-built-gobi-desert rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/15/france-drops-opposition-to-uk-being-included-in-made-in-europe-legislation rejected: stale publication date",
@@ -337,7 +321,6 @@
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/books/2026/oct/10/chinese-ballet-maos-last-dancer-li-cunxin-memoir-follow-up-14-years rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/music/2026/oct/09/global-bands-on-how-punk-fires-up-their-lives rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-15/Xi-highlights-China-s-commitment-to-opening-up-as-Canton-Fair-opens-1RghUMtX4ac/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-15/Chinese-researchers-solve-3D-Ghys-conjecture-with-homegrown-AI-model-1RgD8zQ3Z3a/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-16/Men-Madmen-or-Gods-Heroism-Defined-Breaking-Through-Episode-3-1RgERL2Ixm8/p.html rejected: stale publication date",
