@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
   "edition": "world",
-  "date": "2026-10-19",
-  "generated_at": "2026-10-19T12:28:05+00:00",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-19T22:05:53+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-12517a36dd2e43d2ca3861fd6b1c36d35b8208816e357e0dfa9bf7160e1f2b98",
-      "title_en": "French prime minister calls for ‘local and partial’ curfews after riots",
-      "summary_en": "Interior minister concedes police ‘lost control’, with forces in cities including Paris and Lyon overwhelmed after ‘lack of anticipation’ Europe live – latest updates France’s prime minister has said he has asked regional authorities to impose partial curfews in some cities after the government admitted police had…",
+      "id": "evt-f90c88d09d442d146542ead578edbe1cbea1d619c9cfe2a47e36bb8bf4bdecf8",
+      "title_en": "Trump slams Zelenskyy amid Russia sanctions rift and says ‘somebody else’ should negotiate for Ukraine - live",
+      "summary_en": "President facing criticism for his move to waive sanctions for Russia as a new poll by Reuters shows only 31% of Americans approve of his performance in office Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has reached a new low – 33%. This comes, just over…",
       "category": "politics_security",
-      "region": "europe",
+      "region": "global",
       "sports_tags": [],
-      "importance_score": 52,
+      "importance_score": 53,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.976×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.990×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -23,35 +23,235 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
-          "published_at": "2026-10-19T12:02:47+00:00",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+          "published_at": "2026-10-19T21:55:37+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-952c8c8773e9c7bfa82733a0f9ed0cd705c6d0b4d1eb2cdf36a416248fabc9c5",
-      "title_en": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
-      "summary_en": "Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the UN Biodiversity Conference in Yerevan, said on Monday.",
-      "category": "other",
+      "id": "evt-82e3f4d3e95b324813f7e31aff7b5e4fa562173358ab52793e1496471cd839b2",
+      "title_en": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "summary_en": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.973×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.966×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_business",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-19T21:30:06+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-0d28c8e4bdb6abc26d8f020137038cf22558e05bd77bb759fee9963f272957db",
+      "title_en": "France tells online marketplaces to crack down on resale of looted items",
+      "summary_en": "As thousands of shop owners are reeling from the weekend violence and looting, listings of apparently stolen items have been popping up online. The government asked major second-hand marketplaces such as Vinted, eBay and Amazon to crack down on suspicious adverts.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.961×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/business/20261019-france-tells-online-marketplaces-to-crack-down-on-resale-of-looted-items",
+          "published_at": "2026-10-19T21:24:55+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-8d120310604dfa2636d6bbd992cc8bb05600489976abf26383ee3a453f27ed87",
+      "title_en": "Could your halal pension be funding Israel’s military?",
+      "summary_en": "HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.964×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
+          "published_at": "2026-10-19T21:28:02+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-d20b516b06c795390007bd511235f7fe974ddccd9543a2952878caf14f9fd05a",
+      "title_en": "NASA Improves Shock, Vibration Analysis",
+      "summary_en": "Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft. To do that, engineers in the Dynamic…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.859×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/",
+          "published_at": "2026-10-19T19:28:32+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-d5144d80bc1cd7296f87605b59d65773b4411210a10d3968ec2dc9fc60dd688a",
+      "title_en": "Spain floods kill four as torrential rain inundates eastern regions",
+      "summary_en": "Torrential rain battered eastern Spain on Monday, killing at least four people in recent days as floodwaters swept away cars, submerged roads and stranded residents. Emergency crews carried out more than 400 rescues in Valencia, where rainfall reached 700 litres per square metre in 24 hours in some areas.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.975×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions",
+          "published_at": "2026-10-19T21:39:49+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-d51d17dae7cbfb003678ffcda88be38766b975f30504cf8c117758458ff35538",
+      "title_en": "160 reported killed in escalating drone attacks across Sudan",
+      "summary_en": "Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.974×0.20, authority=0.750×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168620",
-          "published_at": "2026-10-19T12:00:00+00:00",
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
+          "published_at": "2026-10-19T21:38:46+00:00",
           "published_precision": "second",
-          "publisher_group": "un_news"
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-138197130995dd4a4dba4d574277f55d9b9591e634e1ea754fa0cbcdc7252477",
+      "title_en": "Experimental Facilities",
+      "summary_en": "Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig (NATR), the DGEN AeroPropulsion Research…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.796×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/",
+          "published_at": "2026-10-19T18:08:52+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-8e87aa305402aae2a18ba2d83f9097593d51846742cfd7c5ad3f168dc5b9521f",
+      "title_en": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "summary_en": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "category": "politics_security",
+      "region": "north_america",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.807×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-19T18:22:48+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-a66b9acc62ef3e5adf02d1cce9307cf51288c07f37adbeb3fb4f1adab134f66c",
+      "title_en": "Israeli police detain 10 people in rare raid against West Bank settlers",
+      "summary_en": "Move comes after US photojournalist and group of European diplomats and Palestinians were assaulted in separate attacks Israeli police have detained 10 people in a rare raid against settlers, after a weekend of extreme violence in the occupied West Bank including an attack on US photojournalist Heidi Levine, which…",
+      "category": "economy_business",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.793×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
+          "published_at": "2026-10-19T18:05:14+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
         }
       ]
     },
@@ -62,10 +262,10 @@
       "category": "technology_science",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 52,
+      "importance_score": 44,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.973×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.558×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 10.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -81,216 +281,16 @@
       ]
     },
     {
-      "id": "evt-f35828222b32d0aee03d3f8bb7291b9f07b066d374269353a718364e4c393dd5",
-      "title_en": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
-      "summary_en": "The $48bn giveaway comes amid concerns about the tech and preparations for a stock market listing Anthropic has said it will commit 5% of its shares to a fund for the “public good”, as the AI developer behind the Claude chatbot seeks to bolster its appeal before its stock market listing. The company announced it…",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 51,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.928×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_business",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
-          "published_at": "2026-10-19T11:10:34+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-29ac4f8f4c6bb9c1dcd1a4e875b63edd6dd9b80c1cfdd406619dd22ffae1753b",
-      "title_en": "Qatar to unveil regional defence partnership",
-      "summary_en": "Qatar to unveil regional defence partnership",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.965×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss",
-          "published_at": "2026-10-19T11:51:01+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-8e87aa305402aae2a18ba2d83f9097593d51846742cfd7c5ad3f168dc5b9521f",
-      "title_en": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-      "summary_en": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-      "category": "politics_security",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.851×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-19T09:40:44+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-7d753840b30244eb5a474f2829f73c25096fd4df29595b6fbb28d855fabf67fa",
-      "title_en": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-      "summary_en": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
-      "category": "technology_science",
-      "region": "asia_pacific",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.828×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-19T09:11:42+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-85b76325099ebb912144fbdfbc484d2c3204e184db5d8a9027f5a18ef3311a4d",
-      "title_en": "'Lame-duck president' Macron notes 'failures' after France unrest",
-      "summary_en": "French President Emmanuel Macron on Monday rejected Interior Minister Laurent Nunez's resignation. The move came in response to weekend protests, during which nearly 2,400 people were arrested and almost 1,000 police and gendarmes injured on Saturday. FRANCE 24's International affairs editor Philip Turle has more.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.913×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261019-lame-duck-president-macron-notes-failures-after-france-unrest",
-          "published_at": "2026-10-19T10:53:15+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-fe283545438498227e7cd10eba4ac46ac690ecb703ad9fe3ad6de3bef2977c2d",
-      "title_en": "Les Misérables: Macron's 'sense of detachment' amid rising living costs and youth 'fears for future'",
-      "summary_en": "France’s escalating protest movement is exposing a widening disconnect between political leadership and public frustration, while raising questions about the country’s long tradition of social unrest. Chris Reynolds, Professor of French and European Studies at Nottingham Trent University, argues that President…",
-      "category": "politics_security",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.919×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261019-les-mis%C3%A9rables-macron-s-sense-of-detachment-amid-rising-living-costs-youth-fears-for-the-future",
-          "published_at": "2026-10-19T11:00:19+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-8a19a949bb9b12a5ee3661f94b48dace3e2c862727902f66ab009b5408b16b84",
-      "title_en": "NFL’s Azeez Al-Shaair honours Palestinian children for fifth straight week",
-      "summary_en": "Al-Shaair's eyeblack carried the name of Maryam Ghanem, a girl in Gaza who was forced to watch her mother burn alive.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.807×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/19/nfls-azeez-al-shaair-honours-palestinian-children-for-fifth-straight-week?traffic_source=rss",
-          "published_at": "2026-10-19T08:45:05+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-23f04ee85693cd63c12e266197c24926a5acc63f5284f2a38de1cf4f91769bb6",
-      "title_en": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
-      "summary_en": "APOD Science APOD APOD: 2026 October 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 45,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.616×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 8.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
-          "published_at": "2026-10-19T04:05:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
       "id": "evt-37727de3a0c18e18c147f5fa798cc9809c238c26ba17c6a0392862eee3670370",
       "title_en": "Canadian PM confirms four killed in military base fire",
       "summary_en": "Flames that killed four Canadian soldiers and left 19 people in critical condition began with a smoldering grass ‌fire that quickly grew in an Alberta base's training area where personnel were carrying out exercises, officials said on Sunday.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.463×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 13.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.266×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 22.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -304,94 +304,12 @@
           "publisher_group": "cgtn"
         }
       ]
-    },
-    {
-      "id": "evt-dee5f3a81dc86210afa60f6fee6dac8db4488992d58d03531576f6303734af3e",
-      "title_en": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
-      "summary_en": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 36,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.154×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 32.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
-          "published_at": "2026-10-18T04:05:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-441ab194196668b80b39be7f3d48357679e9ce0da65f96581294c619a40bef6c",
-      "title_en": "Sahel states restart dialogue with West Africa bloc",
-      "summary_en": "Niger, Mali and Burkina Faso on Saturday resumed official ministerial talks with the Economic Community of West African States (ECOWAS), agreeing to work towards a framework for cooperation more than 18 months after leaving the regional bloc.",
-      "category": "economy_business",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.214×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 26.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_world",
-          "publisher": "CGTN",
-          "url": "https://newsaf.cgtn.com/news/2026-10-18/Sahel-states-restart-dialogue-with-West-Africa-bloc-1RleHxyHA2c/p.html",
-          "published_at": "2026-10-18T09:48:37+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168618 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168619 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168617 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168614 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168613 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168612 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168611 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168610 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168609 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168607 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168604 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168605 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168603 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168602 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168599 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168600 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168598 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168597 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168596 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168595 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168594 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168592 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168591 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168590 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168589 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168588 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168587 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168586 rejected: stale publication date",
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/ rejected: stale publication date",
-    "nasa_news: entry https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/ rejected: stale publication date",
-    "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/ rejected: stale publication date",
-    "nasa_news: entry https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/ rejected: stale publication date",
+    "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Where_winds_blow_and_lava_flows rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought rejected: stale publication date",
@@ -402,11 +320,10 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/Hubble_s_superbubble_scene rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -435,12 +352,12 @@
     "bbc_business: entry https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c68xzg941x5vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -474,8 +391,6 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c6lyqlx0kp0po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/16/amelia-earhart-new-zeland-museum-aerial-survey-photos-nikumaroro-island rejected: stale publication date",
@@ -484,6 +399,7 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/14/leaders-of-indias-cockroach-party-jailed-for-violating-ban-on-protest-site rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/world/ng-interactive/2026/oct/18/invisible-clear-air-turbulence-airline-safety-climate-crisis rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/15/times-up-for-the-leap-second-as-scientists-swap-it-for-the-leap-hour rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/media/2026/oct/17/robyn-williams-leaving-abc-the-science-show-after-51-years rejected: stale publication date",
@@ -510,7 +426,6 @@
     "guardian_business: entry https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms rejected: stale publication date",
@@ -521,6 +436,7 @@
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/17/china-tourists-fake-typhoon-experience-dark-tourism rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/environment/2026/oct/16/dinosaur-eggs-pterosaur-museum-built-gobi-desert rejected: stale publication date",
@@ -537,7 +453,6 @@
     "guardian_china: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/books/2026/oct/10/chinese-ballet-maos-last-dancer-li-cunxin-memoir-follow-up-14-years rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-17/Chinese-FM-meets-Israeli-president-1RibaPyuRHO/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-16/Half-a-quilt-nine-decades-of-warmth-1RhwKYPjhXq/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-17/China-to-expand-hydrogen-use-through-pilots-in-five-city-clusters-1Rj5WUwPNo4/p.html rejected: stale publication date",
@@ -572,6 +487,7 @@
     "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-16/Medical-supplies-help-Tigray-hospitals-in-Ethiopia-resume-services-UN-1RhSpbVNWOk/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-17/Katie-Zacharia-out-as-White-House-press-secretary-US-media-1Rj270PrnY4/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-17/DPRK-conducts-underwater-test-firing-of-superspeed-torpedo-KCNA-1RjetxlQvYI/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-17/news-1Rk42kFA03m/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-17/EU-summit-ends-with-mounting-bills-and-unresolved-divisions-1Rj3f0YKAxy/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-17/Chinese-FM-meets-Israeli-president-1RibaPyuRHO/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-17/news-1Rj2GhcKLQY/p.html rejected: stale publication date",
