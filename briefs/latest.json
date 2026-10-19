@@ -2,20 +2,20 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T03:43:56+00:00",
+  "generated_at": "2026-10-19T12:28:05+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-1a695c1fc4e356ddb25cf31867caced1711bdc8133f2fb13c5def79041269f21",
-      "title_en": "Israeli settlers attack European diplomats in West Bank",
-      "summary_en": "French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh, in the occupied West Bank, injuring three people and damaging a car, in the latest violent attempt… Israeli settlers attacked Palestinian farmers and European diplomats in the West Bank on Saturday, according to Palestinian sources, the Israeli military and media reports. The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "id": "evt-12517a36dd2e43d2ca3861fd6b1c36d35b8208816e357e0dfa9bf7160e1f2b98",
+      "title_en": "French prime minister calls for ‘local and partial’ curfews after riots",
+      "summary_en": "Interior minister concedes police ‘lost control’, with forces in cities including Paris and Lyon overwhelmed after ‘lack of anticipation’ Europe live – latest updates France’s prime minister has said he has asked regional authorities to impose partial curfews in some cities after the government admitted police had…",
       "category": "politics_security",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 55,
+      "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.792×0.25, freshness=0.117×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 3; age: 37.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.976×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -23,110 +23,94 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-          "published_at": "2026-10-17T18:57:56+00:00",
+          "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
+          "published_at": "2026-10-19T12:02:47+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
-        },
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-18T12:16:14+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        },
-        {
-          "source_id": "cgtn_world",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-17/news-1Rk42kFA03m/p.html",
-          "published_at": "2026-10-17T14:36:45+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
         }
       ]
     },
     {
-      "id": "evt-6e647330901e41cae8f680f07123bb94d61ee023709793909b9c89dad4bc5a2e",
-      "title_en": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-      "summary_en": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
-      "category": "economy_business",
+      "id": "evt-952c8c8773e9c7bfa82733a0f9ed0cd705c6d0b4d1eb2cdf36a416248fabc9c5",
+      "title_en": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
+      "summary_en": "Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the UN Biodiversity Conference in Yerevan, said on Monday.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.942×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.973×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_business",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-19T02:41:41+00:00",
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168620",
+          "published_at": "2026-10-19T12:00:00+00:00",
           "published_precision": "second",
-          "publisher_group": "bbc"
+          "publisher_group": "un_news"
         }
       ]
     },
     {
-      "id": "evt-b0cdd7d529b202030a200a0c29544cee09a9e30bbc22772ae5144879058f9120",
-      "title_en": "BBC visits wildfire front in haze-choked Indonesia",
-      "summary_en": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.",
-      "category": "society_health_environment",
+      "id": "evt-bdcfe3c3fbb8e0923221855639f39ee3015c8e667b21d669e73d768799aa265d",
+      "title_en": "Euclid discovers new comet",
+      "summary_en": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
+      "category": "technology_science",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.973×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "esa_space_science",
+          "publisher": "European Space Agency",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+          "published_at": "2026-10-19T12:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "esa_space_science"
+        }
+      ]
+    },
+    {
+      "id": "evt-f35828222b32d0aee03d3f8bb7291b9f07b066d374269353a718364e4c393dd5",
+      "title_en": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
+      "summary_en": "The $48bn giveaway comes amid concerns about the tech and preparations for a stock market listing Anthropic has said it will commit 5% of its shares to a fund for the “public good”, as the AI developer behind the Claude chatbot seeks to bolster its appeal before its stock market listing. The company announced it…",
+      "category": "economy_business",
       "region": "global",
       "sports_tags": [],
       "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.902×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.928×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_science",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-19T01:57:02+00:00",
+          "source_id": "guardian_business",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
+          "published_at": "2026-10-19T11:10:34+00:00",
           "published_precision": "second",
-          "publisher_group": "bbc"
+          "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-15dc73390137731238c4d9cefc77dbef2b46f0015643324aa4a552870f65fe31",
-      "title_en": "Brazil's Lula, Bolsonaro clash in bitter debate ahead of election runoff",
-      "summary_en": "Brazilian President Luiz Inacio Lula da Silva and right-wing senator Flavio Bolsonaro traded personal attacks in a heated presidential debate on Sunday, a week before a closely contested runoff. The rivals accused each other of lying and corruption while clashing over the economy, security and healthcare ahead of the…",
-      "category": "politics_security",
+      "id": "evt-29ac4f8f4c6bb9c1dcd1a4e875b63edd6dd9b80c1cfdd406619dd22ffae1753b",
+      "title_en": "Qatar to unveil regional defence partnership",
+      "summary_en": "Qatar to unveil regional defence partnership",
+      "category": "other",
       "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.999×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/americas/20261019-brazil-lula-bolsonaro-debate-election-runoff",
-          "published_at": "2026-10-19T03:42:25+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-32f0d13e13123056d7f73a7f7a81b89a5211dc2755b9c763b69266f274514f4d",
-      "title_en": "Fast-moving grass fire caused Canada’s military base tragedy",
-      "summary_en": "Fast-moving grass fire caused Canada’s military base tragedy",
-      "category": "politics_security",
-      "region": "north_america",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
@@ -139,74 +123,74 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/fast-moving-grass-fire-caused-canadas-military-base-tragedy?traffic_source=rss",
-          "published_at": "2026-10-19T03:07:16+00:00",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss",
+          "published_at": "2026-10-19T11:51:01+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-6ac7c1884df994bb0c5c9244666305b7be3059b16b7590ccd36efeed82b0d0e1",
-      "title_en": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
-      "summary_en": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
+      "id": "evt-8e87aa305402aae2a18ba2d83f9097593d51846742cfd7c5ad3f168dc5b9521f",
+      "title_en": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "summary_en": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
       "category": "politics_security",
-      "region": "global",
+      "region": "north_america",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.968×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.851×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
-          "published_at": "2026-10-19T03:10:05+00:00",
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-19T09:40:44+00:00",
           "published_precision": "second",
-          "publisher_group": "aljazeera"
+          "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-b99330d83e75ed73d327bdd0395d8e725989a0b9a2ba3bfd5636e90d39e2363c",
-      "title_en": "Graphics: China's engagement in global governance",
-      "summary_en": "Graphics: China's engagement in global governance",
-      "category": "other",
-      "region": "global",
+      "id": "evt-7d753840b30244eb5a474f2829f73c25096fd4df29595b6fbb28d855fabf67fa",
+      "title_en": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+      "summary_en": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
+      "category": "technology_science",
+      "region": "asia_pacific",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 49,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.958×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.828×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-19/Graphics-China-s-engagement-in-global-governance-1RmyErPAupa/p.html",
-          "published_at": "2026-10-19T02:59:08+00:00",
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-19T09:11:42+00:00",
           "published_precision": "second",
-          "publisher_group": "cgtn"
+          "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-f01511bdeb129246a37da43069425b18347f1242b2d4b135ad0829ab1ffeb76d",
-      "title_en": "Louvre's $100 million crown jewels still missing one year after daring heist",
-      "summary_en": "A year after thieves stole $100 million worth of crown jewels from Paris’s Louvre Museum, four suspects remain jailed awaiting trial, but the treasures are still missing. The October 19 heist saw thieves disguised as workers steal eight historic items, including jewellery belonging to Empress Eugenie, Napoleon III’s…",
-      "category": "other",
+      "id": "evt-85b76325099ebb912144fbdfbc484d2c3204e184db5d8a9027f5a18ef3311a4d",
+      "title_en": "'Lame-duck president' Macron notes 'failures' after France unrest",
+      "summary_en": "French President Emmanuel Macron on Monday rejected Interior Minister Laurent Nunez's resignation. The move came in response to weekend protests, during which nearly 2,400 people were arrested and almost 1,000 police and gendarmes injured on Saturday. FRANCE 24's International affairs editor Philip Turle has more.",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 49,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.906×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.913×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -214,35 +198,85 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/france/20261019-louvre-100-million-crown-jewels-one-year-heist",
-          "published_at": "2026-10-19T02:01:56+00:00",
+          "url": "https://www.france24.com/en/video/20261019-lame-duck-president-macron-notes-failures-after-france-unrest",
+          "published_at": "2026-10-19T10:53:15+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-17f5b9b68f52ab984d0ec2fa57113249750ab8b7f24031d92c86a56db2205f9d",
-      "title_en": "Andy Burnham launches campaign against ‘headphone dodgers’ on public transport",
-      "summary_en": "Passengers urged to ‘share the carriage, not the noise’ as guidance sets out £100 penalties for nuisance behaviour Andy Burnham has announced a crackdown on “headphone dodgers” who play loud music on public transport, as he extends his promise to give voters “breathing space” in the confines of a train carriage. The…",
-      "category": "technology_science",
-      "region": "global",
+      "id": "evt-fe283545438498227e7cd10eba4ac46ac690ecb703ad9fe3ad6de3bef2977c2d",
+      "title_en": "Les Misérables: Macron's 'sense of detachment' amid rising living costs and youth 'fears for future'",
+      "summary_en": "France’s escalating protest movement is exposing a widening disconnect between political leadership and public frustration, while raising questions about the country’s long tradition of social unrest. Chris Reynolds, Professor of French and European Studies at Nottingham Trent University, argues that President…",
+      "category": "politics_security",
+      "region": "europe",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 49,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.762×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.919×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/oct/19/andy-burnham-launches-campaign-against-headphone-dodgers-on-public-transport",
-          "published_at": "2026-10-18T23:01:12+00:00",
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261019-les-mis%C3%A9rables-macron-s-sense-of-detachment-amid-rising-living-costs-youth-fears-for-the-future",
+          "published_at": "2026-10-19T11:00:19+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-8a19a949bb9b12a5ee3661f94b48dace3e2c862727902f66ab009b5408b16b84",
+      "title_en": "NFL’s Azeez Al-Shaair honours Palestinian children for fifth straight week",
+      "summary_en": "Al-Shaair's eyeblack carried the name of Maryam Ghanem, a girl in Gaza who was forced to watch her mother burn alive.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.807×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/19/nfls-azeez-al-shaair-honours-palestinian-children-for-fifth-straight-week?traffic_source=rss",
+          "published_at": "2026-10-19T08:45:05+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-23f04ee85693cd63c12e266197c24926a5acc63f5284f2a38de1cf4f91769bb6",
+      "title_en": "APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source",
+      "summary_en": "APOD Science APOD APOD: 2026 October 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.616×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 8.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
+          "published_at": "2026-10-19T04:05:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
         }
       ]
     },
@@ -253,10 +287,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 40,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.767×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.463×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 13.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -278,10 +312,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 38,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.255×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 23.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.154×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 32.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -295,9 +329,36 @@
           "publisher_group": "nasa_news"
         }
       ]
+    },
+    {
+      "id": "evt-441ab194196668b80b39be7f3d48357679e9ce0da65f96581294c619a40bef6c",
+      "title_en": "Sahel states restart dialogue with West Africa bloc",
+      "summary_en": "Niger, Mali and Burkina Faso on Saturday resumed official ministerial talks with the Economic Community of West African States (ECOWAS), agreeing to work towards a framework for cooperation more than 18 months after leaving the regional bloc.",
+      "category": "economy_business",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 35,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.214×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 26.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_world",
+          "publisher": "CGTN",
+          "url": "https://newsaf.cgtn.com/news/2026-10-18/Sahel-states-restart-dialogue-with-West-Africa-bloc-1RleHxyHA2c/p.html",
+          "published_at": "2026-10-18T09:48:37+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        }
+      ]
     }
   ],
   "source_errors": [
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168618 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168619 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168617 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168614 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168613 rejected: stale publication date",
@@ -324,21 +385,18 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168588 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168587 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168586 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168585 rejected: stale publication date",
+    "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/ rejected: stale publication date",
-    "nasa_news: entry https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/ rejected: stale publication date",
-    "nasa_news: entry https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino/ rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Happy_New_Year_on_Mars rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/A_galaxy_spinning_out_of_sync rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay rejected: stale publication date",
@@ -349,12 +407,8 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Musification_of_the_2026_total_solar_eclipse rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -381,17 +435,15 @@
     "bbc_business: entry https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c962yg36mk66o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c63dj8gx1jkno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/sounds/play/m0032qlk?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c6kgqr9n8082o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c68xzg941x5vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -424,15 +476,9 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c6lyqlx0kp0po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/16/amelia-earhart-new-zeland-museum-aerial-survey-photos-nikumaroro-island rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/16/india-cockroach-janta-party-leader-detained-amid-crackdown-protests rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead rejected: stale publication date",
@@ -440,8 +486,6 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/14/leaders-of-indias-cockroach-party-jailed-for-violating-ban-on-protest-site rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/15/times-up-for-the-leap-second-as-scientists-swap-it-for-the-leap-hour rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/media/2026/oct/17/robyn-williams-leaving-abc-the-science-show-after-51-years rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/technology/2026/oct/16/elon-musk-reveals-worlds-first-flying-car-spacex rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/15/neanderthal-remains-human-ancestor-killed-by-spear-iraq-kurdistan-cave-earliest-find rejected: stale publication date",
@@ -461,23 +505,21 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/09/why-youve-probably-been-thinking-about-narcolepsy-all-wrong rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/07/this-is-what-the-2026-nobel-prize-for-chemistry-is-all-about rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/uk-news/2026/oct/11/farmers-uk-food-security-producers-supply-chains rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/17/china-tourists-fake-typhoon-experience-dark-tourism rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme rejected: stale publication date",
@@ -496,7 +538,6 @@
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/books/2026/oct/10/chinese-ballet-maos-last-dancer-li-cunxin-memoir-follow-up-14-years rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-17/Chinese-FM-meets-Israeli-president-1RibaPyuRHO/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-16/Half-a-quilt-nine-decades-of-warmth-1RhwKYPjhXq/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-17/China-to-expand-hydrogen-use-through-pilots-in-five-city-clusters-1Rj5WUwPNo4/p.html rejected: stale publication date",
