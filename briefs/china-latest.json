@@ -2,20 +2,20 @@
   "schema_version": 1,
   "edition": "china",
   "date": "2026-10-23",
-  "generated_at": "2026-10-22T16:48:17+00:00",
+  "generated_at": "2026-10-22T21:18:00+00:00",
   "is_underfilled": true,
   "events": [
     {
-      "id": "evt-8556b8e35e0ad9561a3362b00581682b45bb21056bb376e00f3192fc652566a5",
-      "title_en": "Dalai Lama appointed by China 'is going to be a fake one', exiled former Tibetan leader says",
-      "summary_en": "In an interview with FRANCE 24, exiled former Tibetan leader Lobsang Sangay said any successor to the Dalai Lama appointed by China \"is going to be a fake one\". He also likened Beijing's ethnic unity law to \"an ethnic erasure\", said Tibetan concerns had been \"downgraded a bit\" in US-China talks and accused China of…",
-      "category": "other",
+      "id": "evt-26d3ed740164199ef91dd94bdccd24cbd71d0e187f2f7767537bdad4e555e27f",
+      "title_en": "At least a dozen dead as massive earthquake strikes China’s remote Tibet region",
+      "summary_en": "At least 16 people have died and dozens more have been injured after a major earthquake, measuring 7.0 on the Richter scale, shook China’s remote Tibet region, state media said. Hundreds of houses collapsed in the tremor.",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 44,
+      "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.690×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 6.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.992×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -23,8 +23,8 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261022-dalai-lama-appointed-by-china-is-going-to-be-a-fake-one-exiled-former-tibetan-leader-says",
-          "published_at": "2026-10-22T10:22:48+00:00",
+          "url": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven",
+          "published_at": "2026-10-22T21:09:38+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
@@ -37,10 +37,10 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.478×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 12.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.369×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 17.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -56,16 +56,41 @@
       ]
     },
     {
+      "id": "evt-c5d63824263dff6cf6f0bdee471eb7a8b11154aaaabf0abf39dddbba3d6a66f6",
+      "title_en": "APEC Finance Ministers' Meeting closes with practical outcomes",
+      "summary_en": "The Asia-Pacific Economic Cooperation (APEC) Finance Ministers' Meeting closed in Hong Kong SAR on Wednesday, with a series of practical outcomes delivered, according to China's Ministry of Finance.",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "sports_tags": [],
+      "importance_score": 37,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.347×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 18.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-22/APEC-Finance-Ministers-Meeting-closes-with-practical-outcomes-1Rrw6Jtf9Vm/p.html",
+          "published_at": "2026-10-22T02:59:58+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        }
+      ]
+    },
+    {
       "id": "evt-e3d779b712cd5201b625805eff906d68c1c34d2e8101fec350eca53628765193",
       "title_en": "Chinese Premier Li Qiang meets with Russian President Vladimir Putin",
       "summary_en": "Chinese Premier Li Qiang said on Wednesday that against the backdrop of a continuously evolving and complex international situation, China and Russia have maintained close coordination, serving as a valuable force for stability in a world marked by turbulence and transformation.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.421×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 15.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.324×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 19.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -81,16 +106,41 @@
       ]
     },
     {
+      "id": "evt-5b94dba9c8cfd659e4ff4941c593f8e077949ba210aa179e35601ebbe0424c3d",
+      "title_en": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
+      "summary_en": "Three years on from the reported resumption of large-scale forcible returns of nationals of the Democratic People’s Republic of Korea (DPRK) from China, serious concerns persist about their fate, according to a group of Human Rights Council-appointed independent experts.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 36,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.146×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 33.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168645",
+          "published_at": "2026-10-21T12:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "un_news"
+        }
+      ]
+    },
+    {
       "id": "evt-8abe78eaccb565311f448a1bd8a4d854ce61e6be92b07c914246cc4393d05a55",
       "title_en": "Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes",
       "summary_en": "Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors say Taiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Communist party and Xi Jinping. Taiwan has repeatedly accused China of transnational repression to…",
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 38,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.242×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 24.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.187×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 29.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -102,31 +152,6 @@
           "published_at": "2026-10-21T16:13:53+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-bffc87001978b87c0436d73312d0df73b478b0e176185ab4a4184be07f221e0f",
-      "title_en": "Beijing Science Declaration sets priorities for global science",
-      "summary_en": "Beijing Science Declaration sets priorities for global science",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.221×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 26.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-21/Beijing-Science-Declaration-sets-priorities-for-global-science-1RqzzkrHcFa/p.html",
-          "published_at": "2026-10-21T14:42:02+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
         }
       ]
     }
@@ -166,9 +191,13 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -214,12 +243,12 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati rejected: stale publication date",
@@ -244,14 +273,12 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/09/why-youve-probably-been-thinking-about-narcolepsy-all-wrong rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/20/scott-kirby-united-wealth-tax-backlash rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california rejected: stale publication date",
