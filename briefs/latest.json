@@ -2,13 +2,13 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-10-23",
-  "generated_at": "2026-10-22T16:48:17+00:00",
+  "generated_at": "2026-10-22T21:18:00+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-36fd531291457ee3d4142231c2bfe6eb1cdd4dac520278062885c539024c5109",
-      "title_en": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions live",
-      "summary_en": "With ICE arrests and detentions at their highest levels, immigration remains a key issue for voters less than two weeks before election day. From mass raids to quiet crackdown: a timeline of Trump’s strategic ICE pivot Richard Wolfe, Maine asks in a callout question: Why can’t local law enforcement be assigned to…",
+      "id": "evt-a4eecc58454bdef1673fc49f9cbb1ec5b52cacb93095764ebb81c0b3f7c3a086",
+      "title_en": "Trump defends Ramaswamy campaign ad condemned by Republicans, saying ‘Vivek should keep it up’ – live",
+      "summary_en": "President claims criticism of ad featuring Democrat Amy Acton’s estranged mother is a ‘concerted’ attack on Republican Ohio governor candidate Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad Reporting from Anchorage, Alaska Mary Peltola’s…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
@@ -23,35 +23,136 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
-          "published_at": "2026-10-22T16:37:32+00:00",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+          "published_at": "2026-10-22T21:07:19+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-4a4776ed860c90cde1cbc364183c7d79bc96562bf5de35cdf7f098080ff52800",
-      "title_en": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
-      "summary_en": "Exclusive: Sasan Ghandehari’s partnership with religious foundation raises questions about past dealings with republic criticised by Nigel Farage Nigel Farage’s newest billionaire donor was in business with a powerful Iranian religious foundation under the authority of the country’s supreme leader, raising questions…",
-      "category": "economy_business",
+      "id": "evt-fbe3fbb7d7b061bbbbd34acb90de564e28e090e38041d8631bb9843312436d97",
+      "title_en": "New York City ends a classic: Horse-drawn carriages banned over safety and abuse concerns",
+      "summary_en": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 53,
+      "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.992×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.973×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_world",
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-22T20:49:12+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-c828110a9606a05a1b9eed5d228fb06989cbb593488d47c73730524c3ca7196d",
+      "title_en": "BBC Inside Science",
+      "summary_en": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth.",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.928×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_science",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-22T20:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-72d565b9a331fb1e6963dd0a6e1eb420e90568bf2029f3b8cf828e2f46e60cca",
+      "title_en": "The humble one-celled alga that helped scientists win the Nobel prize",
+      "summary_en": "Chlamydomonas and its light-sensing protein help show how memories, feelings and behaviour form in our brains A tiny alga has helped show how memories, feelings and behaviour form in our brains, in research by three scientists awarded the Nobel prize for physiology or medicine this month. Chlamydomonas is a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=1.000×0.35, coverage=0.000×0.25, freshness=0.098×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: nobel_award; independent publisher groups: 1; age: 40.3h.",
+        "Significance: nobel_award; An announced Nobel award recognizes a major contribution with international significance."
+      ],
+      "importance_text_en": "Rule-based significance: An announced Nobel award recognizes a major contribution with international significance.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_science",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
-          "published_at": "2026-10-22T16:39:49+00:00",
+          "url": "https://www.theguardian.com/science/2026/oct/21/chlamydomonas-one-celled-alga-nobel-prize",
+          "published_at": "2026-10-21T05:00:04+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-b3199f1801e1bdfe196051e9b0fa9a08f52e98a74aba3ed50059a7df3c8c351c",
+      "title_en": "Italy's trucker protests halt buffalo mozzarella production, cost producers €3m",
+      "summary_en": "A daily update on the latest business and economic news.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.977×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/business/20261022-italy-s-trucker-protests-halt-buffalo-mozzarella-production-cost-producers-%E2%82%AC3m",
+          "published_at": "2026-10-22T20:54:15+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-1f55ff31c2e581e2402dcc9cfa3f91ac3693bc81da0a9d5fa2f098c009a79ba2",
+      "title_en": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
+      "summary_en": "Health officials are investigating where Nigeria's first patient, confirmed this week, was infected.",
+      "category": "society_health_environment",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.903×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss",
+          "published_at": "2026-10-22T19:31:27+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
         }
       ]
     },
@@ -62,10 +163,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 52,
+      "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.974×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.751×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 5.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -81,66 +182,16 @@
       ]
     },
     {
-      "id": "evt-c828110a9606a05a1b9eed5d228fb06989cbb593488d47c73730524c3ca7196d",
-      "title_en": "BBC Inside Science",
-      "summary_en": "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth.",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.955×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_science",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-22T16:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-9583cdbfdf8774b68942025e2c56052ea6d3584cced54795d5d25b0c052c7ca8",
-      "title_en": "YouTuber arrested after popular Indian finance influencer's suicide",
-      "summary_en": "V Harish, who ran the hugely popular Instagram account \"Finance with Harish\", was found dead on Tuesday.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.857×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-22T14:08:10+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-9eaeb43c755bc7fb870fbf06e4157e47da8dcdfc3521d5176c4b74db74be551c",
-      "title_en": "Ahead of US and Israeli elections, 3-day joint attack on Iran 'would not radically change conflict'",
-      "summary_en": "Jean-Emile Jammine is pleased to welcome Federico Donelli, Associate Professor of International Relations in the Department of Political and Social Sciences at the University of Trieste in Italy. Can another three days of military strikes achieve what eight months of confrontation have failed to deliver? Donelli…",
+      "id": "evt-ee973057bff864650dc1f3d6a068a844814790a228954097f99aefdab7fb9c27",
+      "title_en": "Targeted by Trump, International Criminal Court wins top EU rights prize",
+      "summary_en": "Facing US sanctions, the International Criminal Court was on Thursday awarded the European Union's top rights prize, in a show of support that risks upsetting President Donald Trump. \"The European Union is built on respect for multilateralism and international institutions, and this prize recognises the important…",
       "category": "politics_security",
-      "region": "global",
+      "region": "europe",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.989×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.872×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -148,8 +199,8 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/ahead-of-us-and-israeli-elections-3-day-joint-attack-on-iran-would-not-radically-change-conflict",
-          "published_at": "2026-10-22T16:36:26+00:00",
+          "url": "https://www.france24.com/en/targeted-by-trump-international-criminal-court-wins-top-eu-rights-prize",
+          "published_at": "2026-10-22T18:55:57+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
@@ -162,10 +213,10 @@
       "category": "sports",
       "region": "north_america",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 46,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.987×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.761×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -181,41 +232,16 @@
       ]
     },
     {
-      "id": "evt-988d0a55d69b2e93614fe6ba936c68eb967effc88a16c17c58aeb3110ad00adc",
-      "title_en": "Georgia on Democrats’ minds: Powering up the Black vote to counter Trump's meddling",
-      "summary_en": "President Donald Trump's push to redistrict congressional maps and a Georgia state election law disproportionately affecting African Americans are aimed at diluting the power of the Black vote. Six decades after Atlanta was at the heart of the civil rights movement that granted Blacks in the southern states the right…",
-      "category": "politics_security",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.940×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/americas/20261022-georgia-on-democrats-minds-powering-up-black-vote-counter-trump-meddling",
-          "published_at": "2026-10-22T15:43:57+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
       "id": "evt-b0bb78f928936f77f2537ed02a7d7bac778fdd1139194da9d4768a77be5266cb",
       "title_en": "‘Connect the dots’ between street protests and global turmoil, urges Guterres",
       "summary_en": "The international community must combat inequality and stop wars from expanding to ensure a safer world for all, the UN Secretary-General said on Thursday.",
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 44,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.758×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.584×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 9.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -231,41 +257,16 @@
       ]
     },
     {
-      "id": "evt-d65e8d38362ab0584eac1116c70ab547967bea802af795366debb37d66b8f6a6",
-      "title_en": "FIFA’s Infantino made to wait on Asian support as chief coy at AFC session",
-      "summary_en": "'We’re not against anyone and we’re not in favour of anyone,' says AFC President Sheikh Salman bin Ebrahim Al Khalifa.",
-      "category": "politics_security",
-      "region": "asia_pacific",
-      "sports_tags": [],
-      "importance_score": 48,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.877×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/22/fifas-infantino-made-to-wait-on-asian-support-as-chief-coy-at-afc-session?traffic_source=rss",
-          "published_at": "2026-10-22T14:31:28+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
       "id": "evt-fd4d685eca1c1aaac7898dfb95be7b94f3c3db688e62924c609c5a8294c30c1f",
       "title_en": "DR Congo: Ebola responders under pressure as outbreak expands",
       "summary_en": "As the deadly Ebola disease outbreak reached an eighth province of the Democratic Republic of the Congo (DRC), investigators pursued all leads on Thursday to assess the risk of the disease spreading in Nigeria.",
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 44,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.758×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.584×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 9.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -281,41 +282,16 @@
       ]
     },
     {
-      "id": "evt-c7c85e18fc4491667ea4f77deddad756da9716d69758dc252d51e1646b53f174",
-      "title_en": "Stars brewing in a nebulous cauldron",
-      "summary_en": "Image: Stars brewing in a nebulous cauldron",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 45,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.601×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 8.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "esa_space_science",
-          "publisher": "European Space Agency",
-          "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
-          "published_at": "2026-10-22T08:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "esa_space_science"
-        }
-      ]
-    },
-    {
       "id": "evt-d6033ee7b7b0e13b3beed47c488d741a48dd9ae8cae4815574005556aa2f7ba0",
       "title_en": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
       "summary_en": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 40,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.480×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 12.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.370×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 17.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -331,41 +307,16 @@
       ]
     },
     {
-      "id": "evt-c5d63824263dff6cf6f0bdee471eb7a8b11154aaaabf0abf39dddbba3d6a66f6",
-      "title_en": "APEC Finance Ministers' Meeting closes with practical outcomes",
-      "summary_en": "The Asia-Pacific Economic Cooperation (APEC) Finance Ministers' Meeting closed in Hong Kong SAR on Wednesday, with a series of practical outcomes delivered, according to China's Ministry of Finance.",
-      "category": "economy_business",
-      "region": "asia_pacific",
-      "sports_tags": [],
-      "importance_score": 40,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.450×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 13.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-22/APEC-Finance-Ministers-Meeting-closes-with-practical-outcomes-1Rrw6Jtf9Vm/p.html",
-          "published_at": "2026-10-22T02:59:58+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
       "id": "evt-2c061b29aceb4456fd93729220c9389efed56156e974b1a291961af5a45e385f",
       "title_en": "Russia and Ukraine agree to resume peace talks next month",
       "summary_en": "Russian President Vladimir Putin has agreed to resume US-mediated peace talks with Ukraine as soon as next month, ​after Putin met US envoy Steve Witkoff on Wednesday.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.443×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 14.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.342×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 18.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -375,6 +326,31 @@
           "publisher": "CGTN",
           "url": "https://news.cgtn.com/news/2026-10-22/Russia-and-Ukraine-agree-to-resume-peace-talks-next-month-1Rrna2dt32g/p.html",
           "published_at": "2026-10-22T02:43:18+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        }
+      ]
+    },
+    {
+      "id": "evt-c5d63824263dff6cf6f0bdee471eb7a8b11154aaaabf0abf39dddbba3d6a66f6",
+      "title_en": "APEC Finance Ministers' Meeting closes with practical outcomes",
+      "summary_en": "The Asia-Pacific Economic Cooperation (APEC) Finance Ministers' Meeting closed in Hong Kong SAR on Wednesday, with a series of practical outcomes delivered, according to China's Ministry of Finance.",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "sports_tags": [],
+      "importance_score": 37,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.347×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 18.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-22/APEC-Finance-Ministers-Meeting-closes-with-practical-outcomes-1Rrw6Jtf9Vm/p.html",
+          "published_at": "2026-10-22T02:59:58+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -416,9 +392,13 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -464,12 +444,12 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati rejected: stale publication date",
@@ -494,14 +474,12 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/09/why-youve-probably-been-thinking-about-narcolepsy-all-wrong rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/20/scott-kirby-united-wealth-tax-backlash rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california rejected: stale publication date",
