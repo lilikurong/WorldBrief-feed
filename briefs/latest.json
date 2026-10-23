@@ -2,45 +2,20 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-10-24",
-  "generated_at": "2026-10-23T16:39:33+00:00",
+  "generated_at": "2026-10-23T21:07:32+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-3c5b8cd5d12e9bd46f24591d42ee43291d1d8381b446258e48bccc2fca9293b2",
-      "title_en": "‘How can France stop Marine Le Pen’? Our Europe columnists answered your questions on protests and politics in France",
-      "summary_en": "Guardian Europe columnists Rokhaya Diallo and Alexander Hurst answered your questions about the recent protests in France, the role of the French police, foreign influence and the upcoming presidential election. Michael Wolfcarius asks: I cannot understand why the Guardian is selecting dots instead of joining them.…",
+      "id": "evt-6e10f2f1ca11fd7a126429c2fa6f51be8b379d4ff663fa475c88a3d8e64ce0f4",
+      "title_en": "Argentina drops investigation into President Milei over crypto fraud",
+      "summary_en": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
       "category": "politics_security",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.959×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
-          "published_at": "2026-10-23T15:56:31+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-7fbc8444d7977acea81641dee2b681c92539dad73d77ff7df0883afbc3ff4a5e",
-      "title_en": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "summary_en": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-      "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 52,
+      "importance_score": 53,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.942×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.992×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -48,75 +23,73 @@
         {
           "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-23T15:37:07+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-23T20:59:39+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-9df3e276c5ea3663b746eca7430a5162e1ccc0b736d4c658356c14c251f3ac19",
-      "title_en": "Oil spill washes up on UAE beaches after tanker strike",
-      "summary_en": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
-      "category": "technology_science",
+      "id": "evt-1cca956422eca390c75475c4e33f68b7fd46c07858b3c337a1e135b1290976d4",
+      "title_en": "White House says the US is lifting tariffs on some Canadian goods",
+      "summary_en": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 51,
+      "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.936×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.974×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_science",
+          "source_id": "bbc_business",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-23T15:30:47+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-23T20:39:39+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-a53a1813759536f172937cd74a5d3700522bce392b9f59a2facff22fdbaed7fb",
-      "title_en": "CAS clears Japan’s Olympic silver medallist Ikeda of doping, overturns ban",
-      "summary_en": "Race walker Koki Ikeda returns to competition immediately; Ethiopia’s marathon runner Ruti Aga given 6-year doping ban.",
-      "category": "sports",
-      "region": "global",
-      "sports_tags": [
-        "olympics"
-      ],
-      "importance_score": 51,
+      "id": "evt-ee1ff92a57bf1280941c5401e872f9f3176cb65f938a2dc7e42ca1395a45d883",
+      "title_en": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+      "summary_en": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the White House said, handing a win to Susan Collins, the embattled Republican senator for Maine, as she…",
+      "category": "politics_security",
+      "region": "north_america",
+      "sports_tags": [],
+      "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.790×0.20, authority=0.750×0.15, preference=1.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.970×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
       ],
-      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/cas-clears-japans-olympic-silver-medallist-ikeda-of-doping-overturns-ban?traffic_source=rss",
-          "published_at": "2026-10-23T12:34:10+00:00",
+          "source_id": "guardian_business",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+          "published_at": "2026-10-23T20:36:12+00:00",
           "published_precision": "second",
-          "publisher_group": "aljazeera"
+          "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-328933f375208e2b5415aa529f77b3402a6d435e1e4bf88990781e8ebb8e84a9",
-      "title_en": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
-      "summary_en": "Antiterrorism prosecutors investigating motive of attack that seriously wounded five, including a 12-year-old girl.",
+      "id": "evt-13818d11e412200cfc8c5ea5ef7aaf085967f600bc5146a230a7f84ad983b823",
+      "title_en": "Why is Trump questioning Ilhan Omar’s name?",
+      "summary_en": "A Justice Department filing listed a different name for her, prompting Trump to call for her resignation.",
       "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.970×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.971×0.20, authority=0.750×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
@@ -125,73 +98,98 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
-          "published_at": "2026-10-23T16:08:04+00:00",
+          "url": "https://www.aljazeera.com/news/2026/10/23/why-is-trump-questioning-ilhan-omars-name?traffic_source=rss",
+          "published_at": "2026-10-23T20:37:19+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-7e2da647cdb458f1c6a8823e9230a2be4bb61b2c685a5b08bdb6c5788e9c46ff",
-      "title_en": "Yes, Israeli settlers are ripping up West Bank olive trees – but this video is fake",
-      "summary_en": "Israeli settlers and soldiers have made a habit of destroying olive trees grown by Palestinian farmers in the West Bank and, in recent days, a video showing some trees being ripped up has circulated online. Just one problem: this particular video was generated by artificial intelligence.",
+      "id": "evt-8fb98c55507edcf362a4c16c3c7916823e6a9473805f7501fe6ca96983bd3b4e",
+      "title_en": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+      "summary_en": "After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’ Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.959×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.875×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261023-yes-israeli-settlers-ripping-up-west-bank-olive-trees-%E2%80%93-but-this-video-fake",
-          "published_at": "2026-10-23T15:56:19+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-86088c3ff854fd8f8bcc8788f9c8bf67e50da935c851ff657cf32867fa2bf6ad",
-      "title_en": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran",
-      "summary_en": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Business live – latest updates Oil has hit its highest level in more than five months as fears of fresh escalation in the Middle East conflict grip the energy markets. Brent crude, the international benchmark for…",
-      "category": "politics_security",
-      "region": "middle_east",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.831×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.2h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_business",
+          "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-          "published_at": "2026-10-23T13:27:04+00:00",
+          "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+          "published_at": "2026-10-23T18:48:48+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-a04ab2339520f61acd4d2c5a1cff1802d50258f6ed4e1eab1e6512a14f15ac6d",
-      "title_en": "Why do women in public life become targets?",
-      "summary_en": "A brutal targeted attack on an Australian female MP, who lost both her legs as a result, has reignited concerns over the rising levels of violence against women in public life. Also Cornell University is facing a no-confidence vote over its handling of an alleged gang rape in 2024. Annette Young speaks to Annie E.…",
-      "category": "society_health_environment",
+      "id": "evt-96f70743a3d1597f3a80d0cb5de8e14b038bc70ed228cb2bb6786499e4bbdcdb",
+      "title_en": "RS-25 Engine Tests at NASA Stennis",
+      "summary_en": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level.…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.882×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.2h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
+          "published_at": "2026-10-23T18:57:04+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-d62be0b541e0a2feb7094a439792b305a87cf9751af7ee1289b5c9c83429d8a9",
+      "title_en": "NASA, Virginia Launch Power Partnership for Energy Security",
+      "summary_en": "NASA is helping to foster long-term energy security in Virginia. NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.827×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
+          "published_at": "2026-10-23T17:50:21+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-5f5dc52217387fbd356f0298477c12886d3b396c6165c141dbf892a5b346369a",
+      "title_en": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
+      "summary_en": "As Israel approaches a consequential parliamentary election amid renewed violence in the occupied West Bank, Yedioth Ahronoth Senior Journalist Ben-Dror Yemini offers a critical assessment of Benjamin Netanyahu's political prospects, the limits of military escalation and the shifting relationship between national…",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.857×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.856×0.20, authority=0.750×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 2.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
@@ -200,60 +198,110 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/the-51/20261023-why-do-women-in-public-life-become-targets",
-          "published_at": "2026-10-23T13:58:52+00:00",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261023-netanyahu-weighs-west-bank-operation-ahead-of-elections-politically-it-will-not-help-anybody",
+          "published_at": "2026-10-23T18:26:35+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-0ad3f1fc3d8109b16a5c50df5fb107a52c54b9ee1cbc31a2a51e95086e70d02d",
-      "title_en": "El Niño Then and Now",
-      "summary_en": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
-      "category": "technology_science",
+      "id": "evt-94bf25d9dabc31f8fb1ef6937a52536b2d484b50abdc0fe3d8088f04a2b0d27c",
+      "title_en": "Israel locks down occupied West Bank after Hebron shooting",
+      "summary_en": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
+      "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.481×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 12.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.866×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
-          "published_at": "2026-10-23T04:00:00+00:00",
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
+          "published_at": "2026-10-23T18:38:26+00:00",
           "published_precision": "second",
-          "publisher_group": "nasa_news"
+          "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-8da5ffc4ae4a172b5069e2823ea0b298b7cedf7d0f209767b90f05a2dae951c3",
-      "title_en": "APOD: 2026 October 23 – Andromeda in Southern Spring",
-      "summary_en": "APOD Science APOD APOD: 2026 October 23 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
-      "category": "technology_science",
+      "id": "evt-af150752592fea5bc823820cd771a92f77cb28691e063049eba65d35bbb57476",
+      "title_en": "After French Riots, Curfews & Calm .. is a new Storm Brewing ? Plus Ukraine & Israel",
+      "summary_en": "It's been a week that’s seen mass protests hijacked by violent rioters across France. The looting of shops, trashing of public buildings, the burning of Lyon’s Tourist Information and the iconic Limoges City Hall. After the riots, came the curfews, and the contemplation, who did what and why weren’t they stopped.…",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.484×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 12.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.874×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
-          "published_at": "2026-10-23T04:05:00+00:00",
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261023-after-french-riots-curfews-calm-is-a-new-storm-brewing-plus-ukraine-israel",
+          "published_at": "2026-10-23T18:48:11+00:00",
           "published_precision": "second",
-          "publisher_group": "nasa_news"
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-272b33bdcbc46723250090113ed2a059b15d687c88f49867e1248e9d95ecb99f",
+      "title_en": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+      "summary_en": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its soldiers in Hebron.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.590×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 9.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+          "published_at": "2026-10-23T12:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "un_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-9475493c051d1b6f12e81ab028011ab2749debe764b19acbc549d64f0d9ba138",
+      "title_en": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
+      "summary_en": "Aid agencies warned on Friday of the fast-developing humanitarian emergency inside Taiz City in Yemen, which has been encircled by de facto Houthi forces fighting government troops along the country’s west coast.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.590×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 9.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168654",
+          "published_at": "2026-10-23T12:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "un_news"
         }
       ]
     },
@@ -264,10 +312,10 @@
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 38,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.352×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 18.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.272×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 22.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -281,35 +329,28 @@
           "publisher_group": "cgtn"
         }
       ]
-    },
-    {
-      "id": "evt-32cd7cd09cc5b1e51c214171e3c10e9c3e0f4e55fad9898494e48798b529fd70",
-      "title_en": "Behind the scenes fight for affordable healthcare in the U.S.",
-      "summary_en": "Behind the scenes fight for affordable healthcare in the U.S.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 38,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.352×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 18.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_world",
-          "publisher": "CGTN",
-          "url": "https://newsus.cgtn.com/news/2026-10-23/Behind-the-scenes-fight-for-affordable-healthcare-in-the-U-S--1RsPvRBBa5q/p.html",
-          "published_at": "2026-10-22T22:34:54+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
     }
   ],
   "source_errors": [
-    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168645 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168644 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168643 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168642 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168640 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168639 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168638 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168637 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168634 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168636 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168630 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168632 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168631 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168629 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168628 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168627 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168626 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168625 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168623 rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet rejected: stale publication date",
@@ -324,12 +365,14 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -348,6 +391,8 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/c620reny4e1no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cq78pzl85nglo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmvg9vlgxkv8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -375,6 +420,7 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum rejected: stale publication date",
@@ -387,6 +433,8 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/uk-news/2026/oct/21/mystery-roman-sarcophagus-westminster-abbey-solved-at-last-expert-says rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/21/bad-apples-rule-breaking-study rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/21/orangutans-prefer-food-laughter-sounds-study rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/21/do-people-become-less-creative-as-they-get-older-research rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/18/the-guardian-view-on-plague-in-russia-what-is-most-worrying-is-the-lack-of-information rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/12/scientist-russia-plague-victim-lab-worker-pandemic rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/09/rise-cancer-young-people-mystery-early-onset rejected: stale publication date",
@@ -402,7 +450,6 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/trump-ice-construction-worker-deportation rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy rejected: stale publication date",
