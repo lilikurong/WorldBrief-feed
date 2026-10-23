@@ -1,71 +1,21 @@
 {
   "schema_version": 1,
   "edition": "world",
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T11:11:10+00:00",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-23T16:39:33+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-c2dc106668c05dfa0ede69e12d2a351a580813507ffbc41711a3591b9c836fff",
-      "title_en": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "summary_en": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+      "id": "evt-3c5b8cd5d12e9bd46f24591d42ee43291d1d8381b446258e48bccc2fca9293b2",
+      "title_en": "‘How can France stop Marine Le Pen’? Our Europe columnists answered your questions on protests and politics in France",
+      "summary_en": "Guardian Europe columnists Rokhaya Diallo and Alexander Hurst answered your questions about the recent protests in France, the role of the French police, foreign influence and the upcoming presidential election. Michael Wolfcarius asks: I cannot understand why the Guardian is selecting dots instead of joining them.…",
       "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 53,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.990×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-23T11:01:08+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-5dfc683bf653dad2d63a87b763a6d317b2eb0a96f5c0bb2e13ec9ed25c78340c",
-      "title_en": "Malawi opposition demands answers over president's prolonged stay abroad",
-      "summary_en": "This is President Peter Mutharika's fifth visit to South Africa this year.",
-      "category": "politics_security",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.967×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-23T10:36:01+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-db0d3800b54d6034c312a255c5d4f5c9f81e76f143abd26ac334820813077a05",
-      "title_en": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
-      "summary_en": "The satellite service was still operating at a cap of 161km/hr, crippling key air defences The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was killed and four others injured. Police said a gunman had opened fire in Trappes, in…",
-      "category": "technology_science",
       "region": "europe",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.982×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.959×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -73,99 +23,101 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-          "published_at": "2026-10-23T10:52:49+00:00",
+          "url": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+          "published_at": "2026-10-23T15:56:31+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-1354f833dfff973f6623733f41e40c819e2121c6b89ea0482b1a10c47274e592",
-      "title_en": "SA faces rising tension as foreign national is killed amid anti-migrant protests",
-      "summary_en": "South African police are investigating the murder of a foreign national after violent protests by anti-immigrant groups swept through the central business district in Durban. The latest death follows months of violent rallies in which at least 10 foreigners were killed and several other countries on the continent…",
+      "id": "evt-7fbc8444d7977acea81641dee2b681c92539dad73d77ff7df0883afbc3ff4a5e",
+      "title_en": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "summary_en": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
       "category": "economy_business",
-      "region": "africa",
+      "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.998×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.942×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/sa-faces-rising-tension-as-foreign-national-is-killed-amid-anti-migrant-protests",
-          "published_at": "2026-10-23T11:08:43+00:00",
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-23T15:37:07+00:00",
           "published_precision": "second",
-          "publisher_group": "france24"
+          "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-5adffd1981af531b39a27e6c47de325b0820b9ea1ef91fdc1496255d61a51e1e",
-      "title_en": "South Korea invites North for military talks over border",
-      "summary_en": "The proposal comes days after Pyongyang says it moved new military units into 'firing positions' along the border.",
-      "category": "politics_security",
+      "id": "evt-9df3e276c5ea3663b746eca7430a5162e1ccc0b736d4c658356c14c251f3ac19",
+      "title_en": "Oil spill washes up on UAE beaches after tanker strike",
+      "summary_en": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+      "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.952×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.936×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_science",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-23T15:30:47+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-a53a1813759536f172937cd74a5d3700522bce392b9f59a2facff22fdbaed7fb",
+      "title_en": "CAS clears Japan’s Olympic silver medallist Ikeda of doping, overturns ban",
+      "summary_en": "Race walker Koki Ikeda returns to competition immediately; Ethiopia’s marathon runner Ruti Aga given 6-year doping ban.",
+      "category": "sports",
+      "region": "global",
+      "sports_tags": [
+        "olympics"
+      ],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.790×0.20, authority=0.750×0.15, preference=1.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.1h."
+      ],
+      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
       "is_breaking": false,
       "sources": [
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss",
-          "published_at": "2026-10-23T10:20:31+00:00",
+          "url": "https://www.aljazeera.com/sports/2026/10/23/cas-clears-japans-olympic-silver-medallist-ikeda-of-doping-overturns-ban?traffic_source=rss",
+          "published_at": "2026-10-23T12:34:10+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-b7f1e9b4b5e6b36536917322a3ae4847d4d1f6c3fd22138b04a8a112a773dac3",
-      "title_en": "French authorities call for videos of looting to identify rioters",
-      "summary_en": "To identify rioters across France last weekend, French authorities are calling on people who filmed scenes of looting to assist the investigation by handing the videos in. That is an unprecedented decision - one causing debate.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.978×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/french-authorities-call-for-videos-of-looting-to-identify-rioters",
-          "published_at": "2026-10-23T10:47:56+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-18df09e42464097bec7f0ac431b8c0e9b4d348e54a713c0a4bd8062dd1168f47",
-      "title_en": "NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid",
-      "summary_en": "Kyrie Irving explains paying fine and praises Azeez Al-Shaair for continuously honouring slain Palestinian children.",
+      "id": "evt-328933f375208e2b5415aa529f77b3402a6d435e1e4bf88990781e8ebb8e84a9",
+      "title_en": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
+      "summary_en": "Antiterrorism prosecutors investigating motive of attack that seriously wounded five, including a 12-year-old girl.",
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.917×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.970×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -173,35 +125,85 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss",
-          "published_at": "2026-10-23T09:40:57+00:00",
+          "url": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
+          "published_at": "2026-10-23T16:08:04+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-b165adb8313e252a570661b52c6d69f7c3be6a58d479c98e547bfb6907cf9a8b",
-      "title_en": "Can AI really predict cancer survival better than a doctor? I have my doubts | Devi Sridhar",
-      "summary_en": "Take a selfie to see how healthy you are: the idea is enticing and this new research is promising. But so many factors have been ignored The idea that a single selfie could predict how long someone with cancer may live sounds like an incredible breakthrough. AI is getting better at spotting patterns in medical data,…",
+      "id": "evt-7e2da647cdb458f1c6a8823e9230a2be4bb61b2c685a5b08bdb6c5788e9c46ff",
+      "title_en": "Yes, Israeli settlers are ripping up West Bank olive trees – but this video is fake",
+      "summary_en": "Israeli settlers and soldiers have made a habit of destroying olive trees grown by Palestinian farmers in the West Bank and, in recent days, a video showing some trees being ripped up has circulated online. Just one problem: this particular video was generated by artificial intelligence.",
       "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.959×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20261023-yes-israeli-settlers-ripping-up-west-bank-olive-trees-%E2%80%93-but-this-video-fake",
+          "published_at": "2026-10-23T15:56:19+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-86088c3ff854fd8f8bcc8788f9c8bf67e50da935c851ff657cf32867fa2bf6ad",
+      "title_en": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran",
+      "summary_en": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Business live – latest updates Oil has hit its highest level in more than five months as fears of fresh escalation in the Middle East conflict grip the energy markets. Brent crude, the international benchmark for…",
+      "category": "politics_security",
+      "region": "middle_east",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.831×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.2h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_business",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+          "published_at": "2026-10-23T13:27:04+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-a04ab2339520f61acd4d2c5a1cff1802d50258f6ed4e1eab1e6512a14f15ac6d",
+      "title_en": "Why do women in public life become targets?",
+      "summary_en": "A brutal targeted attack on an Australian female MP, who lost both her legs as a result, has reignited concerns over the rising levels of violence against women in public life. Also Cornell University is facing a no-confidence vote over its handling of an alleged gang rape in 2024. Annette Young speaks to Annie E.…",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
       "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.785×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.857×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_science",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research",
-          "published_at": "2026-10-23T07:00:03+00:00",
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/the-51/20261023-why-do-women-in-public-life-become-targets",
+          "published_at": "2026-10-23T13:58:52+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
+          "publisher_group": "france24"
         }
       ]
     },
@@ -212,10 +214,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.660×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 7.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.481×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 12.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -237,10 +239,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.663×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 7.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.484×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 12.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -256,41 +258,16 @@
       ]
     },
     {
-      "id": "evt-d01a97888f6c78c902654ddfa4eb60f6743173641dcb0af7f885bdae2b570ddb",
-      "title_en": "China's top diplomat holds talks with FM of Republic of the Congo",
-      "summary_en": "Chinese Foreign Minister Wang Yi held talks with Constant-Serge Bounda, minister of foreign affairs, La Francophonie and Congolese Abroad of the Republic of the Congo, on Thursday in Beijing.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.532×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 10.9h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-23/China-s-top-diplomat-holds-talks-with-FM-of-Republic-of-the-Congo-1RsYwWUbR16/p.html",
-          "published_at": "2026-10-23T00:15:35+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
       "id": "evt-1c641fef3a3198dc598a0f0de27fcfc3452573ecc89c430c1c36d0ec5287693c",
       "title_en": "Chancay-Shanghai maritime route is supercharging China-Peru trade",
       "summary_en": "Chancay-Shanghai maritime route is supercharging China-Peru trade",
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.483×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 12.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.352×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 18.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -300,6 +277,31 @@
           "publisher": "CGTN",
           "url": "https://newsus.cgtn.com/news/2026-10-23/Chancay-Shanghai-maritime-route-is-supercharging-China-Peru-trade-1RsSYmNkUa4/p.html",
           "published_at": "2026-10-22T22:35:19+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        }
+      ]
+    },
+    {
+      "id": "evt-32cd7cd09cc5b1e51c214171e3c10e9c3e0f4e55fad9898494e48798b529fd70",
+      "title_en": "Behind the scenes fight for affordable healthcare in the U.S.",
+      "summary_en": "Behind the scenes fight for affordable healthcare in the U.S.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 38,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.352×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 18.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_world",
+          "publisher": "CGTN",
+          "url": "https://newsus.cgtn.com/news/2026-10-23/Behind-the-scenes-fight-for-affordable-healthcare-in-the-U-S--1RsPvRBBa5q/p.html",
+          "published_at": "2026-10-22T22:34:54+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -324,10 +326,10 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -346,7 +348,7 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cmvg9vlgxkv8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -373,12 +375,14 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/19/this-is-india-student-protests-abuse-modi-cockroach-protests rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/uk-news/2026/oct/21/mystery-roman-sarcophagus-westminster-abbey-solved-at-last-expert-says rejected: stale publication date",
@@ -397,17 +401,16 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/oct/20/scott-kirby-united-wealth-tax-backlash rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/trump-ice-construction-worker-deportation rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-trump-and-putin-ukraines-future-is-not-theirs-to-bargain-away rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports rejected: stale publication date",
