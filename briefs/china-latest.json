@@ -2,7 +2,7 @@
   "schema_version": 1,
   "edition": "china",
   "date": "2026-10-25",
-  "generated_at": "2026-10-25T10:56:07+00:00",
+  "generated_at": "2026-10-25T15:43:15+00:00",
   "is_underfilled": true,
   "events": [
     {
@@ -12,10 +12,10 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.291×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 21.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.221×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 26.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -31,41 +31,16 @@
       ]
     },
     {
-      "id": "evt-d1c06cfdc016ee0ffdd5a14c6a0f394d958d7a0b1cbbd3e52272bb95860b4c93",
-      "title_en": "China opposes US proposal to expand outbound investment curbs",
-      "summary_en": "China on Saturday expressed \"grave concern\" and \"firm opposition\" to a recent US Treasury proposal that would expand and intensify restrictions on outbound investment in China, calling it a discriminatory move and a typical practice of overstretching the concept of national security.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 37,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.312×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 20.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-24/China-opposes-US-proposal-to-expand-outbound-investment-curbs-1RvDF2byKyI/p.html",
-          "published_at": "2026-10-24T14:47:25+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
       "id": "evt-3a5d385c7f1e732f5a43e2fd62b301d299c45a40eb6295e01e6b3415f60d7b32",
       "title_en": "Knowing China Through the Classics",
       "summary_en": "In quoting these lines from an ancient classic at a plenary session of the Central Commission for Discipline Inspection, held on January 12, 2016, President Xi Jinping was encouraging officials to make full use of criticism and self-criticism as a tool for improving themselves. During its upcoming plenary session from October 26 to 29, the CPC Central Committee will review a draft decision on advancing full and rigorous Party self-governance.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 36,
+      "importance_score": 35,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.290×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 21.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.220×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 26.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -95,10 +70,10 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 36,
+      "importance_score": 35,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.178×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 29.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.135×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 34.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -112,10 +87,63 @@
           "publisher_group": "guardian"
         }
       ]
+    },
+    {
+      "id": "evt-d1c06cfdc016ee0ffdd5a14c6a0f394d958d7a0b1cbbd3e52272bb95860b4c93",
+      "title_en": "China opposes US proposal to expand outbound investment curbs",
+      "summary_en": "China on Saturday expressed \"grave concern\" and \"firm opposition\" to a recent US Treasury proposal that would expand and intensify restrictions on outbound investment in China, calling it a discriminatory move and a typical practice of overstretching the concept of national security.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 35,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.237×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 24.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-24/China-opposes-US-proposal-to-expand-outbound-investment-curbs-1RvDF2byKyI/p.html",
+          "published_at": "2026-10-24T14:47:25+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        }
+      ]
     }
   ],
   "source_errors": [
-    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168665 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168664 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168662 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168660 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168661 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168657 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168655 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168654 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168648 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168652 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168651 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168650 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168647 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168646 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168645 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168644 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168643 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168642 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168640 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168639 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168638 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168637 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168634 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168636 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168630 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168632 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168631 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168629 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168628 rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/ rejected: stale publication date",
@@ -134,7 +162,10 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -143,6 +174,7 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -169,6 +201,7 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c620reny4e1no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -205,11 +238,11 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader rejected: stale publication date",
@@ -220,7 +253,6 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/news/2026/oct/23/how-citizen-science-is-tracking-changes-in-shorelines-around-the-world rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/uk-news/2026/oct/21/mystery-roman-sarcophagus-westminster-abbey-solved-at-last-expert-says rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/environment/2026/oct/22/cop17-cali-conservation-fund-pharmaceutical-freeriding-nature-aoe rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/21/orangutans-prefer-food-laughter-sounds-study rejected: stale publication date",
@@ -232,7 +264,6 @@
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/13/surprising-psychology-morbid-curiosity-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/15/norman-mccubbin-obituary rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/australia-news/2026/oct/23/australian-astronaut-katherine-bennell-pegg-2028-space-mission rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/did-you-solve-it-the-treacherous-puzzle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
@@ -241,11 +272,11 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/environment/2026/oct/22/deepwater-horizon-oil-spill-gulf-marine-life rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/trump-ice-construction-worker-deportation rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy rejected: stale publication date",
