@@ -2,79 +2,45 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-10-26",
-  "generated_at": "2026-10-25T20:31:04+00:00",
+  "generated_at": "2026-10-26T03:45:09+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-0632ba2f258402390df6f3a93427fc0a6b5f918f4c5c9bd2c8f43867fe677711",
-      "title_en": "Exiled opposition leader María Corina Machado returns to Venezuela",
-      "summary_en": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuela almost a year after she left the country to receive the Nobel peace prize. “I’m here. With you,”…",
+      "id": "evt-b895a398d92844827c86a330cf322bdd13682bae38da03d5b1c828873f22918d",
+      "title_en": "Venezuelan opposition leader María Machado returns after months in exile",
+      "summary_en": "Venezuelan opposition leader Maria Corina Machado announced on Sunday that she has returned to her homeland following almost a year in exile, after covertly leaving Venezuela in late 2025 to receive the Nobel Peace Prize. She returns as doubts about her country’s democratic future and the role of the US are growing. Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months. Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 52,
+      "importance_score": 63,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.968×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.792×0.25, freshness=0.543×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 3; age: 10.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-          "published_at": "2026-10-25T19:56:56+00:00",
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-26T03:05:22+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-7940a04b7db4119e69105e2f01e1e5f2e148fee2c366962640a8d6a9adcb2909",
-      "title_en": "Polls close in Serbia as strongman Vučić faces challenge to 12-year rule – Europe live",
-      "summary_en": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s election? The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% by 5pm local time (4pm UK), with three hours still to go…",
-      "category": "politics_security",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.983×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
+          "publisher_group": "bbc"
+        },
         {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-          "published_at": "2026-10-25T20:13:00+00:00",
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile",
+          "published_at": "2026-10-25T17:10:11+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-4ba4efb5f99d6cc7b1533719ffd983e56f4ef6659e8ae9358ad85256e0188564",
-      "title_en": "Can Carrick survive Man United’s slump and Fernandes fallout?",
-      "summary_en": "Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.971×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
+          "publisher_group": "france24"
+        },
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss",
-          "published_at": "2026-10-25T20:01:00+00:00",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+          "published_at": "2026-10-25T23:23:25+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
@@ -83,7 +49,98 @@
     {
       "id": "evt-f2430702bb90671077a495c4897d33dff2cd9813a4aabf60107c0a3a5327d7e1",
       "title_en": "Marine Le Pen launches presidential campaign in Orléans",
-      "summary_en": "RN candidate Marine Le Pen officially launched her campaign for the French presidential election on Sunday, October 25, at a rally in Orléans.",
+      "summary_en": "RN candidate Marine Le Pen officially launched her campaign for the French presidential election on Sunday, October 25, at a rally in Orléans. Marine Le Pen launches French presidential campaign",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 56,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.630×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 2; age: 8.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
+          "published_at": "2026-10-25T19:45:40+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        },
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
+          "published_at": "2026-10-25T21:39:13+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-bdaa203741a42cdfca485603464a978f7c7f1cbdb2494dd8eea87bae89fa95b0",
+      "title_en": "Serbia’s Vucic concedes election defeat to student-led movement",
+      "summary_en": "Former Serbian President Aleksandar Vucic conceded defeat in Sunday's snap parliamentary election, as independent projections and leaders of a student-backed movement born out of anti-corruption protests confirmed an outright parliamentary majority that ends the Serbian Progressive Party's (SNS) 14-year grip on power. Vucic says the opposition Student List is projected to win a parliamentary majority after nearly two years of protests.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 55,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.615×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 2; age: 8.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+          "published_at": "2026-10-25T19:19:54+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        },
+        {
+          "source_id": "cgtn_world",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-26/news-1RxZaoMn57O/p.html",
+          "published_at": "2026-10-25T23:55:05+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        }
+      ]
+    },
+    {
+      "id": "evt-8fed72a2ad60b4486a411ef4d84688e9ef8dc05f294f09395d7bb3827e210729",
+      "title_en": "There’s no human right to Vegemite, court tells Australian prisoner who wanted ban overturned",
+      "summary_en": "Prohibition of salty, yeast-based condiment in Victoria’s prisons remains after convicted murderer claimed it denied him right to ‘enjoy his culture’ Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news podcast A murderer who claimed a refusal to allow him…",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.934×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.2h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/26/no-human-right-to-vegemite-court-tells-prisoner-australia-ntwnfb",
+          "published_at": "2026-10-26T02:34:11+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-6d1c771207f07644ef8da28ad5059895118555ce51930f60d7ea4b54d9b0e9aa",
+      "title_en": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+      "summary_en": "Lula wins a fourth term after a dramatic run-off marred by voting confusion and allegations of interference.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
@@ -96,87 +153,137 @@
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
-          "published_at": "2026-10-25T19:45:40+00:00",
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
+          "published_at": "2026-10-26T02:59:50+00:00",
           "published_precision": "second",
-          "publisher_group": "france24"
+          "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-6905edde8e8a41b61d2a1330ceef1bd70c37347985dbdb44e2e045301ccbe893",
-      "title_en": "Lula's Legacy, Flavio's Future?",
-      "summary_en": "A coin-flip election in Brazil, with little separating the country's left-wing President, Lula, and his right-wing rival, Flávio Bolsonaro. The results of the run-off vote will become clear in a few hours.",
+      "id": "evt-1779f0cd1c663a3b1c3a6aec5d646cf38146d67d05c8e9d03ac76444260f07ba",
+      "title_en": "Russia, US, Ukraine signal plans for trilateral talks in November",
+      "summary_en": "US President Donald Trump said Sunday that trilateral talks involving the United States, Russia and Ukraine will take place \"very soon,\" signaling renewed diplomatic efforts to address the conflict, while Moscow and Kyiv have outlined their positions on the proposed negotiations.",
       "category": "politics_security",
+      "region": "north_america",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.934×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.2h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_world",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-26/Russia-US-Ukraine-signal-plans-for-trilateral-talks-in-November-1Ry4HHmq1xe/p.html",
+          "published_at": "2026-10-26T02:34:41+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        }
+      ]
+    },
+    {
+      "id": "evt-ecfd242c6626869e32a896c8d347e2ba94ea08eaaf46c2b273eead868f7f1366",
+      "title_en": "From agriculture to AI-griculture: How tech is changing farming",
+      "summary_en": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology.",
+      "category": "technology_science",
       "region": "global",
       "sports_tags": [],
       "importance_score": 49,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.916×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.815×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20261025-lula-s-legacy-flavio-s-future",
-          "published_at": "2026-10-25T19:00:19+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-c8c1e43947126c0b22f54829cb154767d33d1c4f0494bb17d6633bd2de612691",
-      "title_en": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-      "summary_en": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 48,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.750×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 5.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
+          "source_id": "bbc_science",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-25T15:32:51+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-26T00:13:09+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-9958045fd6872d0e253794fbbc6bb73dd32ae296c0c4a7f23f637d399af520d0",
-      "title_en": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
-      "summary_en": "Just as American cattle went to market, Trump's action added unease to an industry already facing uncertainty.",
-      "category": "economy_business",
+      "id": "evt-f138d0f88386d9913b31b46c4c39f9eb500143c373c1191bc7c21f090fef735a",
+      "title_en": "Riyadh airport reopens as Houthis, coalition exchange attacks",
+      "summary_en": "King Khalid International Airport in the Saudi capital Riyadh partially reopened on Sunday as Yemen's Houthi group and the Saudi-led coalition continued to exchange attacks, and the Houthis warned airlines and travelers against using the airport.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.803×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.859×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
-          "published_at": "2026-10-25T16:42:33+00:00",
+          "source_id": "cgtn_world",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-26/Riyadh-airport-reopens-as-Houthis-coalition-exchange-attacks-1RxZEfXGDUk/p.html",
+          "published_at": "2026-10-26T01:07:23+00:00",
           "published_precision": "second",
-          "publisher_group": "aljazeera"
+          "publisher_group": "cgtn"
+        }
+      ]
+    },
+    {
+      "id": "evt-f87ea5450385c5577e651d923b7138dc12f197d49e6c823affed8a62b96029fc",
+      "title_en": "Cabinet ministers back Burnham’s call for debate on return to free movement with EU",
+      "summary_en": "PM’s plea supported by Angela Rayner, Ed Miliband and business leaders, while some ‘red wall’ MPs voice concern Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers but risked a rift with “red wall” Labour MPs, who say it could jeopardise…",
+      "category": "economy_business",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.637×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 7.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+          "published_at": "2026-10-25T19:57:13+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-ecae3bdd99c543407728e904fcf766df451c8d33eaabc101807dbd089daa6e2b",
+      "title_en": "Le Pen’s ‘Renaissance’: 4th time lucky?",
+      "summary_en": "Just before half past four, Marine Le Pen took to the stage under the stadium strobe lights at the Zénith Arena in Orléans. The radical-right leader, whom analysts say is on the doorstep of the presidency, is polarising, yet deeply and increasingly popular with her base, and has topped the popularity polls for months…",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 43,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.606×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 8.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261025-le-pen-s-renaissance-4th-time-lucky",
+          "published_at": "2026-10-25T19:05:19+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
         }
       ]
     },
@@ -187,10 +294,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 39,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.495×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 12.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.326×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 19.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -200,106 +307,6 @@
           "publisher": "NASA",
           "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
           "published_at": "2026-10-25T08:19:48+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-b9bd2889882571fa094d1b2355885787d2461718b660fda594e95bf53041158f",
-      "title_en": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-      "summary_en": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
-      "category": "technology_science",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.426×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 14.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-25T05:45:31+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-d6f9fc77cee6c1a751813c8cca9dc9baca2b27152588995816f3fe14508cc439",
-      "title_en": "'Happy 55th birthday': UN officials reaffirm stance on China's UN seat",
-      "summary_en": "Senior United Nations officials have reaffirmed the world body's unwavering adherence to UN General Assembly (UNGA) Resolution 2758, as Sunday marks the 55th anniversary of the restoration of China's lawful seat at the UN.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 38,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.353×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 18.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-25/-Happy-55th-birthday-UN-officials-reaffirm-stance-on-China-s-UN-seat-1Rvwzer6yZO/p.html",
-          "published_at": "2026-10-25T02:29:37+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-947555150d537eded9c9d54e407383e38f8905b9a00bb93755c376c5a4efd8c1",
-      "title_en": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
-      "summary_en": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning of 15 April 2023, and the paramilitary Rapid Support Forces had just turned their guns on the army.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 36,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.153×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 32.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
-          "published_at": "2026-10-24T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "un_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-165fcf1aaf2f2fc4c388e3bfcb5135b852b815f1f65d02d3619edffecccfafd3",
-      "title_en": "APOD: 2026 October 24 – Rosetta’s Selfie",
-      "summary_en": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.097×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 40.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
-          "published_at": "2026-10-24T04:05:00+00:00",
           "published_precision": "second",
           "publisher_group": "nasa_news"
         }
@@ -335,7 +342,9 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168632 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168631 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168629 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168628 rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/ rejected: stale publication date",
+    "nasa_news: entry https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/ rejected: stale publication date",
@@ -356,9 +365,17 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -374,9 +391,6 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -438,8 +452,8 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown rejected: stale publication date",
@@ -467,6 +481,7 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z rejected: stale publication date",
@@ -485,6 +500,8 @@
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/world/2026/oct/24/north-korea-new-yalu-river-bridge-russia-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/video/2026/oct/23/people-evacuate-building-in-tibet-as-powerful-earthquake-strikes-video rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/23/spain-floods-storm-adam-uk-storm-austen rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet rejected: stale publication date",
@@ -500,48 +517,50 @@
     "guardian_china: entry https://www.theguardian.com/environment/2026/oct/16/dinosaur-eggs-pterosaur-museum-built-gobi-desert rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/15/france-drops-opposition-to-uk-being-included-in-made-in-europe-legislation rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/commentisfree/2026/oct/15/global-economy-multilateral-cooperation-crisis-imf rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/What-does-Half-a-Quilt-tell-us-about-China-s-new-Long-March--1Rs8bRay2Hu/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/A-Long-March-of-her-own-Growing-roses-at-Jiajin-Mountain-1RqAMLgYgDe/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/-Once-Upon-a-Time-in-the-Middle-East-An-Egyptian-AD-s-stories-1RrWjBKlGRG/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/news-1RsWPFMFpy8/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/The-Queen-s-Sword-What-if-the-Shang-Dynasty-had-its-own-merch-line--1RrwqMRY316/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/If-Long-March-veterans-could-write-to-us-today--1RqoSWrwjjG/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/China-Walk-Vibrant-Hainan-media-tour-kicks-off-in-Sanya-1Rsjm7xQcHm/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/Thriving-Amur-tigers-reflect-conservation-efforts-in-northeast-China-1RrQ7LD9yH6/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/Documentary-brings-Yunnan-s-Asian-elephant-stories-to-global-screens-1RrULxCWA5a/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/China-Djibouti-issue-communiqu-on-Horn-of-Africa-Red-Sea-security-1RrzcISMKL6/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/16-killed-65-injured-after-M7-0-quake-hits-China-s-Xizang-1RthDS3vHUc/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/CMG-launches-multilingual-AI-production-platform-at-Shanghai-event-1Rsm0FFpjhK/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/China-s-top-diplomat-holds-talks-with-FM-of-Republic-of-the-Congo-1RsYwWUbR16/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/Inside-Guangxi-How-China-Vietnam-ties-boost-trade-and-tourism-1Rs1PPNrOXm/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/China-says-no-gray-zone-on-Taiwan-question-1RrY9JLy6Yw/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/Indian-classical-music-strikes-a-chord-in-Beijing-1RrEfSX8oXC/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/China-issues-guidelines-to-integrate-sci-tech-industry-innovation-1RsbXZQGEQU/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-22/Grassland-doctor-guards-nomadic-lives-on-Xinjiang-s-frontier-1RrXiqKv6qQ/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/Kenya-launches-160-million-initiative-to-fund-wildlife-conservation-1Rs6WIyhQbK/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/China-Djibouti-issue-communiqu-on-Horn-of-Africa-Red-Sea-security-1RrzcISMKL6/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/Macron-calls-for-halt-to-demonstrations-in-coming-days-1RskaBLFSeY/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-22/South-Africa-investigates-outbreaks-linked-to-poor-water-quality-1Rs9OODtdVS/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/Expert-AI-reshapes-finance-as-risk-and-governance-challenges-grow-1RrOdTYZoI0/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/China-s-top-diplomat-holds-talks-with-FM-of-Republic-of-the-Congo-1RsYwWUbR16/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-22/Ebola-outbreak-rebounds-in-DR-Congo-WHO-1Rs0iw4k5fG/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-10-23/Chancay-Shanghai-maritime-route-is-supercharging-China-Peru-trade-1RsSYmNkUa4/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-22/UN-African-officials-call-for-investment-on-data-systems-1RrS1085Lnq/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/Inside-Guangxi-How-China-Vietnam-ties-boost-trade-and-tourism-1Rs1PPNrOXm/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/Cuban-FM-slams-US-strong-arm-diplomacy-ahead-of-key-UN-vote-1RrIAWTK0es/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/China-says-no-gray-zone-on-Taiwan-question-1RrY9JLy6Yw/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/China-reaches-men-s-and-women-s-team-semifinals-at-Asian-Championships-1RrzZQfGVtS/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-21/China-imposes-export-controls-on-Japan-to-curb-its-nuclear-ambition-1Rqtto6Dmx2/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-10-23/Behind-the-scenes-fight-for-affordable-healthcare-in-the-U-S--1RsPvRBBa5q/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-10-23/Wildfires-drive-up-California-homeowner-insurance-price-hikes-1RsSRuRnqYU/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-10-23/US-midterm-elections-on-track-for-record-spending-1RsT9VmPYDS/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/PHP-flaws-prompt-shutdowns-of-government-websites-across-Europe-1RrOh0exeMg/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-22/South-Africa-announces-609-million-for-fuel-levy-relief-1RqLOyjzQsg/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-10-23/Colombia-seizes-3-5-tons-of-cocaine-arrests-five-in-drug-operation-1RsKpRxFgGI/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-22/Flooding-could-displace-nearly-874-000-people-in-Somalia-UN-warns-1RrPW4mkD6M/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/China-wins-8-athletics-golds-sets-2-world-records-at-Asian-Para-Games-1Rrz5tATr3O/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/If-Long-March-veterans-could-write-to-us-today--1RqoSWrwjjG/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/Ethiopian-expert-calls-for-dialogue-cooperation-on-global-governance-1RtUTGl1ANa/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/Wang-Yi-holds-talks-with-Foreign-Minister-of-Congo-on-bilateral-ties-1RtawnyMVj2/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/Stretched-not-squeezed-Why-the-Xizang-quake-was-a-pull-apart--1RtRZdxuKOI/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/China-deploys-satellites-and-drones-to-Xizang-quake-zone-1RtNyEnldgA/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/CGTN-Poll-World-doesn-t-need-more-talk-but-governance-that-works-1RtMS4RpRbW/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Chinese-FM-meets-UN-high-commissioner-for-refugees-1RuExVeFJAs/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/Wang-Yi-calls-for-stronger-action-to-realize-vision-of-GGI-1Ru1OUeqWWY/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/Promote-Good-Oppose-Evil-Knowing-China-Through-the-Classics-1RtvxlFo9sA/p.html rejected: stale publication date",
+    "cgtn_china: entry https://newsus.cgtn.com/news/2026-10-24/Chinese-carmakers-drive-surge-in-robots-on-Brazilian-factory-floors-1RufuuSnuHS/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/Xi-Jinping-sends-message-to-2026-Global-Governance-Forum-Xiongan--1RtNH0kaOCk/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/China-earmarks-80-mln-yuan-for-Xizang-quake-relief-and-recovery-1RtVDrdQkj6/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/From-Long-March-to-Chinese-modernization-China-s-new-journey-forward-1Rtngja2YM0/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/Wang-Yi-calls-for-China-US-joint-efforts-on-AI-development-governance-1RtZyP3e968/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/All-aboard-China-and-Guinea-train-Simandou-railway-crews-1RuEXeWIDuw/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/Chinese-premier-chairs-State-Council-executive-meeting-1RtYAntya0U/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/-Half-a-Quilt-story-inspires-local-development-90-years-on-1R4iBUgsGZO/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/Sparks-of-Long-March-inspire-ethnic-unity-on-the-grasslands-1RtOK7Sez4I/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/China-allocates-30-mln-yuan-for-post-disaster-work-in-Xizang-1Rtrj46ZMOI/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Xi-s-key-remarks-on-advancing-full-and-rigorous-Party-self-governance-1RuL4xceBB6/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/UK-expert-highlights-growing-international-support-for-GGI-1RtStc3Pj9K/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/China-launches-Yaogan-50-03-remote-sensing-satellite-1RtTfpSKmEE/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/news-1RtLnSAusFi/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-23/Swiss-diplomat-s-wife-identified-as-Nigeria-s-first-Ebola-patient-1RtUFOzsB6E/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/From-debt-to-dilution-the-AI-buildout-meets-its-funding-test-1RtH7blOzwk/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/news-1RtGXfModzO/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/-Off-the-charts-El-Ni-o-could-spark-global-economic-crisis-UN-warns-1RrxNfGH9Nm/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/Wang-Yi-calls-for-stronger-action-to-realize-vision-of-GGI-1Ru1OUeqWWY/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Chinese-FM-meets-UN-high-commissioner-for-refugees-1RuExVeFJAs/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/Myanmar-s-Laukkai-holds-screening-of-CMG-anti-fraud-documentary--1RtlAEFTlug/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Cuban-FM-denounces-Trump-s-new-military-threat-1RuFiwdJDkA/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/Iran-prepares-for-possible-renewed-conflict-as-Mideast-tensions-retain-1Rt96IqYFqg/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/Wang-Yi-calls-for-China-US-joint-efforts-on-AI-development-governance-1RtZyP3e968/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/China-Walk-Vibrant-Hainan-media-tour-kicks-off-in-Sanya-1Rsjm7xQcHm/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/China-urges-US-to-drop-restrictions-on-research-institutions-1RtyUTMPWo0/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/Putin-says-talks-must-focus-on-security-for-Russia-Ukraine-and-Europe-1Rtigdo2s00/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/news-1RtVYMJZtFS/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-23/South-African-police-investigate-killing-of-foreign-national-in-Durban-1Rtyk82D9Nm/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/Global-South-rises-as-technology-reshapes-city-competitiveness-1RqvkAUXJkc/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/Qatar-US-discuss-freedom-of-navigation-in-Hormuz-Strait-1Rtg0MMkQNO/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/CGTN-Poll-World-doesn-t-need-more-talk-but-governance-that-works-1RtMS4RpRbW/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/Chinese-envoy-urges-UNSC-reform-on-fairer-representation-1RtgHTZZ6qk/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Netanyahu-says-Israel-is-planning-a-major-West-Bank-military-operation-1RuFifSnEVa/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-23/Kenyan-health-experts-urge-stronger-Ebola-surveillance-as-cases-rise-1RtFNbjfPgY/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/China-the-golden-thread-of-fashion-friendship-1RttdW0Zpx6/p.html rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/chemistry/2026/press-release/ rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/economic-sciences/2026/press-release/ rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/literature/2026/press-release/ rejected: stale publication date",
