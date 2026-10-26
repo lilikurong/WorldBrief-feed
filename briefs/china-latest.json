@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "edition": "china",
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T12:27:07+00:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-26T22:24:05+00:00",
   "is_underfilled": true,
   "events": [
     {
@@ -12,10 +12,10 @@
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.857×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.483×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 12.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -37,10 +37,10 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 41,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.759×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.427×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 14.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -56,41 +56,41 @@
       ]
     },
     {
-      "id": "evt-1882cec9068d0158d066efb252b6db4ba902ef037f75cebfbb45f01914fcb258",
-      "title_en": "China’s political elite gather for talks on Communist Party discipline",
-      "summary_en": "The four-day meeting is being watched closely for clues as to the country's direction and future leadership.",
+      "id": "evt-f2746f506c3bd1ac5c8f5d1953ca7d74a37937332f57b1bd6f9e39bcd3112826",
+      "title_en": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+      "summary_en": "The fifth plenum comes against a backdrop of years of purges that have had some analysts wondering if the issue is corruption or a lack of loyalty When Xi Jinping came to power in 2012, he pledged to stamp out corruption all through the ranks of the Communist party. More than a decade later, the pace of…",
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 44,
+      "importance_score": 39,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.675×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 6.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.290×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 21.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
-          "published_at": "2026-10-26T05:38:41+00:00",
+          "source_id": "guardian_china",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
+          "published_at": "2026-10-26T00:58:25+00:00",
           "published_precision": "second",
-          "publisher_group": "aljazeera"
+          "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-c1560c7f61442d64f1f2eff8b45639eedca539911f16e67ceb4c3032fe10f470",
-      "title_en": "How technology is making government services easier in Hainan",
-      "summary_en": "How technology is making government services easier in Hainan",
-      "category": "politics_security",
+      "id": "evt-fd430dc43df11c272bcaf70418737931431d0044c96068491b03900f4e3d6283",
+      "title_en": "Health, emergency services back post-quake resettlement in Xizang",
+      "summary_en": "Rescue and relief efforts continue after a magnitude-7 earthquake struck southwest China's Xizang Autonomous Region, with public health and epidemic prevention work underway in affected areas, according to local authorities.",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 36,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.253×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 23.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.302×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 20.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -98,33 +98,8 @@
         {
           "source_id": "cgtn_china",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-25/How-technology-is-making-government-services-easier-in-Hainan-1RwXTmNt7tS/p.html",
-          "published_at": "2026-10-25T12:38:49+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-3e1e6ce4fe4a2b033bff553c8674cffcb5de0f4e8e70468c0aba3c6742d9d3b2",
-      "title_en": "Xi, Belgium's king exchange congratulations on 55 years of ties",
-      "summary_en": "Chinese President Xi Jinping and Belgium's King Philippe on Sunday exchanged congratulations on the 55th anniversary of diplomatic relations between the two countries.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.219×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 26.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-25/Xi-Belgium-s-king-exchange-congratulations-on-55-years-of-ties-1RwYMfwvg2s/p.html",
-          "published_at": "2026-10-25T10:09:27+00:00",
+          "url": "https://news.cgtn.com/news/2026-10-26/Health-emergency-services-back-post-quake-resettlement-in-Xizang-1RxZYxxdDKU/p.html",
+          "published_at": "2026-10-26T01:41:53+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -156,18 +131,6 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168638 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168637 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168634 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168636 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168630 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168632 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168631 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168629 rejected: stale publication date",
-    "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/ rejected: stale publication date",
-    "nasa_news: entry https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/ rejected: stale publication date",
-    "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/ rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time rejected: stale publication date",
@@ -183,6 +146,7 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -199,8 +163,6 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -231,7 +193,6 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/videos/c39wzvxxjejxo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -240,7 +201,6 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c914d43gg2zdo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cdep67jnn9zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/videos/c8r2074l0rmo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -258,8 +218,7 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown rejected: stale publication date",
@@ -268,10 +227,10 @@
     "guardian_science: entry https://www.theguardian.com/global-development/2026/oct/22/have-scientists-finally-found-a-way-to-save-the-banana-from-disaster rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/news/2026/oct/23/how-citizen-science-is-tracking-changes-in-shorelines-around-the-world rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/environment/2026/oct/22/cop17-cali-conservation-fund-pharmaceutical-freeriding-nature-aoe rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/21/orangutans-prefer-food-laughter-sounds-study rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/environment/2026/oct/25/bom-temperature-record-keeping-under-attack-again rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/18/the-guardian-view-on-plague-in-russia-what-is-most-worrying-is-the-lack-of-information rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/12/scientist-russia-plague-victim-lab-worker-pandemic rejected: stale publication date",
@@ -282,6 +241,7 @@
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/did-you-solve-it-the-treacherous-puzzle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video rejected: stale publication date",
@@ -289,10 +249,8 @@
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/trump-ice-construction-worker-deportation rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/world/2026/oct/22/cyprus-police-investigate-financial-tax-affairs-roman-abramovich-chelsea rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget rejected: stale publication date",
@@ -300,6 +258,7 @@
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/24/north-korea-new-yalu-river-bridge-russia-china rejected: stale publication date",
@@ -347,6 +306,7 @@
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Chinese-FM-meets-UN-high-commissioner-for-refugees-1RuExVeFJAs/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/Myanmar-s-Laukkai-holds-screening-of-CMG-anti-fraud-documentary--1RtlAEFTlug/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Cuban-FM-denounces-Trump-s-new-military-threat-1RuFiwdJDkA/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/news-1RvDEEVS4V2/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/Iran-prepares-for-possible-renewed-conflict-as-Mideast-tensions-retain-1Rt96IqYFqg/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/Wang-Yi-calls-for-China-US-joint-efforts-on-AI-development-governance-1RtZyP3e968/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/China-Walk-Vibrant-Hainan-media-tour-kicks-off-in-Sanya-1Rsjm7xQcHm/p.html rejected: stale publication date",
