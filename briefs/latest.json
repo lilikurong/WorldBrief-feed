@@ -2,45 +2,46 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T04:08:05+00:00",
+  "generated_at": "2026-10-27T11:45:46+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-16bb1205631e342f2732ff76d61b5bc1e116fa39fcd1b55c485bb576b2a77541",
-      "title_en": "Jordan carries out deadly strike in Syria in retaliation for church attack",
-      "summary_en": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
-      "category": "society_health_environment",
+      "id": "evt-3a82eb46702abb85b6c823f400bdc6005e1070679ea229e01608001602342233",
+      "title_en": "Robert F Kennedy Jr. says Arabs don’t produce science or literature",
+      "summary_en": "US Secretary of Health Robert F Kennedy Jr. has said that Arabs don’t produce science, literature, or win Nobel prizes.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 51,
+      "importance_score": 65,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.919×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
+        "Weighted score: impact=1.000×0.35, coverage=0.000×0.25, freshness=0.954×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: nobel_award; independent publisher groups: 1; age: 0.8h.",
+        "Significance: nobel_award; An announced Nobel award recognizes a major contribution with international significance."
       ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "importance_text_en": "Rule-based significance: An announced Nobel award recognizes a major contribution with international significance.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-27T02:40:17+00:00",
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/robert-f-kennedy-jr-says-arabs-dont-produce-science-or-literature?traffic_source=rss",
+          "published_at": "2026-10-27T10:56:38+00:00",
           "published_precision": "second",
-          "publisher_group": "bbc"
+          "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-4f87be8496dc24d41d0b7c76f37f7cc14aeed916cff4d38e5ff15ee8bbe26dd2",
-      "title_en": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
-      "summary_en": "US military says the restrictions on the electric vehicles at Kadena airbase also apply to delivery drivers and taxis One of America’s biggest overseas military bases has banned vehicles made by the Chinese electric vehicle maker BYD over security concerns, the US military in Japan said on Tuesday. The ban, which…",
+      "id": "evt-dec42433f30e962872a6add2784b2c57cbd4151112b4216ddc7618eed0ce71a5",
+      "title_en": "Israel election live: polls open in most consequential vote in country’s history",
+      "summary_en": "Most polling shows prime minister Benjamin Netanyahu’s coalition will lose its majority, with Gadi Eisenkot the leading opposition contender What you need to know about Israel’s election Across Israel, voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 51,
+      "importance_score": 53,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.928×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.988×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -48,49 +49,24 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
-          "published_at": "2026-10-27T02:50:31+00:00",
+          "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
+          "published_at": "2026-10-27T11:33:04+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-088e27f073c53e9532d304b46596c8758f70c4a9371045dcd40d59c818d7adb6",
-      "title_en": "Man with fake gun shot after using abused partner as shield",
-      "summary_en": "Brazilian police shot a man who assaulted and threatened his partner with a fake gun in Criciuma, southern Brazil.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.981×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss",
-          "published_at": "2026-10-27T03:48:41+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-e4944989da6fc476c798d29c1caf47ad2039399cdebb1be8c6a364d798fe1dce",
-      "title_en": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-      "summary_en": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+      "id": "evt-13767c1294ddd7c9ac86dba722c86766ffc69083202d43dd6c6f9bca0f9df2b7",
+      "title_en": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
+      "summary_en": "A series of small announcements are part of John Healey's pledge to give households help with the cost of living.",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.882×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.972×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -99,73 +75,23 @@
           "source_id": "bbc_business",
           "publisher": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-27T01:57:48+00:00",
+          "published_at": "2026-10-27T11:15:53+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-732e7238590c76afe879214961b479a7e789e8ad445df80ecbd0bc75146fc6fa",
-      "title_en": "Moroccan police intercept migrant swimming back towards Ceuta",
-      "summary_en": "Moroccan police intercepted a migrant swimming towards Spain’s North African enclave of Ceuta",
-      "category": "other",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.918×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss",
-          "published_at": "2026-10-27T02:38:48+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-b29c9c6bab5dcfc9ad7f6d4e405ed3e1571e8c692c6eed3105fce90d0a294181",
-      "title_en": "US-EU trade truce at risk over $3.4 billion Airbus loan, Trump official warns",
-      "summary_en": "US Trade Representative Jamieson Greer warned on Monday that a $3.4 billion European Investment Bank loan to Airbus could jeopardise a tariff truce between Washington and Brussels. Greer said his office had received no details about the financing, announced in June, and urged the EU to resolve the matter quickly.",
-      "category": "economy_business",
+      "id": "evt-42e2d76a47faefa7e7af6e4ab1ad2ca89fe054e8a5c46652673f2fac3724298b",
+      "title_en": "Finnish and Norwegian leaders hold rare ‘frank and substantive’ call with Putin on Ukraine – Europe live",
+      "summary_en": "Alexander Stubb and Jonas Gahr Støre say they have briefed Volodymyr Zelenskyy after discussion with Russia’s president about next month’s Abu Dhabi peace talks Meanwhile, Wes Streeting, the defence secretary, has warned that Russia’s Vladimir Putin is “testing us and testing Nato’s resolve” as he condemned hybrid…",
+      "category": "politics_security",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.902×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/europe/20261027-us-eu-trade-truce-airbus-loan-trump",
-          "published_at": "2026-10-27T02:20:28+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-ec86b03bf6fcab5c9d9bf801f4cae7d3bfad3e621955e68622522e0938f1c6b5",
-      "title_en": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
-      "summary_en": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips will be answering your questions from 15:00 GMT today. Ask a question: log in or sign up…",
-      "category": "politics_security",
-      "region": "latin_america",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.788×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.962×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -173,10 +99,160 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
-          "published_at": "2026-10-27T00:00:03+00:00",
+          "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
+          "published_at": "2026-10-27T11:05:46+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-fc52973f118e6a46a2f9c43a4e2a985f9ab7733423f25010e8ca02f1cced5546",
+      "title_en": "What is Nasa's Artemis III mission? And what comes next?",
+      "summary_en": "Artemis III will help test crucial systems needed for the planned Artemis IV Moon landing in 2028.",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.933×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.2h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_science",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-27T10:33:26+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-79b6fffd01b3f8e8c4d980160d8e86b397c217d8740353203a420d9b9c70ba12",
+      "title_en": "Algeria to deploy army units to Niger to protect economic interests",
+      "summary_en": "Algeria will send army units to Niger to ​protect energy and economic interests, according to a statement from the presidency on Monday (October 26). Algeria's Parliament held an emergency vote on Sunday on what would be Algeria's first such foreign mission since 1973.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.983×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261027-algeria-deploys-army-units-to-niger-to-protect-economic-interests",
+          "published_at": "2026-10-27T11:28:05+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-a9c433f61134de093b8f7be94265faf2c7c39242dcaf17d43b2657c3b6648f57",
+      "title_en": "South Africa suspends asylum applications after recent unrest",
+      "summary_en": "Tensions in South Africa over anti-migrant protests have left in limbo many who were counting on following the rules to sort out their paperwork and status in the country. Calls for a crackdown on foreigners, particularly undocumented migrants, have sometimes spiralled into murder. In response to the unrest, the…",
+      "category": "society_health_environment",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.992×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261027-south-africa-suspends-asylum-applications-after-recent-unrest",
+          "published_at": "2026-10-27T11:37:35+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-b0cb728f9e768e52b4f34bdf21f57f0d0091a0e52e1f3db00980bffb3641c019",
+      "title_en": "Media groups challenge India’s privacy law at top court",
+      "summary_en": "News organisations are challenging the law, arguing it could hamper investigative journalism and endanger sources.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.954×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/media-groups-challenge-indias-privacy-law-at-top-court?traffic_source=rss",
+          "published_at": "2026-10-27T10:56:22+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-ddf10f22a16934cd5c8ab9461d05796543469c03d23bca8bb1d4a24dd4635109",
+      "title_en": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+      "summary_en": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.” In honor of National Mentoring Day on Oct. 27,…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.765×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+          "published_at": "2026-10-27T07:07:51+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-28baf40bfb579e90f59616d2fec230b41a6e91c7ba562808d70de0a0c96cfa28",
+      "title_en": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+      "summary_en": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 46,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.642×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 7.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
+          "published_at": "2026-10-27T04:05:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
         }
       ]
     },
@@ -187,10 +263,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.873×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.562×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 10.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -212,10 +288,10 @@
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 41,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.832×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.535×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 10.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -229,158 +305,10 @@
           "publisher_group": "cgtn"
         }
       ]
-    },
-    {
-      "id": "evt-cab6f173476b508e2bf4198089d930c204f6cced0c615154b905778118d99aa1",
-      "title_en": "NASA’s Perseverance Views Dust at Neretva Vallis",
-      "summary_en": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.735×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 5.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
-          "published_at": "2026-10-26T22:48:12+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-26529ee8403fd2e72e1106252a3ab97fcfd64fffbeed95b5aaaf58c9627096ef",
-      "title_en": "Solar Cells Inspected on NASA’s NEO Surveyor",
-      "summary_en": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 46,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.657×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 7.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
-          "published_at": "2026-10-26T20:52:24+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-bbe18a398cb015e0b3617c28b1766552e6858eb5a6387129fb74db5db4ea2cf7",
-      "title_en": "Mecca pact nations hold talks with Iran to prevent renewed Middle East war",
-      "summary_en": "Senior officials from Saudi Arabia, Turkey and Pakistan held talks in Iran on Monday aimed at preventing renewed fighting in the Middle East, with Tehran describing discussions as “very good”. The diplomatic push, attended by Saudi Defence Minister Prince Khalid bin Salman, followed warnings from Washington, Tehran…",
-      "category": "politics_security",
-      "region": "middle_east",
-      "sports_tags": [],
-      "importance_score": 46,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.761×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261026-iran-talks-mecca-pact-nations-war",
-          "published_at": "2026-10-26T23:24:17+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-5d78ff1c54879a1ea9eeab21478889c41422ba48a91fc0f7ae3667d7da23ed32",
-      "title_en": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
-      "summary_en": "Israel’s “aggressive operation” in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker Türk warned on Monday, as the number of Palestinians forced from their homes passed 3,000 on the eve of Israeli elections.",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.394×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 16.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168672",
-          "published_at": "2026-10-26T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "un_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-69a84eba0893d8e64269ff4ad936bd668605c5f52b6165d8f62461eb735ab7d7",
-      "title_en": "In Egypt, Guterres warns against Iran-US escalation",
-      "summary_en": "UN Secretary-General António Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.",
-      "category": "politics_security",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.394×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 16.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168669",
-          "published_at": "2026-10-26T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "un_news"
-        }
-      ]
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168663 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168665 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168664 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168662 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168660 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168661 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168657 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168655 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168654 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168648 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168652 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168651 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168650 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168647 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168646 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168645 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168644 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168643 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168642 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168640 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168639 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168638 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168637 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168634 rejected: stale publication date",
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time rejected: stale publication date",
@@ -396,8 +324,11 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -420,11 +351,11 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sounds/play/w3ct9kk8?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cq78pzl85nglo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmvg9vlgxkv8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -450,17 +381,14 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_china: entry https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/global-development/2026/oct/22/have-scientists-finally-found-a-way-to-save-the-banana-from-disaster rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/news/2026/oct/23/how-citizen-science-is-tracking-changes-in-shorelines-around-the-world rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/environment/2026/oct/22/cop17-cali-conservation-fund-pharmaceutical-freeriding-nature-aoe rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/21/orangutans-prefer-food-laughter-sounds-study rejected: stale publication date",
@@ -476,9 +404,9 @@
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/13/the-surprising-psychology-of-morbid-curiosity-video rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle rejected: stale publication date",
@@ -490,7 +418,6 @@
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping rejected: stale publication date",
@@ -508,8 +435,6 @@
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/17/china-tourists-fake-typhoon-experience-dark-tourism rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/environment/2026/oct/16/dinosaur-eggs-pterosaur-museum-built-gobi-desert rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Over-5-000-rescuers-deployed-after-M7-0-earthquake-hit-China-s-Xizang-1RuPNs1fub6/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Xi-sends-message-to-2026-Global-Governance-Forum--1Rvb9SMO6yY/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Courtyard-meetings-give-villagers-a-say-in-local-spending-1RuUft5HG9i/p.html rejected: stale publication date",
