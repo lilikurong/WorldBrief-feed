@@ -1,47 +1,21 @@
 {
   "schema_version": 1,
   "edition": "world",
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T11:45:46+00:00",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-27T17:39:41+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-3a82eb46702abb85b6c823f400bdc6005e1070679ea229e01608001602342233",
-      "title_en": "Robert F Kennedy Jr. says Arabs don’t produce science or literature",
-      "summary_en": "US Secretary of Health Robert F Kennedy Jr. has said that Arabs don’t produce science, literature, or win Nobel prizes.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 65,
-      "score_reasons": [
-        "Weighted score: impact=1.000×0.35, coverage=0.000×0.25, freshness=0.954×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: nobel_award; independent publisher groups: 1; age: 0.8h.",
-        "Significance: nobel_award; An announced Nobel award recognizes a major contribution with international significance."
-      ],
-      "importance_text_en": "Rule-based significance: An announced Nobel award recognizes a major contribution with international significance.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/robert-f-kennedy-jr-says-arabs-dont-produce-science-or-literature?traffic_source=rss",
-          "published_at": "2026-10-27T10:56:38+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-dec42433f30e962872a6add2784b2c57cbd4151112b4216ddc7618eed0ce71a5",
-      "title_en": "Israel election live: polls open in most consequential vote in country’s history",
-      "summary_en": "Most polling shows prime minister Benjamin Netanyahu’s coalition will lose its majority, with Gadi Eisenkot the leading opposition contender What you need to know about Israel’s election Across Israel, voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands…",
+      "id": "evt-b315c7e0b1c53ec3cfba23b3e4bfb2d3f2be32ba94db89f5abb1ea12b6bc1a4a",
+      "title_en": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+      "summary_en": "Far-right senator on plane to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva. A report by…",
       "category": "politics_security",
-      "region": "global",
+      "region": "north_america",
       "sports_tags": [],
       "importance_score": 53,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.988×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.994×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -49,60 +23,185 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates",
-          "published_at": "2026-10-27T11:33:04+00:00",
+          "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+          "published_at": "2026-10-27T17:33:18+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-13767c1294ddd7c9ac86dba722c86766ffc69083202d43dd6c6f9bca0f9df2b7",
-      "title_en": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
-      "summary_en": "A series of small announcements are part of John Healey's pledge to give households help with the cost of living.",
-      "category": "technology_science",
-      "region": "global",
+      "id": "evt-d02b2226a4cdd1016b9ba4eafc27e2626af60798e0c049436b82b38d91c03702",
+      "title_en": "‘Will Lula’s win end Latin America’s far right turn?’: Our correspondent in Brazil answered your questions",
+      "summary_en": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. The Guardian’s Latin America corrrespondent Tom Phillips answered your questions on what’s next for Brazil. Jeremy Hurley asks: Why did the…",
+      "category": "politics_security",
+      "region": "latin_america",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.972×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.950×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+          "published_at": "2026-10-27T16:46:23+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-2b9f8381692adb84cb4199752705bc73e9a90dfb45bc63ad8dedd9d5178ec12b",
+      "title_en": "Spain deports migrants from Ceuta in move criticised by rights group",
+      "summary_en": "The deportation was the first of its kind since a mass border crossing into the territory from Morocco in July.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.973×0.20, authority=0.750×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_business",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-27T11:15:53+00:00",
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/spain-deports-migrants-from-ceuta-in-move-criticised-by-rights-group?traffic_source=rss",
+          "published_at": "2026-10-27T17:10:58+00:00",
           "published_precision": "second",
-          "publisher_group": "bbc"
+          "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-42e2d76a47faefa7e7af6e4ab1ad2ca89fe054e8a5c46652673f2fac3724298b",
-      "title_en": "Finnish and Norwegian leaders hold rare ‘frank and substantive’ call with Putin on Ukraine – Europe live",
-      "summary_en": "Alexander Stubb and Jonas Gahr Støre say they have briefed Volodymyr Zelenskyy after discussion with Russia’s president about next month’s Abu Dhabi peace talks Meanwhile, Wes Streeting, the defence secretary, has warned that Russia’s Vladimir Putin is “testing us and testing Nato’s resolve” as he condemned hybrid…",
-      "category": "politics_security",
-      "region": "europe",
+      "id": "evt-2662f28ba6d8c5667cac839aac62a0410d758fc614d25f0b7140590560ce4ea4",
+      "title_en": "Africa's Ebola outbreak tops 10,000 cases, mainly in DR Congo",
+      "summary_en": "Africa's outbreak of the Ebola virus has passed more than 10,000 cases, health authorities said Tuesday, with the vast majority located in Democratic Republic of Congo. There are currently no approved vaccines for the rare Bundibugyo species of Ebola driving the current infections.",
+      "category": "society_health_environment",
+      "region": "africa",
       "sports_tags": [],
-      "importance_score": 52,
+      "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.962×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.896×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
-          "published_at": "2026-10-27T11:05:46+00:00",
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/africa/20261027-africa-ebola-outbreak-tops-10-000-cases-mainly-dr-congo",
+          "published_at": "2026-10-27T15:45:18+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-4aa7c438912aae3635204703c60f7e73c2571daf17441a8717fd54cb9ce46fd2",
+      "title_en": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
+      "summary_en": "The Iran war and Trump's criticisms of allies have led Asia-Pacific countries to recalibrate their calculations.",
+      "category": "politics_security",
+      "region": "asia_pacific",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.865×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss",
+          "published_at": "2026-10-27T15:08:59+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-2125c29d8e789ea224b6ac825c6e8d7301676097839457cc7b30a5b58a654266",
+      "title_en": "Ebola: 20 contacts released from quarantine in Kenya, amid vaccine ‘hope’ in DR Congo",
+      "summary_en": "Twenty people associated with Kenya’s first case of Ebola Bundibugyo virus disease have been reunited with their families after being released from quarantine following completion of a mandatory 21-day monitoring period.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.721×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 5.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168676",
+          "published_at": "2026-10-27T12:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "un_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-770396c5ac753c24dc263d79b0fff3e43e0402dc054e939a003141830e853a14",
+      "title_en": "Canadian dance-punk legend Peaches reaches the ripe age of 60",
+      "summary_en": "Canadian electroclash artist Peaches has been delighting, amusing and shocking music lovers and festivalgoers for the past three decades. Her shows are also a safe space for all genders and sexualities, although less so if you are averse to crowd surfing, extravagant pubic wigs and body-augmenting costumes.",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.849×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/arts24/20261027-canadian-dance-punk-legend-peaches-reaches-the-ripe-age-of-60",
+          "published_at": "2026-10-27T14:50:03+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-926b98400d77f0804dc03044e129240b4577fbba94160c63a92674320757501a",
+      "title_en": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
+      "summary_en": "Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warming, the World Meteorological Organization (WMO) said on Tuesday.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.721×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 5.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168677",
+          "published_at": "2026-10-27T12:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "un_news"
         }
       ]
     },
@@ -113,10 +212,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 51,
+      "importance_score": 46,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.933×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.663×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 7.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -132,91 +231,16 @@
       ]
     },
     {
-      "id": "evt-79b6fffd01b3f8e8c4d980160d8e86b397c217d8740353203a420d9b9c70ba12",
-      "title_en": "Algeria to deploy army units to Niger to protect economic interests",
-      "summary_en": "Algeria will send army units to Niger to ​protect energy and economic interests, according to a statement from the presidency on Monday (October 26). Algeria's Parliament held an emergency vote on Sunday on what would be Algeria's first such foreign mission since 1973.",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.983×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261027-algeria-deploys-army-units-to-niger-to-protect-economic-interests",
-          "published_at": "2026-10-27T11:28:05+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-a9c433f61134de093b8f7be94265faf2c7c39242dcaf17d43b2657c3b6648f57",
-      "title_en": "South Africa suspends asylum applications after recent unrest",
-      "summary_en": "Tensions in South Africa over anti-migrant protests have left in limbo many who were counting on following the rules to sort out their paperwork and status in the country. Calls for a crackdown on foreigners, particularly undocumented migrants, have sometimes spiralled into murder. In response to the unrest, the…",
-      "category": "society_health_environment",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.992×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261027-south-africa-suspends-asylum-applications-after-recent-unrest",
-          "published_at": "2026-10-27T11:37:35+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-b0cb728f9e768e52b4f34bdf21f57f0d0091a0e52e1f3db00980bffb3641c019",
-      "title_en": "Media groups challenge India’s privacy law at top court",
-      "summary_en": "News organisations are challenging the law, arguing it could hamper investigative journalism and endanger sources.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.954×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/27/media-groups-challenge-indias-privacy-law-at-top-court?traffic_source=rss",
-          "published_at": "2026-10-27T10:56:22+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
       "id": "evt-ddf10f22a16934cd5c8ab9461d05796543469c03d23bca8bb1d4a24dd4635109",
       "title_en": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
       "summary_en": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.” In honor of National Mentoring Day on Oct. 27,…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 44,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.765×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.544×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 10.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -232,16 +256,41 @@
       ]
     },
     {
+      "id": "evt-2c9606ce8f1aeb4c58482c547a9743b13b95ca799212cde0699d3560d8c079d7",
+      "title_en": "Donald Trump's biggest economic problem looks strangely familiar",
+      "summary_en": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 43,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.510×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 11.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_business",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-27T06:01:11+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
       "id": "evt-28baf40bfb579e90f59616d2fec230b41a6e91c7ba562808d70de0a0c96cfa28",
       "title_en": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
       "summary_en": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.642×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 7.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.456×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 13.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -257,41 +306,16 @@
       ]
     },
     {
-      "id": "evt-5ed0b1bc13b499278ffa85d220d702ae4bd615566dddfb0844d9f64c00c416a0",
-      "title_en": "Completion ceremony held for renovated CPV martyrs' cemetery in DPRK",
-      "summary_en": "A completion ceremony for the renovation project for Chinese People's Volunteers (CPV) martyrs' cemeteries was held Saturday in Sinphyong County, North Hwanghae Province of the Democratic People's Republic of Korea (DPRK), on the occasion of the 76th anniversary of the CPV's entry into the DPRK to fight in the War to…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.562×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 10.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-27/Completion-ceremony-held-for-renovated-CPV-martyrs-cemetery-in-DPRK-1RzD6ggayIw/p.html",
-          "published_at": "2026-10-27T01:46:50+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
       "id": "evt-2ee9c019251ca0727129444bd49e0bbd2a2ed23972175d549cdd5800c5be2844",
       "title_en": "Anthropic files for IPO, reveals soaring revenue, massive net losses",
       "summary_en": "US AI company Anthropic publicly filed its prospectus for an initial public offering (IPO) on Monday, which could become the largest stock market debut in history.",
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.535×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 10.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.381×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 16.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -305,10 +329,56 @@
           "publisher_group": "cgtn"
         }
       ]
+    },
+    {
+      "id": "evt-5ed0b1bc13b499278ffa85d220d702ae4bd615566dddfb0844d9f64c00c416a0",
+      "title_en": "Completion ceremony held for renovated CPV martyrs' cemetery in DPRK",
+      "summary_en": "A completion ceremony for the renovation project for Chinese People's Volunteers (CPV) martyrs' cemeteries was held Saturday in Sinphyong County, North Hwanghae Province of the Democratic People's Republic of Korea (DPRK), on the occasion of the 76th anniversary of the CPV's entry into the DPRK to fight in the War to…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 38,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.400×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 15.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-27/Completion-ceremony-held-for-renovated-CPV-martyrs-cemetery-in-DPRK-1RzD6ggayIw/p.html",
+          "published_at": "2026-10-27T01:46:50+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        }
+      ]
     }
   ],
   "source_errors": [
-    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168666 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168663 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168665 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168664 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168662 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168660 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168661 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168657 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168655 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168654 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168648 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168652 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168651 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168650 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168647 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168646 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168645 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168644 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168643 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168642 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168640 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168639 rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time rejected: stale publication date",
@@ -354,7 +424,6 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cq78pzl85nglo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cmvg9vlgxkv8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -387,6 +456,7 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/global-development/2026/oct/22/have-scientists-finally-found-a-way-to-save-the-banana-from-disaster rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/environment/2026/oct/22/cop17-cali-conservation-fund-pharmaceutical-freeriding-nature-aoe rejected: stale publication date",
@@ -395,7 +465,6 @@
     "guardian_science: entry https://www.theguardian.com/environment/2026/oct/25/bom-temperature-record-keeping-under-attack-again rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/18/the-guardian-view-on-plague-in-russia-what-is-most-worrying-is-the-lack-of-information rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/12/scientist-russia-plague-victim-lab-worker-pandemic rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/22/elizabeth-holmes-you-can-see-everything-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/13/surprising-psychology-morbid-curiosity-podcast rejected: stale publication date",
@@ -403,16 +472,15 @@
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/did-you-solve-it-the-treacherous-puzzle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/trump-ice-construction-worker-deportation rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/world/2026/oct/22/cyprus-police-investigate-financial-tax-affairs-roman-abramovich-chelsea rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget rejected: stale publication date",
