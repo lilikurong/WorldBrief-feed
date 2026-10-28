@@ -2,9 +2,34 @@
   "schema_version": 1,
   "edition": "china",
   "date": "2026-10-28",
-  "generated_at": "2026-10-27T21:55:00+00:00",
+  "generated_at": "2026-10-28T04:36:03+00:00",
   "is_underfilled": true,
   "events": [
+    {
+      "id": "evt-ea8a36030f092aff73f75e4a6760346dd4989911c91d6aeada6785026c722d3c",
+      "title_en": "China's families are now supporting more old people than kids",
+      "summary_en": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.735×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 5.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_business",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-27T23:16:08+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
     {
       "id": "evt-d23c9fa038a6d8b16007f07cb64c89ba5c48de64fc75b985cb1f28ce843e78ae",
       "title_en": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
@@ -12,10 +37,10 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 41,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.613×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 8.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.416×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 15.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -31,41 +56,16 @@
       ]
     },
     {
-      "id": "evt-dcc8155317ce00b32df6744f19418bbb8324a21cda8c94d05be538d18dc04afa",
-      "title_en": "As China's Communist Party holds plenum, Xi's anti-corruption drive continues",
-      "summary_en": "In this edition of Perspective, we try to figure out what happens behind the closed doors of the Chinese Communist Party's plenum meeting. At the heart of the discussions will be President Xi Jinping's firm grip on power. For analysis, we're joined by Jean-François Di Méglio from the Asia Centre think tank.",
-      "category": "politics_security",
-      "region": "asia_pacific",
-      "sports_tags": [],
-      "importance_score": 43,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.643×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 7.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/perspective/20261027-as-china-s-communist-party-holds-plenum-xi-s-anti-corruption-drive-continues",
-          "published_at": "2026-10-27T14:16:41+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
       "id": "evt-0309172aaba806f024a8f191cdc0f45fe9d79a68086cdde42a76bb1723092d29",
       "title_en": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
       "summary_en": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boom Trillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States…",
       "category": "technology_science",
       "region": "north_america",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.370×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 17.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.252×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 23.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -81,16 +81,66 @@
       ]
     },
     {
+      "id": "evt-8bf741befe5c2ce7c8e849e1e539a425ba081329962c7c7cbdaefe12ea24d056",
+      "title_en": "Xi congratulates Lula on re-election as Brazilian president",
+      "summary_en": "Chinese President Xi Jinping on Tuesday extended congratulations to Luiz Inacio Lula da Silva on his re-election as president of Brazil.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 38,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.372×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 17.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-27/Xi-congratulates-Lula-on-re-election-as-Brazilian-president-1RAkGMCkew8/p.html",
+          "published_at": "2026-10-27T11:28:29+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        }
+      ]
+    },
+    {
+      "id": "evt-ec5e79a0203c191243e92ca0134737293ed3eaf0a4fe956f731c5a30a2e0cc1c",
+      "title_en": "Xi extends condolences over death of Japan's former PM Yasuo Fukuda",
+      "summary_en": "Chinese President Xi Jinping on Tuesday extended condolences to the family of the late former Japanese Prime Minister Yasuo Fukuda.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 38,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.389×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 16.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-27/Xi-sends-condolences-over-death-of-Japan-s-former-PM-Yasuo-Fukuda-1RAkZyTvpK0/p.html",
+          "published_at": "2026-10-27T12:15:35+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        }
+      ]
+    },
+    {
       "id": "evt-4f87be8496dc24d41d0b7c76f37f7cc14aeed916cff4d38e5ff15ee8bbe26dd2",
       "title_en": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
       "summary_en": "US military says the restrictions on the electric vehicles at Kadena airbase also apply to delivery drivers and taxis One of America’s biggest overseas military bases has banned vehicles made by the Chinese electric vehicle maker BYD over security concerns, the US military in Japan said on Tuesday. The ban, which…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.332×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 19.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.226×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 25.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -102,81 +152,6 @@
           "published_at": "2026-10-27T02:50:31+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-3f138aee0a4b2bc9fbeec7b4c5b0064cebabaee779d9b4ee226a02ca2328aab4",
-      "title_en": "China sees steady growth in domestic tourism in first 9 months",
-      "summary_en": "China's domestic tourism market posted solid growth in terms of both trips and travel spending from January to September this year, the Ministry of Culture and Tourism said on Monday.",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 37,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.314×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 20.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-27/China-sees-steady-growth-in-domestic-tourism-in-first-9-months-1RzJwqoRVpS/p.html",
-          "published_at": "2026-10-27T01:52:30+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-5ed0b1bc13b499278ffa85d220d702ae4bd615566dddfb0844d9f64c00c416a0",
-      "title_en": "Completion ceremony held for renovated CPV martyrs' cemetery in DPRK",
-      "summary_en": "A completion ceremony for the renovation project for Chinese People's Volunteers (CPV) martyrs' cemeteries was held Saturday in Sinphyong County, North Hwanghae Province of the Democratic People's Republic of Korea (DPRK), on the occasion of the 76th anniversary of the CPV's entry into the DPRK to fight in the War to…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 37,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.313×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 20.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-27/Completion-ceremony-held-for-renovated-CPV-martyrs-cemetery-in-DPRK-1RzD6ggayIw/p.html",
-          "published_at": "2026-10-27T01:46:50+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-f95be767a8dd6b211b7c94222a3e83681c13780e1807748df978422d38ef3deb",
-      "title_en": "China's big political meeting could see Xi 'tighten discipline' in party",
-      "summary_en": "The highly secretive four-day Plenum starts Monday in Beijing.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.110×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 38.2h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_china",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-26T07:40:57+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
         }
       ]
     }
@@ -199,11 +174,6 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168647 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168646 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168645 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168644 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168643 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168642 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168640 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168639 rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time rejected: stale publication date",
@@ -219,11 +189,6 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -234,11 +199,6 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -264,7 +224,6 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c86ey5n9vx9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -274,8 +233,8 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_china: entry https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader rejected: stale publication date",
@@ -311,6 +270,7 @@
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china rejected: stale publication date",
@@ -327,67 +287,51 @@
     "guardian_china: entry https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/17/china-tourists-fake-typhoon-experience-dark-tourism rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Over-5-000-rescuers-deployed-after-M7-0-earthquake-hit-China-s-Xizang-1RuPNs1fub6/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Xi-sends-message-to-2026-Global-Governance-Forum--1Rvb9SMO6yY/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Courtyard-meetings-give-villagers-a-say-in-local-spending-1RuUft5HG9i/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/How-Xiongan-s-underground-plant-pioneers-new-model-of-waste-management-1RvfC8uaH7i/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Cultivating-self-family-state-An-ancient-path-to-good-governance-1RuUoXE75u0/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/Beyond-the-Feed-When-Mozart-meets-modern-Beijing-1RvDahKI03C/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/China-opposes-US-proposal-to-expand-outbound-investment-curbs-1RvDF2byKyI/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Snow-Leopard-Day-Protecting-the-ghost-of-the-mountains--1RvATVrTpJu/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/China-s-Global-Governance-Initiative-will-bolster-Global-South-s-voice-1RvE2oTWETK/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Baoji-Marathon-draws-31-000-runners-highlights-ancient-culture-1RvD06t6jHG/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/New-frontiers-in-China-Europe-cooperation-1Rvh9P39BFS/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/CPC-self-revolution-with-no-finish-line-in-sight-1RvjxcqMBX2/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Kimi-K3-1-Pro-an-open-weight-model-within-3-points-of-the-frontier-1Rvpycrxw2s/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Wang-Huning-accompanies-DPRK-top-leader-on-visit-to-border-city-1Rvr40QTrzi/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-23/How-global-financial-leaders-view-smart-spending-1Ru13XHyL8k/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Rescue-efforts-continue-after-M7-0-quake-in-China-s-Xizang-1RvsqW44L3G/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Knowing-China-Through-the-Classics-1RvlAFrJiOQ/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/news-1RvhSvWeB8I/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Xiongan-s-underground-backbone-The-tech-inside-a-city-of-the-future--1RvhxiGJ0Dm/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Former-UN-official-urges-reform-to-fit-UN-for-today-s-challenges-1RvcrGkA4OQ/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Knowing-China-Through-the-Classics-1RvlpH0XJ8k/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/2026-Baoji-Marathon-A-warm-welcome-on-and-beyond-the-course-1Rv1Nh5lK12/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/-Happy-55th-birthday-UN-officials-reaffirm-stance-on-China-s-UN-seat-1Rvwzer6yZO/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/China-Europe-freight-train-trips-on-eastern-corridor-hit-record-high-1RuVWtuSDFC/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/AI-recreates-Long-March-history-in-anniversary-TV-gala-1RvjqCDah1u/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/-Happy-55th-birthday-UN-officials-reaffirm-stance-on-China-s-UN-seat-1Rvwzer6yZO/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-23/China-s-top-diplomat-holds-talks-with-FM-of-Republic-of-the-Congo-1RsYwWUbR16/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Chinese-medical-team-brings-free-TCM-care-to-Sierra-Leone-1RuShm7bbOw/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-10-23/US-midterm-elections-on-track-for-record-spending-1RsT9VmPYDS/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-23/COMESA-leaders-call-for-stronger-regional-trade-and-integration-1Rtw4uMDSeY/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/news-1RwunMWqLfi/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-10-23/Colombia-seizes-3-5-tons-of-cocaine-arrests-five-in-drug-operation-1RsKpRxFgGI/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/Meet-the-APEC-economies-Mexico-1RwqgP5z1K0/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/Meet-the-APEC-economies-New-Zealand-1RwoltsNwAM/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Baoji-Marathon-draws-31-000-runners-highlights-ancient-culture-1RvD06t6jHG/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/China-opposes-US-proposal-to-expand-outbound-investment-curbs-1RvDF2byKyI/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/China-s-Global-Governance-Initiative-will-bolster-Global-South-s-voice-1RvE2oTWETK/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/From-Karakoram-to-Arabian-Sea-Ep-1-The-Road-That-Connects-1Rvq7QTDn1K/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-24/Ethiopia-Eritrea-Standoff-What-s-at-stake-for-the-region--1Rvju6mSklG/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-24/Clashes-in-southern-Ethiopia-kill-nine-force-2-500-to-flee-to-Kenya-1Rv9KkPe5fa/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-22/South-Africa-investigates-outbreaks-linked-to-poor-water-quality-1Rs9OODtdVS/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Global-South-needs-to-be-heard-says-African-official-1RuZVgbo760/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-10-23/Chancay-Shanghai-maritime-route-is-supercharging-China-Peru-trade-1RsSYmNkUa4/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-10-23/Behind-the-scenes-fight-for-affordable-healthcare-in-the-U-S--1RsPvRBBa5q/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-10-23/Wildfires-drive-up-California-homeowner-insurance-price-hikes-1RsSRuRnqYU/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Back-to-school-amid-the-ruins-1Rv8TI0rSx2/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Major-trial-for-new-Ebola-vaccine-begins-in-DR-Congo-amid-outbreak-1RuT23tmIwg/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/River-dolphins-Uneven-conservation-gains-across-the-globe-1RuUndpPKBW/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/Meet-the-APEC-economies-Australia-1RwkLOu4I1i/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/Beyond-the-Feed-When-Mozart-meets-modern-Beijing-1RvDahKI03C/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Xiongan-s-underground-backbone-The-tech-inside-a-city-of-the-future--1RvhxiGJ0Dm/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-24/Kenya-records-second-Ebola-death-as-outbreak-reaches-nine-cases-1RvbXESAfjG/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/Macron-calls-for-halt-to-demonstrations-in-coming-days-1RskaBLFSeY/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/OKC-or-no-one-Who-is-the-NBA-s-clear-title-favorite--1RuQgSS7VRu/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-22/China-Djibouti-issue-communiqu-on-Horn-of-Africa-Red-Sea-security-1RrzcISMKL6/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/Meet-the-APEC-economies-Chile-1Rws3JWBjqg/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Wang-Huning-accompanies-DPRK-top-leader-on-visit-to-border-city-1Rvr40QTrzi/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/Meet-the-APEC-economies-Singapore-1RwppxZalwc/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Jordan-tightens-security-after-deadly-church-attack-kills-eight-1Rvl7JGuNsA/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Iran-reports-tanker-blasts-in-Hormuz-as-Trump-hints-at-renewed-strikes-1RuSG1ODy0M/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/China-Europe-freight-train-trips-on-eastern-corridor-hit-record-high-1RuVWtuSDFC/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-24/Tracing-the-vision-Preserving-Culture-1RtS8yT4PCM/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/How-does-the-CPC-address-the-challenges-of-long-term-governance--1RwKRbIgByg/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/A-green-running-team-at-the-2026-Baoji-Marathon-1RwGMBhaXde/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/China-launches-new-internet-satellite-group-1RxePkryHXG/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/2026-Baoji-Marathon-kicks-off-drawing-runners-from-all-walks-of-life-1Rxee9hoZ6E/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-26/China-marks-anniversary-of-Taiwan-s-recovery-1RxYyQoNtII/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/Xizang-earthquake-60-temporary-homes-set-up-in-hardest-hit-Maru-1RxeQl9cRoc/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/Global-Governance-Forum-calls-for-stronger-multilateral-cooperation-1RxfovFfLr2/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/Global-funding-for-nature-still-falling-short-Paulson-Institute-VP-1RwZYPxfJo4/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/Foreign-expert-on-China-s-journey-toward-national-rejuvenation-1RwQ5WnRCUg/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/Xi-Jinping-s-key-remarks-on-correct-view-of-governance-performance--1RwRgkpTZXG/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/Global-creators-revitalize-Jingdezhen-s-millennia-old-craft-1Rx8Xgn08Ja/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/Xi-Belgium-s-king-exchange-congratulations-on-55-years-of-ties-1RwYMfwvg2s/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/Knowing-China-Through-the-Classics-1Rx69rY4Une/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/Taiwan-s-restoration-A-victory-achieved-across-the-strait-1Rwre1HFYfC/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/Chrysanthemum-show-in-Beijing-offers-a-feast-for-the-eyes-1RwRFECTb5S/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-26/Health-emergency-services-back-post-quake-resettlement-in-Xizang-1RxZYxxdDKU/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/Jilin-1-satellites-unveil-high-resolution-images-of-Taiwan-region-1Rwua3oWWdy/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/How-Chinese-suitcases-won-fans-at-Canton-Fair-1RwBnpBdISQ/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/World-Young-Scientists-summit-sparks-global-cooperation-potential-1RwEUpSCIak/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/Track-laying-completed-on-Chongqing-Kunming-high-speed-railway-1RxgRymHZx6/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/Yeyahu-Wetland-added-to-IUCN-Green-List-1RxgayjzzBC/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/China-marks-81st-anniversary-of-Taiwan-s-restoration-1RwME0oo0OA/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-10-25/How-technology-is-making-government-services-easier-in-Hainan-1RwXTmNt7tS/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/Aichi-Nagoya-bids-farewell-to-Asian-Para-Games-in-closing-ceremony-1Rwv6rZYcGk/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-25/Gunmen-kill-at-least-20-in-northeast-Nigeria-1RwTW58hwSk/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/news-1RwA0rBJTri/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-26/news-1RxZaoMn57O/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/Violence-flares-in-Paris-after-largely-peaceful-protests-across-France-1RwneUhjBAY/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-26/Russia-US-Ukraine-signal-plans-for-trilateral-talks-in-November-1Ry4HHmq1xe/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-26/Israel-election-tests-Netanyahu-s-grip-amid-security-political-rifts-1RxaOfwSFH2/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/Global-Governance-Forum-calls-for-stronger-multilateral-cooperation-1RxfovFfLr2/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-26/news-1Ry0dIAj0Q0/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-25/Africa-Watch-UNON-EXPANSION-Can-it-make-a-difference-for-Africa--1RwZFOT3GZW/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/news-1RwKlF4a8fK/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-24/Chinese-FM-meets-UN-high-commissioner-for-refugees-1RuExVeFJAs/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/Report-on-Global-Governance-Initiative-released-in-Xiongan-1RwrAIiTR04/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-26/Riyadh-airport-reopens-as-Houthis-coalition-exchange-attacks-1RxZEfXGDUk/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-25/China-s-rural-revival-How-a-cliffside-village-defies-isolation-1RwUE5Gi9qw/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/news-1Rx5YGR2s4o/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/Youth-gathering-in-Barcelona-turns-violent-128-arrested-1RxcPV5Iq1a/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/Houthis-and-Saudi-led-coalition-exchange-strikes-casualties-reported-1RwzGeb5Smc/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-10-25/Mali-military-reports-54-dead-after-attacks-in-northeast-1RwP87uK6Zi/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/From-Karakoram-to-Arabian-Sea-Ep-2-Ancient-River-New-Possibilities-1RwD3o85dG8/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-10-25/Yeyahu-Wetland-added-to-IUCN-Green-List-1RxgayjzzBC/p.html rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/chemistry/2026/press-release/ rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/economic-sciences/2026/press-release/ rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/literature/2026/press-release/ rejected: stale publication date",
