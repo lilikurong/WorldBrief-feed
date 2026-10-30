@@ -2,78 +2,47 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-10-30",
-  "generated_at": "2026-10-30T04:50:19+00:00",
+  "generated_at": "2026-10-30T12:20:28+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-efaa3fb4a175df6902de2b3949ed251711c5e08fdd69565aa8c09ff26fffe927",
-      "title_en": "Patrick Stewart, star of 'Star Trek' and 'X men', dies at 86",
-      "summary_en": "The British actor Patrick Stewart has died at 86, a statement released on Thursday said. Stewart was an acclaimed actor in Britain with the Royal Shakespeare Company before he starred in the beloved sci-fi TV show \"Star Trek\" in the 80s and later in the \"X-Men\" franchise. Stewart died in Los Angeles after living with Alzheimer's disease and Lewy body dementia.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 55,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.613×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 2; age: 8.5h."
+      "id": "evt-fc891a417429762eb572653afbf405bc1d00b5df9695bf8a622ba530dee04ffd",
+      "title_en": "Senegal gears up for historic 2026 Youth Olympic Games in Dakar",
+      "summary_en": "The International Olympic Committee is upbeat just 24 hours before competition gets under way at the 2026 Youth Olympic Games in Senegal. Venues are ready to host the first-ever Olympic event on the African continent. FRANCE 24's correspondent Aminatou Diallo reports from the ground.",
+      "category": "sports",
+      "region": "africa",
+      "sports_tags": [
+        "olympics"
       ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "importance_score": 54,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.924×0.20, authority=0.750×0.15, preference=1.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.4h."
+      ],
+      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
       "is_breaking": false,
       "sources": [
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86",
-          "published_at": "2026-10-29T20:21:52+00:00",
+          "url": "https://www.france24.com/en/video/20261030-senegal-gears-up-for-historic-2026-youth-olympic-games-in-dakar",
+          "published_at": "2026-10-30T10:58:00+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
-        },
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
-          "published_at": "2026-10-29T22:36:06+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-1c7c2c5c9d82f95168af3d20216af18bf208094a40a4e95be2f24c1378923901",
-      "title_en": "Binance says crypto worth $6.3bn impacted by hack",
-      "summary_en": "The firm said roughly $3bn in assets have been frozen and that it will \"cover all losses\".",
-      "category": "other",
-      "region": "global",
+      "id": "evt-6ec728df607061b12cc854578b7203b11dc998396d6c6824e07deccd5c892726",
+      "title_en": "BP profits hit 18-year high as Iran war drives up oil refining margins",
+      "summary_en": "Oil giant hails ‘banner quarter’ as quarterly earnings reach $8.46bn, prompting anger from climate campaigners BP’s profits have hit their highest level in almost two decades as the war in the Middle East drove up oil and gas prices and led to “significantly higher” trading. The energy company hailed a “banner…",
+      "category": "politics_security",
+      "region": "middle_east",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.977×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_business",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-30T04:26:21+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-74c848873eafea7f769060c1806e2d9c00abd9a3e358bca167accb563d964baa",
-      "title_en": "Feral deer will become Australia’s next feral pig problem without prompt action, report warns",
-      "summary_en": "The invasive species has increased in spread and numbers and is costing farmers millions of dollars Get our breaking news email, free app or daily news podcast An unpublished government report on feral deer shows Australia is failing in its efforts to stop the spread of what one advocate warns could become…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 51,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.926×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.967×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -81,48 +50,73 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/oct/30/australia-feral-deer-problem-report-national-action-plan",
-          "published_at": "2026-10-30T03:30:42+00:00",
+          "url": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
+          "published_at": "2026-10-30T11:45:34+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-21fee3e7ddfa3c6e06eca2a0ca2c743b60335a088807b57ee63423b6a81fbf59",
-      "title_en": "‘You look like hell’, Trump lashes out at reporter in tarmac tirade",
-      "summary_en": "US President Donald Trump has lashed out at a reporter’s appearance.",
-      "category": "politics_security",
+      "id": "evt-777df89b66298a72a42abb495c88dd0b75344aee89c8a1ff44821a3d1afbcad8",
+      "title_en": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+      "summary_en": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.982×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.941×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/you-look-like-hell-trump-lashes-out-at-reporter-in-tarmac-tirade?traffic_source=rss",
-          "published_at": "2026-10-30T04:31:16+00:00",
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-30T11:17:32+00:00",
           "published_precision": "second",
-          "publisher_group": "aljazeera"
+          "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-da9b7b80a92b1f5bf5eaabd85b1149cce1467ec0fda5f214e8e80c0b96fcade4",
-      "title_en": "Israeli actress slams occupation in accidental ‘hot mic’ moment",
-      "summary_en": "Veteran Israeli actress Chelli Goldenberg was left shocked after she was caught ripping into Israel's policies.",
+      "id": "evt-a5816288a7744de55dac19c6d7f57373ead34ed194e8d08111a46d6ea5c59a82",
+      "title_en": "Foreign firms that win defence contracts will have to invest in UK under new policy – UK politics live",
+      "summary_en": "Wes Streeting says overseas suppliers of defence contracts will need to spend the equivalent amount in the UK John Swinney, the Scottish first minister, and Rhun ap Iorwerth, the Welsh first minister, arrived together for the national economic council meeting in Glasgow. The SNP and Plaid Cymru are sister parties,…",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.945×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+          "published_at": "2026-10-30T11:21:38+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-9854c77588dbf4924f4a478034508969bd8c79245c165101a68bb51509b8d28d",
+      "title_en": "Palestinian voter turnout exposes Israel’s attitude towards Arab citizens",
+      "summary_en": "The strong Palestinian turnout has exposed how Arab citizens are treated within Israel's democracy, says Xavier Abu Eid.",
       "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.966×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.965×0.20, authority=0.750×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
@@ -131,74 +125,24 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-actress-slams-occupation-in-accidental-hot-mic-moment?traffic_source=rss",
-          "published_at": "2026-10-30T04:14:09+00:00",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens?traffic_source=rss",
+          "published_at": "2026-10-30T11:43:17+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-14983e847bc5e938f9876289fc4ba6e05192ca6810ac6b472a76424f28e63d49",
-      "title_en": "Binance security breach has $6.3 billion impact in potential record crypto heist",
-      "summary_en": "Binance said on Thursday that a security breach had affected an estimated $6.3 billion in assets, potentially making it the biggest cryptocurrency heist on record. The world's largest crypto exchange said it had recovered or frozen about $3 billion, while the incident sent Bitcoin and other digital currencies lower.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.942×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist",
-          "published_at": "2026-10-30T03:48:28+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-7b31d49df2cef4dac1ef570e1689bf67326f55b946c76db7c3a97107dbd9e8cc",
-      "title_en": "Antisemitism envoy proposes ‘external ombudsman’ to monitor ABC and SBS coverage of Israel and Middle East",
-      "summary_en": "Jillian Segal says perception of link between coverage of conflicts and hostility towards Jewish Australians ‘is itself a matter of public importance’ Get our breaking news email, free app or daily news podcast The federal government’s antisemitism envoy has proposed an “external independent ombudsman” to monitor ABC…",
-      "category": "politics_security",
-      "region": "middle_east",
-      "sports_tags": [],
-      "importance_score": 48,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.784×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.2h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb",
-          "published_at": "2026-10-30T00:37:36+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-1bd81e9fc5d155c4035308d2369c65d2f00b3fb70530422d9dea38f2c053cf66",
-      "title_en": "Halloween Aboard the International Space Station",
-      "summary_en": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative…",
+      "id": "evt-f8f4e4ae52344e61e9ca6be484348a116f299ea42aea2d97ed76c07ddc5be3b9",
+      "title_en": "November’s Night Sky Notes: Light-Day Away",
+      "summary_en": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.664×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 7.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.874×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -206,8 +150,108 @@
         {
           "source_id": "nasa_news",
           "publisher": "NASA",
-          "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
-          "published_at": "2026-10-29T21:44:23+00:00",
+          "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+          "published_at": "2026-10-30T10:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-0c19d6c84a56d04d7ea50af46490ad912130a63ef86e7ce3de38b9ecfce8580b",
+      "title_en": "Russia recruits Africans to fight in Ukraine, families seek answers",
+      "summary_en": "While African leaders and Russian officials gather to discuss security, trade and political cooperation at the Africa-Russia summit, one sensitive issue is notably absent from the agenda: the recruitment of Africans to fight for Russia in Ukraine. More than 1,400 Africans have been enlisted since 2023. In Tunisia,…",
+      "category": "politics_security",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.932×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.2h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/russia-recruits-africans-to-fight-in-ukraine-families-seek-answers",
+          "published_at": "2026-10-30T11:06:54+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-477e5224ba3bdc3f32924e8c07eab506329680b41f330d138628b586f0e641bd",
+      "title_en": "How can Israel break its election deadlock?",
+      "summary_en": "No political party has achieved the 61-seat majority required in the Knesset to form a government in Israel.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.917×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock?traffic_source=rss",
+          "published_at": "2026-10-30T10:50:21+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-5b73916a83448dc86c144e3ed476406485aecfe2c05209ea684c544c56a2f416",
+      "title_en": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
+      "summary_en": "Speaking exclusively to the BBC, Joanna Wietrzyk says her determination to win the Hyrox race in September had clouded her judgement.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.759×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cwly4p6e9264o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-30T07:33:27+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-8c9594325ee05f2a32f03815476cd3e02fbb3e0d49eea9820fc8e79f5da99ae7",
+      "title_en": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+      "summary_en": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.621×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 8.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+          "published_at": "2026-10-30T04:05:00+00:00",
           "published_precision": "second",
           "publisher_group": "nasa_news"
         }
@@ -220,10 +264,10 @@
       "category": "economy_business",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 41,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.791×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.513×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 11.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -239,104 +283,27 @@
       ]
     },
     {
-      "id": "evt-25ee19f34f2adc436633c435829ffc71b2a61f624fd2c440197250c4d805f5a3",
-      "title_en": "BBC Inside Science",
-      "summary_en": "Time is running out for one of the most ambitious environmental pledges in history.",
-      "category": "technology_science",
-      "region": "global",
+      "id": "evt-0d7ddf6a2c2ccb144b9896f7abd247777e8df59fbd6a9418098898b3aec34b51",
+      "title_en": "Canada unveils first national security strategy in over 20 years",
+      "summary_en": "Canadian Prime Minister Mark Carney on Thursday launched \"The Plan for a Stronger Canada,\" the country's first national security strategy in over two decades aimed at countering evolving security threats and safeguarding national sovereignty.",
+      "category": "politics_security",
+      "region": "north_america",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 40,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.636×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 7.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.484×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 12.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_science",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-29T21:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-d273a24b9b5b67432449ff54544afbaaae737afb69bf62a27dd1f1dccef894e6",
-      "title_en": "Africa Watch: Dakar 2026: Africa’s Olympic Moment?",
-      "summary_en": "Dakar 2026 will make history as Africa hosts its first Youth Olympic Games, bringing together young athletes from more than 200 National Olympic Committees. In this Africa Watch episode, Mohamed Abubakar explores Senegal’s preparations and the lasting legacy the Games could leave.",
-      "category": "sports",
-      "region": "africa",
-      "sports_tags": [
-        "olympics"
-      ],
-      "importance_score": 45,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.471×0.20, authority=0.750×0.15, preference=1.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 13.0h."
-      ],
-      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
       "is_breaking": false,
       "sources": [
         {
           "source_id": "cgtn_world",
           "publisher": "CGTN",
-          "url": "https://newsaf.cgtn.com/news/2026-10-29/Africa-Watch-Dakar-2026-Africa-s-Olympic-Moment--1RDXFpWviko/p.html",
-          "published_at": "2026-10-29T15:48:47+00:00",
+          "url": "https://news.cgtn.com/news/2026-10-30/Canada-unveils-first-national-security-strategy-in-over-20-years-1REBcWfQGcw/p.html",
+          "published_at": "2026-10-29T23:46:10+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-9bac7ac2a35b7c09e5fffcf4eff1ca776f86e1fce7a942957be71a2f87257859",
-      "title_en": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-      "summary_en": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one […]",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 44,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.544×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 10.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
-          "published_at": "2026-10-29T18:18:09+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-d2ddbad925046cf0d1d94500601488b64f534eb1562272edbcb80a47316bd20c",
-      "title_en": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
-      "summary_en": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknamed the Cat’s Head…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.424×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 14.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "esa_space_science",
-          "publisher": "European Space Agency",
-          "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
-          "published_at": "2026-10-29T14:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "esa_space_science"
         }
       ]
     },
@@ -347,10 +314,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.378×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 16.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.245×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 24.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -366,16 +333,16 @@
       ]
     },
     {
-      "id": "evt-1db5cd9ddafe314e699ac1a0a0fa27f0acf797c69465d7c52113390149fb634c",
-      "title_en": "Backing for UN call to end Cuba embargo falls to 20-year low",
-      "summary_en": "The UN General Assembly on Wednesday called for the 34th time for an end to the US economic, commercial and financial embargo on Cuba – but with the weakest backing for the resolution in two decades.",
-      "category": "economy_business",
+      "id": "evt-b6b4534cdddcb7c6991e8e4694cf3ef9a0445c95fc75363e00b0e609b21487ad",
+      "title_en": "AI is changing the way we think. The question is whether we’ll notice in time",
+      "summary_en": "Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds. For many people, it feels like a technological leap on par with the arrival of the internet itself.",
+      "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 35,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.095×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 40.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.245×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 24.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -383,15 +350,49 @@
         {
           "source_id": "un_news",
           "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168694",
-          "published_at": "2026-10-28T12:00:00+00:00",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168704",
+          "published_at": "2026-10-29T12:00:00+00:00",
           "published_precision": "second",
           "publisher_group": "un_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-d2ddbad925046cf0d1d94500601488b64f534eb1562272edbcb80a47316bd20c",
+      "title_en": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
+      "summary_en": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknamed the Cat’s Head…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 38,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.275×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 22.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "esa_space_science",
+          "publisher": "European Space Agency",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
+          "published_at": "2026-10-29T14:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "esa_space_science"
         }
       ]
     }
   ],
   "source_errors": [
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168679 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168696 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168695 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168694 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168693 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168691 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168689 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168688 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168687 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168686 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168685 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168684 rejected: stale publication date",
@@ -442,9 +443,6 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c9ly02pj4kdjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmdxwzz7x4pno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -473,17 +471,18 @@
     "bbc_china: entry https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/27/perimenopause-is-everywhere-how-do-you-know-if-youre-in-it-video rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/us-news/2026/oct/26/peta-monkey-experiment-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/28/are-seed-oils-unhealthy-scientific-evidence rejected: stale publication date",
@@ -494,7 +493,6 @@
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/22/elizabeth-holmes-you-can-see-everything-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/15/norman-mccubbin-obituary rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/environment/2026/oct/27/country-diary-our-tiny-island-is-awash-with-waxcaps rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/26/did-you-solve-it-a-magical-melody-from-the-mozart-of-math rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/26/can-you-solve-it-a-magical-melody-from-the-mozart-of-math rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/did-you-solve-it-the-treacherous-puzzle-of-the-round-table rejected: stale publication date",
@@ -512,6 +510,8 @@
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/football/2026/oct/28/kylian-mbappe-china-crisis-shows-how-sensitive-maos-legacy-remains rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/world/gallery/2026/oct/28/vivid-red-beach-transforms-chinas-wetlands-qinqdao-in-pictures rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults rejected: stale publication date",
@@ -526,7 +526,6 @@
     "guardian_china: entry https://www.theguardian.com/news/audio/2026/oct/23/why-am-i-obsessed-with-chinas-ancient-golden-age-i-took-my-daughter-on-a-trip-to-find-out-podcast rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-trump-and-putin-ukraines-future-is-not-theirs-to-bargain-away rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-28/HKSAR-suspends-import-of-poultry-products-from-areas-in-Denmark-US-1RBmBkW4yuQ/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-27/Full-rigorous-party-self-governance-How-the-CPC-stays-accountable-1RAd24nngIw/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-27/China-to-send-envoy-to-promote-peace-and-talks-in-Middle-East-1RAg9fC2FYA/p.html rejected: stale publication date",
