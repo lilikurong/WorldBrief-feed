@@ -2,105 +2,49 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T04:35:41+00:00",
+  "generated_at": "2026-10-31T11:50:59+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-d98746ce666f5170005a8fe65619943a0d1532715e4aef3d412bbfe35211a888",
-      "title_en": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "summary_en": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress. Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections",
-      "category": "politics_security",
+      "id": "evt-4bef3777e828f6c35e23f33517467d14082d11d45bf89decae049659442c4f27",
+      "title_en": "Swiss commentary on Israeli Olympic bobsleigh team termed ‘discriminatory’",
+      "summary_en": "Criticism of Israel's captain Adam Edelman at Winter Olympics breached discrimination rules, Swiss complaints body says.",
+      "category": "sports",
       "region": "global",
-      "sports_tags": [],
+      "sports_tags": [
+        "olympics"
+      ],
       "importance_score": 54,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.451×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 2; age: 13.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.942×0.20, authority=0.750×0.15, preference=1.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
       ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-30T14:48:22+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        },
-        {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
-          "published_at": "2026-10-31T01:31:44+00:00",
+          "url": "https://www.aljazeera.com/sports/2026/10/31/swiss-commentary-on-israeli-olympic-bobsleigh-team-termed-discriminatory?traffic_source=rss",
+          "published_at": "2026-10-31T10:49:19+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-c0ba851abcee642610e139b6dc9a0a5f1628f54444cc49724d1425badf066476",
-      "title_en": "Suited and booted: How Joseph Kabila went from president to rebel leader",
-      "summary_en": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 53,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.997×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-31T04:32:07+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-445d157e84f80bbb81e399f6f6c13f109f8a04291f2b4bb67cd97564a1bdeb3c",
-      "title_en": "Luigi Mangione’s lawyers file to dismiss state charges, citing double jeopardy law",
-      "summary_en": "Mangione pleaded guilty in August in federal case in the killing of UnitedHealthcare executive Brian Thompson Luigi Mangione’s lawyers filed paperwork on Friday once again pushing for dismissal of his state-level case in the killing of UnitedHealthcare executive Brian Thompson following his federal guilty plea.…",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.975×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/oct/31/luigi-mangione-new-york-case",
-          "published_at": "2026-10-31T04:09:50+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-022ff26bb3632e678ebbd085c9e95551c6be551d80b46b91251a450a73bd7bf6",
-      "title_en": "First Youth Olympic Games in Africa",
-      "summary_en": "In tonight's show, the Senegalese capital is hosting the first Olympic event ever held in Africa, welcoming nearly 2,700 athletes for the 2026 Youth Olympic Games. Also, South Africa’s local elections are set for November 4, with the African National Congress facing growing pressure over its record in local…",
+      "id": "evt-b402b79b2d266b30205a448405aa16ea7bbb8d1888134fd992ac9aed9a7f8974",
+      "title_en": "Senegal hosts Africa’s first ever Youth Olympic Games",
+      "summary_en": "The 2026 Youth Olympic Games opens with a spectacular ceremony Saturday in the Senegalese capital Dakar in the first ever Olympics to be held on African soil. It comes as the continent seeks a bigger role in international sporting competitions.",
       "category": "sports",
       "region": "africa",
       "sports_tags": [
         "olympics"
       ],
-      "importance_score": 49,
+      "importance_score": 53,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.676×0.20, authority=0.750×0.15, preference=1.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 6.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.879×0.20, authority=0.750×0.15, preference=1.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.2h."
       ],
       "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
       "is_breaking": false,
@@ -108,10 +52,212 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/first-youth-olympic-games-in-africa",
-          "published_at": "2026-10-30T21:48:20+00:00",
+          "url": "https://www.france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games",
+          "published_at": "2026-10-31T09:37:07+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-32c920d6aff4ef43fa6974f9f4bf4667cde2968cf5ead4e468fcea602bfc2b3e",
+      "title_en": "France and Germany braced for unrest with hundreds of demonstrations planned – Europe live",
+      "summary_en": "French interior minister, Laurent Nuñez, warned earlier this week of a ‘very high risk of public disorder’ In Germany, a loose alliance of groups called Gen Z regelt (Gen Z is sorting it) has called for supporters to turn out in more than 30 cities demanding more spending on schools, climate protection and housing,…",
+      "category": "society_health_environment",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.987×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
+          "published_at": "2026-10-31T11:36:53+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-efd3e4fab22ac64d53df07d14926ee2a7f8244f7a750354d39dfdddac4d0850a",
+      "title_en": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
+      "summary_en": "Residents were taken out from the devastated city on Friday during a local ceasefire.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.969×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-31T11:18:14+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-e112c962a2b8c791232c3ce8c9cab4e2d0bf02743b897e03f9038704ad01f0c9",
+      "title_en": "Trump beware: US voters are concerned about government corruption",
+      "summary_en": "Alleged self-dealing by the president and his allies doesn’t look so good as corruption emerges as a key issue for midterm voters Government corruption a top issue for US midterm voters, exclusive poll finds Voters under 50 probably won’t remember the “welfare queen”. But she once embodied Republicans’ claim of the…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.899×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-government-corruption-midterms-voters",
+          "published_at": "2026-10-31T10:00:41+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-56bd4590b9669f7fba3fbc1643d608eff633b4dcef32e516a00db041bfd6e89b",
+      "title_en": "France's Nunez warns of high risk during protests",
+      "summary_en": "France is bracing for a third consecutive weekend of protests, with around 70,000 security personnel deployed to prevent a repeat of the violence seen on October 17. Shops have boarded up their premises as authorities warn of further clashes, with Halloween celebrations adding to security concerns over masked…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.966×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/france-s-nunez-warns-of-high-risk-during-protests",
+          "published_at": "2026-10-31T11:15:19+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-ea9e9106574af63c7808bb1ef5f16c4b2e65392a2bc551e4a295078858b29a84",
+      "title_en": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+      "summary_en": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.862×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-31T09:16:14+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-94750e6a4ba7d59486d8f2249524118237a83f75b878270fc3ab0fd60ae4305b",
+      "title_en": "‘Paycheck to paycheck’: Texas border voters shed parties amid economic woes",
+      "summary_en": "Voters reassess 2024 swing towards Trump as Republicans and Democrats grapple for Rio Grande Valley votes.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.920×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/31/paycheck-to-paycheck-texas-border-voters-shed-parties-amid-economic-woes?traffic_source=rss",
+          "published_at": "2026-10-31T10:24:21+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-a3b33c0be6f75c840f297605205a8e9e76cac13cb134c748adb6f7c79b5bb24f",
+      "title_en": "APOD: 2026 October 31 – Night on a Spooky Planet",
+      "summary_en": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 46,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.639×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 7.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+          "published_at": "2026-10-31T04:05:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-5c6bf7c4d1e8eabb8374725a5a6ba1559d865e5215545f02a3cc1922d92ff312",
+      "title_en": "Africa ready for Olympic debut with Dakar Youth Games",
+      "summary_en": "The Dakar Youth Olympic Games are set to make history as the first Olympic sporting event hosted on African soil, with organizers expressing confidence that preparations are complete despite a four-year delay.",
+      "category": "sports",
+      "region": "africa",
+      "sports_tags": [
+        "olympics"
+      ],
+      "importance_score": 42,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.348×0.20, authority=0.750×0.15, preference=1.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 18.3h."
+      ],
+      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_world",
+          "publisher": "CGTN",
+          "url": "https://newsaf.cgtn.com/news/2026-10-31/Africa-ready-for-Olympic-debut-with-Dakar-Youth-Games-1RFd7wRQ3gA/p.html",
+          "published_at": "2026-10-30T17:33:56+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
         }
       ]
     },
@@ -122,10 +268,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.905×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.595×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 9.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -141,91 +287,16 @@
       ]
     },
     {
-      "id": "evt-9b5ebac4084bf65bb68727a936212f37933704d3d3505786b029cb3513f77a47",
-      "title_en": "UN Security Council fails to extend mandate of Western Sahara mission",
-      "summary_en": "The Security Council on Friday failed to renew the mandate of the UN Mission for the Referendum in Western Sahara (MINURSO).",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.910×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_world",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-31/UN-Security-Council-fails-to-extend-mandate-of-Western-Sahara-mission-1RGp5XTQYxy/p.html",
-          "published_at": "2026-10-31T02:57:27+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-4e749ee86a7b9d1d4bb3dcb7f17239e5e8b35ef506838f92ba69839d05c65695",
-      "title_en": "Fake polls expose vulnerabilities in US elections ahead of midterms",
-      "summary_en": "Fabricated surveys are adding to tensions in the country's increasingly polarised political environment.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.834×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.2h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
-          "published_at": "2026-10-31T01:26:34+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-bae2ce92b79a05b541b06128f5b0d2953c4f79a8ac0f180ce371be0a569251b5",
-      "title_en": "Halloween Protests & French Promises, US Mid Term Mood, What now for Israel?",
-      "summary_en": "France braces for another weekend of unrest as the Yellow Vests return to the streets under the rallying cry of ‘Act III – Halloween’, with 70,000 police and security forces deployed after the riots and looting of recent weeks. A cash-strapped government faces mounting grievances, a rolling protest movement and…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 46,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.790×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261031-halloween-protests-french-promises-us-mid-term-mood-what-now-for-israel",
-          "published_at": "2026-10-31T00:30:13+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
       "id": "evt-0d830a605b04c7ee90e9e60d250e12d08057f27969619a9f8a1f7c83c7407d82",
       "title_en": "NASA Releases MAX POWER Key Events for Media, Participants",
       "summary_en": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 41,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.592×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 9.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.389×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 16.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -241,108 +312,75 @@
       ]
     },
     {
-      "id": "evt-d160c2460364bbdf3857bb310c046cbab2f6a0cb9ce082f94773c42002520709",
-      "title_en": "The Guardian view on 50 years of The Selfish Gene: flawed, outdated, yet still a model of truly popular science writing | Editorial",
-      "summary_en": "Richard Dawkins’ first work has thrilled fans and frustrated critics for five decades. The science has moved on, but any writer looking to supplant its place must learn its lessons Richard Dawkins’ The Selfish Gene was not predicted to be a success. Its initial print run, published this week in 1976, was just 5,000.…",
-      "category": "technology_science",
+      "id": "evt-59e7248f0c85d97f2a4efa6aee08fc4feaed7f4de26cb34bebb7f77caacdf0ae",
+      "title_en": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+      "summary_en": "More than 300,000 people displaced since early March remain internally displaced in Lebanon, where the humanitarian crisis is “far from over,” according to the UN’s aid coordination office (OCHA).",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 44,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.540×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 10.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.252×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 23.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_science",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/commentisfree/2026/oct/30/the-guardian-view-on-50-years-of-the-selfish-gene-flawed-outdated-yet-still-a-model-of-truly-popular-science-writing",
-          "published_at": "2026-10-30T17:56:07+00:00",
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+          "published_at": "2026-10-30T12:00:00+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
+          "publisher_group": "un_news"
         }
       ]
     },
     {
-      "id": "evt-6cb8c3080be08283a0d295645f545db3ddb5eb5242c5c251e7401f2ba4e02745",
-      "title_en": "EU and Canada seek deeper ties amid worsening global uncertainty",
-      "summary_en": "Both sides signed a digital trade deal, as Trump's trade threats push Washington's allies to seek closer ties elsewhere.",
-      "category": "economy_business",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 43,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.609×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 8.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
-          "published_at": "2026-10-30T20:00:10+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-08b4237d09e78b5b53c6b61b6f70712736ff8f0c63009bbff7447c337c55d40d",
-      "title_en": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-      "summary_en": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-      "category": "technology_science",
+      "id": "evt-f91233afe59909466fdd4f9ff9c4f07160fea44fa528da03ce08e6a5bc765525",
+      "title_en": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
+      "summary_en": "Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.452×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 13.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.252×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 23.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-          "published_at": "2026-10-30T14:51:21+00:00",
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168707",
+          "published_at": "2026-10-30T12:00:00+00:00",
           "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-d2ddbad925046cf0d1d94500601488b64f534eb1562272edbcb80a47316bd20c",
-      "title_en": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
-      "summary_en": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknamed the Cat’s Head…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.108×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 38.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "esa_space_science",
-          "publisher": "European Space Agency",
-          "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
-          "published_at": "2026-10-29T14:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "esa_space_science"
+          "publisher_group": "un_news"
         }
       ]
     }
   ],
   "source_errors": [
-    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168714 rejected: future publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168679 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168696 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168695 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168694 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168693 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168691 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168689 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168688 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168687 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168686 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168685 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168684 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168683 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168682 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168677 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168676 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168674 rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time rejected: stale publication date",
@@ -361,6 +399,7 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -377,6 +416,7 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -404,6 +444,8 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_china: entry https://www.bbc.co.uk/news/articles/cr5yn9770pgvo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_china: entry https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -419,9 +461,10 @@
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/29/science-weekly-sue-black-taking-stand-expert-witness rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction rejected: stale publication date",
@@ -429,20 +472,23 @@
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/28/are-seed-oils-unhealthy-scientific-evidence rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/environment/2026/oct/25/bom-temperature-record-keeping-under-attack-again rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/18/the-guardian-view-on-plague-in-russia-what-is-most-worrying-is-the-lack-of-information rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/27/perimenopause-how-do-you-know-if-youre-in-it-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/22/elizabeth-holmes-you-can-see-everything-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/oct/15/norman-mccubbin-obituary rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/26/did-you-solve-it-a-magical-melody-from-the-mozart-of-math rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/26/can-you-solve-it-a-magical-melody-from-the-mozart-of-math rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/did-you-solve-it-the-treacherous-puzzle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/27/perimenopause-is-everywhere-how-do-you-know-if-youre-in-it-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/media/2026/oct/28/bari-weiss-cbs-news-60-minutes rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/29/ralph-nader-midterm-elections rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/28/plan-for-multibillion-pound-sizewell-nuclear-plant-a-terrible-deal-for-uk-taxpayers-mps-say rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs rejected: stale publication date",
@@ -450,6 +496,7 @@
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/football/2026/oct/28/kylian-mbappe-china-crisis-shows-how-sensitive-maos-legacy-remains rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/gallery/2026/oct/28/vivid-red-beach-transforms-chinas-wetlands-qinqdao-in-pictures rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes rejected: stale publication date",
