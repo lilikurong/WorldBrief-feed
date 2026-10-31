@@ -2,20 +2,20 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-11-01",
-  "generated_at": "2026-10-31T16:57:57+00:00",
+  "generated_at": "2026-10-31T21:09:31+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-1e1c04b5195ff375b1cb584f0e4eb42e519bd6afcabbaabc3ba761be41d3e2be",
-      "title_en": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary_en": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+      "id": "evt-7b85a3ec98a8fbe8f5a280cee3179d3e49a79d2111b1554b64b9a58f9bac7cb3",
+      "title_en": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "summary_en": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 52,
+      "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.975×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.902×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -23,35 +23,60 @@
         {
           "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-31T16:32:08+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-31T19:22:26+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-5c3b7baa760f78905ca15c7a84f21e1f90fe49dd690001fc8d71d61a873d2790",
-      "title_en": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
-      "summary_en": "Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that information There has been a surge of early voting for the US midterm elections, with millions more Americans going to the polls compared with the last such election amid a series of tight contests that will…",
+      "id": "evt-ef368221cb0a0ffbd14847218b0317289ed887073402ea84dbe94da9f6c5bf9a",
+      "title_en": "Clashes erupt between police and protesters in Paris",
+      "summary_en": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.915×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-31T19:37:43+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-e4ca6dcf27c9ff303cc0aff4bdbc77aa57a4804b260e2fd7bad60e21c67733c5",
+      "title_en": "Israel’s allegations of Qatari election interference rejected",
+      "summary_en": "Israel’s allegations of Qatari election interference rejected",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 52,
+      "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.958×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.958×0.20, authority=0.750×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
-          "published_at": "2026-10-31T16:13:17+00:00",
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
+          "published_at": "2026-10-31T20:24:58+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
+          "publisher_group": "aljazeera"
         }
       ]
     },
@@ -62,10 +87,10 @@
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 51,
+      "importance_score": 47,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.902×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.708×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -81,16 +106,16 @@
       ]
     },
     {
-      "id": "evt-e8a9729903ee0546b51acf157ca9bfaad89468b37483429870af23c14dd19fea",
-      "title_en": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
+      "id": "evt-1a68a591dcca60e8a0ad3cb570c18adf5783cbfc7a2ba5f2a425d82aebe31e00",
+      "title_en": "Thousands rally in Berlin as Gen Z protests in more than 30 German cities",
       "summary_en": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
       "category": "politics_security",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 46,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.972×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.763×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -106,18 +131,18 @@
       ]
     },
     {
-      "id": "evt-b402b79b2d266b30205a448405aa16ea7bbb8d1888134fd992ac9aed9a7f8974",
-      "title_en": "Senegal hosts Africa’s first ever Youth Olympic Games",
-      "summary_en": "The 2026 Youth Olympic Games opens with a spectacular ceremony Saturday in the Senegalese capital Dakar in the first ever Olympics to be held on African soil. It comes as the continent seeks a bigger role in international sporting competitions.",
+      "id": "evt-38b8943c102a85a2c46508b67941140b12f0857907df4590aaaab3bdf177ef17",
+      "title_en": "Senegal kicks off Africa's first ever Olympics with Youth Games",
+      "summary_en": "The 2026 Youth Olympic Games opened on Saturday in the Senegalese capital Dakar in the first ever Olympics to be held on African soil. It comes as the continent seeks a bigger role in international sporting competitions.",
       "category": "sports",
       "region": "africa",
       "sports_tags": [
         "olympics"
       ],
-      "importance_score": 49,
+      "importance_score": 46,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.654×0.20, authority=0.750×0.15, preference=1.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 7.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.513×0.20, authority=0.750×0.15, preference=1.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 11.5h."
       ],
       "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
       "is_breaking": false,
@@ -133,16 +158,16 @@
       ]
     },
     {
-      "id": "evt-673237bd3c4fdafb03b107123c0ebd4e64434163e651112197b76236a7c96e51",
-      "title_en": "Turkey nominates former foreign minister Sinirlioglu as UN chief",
-      "summary_en": "Turkey has nominated its former foreign minister and UN ambassador Feridun Hadi Sinirlioglu for the position of UN secretary-general, state-media reported on Saturday. The submission was officially backed by Turkish President Recep Tayyip Erdogan who has been particularly vocal in calling for reform of the UN…",
+      "id": "evt-cadc58f5f0e6ee048a2fe117b0f78f2f5df2bcebc481420e48811a3c1599eafb",
+      "title_en": "Iran's Khamenei warns US and Israel against new attacks",
+      "summary_en": "Iran's Supreme Leader Mojtaba Khamenei warned the United States and Israel on Saturday against further strikes as fears mount over a resumption of fighting in the Middle East. US President Donald Trump and his Israeli ally Benjamin Netanyahu have recently threatened military action on the Islamic republic but US…",
       "category": "politics_security",
-      "region": "global",
+      "region": "middle_east",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 46,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.866×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.787×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -150,24 +175,49 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/asia-pacific/20261031-turkey-nominates-former-foreign-minister-sinirlioglu-as-un-chief",
-          "published_at": "2026-10-31T14:28:10+00:00",
+          "url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
+          "published_at": "2026-10-31T17:00:36+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-9de35c39e6dabc271af496311b59fc7518a84d22bf7b906969492d9f71bc8b07",
-      "title_en": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
-      "summary_en": "The Democratic People’s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate. But its people are more cut off from the outside world than at any point in the country’s history.",
-      "category": "other",
+      "id": "evt-fa1fca54736b336a7f0cb52a5e084d2d833435884438584a5ed9e0d8669f5668",
+      "title_en": "UK police should not have let US force take over airbase trial, MoD documents show",
+      "summary_en": "According to documents obtained by the Guardian, officials accused Cambridgeshire force of breaching US-UK deal by handing over case of woman strangled by US pilot Ministry of Defence officials have privately accused a UK police force of wrongly handing over the investigation of an American fighter pilot who…",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 46,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.751×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 5.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.643×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 7.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/31/uk-police-should-not-have-let-us-force-take-over-airbase-trial-mod-documents-show",
+          "published_at": "2026-10-31T13:30:43+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-cf4c10f6e6491ac0de2fa865e91fce571f3e44a5ba50df559a9edf19a80ed2d4",
+      "title_en": "Samarkand: A ‘living museum’ on the Silk Road grapples with a tourism boom",
+      "summary_en": "As the sun sets over Samarkand’s majestic Registan, its last rays glint across the turquoise mosaics. Dusk settles on the ancient square where great trade routes have crossed for centuries.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.589×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 9.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -175,85 +225,10 @@
         {
           "source_id": "un_news",
           "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168690",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168711",
           "published_at": "2026-10-31T12:00:00+00:00",
           "published_precision": "second",
           "publisher_group": "un_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-972f612c388d0773e03bb63a614a70ce78c4a86d3845616ffdaed4743d79cf6a",
-      "title_en": "Burnham opens door to formal apology for Britain’s slave trade",
-      "summary_en": "UK Prime Minister rules out financial reparations, despite longstanding Caribbean demands.",
-      "category": "economy_business",
-      "region": "latin_america",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.810×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
-          "published_at": "2026-10-31T13:19:23+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-a3b33c0be6f75c840f297605205a8e9e76cac13cb134c748adb6f7c79b5bb24f",
-      "title_en": "APOD: 2026 October 31 – Night on a Spooky Planet",
-      "summary_en": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.475×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 12.9h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-          "published_at": "2026-10-31T04:05:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-57947437c61ea88f50c3d456ee82576cae05c329cc0c2a0af5a0a9f538c8c30b",
-      "title_en": "The Indian chef who brought curry to America - then vanished",
-      "summary_en": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.422×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 14.9h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-31T02:02:16+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
         }
       ]
     },
@@ -266,10 +241,10 @@
       "sports_tags": [
         "olympics"
       ],
-      "importance_score": 41,
+      "importance_score": 40,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.259×0.20, authority=0.750×0.15, preference=1.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 23.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.203×0.20, authority=0.750×0.15, preference=1.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 27.6h."
       ],
       "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
       "is_breaking": false,
@@ -285,16 +260,16 @@
       ]
     },
     {
-      "id": "evt-0d830a605b04c7ee90e9e60d250e12d08057f27969619a9f8a1f7c83c7407d82",
-      "title_en": "NASA Releases MAX POWER Key Events for Media, Participants",
-      "summary_en": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of…",
+      "id": "evt-a3b33c0be6f75c840f297605205a8e9e76cac13cb134c748adb6f7c79b5bb24f",
+      "title_en": "APOD: 2026 October 31 – Night on a Spooky Planet",
+      "summary_en": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 40,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.290×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 21.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.373×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 17.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -302,8 +277,8 @@
         {
           "source_id": "nasa_news",
           "publisher": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
-          "published_at": "2026-10-30T19:31:02+00:00",
+          "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+          "published_at": "2026-10-31T04:05:00+00:00",
           "published_precision": "second",
           "publisher_group": "nasa_news"
         }
@@ -318,10 +293,10 @@
       "sports_tags": [
         "olympics"
       ],
-      "importance_score": 39,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.166×0.20, authority=0.750×0.15, preference=1.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 31.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.130×0.20, authority=0.750×0.15, preference=1.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 35.3h."
       ],
       "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
       "is_breaking": false,
@@ -337,16 +312,41 @@
       ]
     },
     {
+      "id": "evt-0d830a605b04c7ee90e9e60d250e12d08057f27969619a9f8a1f7c83c7407d82",
+      "title_en": "NASA Releases MAX POWER Key Events for Media, Participants",
+      "summary_en": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 37,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.227×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 25.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+          "published_at": "2026-10-30T19:31:02+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
       "id": "evt-2a9a57067767bc654e0d43d7c55488c95a82312e71e82be0a6f67076733d06a8",
       "title_en": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
       "summary_en": "Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 37,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.188×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 29.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.147×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 33.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -385,7 +385,6 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168683 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168682 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168677 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168676 rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos rejected: stale publication date",
@@ -401,7 +400,9 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -423,14 +424,17 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/cw1m4k1nx5r0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sounds/play/m0033g29?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/videos/cm93zere04plo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -444,6 +448,7 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -469,11 +474,16 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/29/science-weekly-sue-black-taking-stand-expert-witness rejected: stale publication date",
