@@ -1,10 +1,62 @@
 {
   "schema_version": 1,
   "edition": "china",
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T11:50:59+00:00",
+  "date": "2026-11-01",
+  "generated_at": "2026-10-31T16:57:57+00:00",
   "is_underfilled": true,
   "events": [
+    {
+      "id": "evt-7e9efe1392264ebb5d7c43aceedcaca44355002978dc990a0a1b79a207ada155",
+      "title_en": "It’s closer to Beijing than Washington – and residents of this Alaskan outpost are reeling from Trump’s policies",
+      "summary_en": "On the Bering Sea, Unalaska is the US’s most productive seafood port, employing thousands of workers. But Trump’s cuts, and his disastrous war with Iran, have caused chaos – and put Republican control of Congress at risk It was less than 17 hours until the start of Alaska’s lucrative Bering Sea crab season, and…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.946×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_china",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/alaska-unalaska-fishing-trump",
+          "published_at": "2026-10-31T16:00:47+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-302827e4c41a665f88e5ec4cad1e34976708223b72e13183d8cc07ce64d62682",
+      "title_en": "Xi's special envoy to attend 4th Youth Olympic Games opening",
+      "summary_en": "At the invitation of the government of the Republic of Senegal, President Xi Jinping's Special Envoy and Director of China's General Administration of Sport Gao Zhidan will attend the opening ceremony of the fourth Youth Olympic Games in Dakar, Senegal, on October 31, a Chinese Foreign Ministry spokesperson announced…",
+      "category": "sports",
+      "region": "global",
+      "sports_tags": [
+        "olympics"
+      ],
+      "importance_score": 39,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.166×0.20, authority=0.750×0.15, preference=1.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 31.1h."
+      ],
+      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-30/Xi-s-special-envoy-to-attend-4th-Youth-Olympic-Games-opening-1RFelwev0sg/p.html",
+          "published_at": "2026-10-30T09:51:16+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        }
+      ]
+    },
     {
       "id": "evt-455cbc928553ab63d954d87a9cb82ebeab3851a40d828b738e4a8486db08b9fa",
       "title_en": "Beijing Queer film festival cancelled after harassment from authorities",
@@ -12,10 +64,10 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 38,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.239×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 24.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.178×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 29.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -31,41 +83,41 @@
       ]
     },
     {
-      "id": "evt-d78eed45105f8288db0ab22c1c442bb7bf8a9671c8ce4279ce440228ef984131",
-      "title_en": "China denies allegations of spy operation targeting Nvidia CEO",
-      "summary_en": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
+      "id": "evt-74ba30584dc57b3a592c6e26e0d1dc096c09e61f063b9a0dc49418f0386d9a4f",
+      "title_en": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "summary_en": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 38,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.257×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 23.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.163×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 31.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_world",
+          "source_id": "bbc_business",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-10-30T12:20:04+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-10-30T09:33:51+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-fc0a4c3c46951adfe688ab85e704a1dad88d26099ed0f11416664c8c5bdf4f95",
-      "title_en": "Peng Liyuan chats over tea with wife of German president",
-      "summary_en": "Peng Liyuan chats over tea with wife of German president",
+      "id": "evt-c1bb874988a3bef1d72ad8f88504b5e4538c1964ce689448a6819499acb94eea",
+      "title_en": "Central government office commends HKSAR's probe into residential fire",
+      "summary_en": "A spokesperson for the Liaison Office of the Central People's Government in the Hong Kong Special Administrative Region (HKSAR) said on Thursday that the HKSAR government's efforts to investigate the major fire at the residential complex Wang Fuk Court demonstrated a serious and fact-based approach to accountability…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 37,
+      "importance_score": 35,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.315×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 20.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.210×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 27.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -73,66 +125,22 @@
         {
           "source_id": "cgtn_china",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-30/Peng-Liyuan-chats-over-tea-with-wife-of-German-president-1RFB20PVPRS/p.html",
-          "published_at": "2026-10-30T15:50:15+00:00",
+          "url": "https://news.cgtn.com/news/2026-10-30/Central-government-office-commends-HKSAR-s-probe-into-residential-fire-1RFwhnUD5WU/p.html",
+          "published_at": "2026-10-30T13:56:05+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-53c6e40108039fd3d51f2e9796f021d8c195c39d23ebb19c69cb4702c5b10c0a",
-      "title_en": "Xi: China glad to see greater German role in European, global affairs",
-      "summary_en": "China's policy toward Germany is consistent, stable and predictable, and China is happy to see Germany play a greater role in European and international affairs, Chinese President Xi Jinping said on Friday.",
-      "category": "politics_security",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.222×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 26.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-10-30/Chinese-President-Xi-Jinping-holds-talks-with-German-president-1RFf65fMZiw/p.html",
-          "published_at": "2026-10-30T09:49:24+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-f8994fa37c0334a157f3ba6d087230f1e354c92d5c6b260d150eb7d6706a3bc7",
-      "title_en": "Hong Kong’s leader apologises for residential fire that killed 168 people",
-      "summary_en": "Blaze was world’s deadliest residential fire since 1980, but some survivors and bereaved families say justice has yet to be served Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 people in the city last year, a rare sign of public contrition that nevertheless…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.090×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 41.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
-          "published_at": "2026-10-29T18:14:21+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
         }
       ]
     }
   ],
   "source_errors": [
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168714 rejected: future publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168705 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168704 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168703 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168702 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168700 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168698 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168697 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168679 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168696 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168695 rejected: stale publication date",
@@ -149,7 +157,7 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168682 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168677 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168676 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168674 rejected: stale publication date",
+    "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time rejected: stale publication date",
@@ -164,8 +172,14 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -180,17 +194,19 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/sounds/play/m0033g29?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmdxwzz7x4pno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -199,7 +215,6 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -250,11 +265,14 @@
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/26/can-you-solve-it-a-magical-melody-from-the-mozart-of-math rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/did-you-solve-it-the-treacherous-puzzle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/29/my-hands-are-shaking-what-its-like-to-be-an-expert-witness-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/27/perimenopause-is-everywhere-how-do-you-know-if-youre-in-it-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/29/delta-uber-ftc-pricing rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/media/2026/oct/28/bari-weiss-cbs-news-60-minutes rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/29/ralph-nader-midterm-elections rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry rejected: stale publication date",
@@ -265,6 +283,7 @@
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/football/2026/oct/28/kylian-mbappe-china-crisis-shows-how-sensitive-maos-legacy-remains rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/gallery/2026/oct/28/vivid-red-beach-transforms-chinas-wetlands-qinqdao-in-pictures rejected: stale publication date",
@@ -281,7 +300,6 @@
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/news/audio/2026/oct/23/why-am-i-obsessed-with-chinas-ancient-golden-age-i-took-my-daughter-on-a-trip-to-find-out-podcast rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-28/Former-Chinese-Vice-Premier-Liu-Yandong-passes-away-at-81-1RC2EQshrgY/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-28/China-is-putting-ecosystems-on-the-road-to-recovery-1RBYxVoQCf6/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-28/China-says-it-takes-note-of-Mbappe-s-apology-over-China-remarks-1RBUuLd1e9O/p.html rejected: stale publication date",
