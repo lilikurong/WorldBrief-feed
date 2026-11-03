@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
   "edition": "world",
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T13:47:17+00:00",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-03T22:59:15+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-6e0ac9eabc2363ce7487fedde59eaa10822394058164e4149c1625f501e3ad60",
-      "title_en": "Four separate flights from London, Copenhagen, Manchester and Israel affected by bomb threats – Europe live",
-      "summary_en": "Warsaw-Modlin Airport gives the all-clear after concluding security sweeps on a LOT Polish Airlines flight from London Back to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport where the London flight was parked remain closed and is being checked by…",
+      "id": "evt-8236468f741de733681c3d31f29f96280e3341937d2ee17a8c15cd69a0df4e9d",
+      "title_en": "Spanish transport minister resigns after deadly train crash",
+      "summary_en": "Óscar Puente also announces his withdrawal from upcoming election following disaster that killed 69 people Spain’s transport minister handed in his resignation on Tuesday after the train crash that killed 69 people last week, one of the worst railway disasters in Europe this century. Óscar Puente, who had earlier… At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
       "category": "politics_security",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 53,
+      "importance_score": 64,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.997×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.932×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 2; age: 1.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -23,74 +23,159 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-          "published_at": "2026-11-03T13:44:17+00:00",
+          "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash",
+          "published_at": "2026-11-03T21:46:02+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-ce0c1e31adcbb6734f380d6c2bca22de051007c47bdcf2ef44276c0b8d49e570",
-      "title_en": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-      "summary_en": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 53,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.998×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
+        },
         {
           "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-03T13:44:44+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-03T22:45:59+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-12970d7654808760a585efea86cc4dbed239fdc00fb23c66d337fd6131394a36",
-      "title_en": "Trump’s troubles with Iran could open the door to China",
-      "summary_en": "Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the region China has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the Middle East. The diplomatic salvo comes before a highly anticipated meeting between Donald Trump and…",
+      "id": "evt-0c82d16076bc8b9b14a13df3f18080d75c6a6958a3b0113e2ac0909f402a65b5",
+      "title_en": "Nasa astronaut casts midterms vote from space – video",
+      "summary_en": "Anil Menon has voted in the US midterm elections by casting an electronic ballot from the International Space Station. He said he filled out the ballot on his station computer and sent it to election officials in Harris county, Texas. In a social media post, he said all three US crew members onboard also had the…",
       "category": "politics_security",
-      "region": "middle_east",
+      "region": "global",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.968×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.966×0.20, authority=0.900×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_china",
+          "source_id": "guardian_science",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
-          "published_at": "2026-11-03T13:13:50+00:00",
+          "url": "https://www.theguardian.com/us-news/video/2026/nov/03/nasa-astronaut-casts-midterms-vote-from-space-video",
+          "published_at": "2026-11-03T22:23:46+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-6906053affbde3966c3f384c7bd979d46d4969d31165559de6654b95c4115313",
-      "title_en": "Trump to remove Rwanda and South Africa from US trade deal",
-      "summary_en": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "id": "evt-501d3c9c3dc40a9a431a6680c277cada51f4aa6dfcddf4dd00f5e6253354ccb6",
+      "title_en": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+      "summary_en": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
+      "category": "sports",
+      "region": "europe",
+      "sports_tags": [
+        "olympics"
+      ],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.713×0.20, authority=0.900×0.15, preference=1.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 5.9h."
+      ],
+      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-03T17:07:28+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-4e2e03ccf1616de4891cf52e876cb93d5cc4487bc73dd677a8adcb13871a2fa9",
+      "title_en": "Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa",
+      "summary_en": "Barca took early lead through Lamine Yamal before Raphinha continued fine goal-scoring form with a second-half brace.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.962×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss",
+          "published_at": "2026-11-03T22:19:13+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-d37dbca0517e921445c4e1cb7c0ec49ee29187dd1da4f154c33794639443553c",
+      "title_en": "South Africa braces for some job losses as AGOA ends",
+      "summary_en": "In tonight's edition, Rwanda and South Africa will lose their duty-free access to the U.S. market after being excluded from the AGOA trade program. Also, South Africans head to the polls amid water shortages and frustration with local services. And in the DRC's mining capital, Kolwezi, residents are taking on one of…",
       "category": "economy_business",
       "region": "africa",
       "sports_tags": [],
-      "importance_score": 52,
+      "importance_score": 49,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.982×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.907×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/south-africa-braces-for-some-job-losses-as-agoa-ends",
+          "published_at": "2026-11-03T21:18:25+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-21151b67f31a1d7eeedccb118973e54fda48e18f079fa1383e7341137df821b0",
+      "title_en": "US astronauts vote from space in 2026 midterm elections",
+      "summary_en": "NASA astronaut Anil Menon demonstrated on social media how he cast his ballot for Harris County in Texas, from space.",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.894×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss",
+          "published_at": "2026-11-03T21:03:24+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-09fe9e5162f02b5d37b2785f057fe5618640d5109b64e4a888fea8091fb0a9d5",
+      "title_en": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "summary_en": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.706×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -98,76 +183,49 @@
         {
           "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-03T13:28:30+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-03T16:57:41+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-1ab7cb4d51dbd5a0ded22630f4e4d1108b3cfde2157f82106b066d53318e8e1d",
-      "title_en": "‘It gets better’: Olympic president’s advice for bullying victims",
-      "summary_en": "Tell bullies to ‘sod off’. That’s the advice IOC President Kirsty Coventry has for young athletes facing bullying.",
-      "category": "sports",
-      "region": "global",
-      "sports_tags": [
-        "olympics"
-      ],
-      "importance_score": 51,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.792×0.20, authority=0.750×0.15, preference=1.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.0h."
-      ],
-      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/it-gets-better-olympic-presidents-advice-for-bullying-victims?traffic_source=rss",
-          "published_at": "2026-11-03T09:45:09+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-06a448bcf85c3f20084c45bc6d6cc4867972aa555b8e428b9fa3b848c49817a8",
-      "title_en": "'I love giving debut novelists a chance': Shakespeare and Company's Adam Biles",
-      "summary_en": "The literary director of the English-language Paris bookshop Shakespeare and Company says that the shop has achieved such notoriety that invitations to authors to appear there are usually accepted. Adam Biles says the shop enjoys inviting both famous authors to speak there, as well as debut authors who deserve the…",
-      "category": "society_health_environment",
+      "id": "evt-c65b2a69f2a4d0dbe6b9d801817586159584a391599c5a8b24ef6d49acf512a1",
+      "title_en": "Astronaut and Earth",
+      "summary_en": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and…",
+      "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 47,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.978×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.693×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/perspective/20261103-i-love-giving-debut-novelists-a-chance-shakespeare-and-company-s-adam-biles",
-          "published_at": "2026-11-03T13:24:32+00:00",
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+          "published_at": "2026-11-03T16:37:42+00:00",
           "published_precision": "second",
-          "publisher_group": "france24"
+          "publisher_group": "nasa_news"
         }
       ]
     },
     {
-      "id": "evt-16061ce3c4da3ab834a9703904d98f4c6747279120d7a269481e0ca5aec81a34",
-      "title_en": "What could happen if Donald Trump loses US midterm elections?",
-      "summary_en": "Americans head to the polls on Tuesday in pivotal midterm elections, with Democrats hoping to seize control of Congress and impose the first significant checks on Donald Trump's second term in the White House. But what could happen in the United States if Republicans lose control of Congress? FRANCE 24's…",
-      "category": "other",
+      "id": "evt-f40e516f74fc3b78c5e5ba9cb786bef793e45468eedb0ae1274884a6dffeef6c",
+      "title_en": "Trickle or tsunami? Democrats eye gains in US midterm elections",
+      "summary_en": "Will it be a trickle, a wave, or a tsunami? Election Day in the United States with Democrats hoping to take back one or both houses of Congress. We’ll track the turnout, gauge the mood and raise the curtain ahead of Midterms results that are sure to shape the last two years of Donald Trump’s second and final term.…",
+      "category": "politics_security",
       "region": "north_america",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 47,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.978×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.808×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -175,49 +233,24 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261103-what-could-happen-if-donald-trump-loses-us-midterm-elections",
-          "published_at": "2026-11-03T13:24:32+00:00",
+          "url": "https://www.france24.com/en/tv-shows/the-debate/20261103-trickle-or-tsunami-democrats-eye-gains-in-us-midterm-elections",
+          "published_at": "2026-11-03T19:18:13+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-a9d40e304e5f383ea0401dec199a38334cf1cfbaf4ed941259ea2c269ee9368d",
-      "title_en": "Iran commander sets out five conditions for regional security",
-      "summary_en": "Mediator Qatar says US and Iran are studying proposals to resume negotiations and that it was 'hopeful' of an agreement.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.976×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
-          "published_at": "2026-11-03T13:21:57+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-ab2ae2c6f539aa2e6fcc1173d15b3cbc560d4fd671ea4cce0b57273d0574a346",
-      "title_en": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
-      "summary_en": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "id": "evt-288159322bd7caf8a8eb3012b8a194e702ef6f285cff12b884b69a1660067f50",
+      "title_en": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "summary_en": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 46,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.605×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 8.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.652×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 7.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -225,35 +258,60 @@
         {
           "source_id": "nasa_news",
           "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
-          "published_at": "2026-11-03T05:05:00+00:00",
+          "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
+          "published_at": "2026-11-03T15:35:14+00:00",
           "published_precision": "second",
           "publisher_group": "nasa_news"
         }
       ]
     },
     {
-      "id": "evt-a87a1e3ec463979f68379cb41771a1db114544fcc7a4c930ad72b997cdd7e855",
-      "title_en": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
-      "summary_en": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Center of Excellence…",
-      "category": "technology_science",
-      "region": "global",
+      "id": "evt-9bfb4d023c9ad200930d4c7498a1abe84e70466089b096f9379a2e562e729b41",
+      "title_en": "Haiti gang leader seeks UN talks as El Salvador sends 2,000 troops to hunt for missing soldiers",
+      "summary_en": "A Haitian gang leader wanted by the United States has asked the UN to mediate, as El Salvador sends more than 2,000 troops into the country to search for four of its soldiers who went missing after a gang ambush.",
+      "category": "society_health_environment",
+      "region": "north_america",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 43,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.393×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 16.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.530×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 11.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
-          "published_at": "2026-11-02T21:35:59+00:00",
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168728",
+          "published_at": "2026-11-03T12:00:00+00:00",
           "published_precision": "second",
-          "publisher_group": "nasa_news"
+          "publisher_group": "un_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-b31e21f43b857362bf84a1c73b1020638fe865110fd01926030eb08a7c7b1ea9",
+      "title_en": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
+      "summary_en": "A school in Myanmar has been hit in an airstrike, with three children reported killed and five others injured, according to UN Children’s Fund UNICEF.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 43,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.530×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 11.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168729",
+          "published_at": "2026-11-03T12:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "un_news"
         }
       ]
     },
@@ -264,10 +322,10 @@
       "category": "politics_security",
       "region": "north_america",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.426×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 14.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.250×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 24.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -277,56 +335,6 @@
           "publisher": "CGTN",
           "url": "https://news.cgtn.com/news/2026-11-03/news-1RLcuhqzYmk/p.html",
           "published_at": "2026-11-02T23:00:22+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-5cdd76a3918275d2b5c5138435e40443a1ca3c6bb25eac155915313640928375",
-      "title_en": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
-      "summary_en": "The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were able to leave the Russian-occupied city of Oleshky, in Ukraine’s Kherson region, during a brief local ceasefire.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 37,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.225×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 25.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168722",
-          "published_at": "2026-11-02T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "un_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-f529ce1b82a448b53b3d972a4b767d7b97a0406b8274ce93f0871f9e0131965e",
-      "title_en": "Chinese technology powers Kenya's packaging industry",
-      "summary_en": "In Kenya's lakeside city of Kisumu, Chinese-made machinery is helping local manufacturers improve efficiency, expand production and meet growing demand for packaging materials.",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.207×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 27.2h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://newsaf.cgtn.com/news/2026-11-02/Chinese-technology-powers-Kenya-s-packaging-industry-1RK6QxTOeRO/p.html",
-          "published_at": "2026-11-02T10:33:41+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -355,10 +363,6 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168697 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168679 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168696 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168695 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168694 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168693 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168691 rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos rejected: stale publication date",
@@ -374,6 +378,7 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -398,17 +403,15 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/cmpq0g3g2r8zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/videos/cw1m4k1nx5r0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cmdxwzz7x4pno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -443,21 +446,23 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/30/the-guardian-view-on-50-years-of-the-selfish-gene-flawed-outdated-yet-still-a-model-of-truly-popular-science-writing rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/world/commentisfree/2026/nov/01/the-guardian-view-on-listening-to-people-with-learning-disabilities-a-matter-of-life-and-death rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/nov/01/uk-legal-cannabis-market-booming-louis-petit-epilepsy rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/28/are-seed-oils-unhealthy-scientific-evidence rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/29/science-weekly-sue-black-taking-stand-expert-witness rejected: stale publication date",
@@ -502,7 +507,6 @@
     "guardian_china: entry https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/24/north-korea-new-yalu-river-bridge-russia-china rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/world/video/2026/oct/23/people-evacuate-building-in-tibet-as-powerful-earthquake-strikes-video rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-31/From-Karakoram-to-Arabian-Sea-Ep-3-A-Friendship-Across-Generations-1RGUKVssuCk/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-31/Global-housing-forum-opens-in-China-with-focus-on-affordable-housing-1RGKTxOtKH6/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-10-31/China-Coast-Guard-patrols-around-China-s-Taiwan-island-1RHax73lX4Q/p.html rejected: stale publication date",
