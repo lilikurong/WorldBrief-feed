@@ -2,20 +2,46 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T05:19:27+00:00",
+  "generated_at": "2026-11-04T13:55:50+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-8236468f741de733681c3d31f29f96280e3341937d2ee17a8c15cd69a0df4e9d",
-      "title_en": "Spanish transport minister resigns after deadly train crash",
-      "summary_en": "Óscar Puente also announces his withdrawal from upcoming election following disaster that killed 69 people Spain’s transport minister handed in his resignation on Tuesday after the train crash that killed 69 people last week, one of the worst railway disasters in Europe this century. Óscar Puente, who had earlier… At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "id": "evt-7e34c146cc77daf3556873897a6cd56dd058020585d7e0ff866a6fe77a9d2dea",
+      "title_en": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
+      "summary_en": "A previously unseen family archive offers a glimpse into the Indian Nobel prize winner’s artistic process and personal relationships in his final years Don’t get This is India delivered to your inbox? Sign up here It’s easy to run out of words to describe Rabindranath Tagore. The first non-European to win the Nobel…",
+      "category": "technology_science",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 54,
+      "score_reasons": [
+        "Weighted score: impact=1.000×0.35, coverage=0.000×0.25, freshness=0.272×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: nobel_award; independent publisher groups: 1; age: 22.5h.",
+        "Significance: nobel_award; An announced Nobel award recognizes a major contribution with international significance."
+      ],
+      "importance_text_en": "Rule-based significance: An announced Nobel award recognizes a major contribution with international significance.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india",
+          "published_at": "2026-11-03T15:24:53+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-d99a94886743b972f5eb03cf07fd141e2ad5683b80f811969caafb82494bfe1b",
+      "title_en": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
+      "summary_en": "European Commission will hold talks with the US, France, Germany, Britain, Nato, and the World Bank Meanwhile, the Kremlin said that ⁠it ​hopes that the ⁠results of the US ⁠midterm ​elections ‌will not impact ‌what it ‌said were president Donald Trump’s “peacemaking efforts\" on Ukraine, Reuters said. In comments…",
       "category": "politics_security",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 58,
+      "importance_score": 53,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.646×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 2; age: 7.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.989×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -23,107 +49,24 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash",
-          "published_at": "2026-11-03T21:46:02+00:00",
+          "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
+          "published_at": "2026-11-04T13:44:46+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
-        },
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-03T22:45:59+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-8043336e5d88abc73ad0dacb5bb77da5a859bf5234c73dfe4ea6dee7e621b390",
-      "title_en": "Democrats claim staggering victories in districts gerrymandered to favor Republicans across the US",
-      "summary_en": "Mid-cycle redrawing of district boundaries, especially in states president won in 2024, did not yield results party was hoping for US midterm elections – live updates Track live results from all 50 states Democrats won stunning victories on Tuesday in several districts that Republicans redrew over the last year and a…",
+      "id": "evt-07ee51c35fd0b50fe73364a8546588ffbdafc520fca331253dcfbccaa32d9c38",
+      "title_en": "Ukrainian's 'not expecting drastic change in US policy' after midterms",
+      "summary_en": "Ukrainians do not expect the Democrats' victory in the US midterm elections is change much in regards to US policy on the war with Russia, or at least not quickly, says France 24's correspondent in Kyiv Emmanuelle Chaze. Ukraine's President Volodymyr Zelensky has not reacted yet to the \"blue wave\" taking control of…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 53,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.995×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-florida-wins-redistricting",
-          "published_at": "2026-11-04T05:14:11+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-8c9f961e5c47d0accb34f0f7ec93bb934998e8cfbdec4601ce363b282e649e3f",
-      "title_en": "Democratic Party flips US Senate in 2026 midterm elections",
-      "summary_en": "The outcome is widely seen as a rebuke to Trump's Republican Party which took control of the upper chamber in 2024 race.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.960×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections?traffic_source=rss",
-          "published_at": "2026-11-04T04:37:05+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-96c6a590b74bdc52fa98c61fe6bca12ca4169de30676cb0c6de5e734add1fd90",
-      "title_en": "Kansas elects first Democratic senator in almost a century",
-      "summary_en": "Adam Hamilton beat Republican Roger Marshall in a highly competitive race.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.960×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
-          "published_at": "2026-11-04T04:37:12+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-c10c9615047796658df401f0fc64c1cb91c9eddcaeb216f9e3f30402b45fd0de",
-      "title_en": "US midterms: \"Keeping our fingers crossed\" (Leila Meresman)",
-      "summary_en": "Democrats who once saw the political map as an almost impossible lift are now hopeful that a Senate majority is within reach, even though their path runs through several more conservative states. We discuss this with our guest Leila Meresman, spokesperson of Democrats Abroad France says.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.996×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.972×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -131,62 +74,210 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261104-us-midterms-keeping-our-fingers-crossed-leila-meresman",
-          "published_at": "2026-11-04T05:15:46+00:00",
+          "url": "https://www.france24.com/en/ukrainian-s-not-expecting-drastic-change-in-us-policy-after-midterms",
+          "published_at": "2026-11-04T13:26:11+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-501d3c9c3dc40a9a431a6680c277cada51f4aa6dfcddf4dd00f5e6253354ccb6",
-      "title_en": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
-      "summary_en": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
-      "category": "sports",
-      "region": "europe",
-      "sports_tags": [
-        "olympics"
-      ],
-      "importance_score": 48,
+      "id": "evt-2794aaeb5fa5d2b088984d063427c752c6e23baee038876e5d3995ac9c041592",
+      "title_en": "Jerusalem Daily: Mass arrests across occupied West Bank",
+      "summary_en": "Israeli forces bomb Gaza displacement camps and arrest 45 people in the occupied West Bank.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.494×0.20, authority=0.900×0.15, preference=1.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 12.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.975×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
       ],
-      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss",
+          "published_at": "2026-11-04T13:29:40+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-5f07b3ccb739f97c5b73912ffd5804e5523055ab939efd8bcc5e5fa5fee1c482",
+      "title_en": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+      "summary_en": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
+      "category": "politics_security",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.883×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.2h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
           "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-03T17:07:28+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-04T11:46:09+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-f8c604b9274dfcafb299132523b27e515575f8938a53e194b6477f9c52aa8018",
-      "title_en": "Canva announces major job cuts after 'our hardest year yet'",
-      "summary_en": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
-      "category": "economy_business",
+      "id": "evt-b63321496a988eeff015a2ee12690803ae0cdc07367326fb9ccd7e522e8280e7",
+      "title_en": "William meets firefighters who tackled summer blazes",
+      "summary_en": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.742×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 5.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.873×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_business",
+          "source_id": "bbc_science",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-04T00:09:35+00:00",
+          "url": "https://www.bbc.co.uk/news/videos/c94g1m232pgyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-04T11:35:08+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-bd082138fbdba61e6396ccd80d065f55a56d31e6b4a51f2c9445c5be349af81d",
+      "title_en": "A look back at how Trump's political decisions saw his approval rating plummet",
+      "summary_en": "Donald Trump's unpopularity has been cited as a major factor in the Democrats' sweeping victory in the midterms. The latest polls show Trump's approval rating has plummeted to 37.3%, down from 42% in his first midterm election. What were the political decisions that led to such a dramatic decline?",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.964×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261104-a-look-back-at-how-trump-s-political-decisions-saw-his-approval-rating-plummet",
+          "published_at": "2026-11-04T13:17:49+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-251e64704dd2a9968a110e0fc6fd7797472d142e3e1df2a463b90f4a6f7ca792",
+      "title_en": "Can Russia compete with the US, China and the EU in Africa?",
+      "summary_en": "Moscow pledges more trade and investment in Africa, where leaders want local industries, technology and jobs.",
+      "category": "technology_science",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.847×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/4/can-russia-compete-with-the-us-china-and-the-eu-in-africa?traffic_source=rss",
+          "published_at": "2026-11-04T11:03:33+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-bf5169ec8d645ad5c5da8c5401e0c45eda1e2049b83213015170c934ad6aab07",
+      "title_en": "Before the Dawn in America’s Heartland",
+      "summary_en": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.598×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 8.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
+          "published_at": "2026-11-04T05:01:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-ceae8a82c4d95333279f28d7b245fbd07dbf714b39aaa7d3f6f0f2978fd26741",
+      "title_en": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+      "summary_en": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.600×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 8.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+          "published_at": "2026-11-04T05:05:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-0522203bae8b411324b11c5cb32a2ccf44d7f3c092eb0ad974f3caf60937d64c",
+      "title_en": "EU monitoring aviation bomb threats, says too early to establish links",
+      "summary_en": "The European Commission said Tuesday it was closely monitoring reported bomb threats affecting aviation in Europe, but cautioned that it was too early to determine whether the incidents were linked.",
+      "category": "other",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 40,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.482×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 12.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_world",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-11-04/EU-monitoring-aviation-bomb-threats-says-too-early-to-establish-links-1RMVkmcRLzO/p.html",
+          "published_at": "2026-11-04T01:17:31+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
         }
       ]
     },
@@ -197,10 +288,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 40,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.781×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.475×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 12.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -212,106 +303,6 @@
           "published_at": "2026-11-04T01:02:40+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-8a82e23e6bf447ef279aee749a6f17097d0178afe2d865511a7718306fac428e",
-      "title_en": "NASA astronauts vote from space",
-      "summary_en": "NASA astronauts vote from space",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 45,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.721×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 5.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_world",
-          "publisher": "CGTN",
-          "url": "https://newsus.cgtn.com/news/2026-11-04/NASA-astronauts-vote-from-space-1RMUatzcRqM/p.html",
-          "published_at": "2026-11-03T23:39:38+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-b988de7c22ffbfb3f122c6ab932c7a331316b87a9eaeb57bf78bcb51dbcbfdbe",
-      "title_en": "Historian Timothy Snyder: Trump running US foreign policy 'as though he were an organized criminal'",
-      "summary_en": "As Americans head to the polls for the midterm elections, François Picard welcomes historian Timothy Snyder, professor at the University of Toronto's Munk School of Global Affairs, for a conversation about the future of American democracy, the growing political influence of technology billionaires and the dangers of…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 44,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.674×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 6.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20261103-historian-timothy-snyder-trump-running-us-foreign-policy-as-though-he-were-an-organized-criminal",
-          "published_at": "2026-11-03T22:28:56+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-288159322bd7caf8a8eb3012b8a194e702ef6f285cff12b884b69a1660067f50",
-      "title_en": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-      "summary_en": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.452×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 13.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-          "published_at": "2026-11-03T15:35:14+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-b0d2b65ef9e848eb9e0f782c4c77769b6c89c7d3701fa9a86ccbdff7a6f53d4d",
-      "title_en": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
-      "summary_en": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement,…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.444×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 14.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
-          "published_at": "2026-11-03T15:15:50+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
         }
       ]
     }
@@ -333,6 +324,7 @@
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
     "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -357,12 +349,9 @@
     "bbc_science: entry https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -402,16 +391,12 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/30/the-guardian-view-on-50-years-of-the-selfish-gene-flawed-outdated-yet-still-a-model-of-truly-popular-science-writing rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/nov/02/starwatch-catch-the-striking-trifecta-of-venus-the-moon-and-spica-at-break-of-dawn rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/world/commentisfree/2026/nov/01/the-guardian-view-on-listening-to-people-with-learning-disabilities-a-matter-of-life-and-death rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/commentisfree/2026/nov/01/uk-legal-cannabis-market-booming-louis-petit-epilepsy rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/commentisfree/2026/oct/28/are-seed-oils-unhealthy-scientific-evidence rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/29/science-weekly-sue-black-taking-stand-expert-witness rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/27/perimenopause-how-do-you-know-if-youre-in-it-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/22/elizabeth-holmes-you-can-see-everything-podcast rejected: stale publication date",
@@ -422,12 +407,13 @@
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/did-you-solve-it-the-treacherous-puzzle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/29/my-hands-are-shaking-what-its-like-to-be-an-expert-witness-video rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/27/perimenopause-is-everywhere-how-do-you-know-if-youre-in-it-video rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/02/content-creators-tv-network-midterm-coverage rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/2026/oct/31/trump-married-parents-payments rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/29/ralph-nader-midterm-elections rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry rejected: stale publication date",
@@ -452,7 +438,6 @@
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/world/2026/oct/24/north-korea-new-yalu-river-bridge-russia-china rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-01/Chinese-German-auto-companies-boost-cooperation-amid-industry-shift-1RIJ83dHRZe/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-01/Political-party-leaders-worldwide-praise-successful-CPC-plenum-1RI1pUIFjag/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-01/2026-World-Laureates-Forum-Can-AI-become-a-research-partner--1RIjMcwsfbW/p.html rejected: stale publication date",
