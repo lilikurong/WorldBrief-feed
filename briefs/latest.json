@@ -1,10 +1,60 @@
 {
   "schema_version": 1,
   "edition": "world",
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T13:55:50+00:00",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-04T23:20:11+00:00",
   "is_underfilled": false,
   "events": [
+    {
+      "id": "evt-359fa103e516fb883f264358bb2555d2650abe421de3ef3fa2e44b0328732eb8",
+      "title_en": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "summary_en": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "category": "other",
+      "region": "asia_pacific",
+      "sports_tags": [],
+      "importance_score": 53,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.993×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_science",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-04T23:12:47+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-6b5f634e66d45b48fb968ece688e64189b30ff2e17ae2fa443c4b7ab8a50067e",
+      "title_en": "David Jones goes into administration, with store closures expected and thousands of jobs at risk",
+      "summary_en": "Future of department store in jeopardy after administrators appointed on Thursday morning Get our breaking news email, free app or daily news podcast Australia’s premier upmarket department store David Jones has collapsed into voluntary administration, putting thousands of jobs at risk and leaving the future of the…",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.975×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration",
+          "published_at": "2026-11-04T22:53:29+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
     {
       "id": "evt-7e34c146cc77daf3556873897a6cd56dd058020585d7e0ff866a6fe77a9d2dea",
       "title_en": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
@@ -12,10 +62,10 @@
       "category": "technology_science",
       "region": "europe",
       "sports_tags": [],
-      "importance_score": 54,
+      "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=1.000×0.35, coverage=0.000×0.25, freshness=0.272×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: nobel_award; independent publisher groups: 1; age: 22.5h.",
+        "Weighted score: impact=1.000×0.35, coverage=0.000×0.25, freshness=0.158×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: nobel_award; independent publisher groups: 1; age: 31.9h.",
         "Significance: nobel_award; An announced Nobel award recognizes a major contribution with international significance."
       ],
       "importance_text_en": "Rule-based significance: An announced Nobel award recognizes a major contribution with international significance.",
@@ -32,66 +82,41 @@
       ]
     },
     {
-      "id": "evt-d99a94886743b972f5eb03cf07fd141e2ad5683b80f811969caafb82494bfe1b",
-      "title_en": "EU to lead talks on support for Ukraine with US, Nato, partners – Europe live",
-      "summary_en": "European Commission will hold talks with the US, France, Germany, Britain, Nato, and the World Bank Meanwhile, the Kremlin said that ⁠it ​hopes that the ⁠results of the US ⁠midterm ​elections ‌will not impact ‌what it ‌said were president Donald Trump’s “peacemaking efforts\" on Ukraine, Reuters said. In comments…",
+      "id": "evt-20878059223f58835b3b24837549106e3093a0648f6487d2f38bcb7406758319",
+      "title_en": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "summary_en": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
       "category": "politics_security",
-      "region": "europe",
+      "region": "global",
       "sports_tags": [],
-      "importance_score": 53,
+      "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.989×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.909×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
-          "published_at": "2026-11-04T13:44:46+00:00",
+          "source_id": "bbc_business",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-04T21:41:15+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
+          "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-07ee51c35fd0b50fe73364a8546588ffbdafc520fca331253dcfbccaa32d9c38",
-      "title_en": "Ukrainian's 'not expecting drastic change in US policy' after midterms",
-      "summary_en": "Ukrainians do not expect the Democrats' victory in the US midterm elections is change much in regards to US policy on the war with Russia, or at least not quickly, says France 24's correspondent in Kyiv Emmanuelle Chaze. Ukraine's President Volodymyr Zelensky has not reacted yet to the \"blue wave\" taking control of…",
+      "id": "evt-4f055418cf6d587e5ea9498d81fd5b39f44f8c1ac982da90554f158466e9557c",
+      "title_en": "Sudan factories struggle to restart after devastating wartime losses",
+      "summary_en": "War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.972×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/ukrainian-s-not-expecting-drastic-change-in-us-policy-after-midterms",
-          "published_at": "2026-11-04T13:26:11+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-2794aaeb5fa5d2b088984d063427c752c6e23baee038876e5d3995ac9c041592",
-      "title_en": "Jerusalem Daily: Mass arrests across occupied West Bank",
-      "summary_en": "Israeli forces bomb Gaza displacement camps and arrest 45 people in the occupied West Bank.",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.975×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.954×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -99,74 +124,49 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss",
-          "published_at": "2026-11-04T13:29:40+00:00",
+          "url": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
+          "published_at": "2026-11-04T22:31:09+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-5f07b3ccb739f97c5b73912ffd5804e5523055ab939efd8bcc5e5fa5fee1c482",
-      "title_en": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-      "summary_en": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-      "category": "politics_security",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.883×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.2h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-04T11:46:09+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-b63321496a988eeff015a2ee12690803ae0cdc07367326fb9ccd7e522e8280e7",
-      "title_en": "William meets firefighters who tackled summer blazes",
-      "summary_en": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
-      "category": "society_health_environment",
+      "id": "evt-fb6c6e7d254cd9a49eaa7aff13e622f3db4e4bf943d925cc375004aa7cadf5d6",
+      "title_en": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "summary_en": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test…",
+      "category": "technology_science",
       "region": "global",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.873×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.877×0.20, authority=0.900×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 2.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_science",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/c94g1m232pgyo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-04T11:35:08+00:00",
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+          "published_at": "2026-11-04T21:04:10+00:00",
           "published_precision": "second",
-          "publisher_group": "bbc"
+          "publisher_group": "nasa_news"
         }
       ]
     },
     {
-      "id": "evt-bd082138fbdba61e6396ccd80d065f55a56d31e6b4a51f2c9445c5be349af81d",
-      "title_en": "A look back at how Trump's political decisions saw his approval rating plummet",
-      "summary_en": "Donald Trump's unpopularity has been cited as a major factor in the Democrats' sweeping victory in the midterms. The latest polls show Trump's approval rating has plummeted to 37.3%, down from 42% in his first midterm election. What were the political decisions that led to such a dramatic decline?",
+      "id": "evt-496f248efd752df0d225a2a7339d989bc8f3337d07dc1e9c64931b5429623229",
+      "title_en": "Musk-backed candidates lose midterms despite financial backing",
+      "summary_en": "Shares of Tesla and SpaceX dropped after the Democratic party swept to power in America's midterm elections. Their founder, tech titan Elon Musk, poured over $440 million into Republican candidates and causes, the single biggest campaign donor in the election cycle. But his investment fell flat, as his preferred…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.964×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.879×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -174,24 +174,74 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261104-a-look-back-at-how-trump-s-political-decisions-saw-his-approval-rating-plummet",
-          "published_at": "2026-11-04T13:17:49+00:00",
+          "url": "https://www.france24.com/en/musk-backed-candidates-lose-midterms-despite-financial-backing",
+          "published_at": "2026-11-04T21:06:09+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-251e64704dd2a9968a110e0fc6fd7797472d142e3e1df2a463b90f4a6f7ca792",
-      "title_en": "Can Russia compete with the US, China and the EU in Africa?",
-      "summary_en": "Moscow pledges more trade and investment in Africa, where leaders want local industries, technology and jobs.",
-      "category": "technology_science",
+      "id": "evt-a2dc09372c2eb040aff93408caa000309665ac6e648bbcd227dd4e5d2eb0556f",
+      "title_en": "South Africans vote in key municipal elections",
+      "summary_en": "In tonight's edition, a crucial test for South Africa's ruling ANC as millions vote to elect municipal governments. Also, Ethiopia has expelled six Sudanese diplomats amid accusations it's allowing the paramilitary RSF to launch drone strikes from its territory. And a deepening humanitarian crisis in Ethiopia, where…",
+      "category": "other",
       "region": "africa",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.896×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections",
+          "published_at": "2026-11-04T21:26:13+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-0dc657c77a38004772988c689aeee54fadc25bee99d96c1eaf0aba2c226c9436",
+      "title_en": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "summary_en": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed…",
+      "category": "technology_science",
+      "region": "global",
       "sports_tags": [],
       "importance_score": 47,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.847×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.689×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+          "published_at": "2026-11-04T16:52:43+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-06c6d274030f03faf3d4384064188d4b1bba356e2c9252cb05823e467a2f7e38",
+      "title_en": "WHO approves trials for two new Ebola vaccines",
+      "summary_en": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 46,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.795×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -199,74 +249,24 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/4/can-russia-compete-with-the-us-china-and-the-eu-in-africa?traffic_source=rss",
-          "published_at": "2026-11-04T11:03:33+00:00",
+          "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
+          "published_at": "2026-11-04T19:22:09+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-bf5169ec8d645ad5c5da8c5401e0c45eda1e2049b83213015170c934ad6aab07",
-      "title_en": "Before the Dawn in America’s Heartland",
-      "summary_en": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 45,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.598×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 8.9h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
-          "published_at": "2026-11-04T05:01:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-ceae8a82c4d95333279f28d7b245fbd07dbf714b39aaa7d3f6f0f2978fd26741",
-      "title_en": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
-      "summary_en": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "id": "evt-8a82e23e6bf447ef279aee749a6f17097d0178afe2d865511a7718306fac428e",
+      "title_en": "NASA astronauts vote from space",
+      "summary_en": "NASA astronauts vote from space",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.600×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 8.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
-          "published_at": "2026-11-04T05:05:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-0522203bae8b411324b11c5cb32a2ccf44d7f3c092eb0ad974f3caf60937d64c",
-      "title_en": "EU monitoring aviation bomb threats, says too early to establish links",
-      "summary_en": "The European Commission said Tuesday it was closely monitoring reported bomb threats affecting aviation in Europe, but cautioned that it was too early to determine whether the incidents were linked.",
-      "category": "other",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 40,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.482×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 12.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.255×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 23.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -274,8 +274,8 @@
         {
           "source_id": "cgtn_world",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-11-04/EU-monitoring-aviation-bomb-threats-says-too-early-to-establish-links-1RMVkmcRLzO/p.html",
-          "published_at": "2026-11-04T01:17:31+00:00",
+          "url": "https://newsus.cgtn.com/news/2026-11-04/NASA-astronauts-vote-from-space-1RMUatzcRqM/p.html",
+          "published_at": "2026-11-03T23:39:38+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -288,10 +288,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.475×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 12.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.276×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 22.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -309,21 +309,11 @@
   ],
   "source_errors": [
     "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
-    "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Where_winds_blow_and_lava_flows rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express rejected: stale publication date",
-    "esa_space_science: entry https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast rejected: stale publication date",
+    "esa_space_science: HTTP Error 404: Not Found",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -343,15 +333,15 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/sounds/play/w3ct8grr?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/cmpq0g3g2r8zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -380,9 +370,8 @@
     "guardian_world: entry https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme rejected: stale publication date",
@@ -390,12 +379,14 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/02/starwatch-catch-the-striking-trifecta-of-venus-the-moon-and-spica-at-break-of-dawn rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/australia-news/commentisfree/2026/nov/03/as-cancer-treatments-become-more-effective-we-must-ask-what-is-life-like-for-the-people-who-receive-them rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/world/commentisfree/2026/nov/01/the-guardian-view-on-listening-to-people-with-learning-disabilities-a-matter-of-life-and-death rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/29/science-weekly-sue-black-taking-stand-expert-witness rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/27/perimenopause-how-do-you-know-if-youre-in-it-podcast rejected: stale publication date",
@@ -409,19 +400,21 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/29/my-hands-are-shaking-what-its-like-to-be-an-expert-witness-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/27/perimenopause-is-everywhere-how-do-you-know-if-youre-in-it-video rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/02/content-creators-tv-network-midterm-coverage rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/2026/oct/31/trump-married-parents-payments rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/29/ralph-nader-midterm-elections rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/global-development/2026/nov/02/chinese-cigarettes-and-bolivian-beer-the-amazonian-town-transformed-by-a-rampant-mining-boom rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/politics/2026/nov/02/uk-making-up-china-policy-as-it-goes-along-mps rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/alaska-unalaska-fishing-trump rejected: stale publication date",
