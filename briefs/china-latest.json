@@ -2,34 +2,9 @@
   "schema_version": 1,
   "edition": "china",
   "date": "2026-11-05",
-  "generated_at": "2026-11-05T05:39:07+00:00",
+  "generated_at": "2026-11-05T14:13:05+00:00",
   "is_underfilled": true,
   "events": [
-    {
-      "id": "evt-eb6462fb4a1f69541acee4c4a86e434911646ba35420a9931ee10d3dbcc1a232",
-      "title_en": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
-      "summary_en": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investigation has found. MPs on the business…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.964×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_china",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
-          "published_at": "2026-11-05T05:00:55+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
     {
       "id": "evt-a8e90837898062a557b90f15f1ff3a069573f2b6f6ad6302aa7f2ae7605412ac",
       "title_en": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
@@ -37,35 +12,85 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 51,
+      "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.906×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.979×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_world",
+          "source_id": "bbc_china",
           "publisher": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-05T03:56:16+00:00",
+          "published_at": "2026-11-05T13:51:03+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-b82958058825396914525cd1293991785d4be8d060781cd51850471ba26546b4",
-      "title_en": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
-      "summary_en": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second conviction under a national security law that critics say…",
-      "category": "politics_security",
+      "id": "evt-91ee50da8ac82895606ce953a7304ddb3e456d91f0336242cdcbc3296dc6d7ce",
+      "title_en": "Raise the Red Lantern review – Gong Li gives a decade-defining performance in an addictively ruthless masterpiece",
+      "summary_en": "Gong simmers with rage, loneliness and humiliation as the ‘fourth mistress’ navigating the intimate political savagery of her husband’s compound in Zhang Yimou’s 1991 thriller Revisiting Zhang Yimou’s grippingly addictive psychological drama from 1991, adapted from a novella by Su Tong, is a reminder of what a great…",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.913×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.932×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.2h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_china",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/film/2026/nov/05/raise-the-red-lantern-review",
+          "published_at": "2026-11-05T13:00:24+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-e809ca29aa068f51e8b7466b755dca4c9e95443c66f540ac673a104613f1ee8e",
+      "title_en": "Hong Kong activist jailed for 10 more years for collusion with foreign forces",
+      "summary_en": "Hong Kong democracy activist Joshua Wong was sentenced to 10 more years in jail on Thursday for colluding with foreign powers, the second time he has been penalised under the city's national security law. Hong, 30, is one of the most globally recognised faces of Hong Kong's pro-democracy movement and has already…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.854×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261105-hong-kong-activist-jailed-for-10-more-years-for-collusion-with-foreign-forces",
+          "published_at": "2026-11-05T11:29:09+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-b82958058825396914525cd1293991785d4be8d060781cd51850471ba26546b4",
+      "title_en": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "summary_en": "Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security law Exclusive: Joshua Wong laments city’s fate from inside maximum security prison The Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”,…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.696×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -74,84 +99,59 @@
           "source_id": "guardian_china",
           "publisher": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
-          "published_at": "2026-11-05T04:04:49+00:00",
+          "published_at": "2026-11-05T07:56:21+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-359dc1ed0ea1a19ec5b3249acefeebedb6b79acbca1c317afd615bc703cca891",
-      "title_en": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
-      "summary_en": "Hong Kong activist Joshua Wong, who became the global face of Hong Kong’s pro-democracy movement has been sentenced.",
+      "id": "evt-6d112bb99d7fe725ee04c09f31a2d336728fe7180130fb98552cf8d5306af9df",
+      "title_en": "African voices: What Africa can learn from CPC's governance experience",
+      "summary_en": "The Communist Party of China's (CPC) commitment to Party building, combating corruption and putting people first has drawn praise from an African political party leader and a scholar, who said its governance experience offers valuable insights for African countries and socialist parties.",
       "category": "society_health_environment",
-      "region": "global",
+      "region": "africa",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.913×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.260×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 23.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss",
-          "published_at": "2026-11-05T04:04:57+00:00",
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-11-04/African-voices-What-Africa-can-learn-from-CPC-s-governance-experience-1RNJi22bZLy/p.html",
+          "published_at": "2026-11-04T14:52:41+00:00",
           "published_precision": "second",
-          "publisher_group": "aljazeera"
+          "publisher_group": "cgtn"
         }
       ]
     },
     {
-      "id": "evt-d836f5890f4507bec7e6afc0251c2d5d69960cabf913310261a54cb4a63a271e",
-      "title_en": "Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion",
-      "summary_en": "Hong Kong democracy activist Joshua Wong was sentenced to 10 more years in prison on Thursday for colluding with foreign powers, a court summary said. Wong, 30, pleaded guilty in September to seeking foreign sanctions against Hong Kong and China under Beijing’s national security law, having spent nearly six years…",
-      "category": "politics_security",
+      "id": "evt-7ea54f9bace0946534928dd434967c80514966a667ac67275ea421a1c1a766cf",
+      "title_en": "China's services trade maintains growth amid push for new drivers",
+      "summary_en": "China's trade in services maintained brisk growth in the first nine months of 2026 as the country moved to foster new drivers of foreign trade and promote high-standard opening up.",
+      "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.885×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.264×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 23.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion",
-          "published_at": "2026-11-05T03:31:53+00:00",
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-11-04/China-s-services-trade-maintains-growth-amid-push-for-new-drivers-1RNTCQ8VhmM/p.html",
+          "published_at": "2026-11-04T15:08:12+00:00",
           "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-30e8c57366fa33bda615ac072f28a83288ff4788ca28b90db9b05e9793ba342e",
-      "title_en": "How Chinese AI is censoring the controversy around Mbappé’s Chairman Mao comments",
-      "summary_en": "Footballer Kylian Mbappé sparked a wave of condemnation across China when he implied that Chinese leader Mao Zedong was a dictator. In China, information about this controversy is being censored by Chinese AI chatbots.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.588×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 9.2h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/asia-pacific/20261104-how-chinese-ai-is-censoring-the-controversy-around-mbappes-chairman-mao-comments",
-          "published_at": "2026-11-04T20:28:09+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
+          "publisher_group": "cgtn"
         }
       ]
     },
@@ -162,10 +162,10 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 37,
+      "importance_score": 35,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.224×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 25.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.137×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 34.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -179,60 +179,15 @@
           "publisher_group": "bbc"
         }
       ]
-    },
-    {
-      "id": "evt-4a69f96546489c99514f81c88b499d52bde0e9a921cdf01889355783992ffc6b",
-      "title_en": "CGTN poll: China’s opening-up experience earns wide recognition",
-      "summary_en": "On the occasion of the 9th China International Import Expo (CIIE), CGTN, in collaboration with Renmin University of China through the New Era International Communication Research Institute, carried out the 2026 Global Survey on World Openness, involving 20,100 respondents across 44 countries worldwide.",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 36,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.259×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 23.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-11-04/CGTN-poll-China-s-opening-up-experience-earns-wide-recognition-1RNa2TZ6CSk/p.html",
-          "published_at": "2026-11-04T06:16:23+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-a974f2f67359333ec0e2088b771d043d6e4e3e1b6bd5f7d49b525c850469bd49",
-      "title_en": "How Ningbo is building its esports and digital cultural economy",
-      "summary_en": "As city leaders from around the world gather in Ningbo for the 2026 Global Mayors Dialogue, discussions on how technology is reshaping cities are bringing renewed attention to the role of emerging industries in urban development. Among the sectors gaining momentum is esports – an industry increasingly extending…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.246×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 24.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-11-04/How-Ningbo-is-building-its-esports-and-digital-cultural-economy-1RNeAulJKWk/p.html",
-          "published_at": "2026-11-04T05:20:58+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
     }
   ],
   "source_errors": [
     "esa_space_science: HTTP Error 404: Not Found",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168731 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168729 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168730 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168726 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168724 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168723 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168722 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168720 rejected: stale publication date",
@@ -249,11 +204,12 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168708 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168707 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168706 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/10/1168705 rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -274,13 +230,19 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sounds/play/w3ct8grr?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/videos/cmpq0g3g2r8zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cwly4ejrr72mo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cjg47dq6q775o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -305,23 +267,21 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_china: entry https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/audio/2026/nov/03/us-flint-water-crisis-dr-siddhartha-roy-podcast rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/nov/02/starwatch-catch-the-striking-trifecta-of-venus-the-moon-and-spica-at-break-of-dawn rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/australia-news/commentisfree/2026/nov/03/as-cancer-treatments-become-more-effective-we-must-ask-what-is-life-like-for-the-people-who-receive-them rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/world/commentisfree/2026/nov/01/the-guardian-view-on-listening-to-people-with-learning-disabilities-a-matter-of-life-and-death rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/29/science-weekly-sue-black-taking-stand-expert-witness rejected: stale publication date",
@@ -335,20 +295,20 @@
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/12/can-you-solve-it-the-treacherous-riddle-of-the-round-table rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/29/my-hands-are-shaking-what-its-like-to-be-an-expert-witness-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/27/perimenopause-is-everywhere-how-do-you-know-if-youre-in-it-video rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/02/content-creators-tv-network-midterm-coverage rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/2026/oct/31/trump-married-parents-payments rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/29/ralph-nader-midterm-elections rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/global-development/2026/nov/02/chinese-cigarettes-and-bolivian-beer-the-amazonian-town-transformed-by-a-rampant-mining-boom rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/politics/2026/nov/02/uk-making-up-china-policy-as-it-goes-along-mps rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi rejected: stale publication date",
@@ -362,8 +322,6 @@
     "guardian_china: entry https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-02/China-s-Wang-Yi-Wang-Wentao-to-co-chair-37th-APEC-Ministerial-Meeting-1RKcEPAO96o/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-11-03/2026-WIC-Wuzhen-Summit-opens-with-focus-on-open-source-AI-1RLpbtAJn0I/p.html rejected: stale publication date",
     "cgtn_world: entry https://news.cgtn.com/news/2026-11-02/Zelenskyy-proposes-meeting-Putin-in-T-rkiye-Kremlin-says-in-Moscow-1RJMuK5sfLO/p.html rejected: stale publication date",
