@@ -1,121 +1,73 @@
 {
   "schema_version": 1,
   "edition": "world",
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T12:55:40+00:00",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-08T21:48:40+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-090ab9945ff557ec05fb794846b2e485f13fc2177b28023f579c4dc0bc75bd48",
-      "title_en": "Who’s who at Cop31: key players at the climate talks",
-      "summary_en": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting? Hosting Cop was a key pledge from Australia’s prime minister, Anthony Albanese in 2021, while in opposition, before his successful election campaign. But arcane rules meant the country had to wait…",
-      "category": "politics_security",
+      "id": "evt-a2071046cc9395685aa3e0eca9faa5506b28a994e096a0c6fd21d6bf346d59d8",
+      "title_en": "Al Jazeera tries Baseball5 at Youth Olympics",
+      "summary_en": "Al Jazeera tries Baseball5 at Youth Olympics",
+      "category": "sports",
       "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.938×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.1h."
+      "sports_tags": [
+        "olympics"
       ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "importance_score": 53,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.872×0.20, authority=0.750×0.15, preference=1.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.4h."
+      ],
+      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-          "published_at": "2026-11-08T11:48:56+00:00",
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
+          "published_at": "2026-11-08T19:26:38+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
+          "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-5bd94325a1cee5bd5f0e27637b4b794b92235904795c3847035efc617d0734e5",
-      "title_en": "How the story of ‘the girl of 100 portraits’ inspired two books",
-      "summary_en": "Luc Corlouër made ‘deal’ with Prix Goncourt winner Philippe Jaenada over his research into model Louise Cansot, murdered in Paris in 1949 For almost eight decades the artists’ model Louise Cansot, the subject of the novel winning France’s most prestigious literary prize this year, was one of Paris’s forgotten murder…",
-      "category": "technology_science",
+      "id": "evt-d1e5d449de14dfe08ed3179b0c8c59ffd1fbbc2428aa07a66bd647473e644b12",
+      "title_en": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "summary_en": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.895×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.899×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/books/2026/nov/08/louise-cansot-paris-model-prix-goncourt-phillipe-jaenada-luc-corlouer",
-          "published_at": "2026-11-08T11:00:38+00:00",
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-08T19:58:02+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
+          "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-8be623d59dddb633554567e19e359dda44beb2c09711d481c0645a1fdce9dd76",
-      "title_en": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
-      "summary_en": "'Terrorism' investigation launched after government officials say suspect likely influenced by far-right ideology.",
+      "id": "evt-6ab3908aeb35a1cb789c9c8c32b0827cf0aba2144efec900cc97b1e66e8d7520",
+      "title_en": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
+      "summary_en": "Israel's ex-military chief Gadi Eisenkot was tapped by President Isaac Herzog to try to form a government Sunday evening. But his lack of a clear majority in parliament will make trying to forge a coalition alongside the country's divided minor parties an uphill struggle.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.985×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
-          "published_at": "2026-11-08T12:40:12+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-eb81e356d080f087807fecde97b508b526791ebf80edd8f3533997e8f21a24a2",
-      "title_en": "South Africa’s ANC suffers setback in local elections",
-      "summary_en": "With 99 percent of votes counted, President Cyril Ramaphosa's party wins 31 percent nationally.",
-      "category": "politics_security",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.966×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.964×0.20, authority=0.750×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
-          "published_at": "2026-11-08T12:19:14+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-71253f908efcc1cd8157ede382d37617e17657968d5960cb559bd36d5fd0b879",
-      "title_en": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
-      "summary_en": "French police have made extensive use of tear gas during protests that have roiled France in recent weeks, sometimes causing grievous injuries. Thousands of accounts of women experiencing acutely painful periods and increased bleeding are further challenging assumptions that the chemical irritant carries only minor…",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.942×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -123,18 +75,43 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/france/20261108-abnormal-menstraution-periods-fuel-calls-ban-tear-gas-french-protests-police",
-          "published_at": "2026-11-08T11:53:14+00:00",
+          "url": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government",
+          "published_at": "2026-11-08T21:10:13+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-72335cb85c894b65de4f7a28cf2e32c20939c77ec87db90a512d65e5971f04b9",
-      "title_en": "How the deadly shooting in Krakow unfolded",
-      "summary_en": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
-      "category": "economy_business",
+      "id": "evt-48e76b68c5464f6557894e7b7278a39947a85d732feff07f7c55a9fc49770af3",
+      "title_en": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+      "summary_en": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’ Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Benjamin Netanyahu’s allies as he said the veteran prime minister had brought…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.798×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+          "published_at": "2026-11-08T17:53:59+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-9ac15f97117f9c0c5d1c5b7e4d95a2c386ab38be4bc79af5a276a96276b9a62b",
+      "title_en": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary_en": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 49,
@@ -148,24 +125,99 @@
         {
           "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-08T09:29:24+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-08T18:22:53+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-0c722b1196496fe1d4c8eb287cd0315f4d314ac256c8bb11bfc0383f24ae5264",
-      "title_en": "Middle East live: Riyadh's financial district targeted following deadly Saudi strikes in Yemen",
-      "summary_en": "Riyadh’s Aramco Tower was damaged by falling debris on Sunday after the Saudi-led coalition fighting Yemen’s Houthi rebels intercepted two ballistic missiles headed for the capital’s financial district. The attack comes a day after Saudi ​air strikes killed at least 33 people near Sanaa. Follow our liveblog for the…",
-      "category": "other",
-      "region": "middle_east",
+      "id": "evt-086dbacac96f112e35ee5155ff673f27b5228675afd40e204fc09ce6c8fb80e4",
+      "title_en": "The Guardian view on Ordnance Survey maps: still a superior way to navigate the landscape | Editorial",
+      "summary_en": "The 225th anniversary of the organisation’s first publication is an opportunity to celebrate its unique contribution to our sense of place In his one-paragraph short story, On Exactitude in Science, Jorge Luis Borges imagines an empire in which the level of cartographical ambition is so high that a map is made on a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.776×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_science",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/commentisfree/2026/nov/08/the-guardian-view-on-ordnance-survey-maps-still-a-superior-way-to-navigate-the-landscape",
+          "published_at": "2026-11-08T17:25:45+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-eca3e8f1641d61696d1fada76679212c0e7486e5c0ab4baaa471fd0e97be899e",
+      "title_en": "NASA Announces $1 Million to Students for Moon Base Challenge",
+      "summary_en": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon…",
+      "category": "technology_science",
+      "region": "global",
       "sports_tags": [],
       "importance_score": 47,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.834×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.692×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
+          "published_at": "2026-11-08T15:26:38+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-03e1d16218324eb3f190c23398b8319361e223ae861fcbbe3936d03293b412d3",
+      "title_en": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
+      "summary_en": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 46,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.791×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+          "published_at": "2026-11-08T17:44:51+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-9b776db72dc1ee5f81a7d0d3469a707e238c936cdee9ff1503f5a2e15e3f6c1f",
+      "title_en": "Poland in shock after 6 killed in Krakow far-right shooting",
+      "summary_en": "Poland on Sunday launched a terror probe into the mass shooting in Krakow the day before, in which six people were killed and many more were injured. Authorities have said that the 24-year-old suspect, who used a semi-automatic rifle in his killing spree, was “fascinated by far-right ideologies”. He is currently in…",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 44,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.650×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 7.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -173,35 +225,10 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
-          "published_at": "2026-11-08T09:47:36+00:00",
+          "url": "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting",
+          "published_at": "2026-11-08T14:21:18+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-e165ae5d913970d8af7d8b70ff2659a0aeed99c3c0bf2630fdc441baeb290e63",
-      "title_en": "Countryside managers prepare for climate change",
-      "summary_en": "North Pennines National Landscape's plan includes restoring peatland and wildfire preparedness.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.722×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 5.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_science",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-08T07:16:55+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
         }
       ]
     },
@@ -212,10 +239,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 45,
+      "importance_score": 40,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.636×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 7.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.381×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 16.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -237,10 +264,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.555×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 10.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.333×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 19.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -256,93 +283,49 @@
       ]
     },
     {
-      "id": "evt-d145ed4308bf280465158a780f7e1e2b006485660e5f2301a1def1a9866d4974",
-      "title_en": "Looking for the Perfect Match? Business Speed Dating at CIIE",
-      "summary_en": "Looking for the Perfect Match? Business Speed Dating at CIIE",
-      "category": "economy_business",
+      "id": "evt-4fbebfc20f98d7280807a98699fdceda4e34363d5e56d86df488a25dd5ca1108",
+      "title_en": "Iran-US tensions rise amid maritime incidents and diplomatic efforts",
+      "summary_en": "Iran-US tensions rise amid maritime incidents and diplomatic efforts",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 42,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.553×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 10.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.325×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 19.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "cgtn_china",
+          "source_id": "cgtn_world",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-11-08/Looking-for-the-Perfect-Match-Business-Speed-Dating-at-CIIE-1RTAXufVZAI/p.html",
-          "published_at": "2026-11-08T02:40:44+00:00",
+          "url": "https://news.cgtn.com/news/2026-11-08/Iran-US-tensions-rise-amid-maritime-incidents-and-diplomatic-efforts-1RTD0WrvhUQ/p.html",
+          "published_at": "2026-11-08T02:21:54+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-d29ca0fe24b581fdcf934569b2c41d4fbf14676c77e92fac756b3fdae5423591",
-      "title_en": "NASA Awards Moon Base Transportation, Technology, Science Projects",
-      "summary_en": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 42,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.442×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 14.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
-          "published_at": "2026-11-07T22:47:03+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
         }
       ]
     }
   ],
   "source_errors": [
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: HTTP Error 404: Not Found",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168758 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168757 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168751 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168753 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168752 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168750 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168749 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168743 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168742 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168735 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168741 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168740 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168738 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168737 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168736 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168732 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168725 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168731 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168729 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168730 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168726 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168724 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168723 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168722 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168720 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168719 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168715 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168718 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168717 rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/image-article/m30s-sparkling-stars/ rejected: stale publication date",
+    "nasa_news: entry https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/image-article/midwestern-city-lights/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/ rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -366,12 +349,19 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm20rrer25ezo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/cq369l9r634ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -379,10 +369,16 @@
     "bbc_science: entry https://www.bbc.co.uk/news/videos/c94g1m232pgyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmrlyy5xw276o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cjg47dq6q775o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cqm26m2l4p7eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -409,25 +405,25 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/oct/26/marco-rubio-us-secretary-of-state-india-visit-mumbai rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/nov/06/better-conversation-study-pink-noise rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/uk-news/2026/nov/05/origin-stonehenge-altar-remains-enigma-north-east-scotland-ruled-out rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/04/swapping-dairy-milk-cheese-yoghurt-plant-based-vegan-alternatives-deficiencies-micronutrients-iodine rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/nov/05/ferritin-face-can-you-really-diagnose-low-iron-from-a-selfie-podcast rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/us-news/2026/nov/04/kseniia-petrova-harvard-frog-embryos rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/03/nasa-telescope-neil-gehrels-swift-observatory rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/nov/04/robot-dogs-ice-dimensional-warhound rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/nov/04/global-pandemic-mink-farm-utah-farming-livestock rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/australia-news/commentisfree/2026/nov/03/as-cancer-treatments-become-more-effective-we-must-ask-what-is-life-like-for-the-people-who-receive-them rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/nov/03/us-flint-water-crisis-dr-siddhartha-roy-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/29/science-weekly-sue-black-taking-stand-expert-witness rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/oct/27/perimenopause-how-do-you-know-if-youre-in-it-podcast rejected: stale publication date",
@@ -440,6 +436,8 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/29/my-hands-are-shaking-what-its-like-to-be-an-expert-witness-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/29/astronauts-step-out-of-the-iss-for-spacewalk-watch-live rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/27/perimenopause-is-everywhere-how-do-you-know-if-youre-in-it-video rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/nov/06/us-job-growth-october rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears rejected: stale publication date",
@@ -449,13 +447,12 @@
     "guardian_business: entry https://www.theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/02/content-creators-tv-network-midterm-coverage rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/06/dream-ticket-super-rich-singapore-airlines-largest-double-bed rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/commentisfree/2026/nov/06/hong-kong-prisoners-china-signal-democracy-joshua-wong rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/05/uk-and-us-condemn-second-jail-term-handed-to-hong-kong-activist-joshua-wong rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/film/2026/nov/05/raise-the-red-lantern-review rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case rejected: stale publication date",
@@ -469,9 +466,6 @@
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/alaska-unalaska-fishing-trump rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry rejected: stale publication date",
     "cgtn_china: entry https://newsus.cgtn.com/news/2026-11-06/Atlanta-is-ready-for-pandas-1RQ6U6psLaE/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-06/One-Blue-World-Xiapu-Life-Among-the-Seaweed-Farms-1RPf28w3CqQ/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-06/China-passes-law-to-prevent-punish-cross-border-corruption-1RQnmWfvd0k/p.html rejected: stale publication date",
