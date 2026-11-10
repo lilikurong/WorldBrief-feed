@@ -1,30 +1,55 @@
 {
   "schema_version": 1,
   "edition": "china",
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T14:29:51+00:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-10T22:56:54+00:00",
   "is_underfilled": true,
   "events": [
     {
-      "id": "evt-01c8b6098559659db42654711aa9435a8d66a494464978c113e393f092896e0e",
-      "title_en": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
-      "summary_en": "California lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice Huang Business live – latest updates Nvidia’s board needs to do some succession planning – sharpish Nvidia and its chief executive, Jensen Huang, have been accused of misleading shareholders in a lawsuit over the Chinese…",
-      "category": "economy_business",
+      "id": "evt-2c8c0fb2d33deae72f457b3a5df5b14aabbe57ae031ed49113057538061ed349",
+      "title_en": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "summary_en": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.905×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.913×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_business",
+          "source_id": "bbc_business",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-10T21:22:36+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-4c238778d204dd8164dfcdbf0a729521bda91af7461ef09f0df4763825222a29",
+      "title_en": "‘Flying cars’ could launch in China next summer, maker of two-seat model says",
+      "summary_en": "XPeng says its $300k low-altitude device will soon be ready for emergency services and recreational use in rural areas People could start taking trips in so-called flying cars in China as soon as next summer, the manufacturer of a two-seater vehicle with autopilot model has said. Deli Zhao, the chief executive of the…",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 46,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.679×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_china",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
-          "published_at": "2026-11-10T12:45:54+00:00",
+          "url": "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng",
+          "published_at": "2026-11-10T16:14:50+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
@@ -37,10 +62,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.745×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 5.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.457×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 13.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -56,102 +81,52 @@
       ]
     },
     {
-      "id": "evt-c87d21a94753826703a89062906ccfc84bdcb7ff2af2af108fd10c96dc9106d1",
-      "title_en": "Watch: Man smashes Chinese government building with excavator",
-      "summary_en": "Police say they have detained a 47-year-old suspect and no one was injured in the incident.",
+      "id": "evt-37a2082e0c420d08758b8a19c3aed3cafcbaed66ce6a396f3b05415f481be3c0",
+      "title_en": "China hands over remains of US pilots killed in anti-Japanese war",
+      "summary_en": "China hands over remains of US pilots killed in anti-Japanese war",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.755×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.313×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 20.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-10T09:37:15+00:00",
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-11-10/China-hands-over-remains-of-US-pilots-killed-in-anti-Japanese-war-1RX50NyfWJG/p.html",
+          "published_at": "2026-11-10T02:50:14+00:00",
           "published_precision": "second",
-          "publisher_group": "bbc"
+          "publisher_group": "cgtn"
         }
       ]
     },
     {
-      "id": "evt-4377331e499f0361ead359f75f287d268f233b5583421552f07156b6f43ab431",
-      "title_en": "China's charm offensive pays off as foreign tourism rebounds",
-      "summary_en": "How is tourism faring in China seven years after the Covid-19 pandemic? The country reopened its borders in 2023 and is playing the charm card to restore its image. A strategy that’s paying off: last year the number of tourists exceeded pre-pandemic levels, and French travelers are among those flocking there.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.816×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261110-china-s-charm-offensive-pays-off-as-foreign-tourism-rebounds",
-          "published_at": "2026-11-10T10:58:28+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-354460d7a316348b13eb24ef3db7e7ffb9b65742569c28bdf7f975f0888033c5",
-      "title_en": "Nvidia spy scandal fuels debate over chip exports to China",
-      "summary_en": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO's relationship with alleged spy.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 46,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.758×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
-          "published_at": "2026-11-10T09:42:04+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-6c091700fe53e70b626a8dcf58ecc2aa9807a7bae99b00823ab5f3249b527987",
-      "title_en": "China's 'impossible to ignore' tech rise on display at Web Summit in Lisbon",
-      "summary_en": "One of Europe's biggest annual tech events, the Web Summit, kicked off in the Portuguese capital this week with the biggest ever delegation of Chinese business leaders and policymakers. FRANCE 24's Charles Pellegrin talks to Dr. Dan Wang, China Director at Eurasia Group, about EU-China tech relations, the climate of…",
+      "id": "evt-333d67ea92a2f84bb894b031ec169ba335fb0ea4c818175c9f399fc0a1111223",
+      "title_en": "China, Canada conclude second strategic economic dialogue",
+      "summary_en": "The second China-Canada Strategic Economic and Financial Dialogue was held on Monday in Vancouver.",
       "category": "economy_business",
-      "region": "europe",
+      "region": "north_america",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.788×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.290×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 21.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/business/20261110-china-s-impossible-to-ignore-tech-rise-on-display-at-web-summit-in-lisbon",
-          "published_at": "2026-11-10T10:22:50+00:00",
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-11-10/China-Canada-conclude-second-strategic-economic-dialogue-1RWVRlx92xi/p.html",
+          "published_at": "2026-11-10T01:31:37+00:00",
           "published_precision": "second",
-          "publisher_group": "france24"
+          "publisher_group": "cgtn"
         }
       ]
     },
@@ -162,10 +137,10 @@
       "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.305×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 20.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.187×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 29.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -177,56 +152,6 @@
           "published_at": "2026-11-09T17:57:42+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-a31ef7c6c0bae3c3d9411806f80d7ebce3cd843f19f04c004174a5f77742220c",
-      "title_en": "2026 China International Intelligent Communication Forum opens in Wuxi",
-      "summary_en": "The 2026 China International Intelligent Communication Forum (CIICF) opened on Monday in Wuxi, east China's Jiangsu Province, with artificial intelligence and its impact on global media taking center stage.",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 36,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.259×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 23.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-11-09/2026-China-International-Intelligent-Communication-Forum-opens-in-Wuxi-1RWdtXtZJhC/p.html",
-          "published_at": "2026-11-09T15:08:12+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-48ede81f357acd6523023891b879602c6e31fd551e29a3156b17caf689e311b5",
-      "title_en": "China and Pakistan are set to make history in space cooperation",
-      "summary_en": "China and Pakistan are set to make history in space cooperation",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.215×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 26.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-11-09/China-and-Pakistan-are-set-to-make-history-in-space-cooperation-1RVR3QBhSrm/p.html",
-          "published_at": "2026-11-09T11:54:35+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
         }
       ]
     }
@@ -248,13 +173,6 @@
     "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168741 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168740 rejected: stale publication date",
     "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168738 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168737 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168736 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168732 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168725 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168731 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168729 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168730 rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -311,26 +229,25 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/nov/08/new-drug-high-blood-pressure-baxdrostat rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/uk-news/2026/nov/05/verica-rome-invade-britain-queen-or-king rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/04/us-firm-varda-space-industries-manufacturing-drugs-in-space rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/commentisfree/2026/nov/08/the-guardian-view-on-ordnance-survey-maps-still-a-superior-way-to-navigate-the-landscape rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/picture/2026/nov/07/steve-jones-dangerous-tech-innovations-cartoon-ai-fire rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/nov/04/robot-dogs-ice-dimensional-warhound rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/nov/04/global-pandemic-mink-farm-utah-farming-livestock rejected: stale publication date",
@@ -347,16 +264,16 @@
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/06/us-job-growth-october rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/technology/2026/nov/05/tech-barons-america-musk-bezos-zuckerberg rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/nov/06/dream-ticket-super-rich-singapore-airlines-largest-double-bed rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/commentisfree/2026/nov/08/the-guardian-view-on-a-tale-of-two-activists-joshua-wong-and-au-kam-san-should-not-be-behind-bars rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/07/ukraine-war-briefing-beijing-confirms-historic-xi-trump-putin-meeting-under-discussion rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health rejected: stale publication date",
@@ -366,7 +283,6 @@
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/05/joshua-wong-hong-kong-prison-letters-sentenced-10-years rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-08/Foreign-military-attach-s-impressed-by-PLA-helicopter-flight-show-1RSYNs1jkA0/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-08/Looking-for-the-Perfect-Match-Business-Speed-Dating-at-CIIE-1RTAXufVZAI/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-07/Benin-seeks-China-s-expertise-to-better-manage-marine-resources-1RSodyfUa2I/p.html rejected: stale publication date",
