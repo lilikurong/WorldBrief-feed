@@ -2,20 +2,20 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-11-14",
-  "generated_at": "2026-11-13T23:20:53+00:00",
+  "generated_at": "2026-11-14T05:26:13+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-f538a1c32d3cfc568af866a975d15208e41ff273f3da2e05c3fbd5abae70334b",
-      "title_en": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
-      "summary_en": "Sean Duffy says technicians from Federal Aviation Administration are investigating; Trump’s homeland security secretary says ‘no indication as of yet’ of cyberattack FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights Sign up for the Breaking News US email In other tech-related news,…",
+      "id": "evt-72a9df1872b51e7bb47a8a26028c8d6936c53309db8c59f0ce114556911beb39",
+      "title_en": "University hounded out of Hungary by Orbán reaches out to new government",
+      "summary_en": "Prospect of partial return to Budapest by Central European University suggests confidence in Hungary’s future A university that Viktor Orbán tried to chase out of Hungary is open to expanding its presence in Budapest, in a mark of confidence in the country’s democratic future. Carsten Q Schneider, the interim…",
       "category": "politics_security",
-      "region": "global",
+      "region": "europe",
       "sports_tags": [],
-      "importance_score": 53,
+      "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.990×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.976×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -23,8 +23,133 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-          "published_at": "2026-11-13T23:10:48+00:00",
+          "url": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
+          "published_at": "2026-11-14T05:00:35+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-6bf2416457216eea5e702e05e5300787910c3e28f2a12a68b51d4bf650971148",
+      "title_en": "Lagos Art Week confronts history, identity and belonging",
+      "summary_en": "ART X Lagos celebrates Africa's heritage and contemporary creativity.",
+      "category": "other",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.962×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/lagos-art-week-confronts-history-identity-and-belonging?traffic_source=rss",
+          "published_at": "2026-11-14T04:46:01+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-8bec9e23429b13f7d2cd9f64417a53eade307c42d4d8f8be494d77456a35d21e",
+      "title_en": "Trump, Xi and Putin to hold first three-way summit in China",
+      "summary_en": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.971×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+          "published_at": "2026-11-14T04:55:58+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-cc36a4f4a77a7683cabd5d72de2cce784030e44e355acfed5080850a83f3d156",
+      "title_en": "Bluetongue virus confirmed on County Down farm",
+      "summary_en": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.743×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 5.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_science",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T00:17:45+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-e42c17029126e3461b35826d986c520b61e497590392194d8f5efe6bf6263f2b",
+      "title_en": "FAA lifts nationwide ground stop on all US flights",
+      "summary_en": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage.",
+      "category": "other",
+      "region": "north_america",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.861×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights",
+          "published_at": "2026-11-14T02:50:21+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-ff09b19b75ba0382ffd86779dd42f118a4366925402a0febf98b056c00b8dc6b",
+      "title_en": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
+      "summary_en": "Experts say outage exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email, free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small businesses to close, with costs expected to run…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.769×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+          "published_at": "2026-11-14T00:52:48+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
@@ -37,10 +162,10 @@
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 52,
+      "importance_score": 47,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.981×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.690×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -56,141 +181,16 @@
       ]
     },
     {
-      "id": "evt-2c166a72c4671c8ba310f6c088344203414b4c18cf445921626fac555bed05d6",
-      "title_en": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-      "summary_en": "Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security The EU’s foreign policy chief has warned against “walking into the traps that Russia is setting” as she said Moscow was trying to start a debate about European security in order to divert attention from its…",
-      "category": "politics_security",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.855×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
-          "published_at": "2026-11-13T20:38:25+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-bd0a331858f2598a00d9efad5a22703af7bf0999639aa901be2b2cd7c5e1bd7b",
-      "title_en": "Rescue efforts under way after tanker strikes river cruise boat in US",
-      "summary_en": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.968×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
-          "published_at": "2026-11-13T22:47:16+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-978df0e39b8166dd6092c6ce9647a99d9587e36bab3a14b5343efb4e996935e0",
-      "title_en": "France among five major powers to represent EU in Ukraine talks",
-      "summary_en": "European Council President Antonio Costa on Friday said that Brussels will send diplomats from the bloc and five countries, including the UK, France, Germany, Italy and Poland, to upcoming Ukraine talks.",
-      "category": "politics_security",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.906×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks",
-          "published_at": "2026-11-13T21:38:52+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-3c3549e321ceb40432dcb4d1f6dc7d1b5ff13a714d18516785c52024f3e282e3",
-      "title_en": "What could El Niño mean for winter weather in the US and Canada?",
-      "summary_en": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex.",
-      "category": "other",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 48,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.771×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_science",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-13T18:50:15+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-b7ac8039dae64093366b6944a94e61b4176f048c45f3c4d313b2750bbb9547a9",
-      "title_en": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
-      "summary_en": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 47,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.834×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.1h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
-          "published_at": "2026-11-13T20:12:34+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
       "id": "evt-861b19996aa7446225b674effa3b77fa98d813a5faf3e374b3a6ebcc5e5fc0fb",
       "title_en": "Outbursts from a Massive Star",
       "summary_en": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.680×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 6.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.478×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 12.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -212,10 +212,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.658×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 7.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.463×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 13.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -237,10 +237,10 @@
       "category": "society_health_environment",
       "region": "asia_pacific",
       "sports_tags": [],
-      "importance_score": 44,
+      "importance_score": 40,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.677×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 6.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.476×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 12.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -256,66 +256,16 @@
       ]
     },
     {
-      "id": "evt-7df550ee30d4bdf12b2579618e64f87f4461a12e84004b43067646f55ac9f29f",
-      "title_en": "COP31: Climate finance falls short as calls grow for polluters to pay",
-      "summary_en": "From emotional appeals for climate justice to high-stakes negotiations over billions of dollars, finance dominated discussions at COP31 on Friday. UN Secretary-General António Guterres warned that even tripling adaptation funding for vulnerable countries would meet less than a third of their needs, as pressure…",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 43,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.519×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 11.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168802",
-          "published_at": "2026-11-13T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "un_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-82c6c48f2d3db70eb5ea8041fe8585af5225a79215b280d9e1c1d2846635a148",
-      "title_en": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
-      "summary_en": "Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge. Iran has all but closed the Strait of Hormuz, which carried a fifth of the world’s oil before the conflict. Attacks on shipping are rising, and efforts to stop a return to full-scale fighting have yet to…",
+      "id": "evt-b60dbe2ddb28f6ecfa26f74864edcc05b48f4d48e3f669ba855a9427d23d8326",
+      "title_en": "Seeking common security in a turbulent world",
+      "summary_en": "Seeking common security in a turbulent world",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 43,
+      "importance_score": 38,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.519×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 11.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "un_news",
-          "publisher": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168804",
-          "published_at": "2026-11-13T12:00:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "un_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-6901750975fb698f816e56041df172d62c8aab39d2cb69e484ae64bb5a8012eb",
-      "title_en": "President Xi to attend APEC Economic Leaders' Meeting in Shenzhen",
-      "summary_en": "President Xi to attend APEC Economic Leaders' Meeting in Shenzhen",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 36,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.286×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 21.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.364×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 17.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -323,8 +273,33 @@
         {
           "source_id": "cgtn_china",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-11-13/President-Xi-to-attend-APEC-Economic-Leaders-Meeting-in-Shenzhen-1S1VV8klmPS/p.html",
-          "published_at": "2026-11-13T01:39:11+00:00",
+          "url": "https://news.cgtn.com/news/2026-11-13/Seeking-common-security-in-a-turbulent-world-1S2Crc0wzuM/p.html",
+          "published_at": "2026-11-13T11:55:47+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        }
+      ]
+    },
+    {
+      "id": "evt-af07ca9894926bae38047afa028d8cf78b25a47fd77c5d4f944df67923b37f26",
+      "title_en": "Chinese envoy calls for dialogue, de-escalation in Yemen, Red Sea",
+      "summary_en": "Special Envoy of the Chinese Government on the Middle East Issue Zhai Jun called for dialogue and de-escalation amid rising tensions in Yemen and the Red Sea during a meeting with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud in Riyadh on Thursday.",
+      "category": "politics_security",
+      "region": "middle_east",
+      "sports_tags": [],
+      "importance_score": 36,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.268×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 22.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_china",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-11-13/Chinese-envoy-calls-for-dialogue-de-escalation-in-Yemen-Red-Sea-1S2ifvx62D6/p.html",
+          "published_at": "2026-11-13T06:38:22+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -332,28 +307,9 @@
     }
   ],
   "source_errors": [
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: HTTP Error 404: Not Found",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168788 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168783 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168787 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168784 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168782 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168781 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168779 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168778 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168775 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168774 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168772 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168771 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168770 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168769 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168768 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168766 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168763 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168762 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168761 rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/ rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -387,11 +343,11 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqm2l304w0x9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cw98zm084dr3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmrlyy5xw276o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -435,6 +391,7 @@
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/audio/2026/nov/12/is-bmi-working-cop31-latest-the-science-of-great-conversation-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/nov/11/ovarian-cancer-study-early-detection-blood rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/10/what-happens-to-your-brain-when-the-days-get-darker-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/business/2026/nov/10/pharma-firms-weight-loss-drugs-insulin-glp-1-ozempic-mounjaro rejected: stale publication date",
@@ -457,7 +414,6 @@
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/26/can-you-solve-it-a-magical-melody-from-the-mozart-of-math rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/06/is-ferritin-face-real-why-your-iron-levels-might-be-low-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/04/how-a-scientist-went-from-hero-to-traitor-in-a-us-water-crisis-video rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/video/2026/oct/29/my-hands-are-shaking-what-its-like-to-be-an-expert-witness-video rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/10/october-inflation-report rejected: stale publication date",
@@ -471,42 +427,42 @@
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/10/california-billionaire-tax-opposition rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/news/audio/2026/nov/12/the-alleged-spy-who-loved-me-the-nvidia-scandal-podcast rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/australia-news/audio/2026/nov/11/a-spy-a-billionaire-and-an-affair-of-global-consequence-full-story-podcast rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/11/germany-bans-chinese-drones-military-bases-spying-security rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31 rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-11/How-hand-drawn-art-connects-military-attach-s-to-the-Long-March-1RYFM8WUYko/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-11/China-hands-over-remains-of-US-airmen-found-along-WWII-Hump-Route-1RYylqTxkyc/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-11/Echoes-of-the-Silk-Road-1RXBLeEZfc4/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-11/The-Sea-We-Call-Home-A-New-CGTN-Documentary-on-the-South-China-Sea-1RXdSxX5fCE/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-11/Former-Singapore-Foreign-Minister-APEC-s-role-in-a-multipolar-world-1RXTpEvQf2U/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-11/The-South-China-Sea-Frame-by-Frame-1RXgzvhHcmA/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-11/Chinese-vice-premier-stresses-improvement-in-industrial-innovation--1RYvVViO5YQ/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-11/Wang-Yi-meets-Slovak-FM-Blan-r-in-Beijing-1RXOwal0pjO/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-10/Trade-fair-on-China-Vietnam-border-highlights-growing-economic-ties-1RXBI1xF67e/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-11/Will-Trump-s-grand-Washington-D-C-arch-become-a-reality--1RYvixPdyo0/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-10/Wang-Yi-calls-on-China-Slovakia-to-deepen-cooperation-1RXOCHshO4E/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/news-1RYtVlMjbCo/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-10/Wang-Yi-China-France-must-boost-dialogue-to-tackle-global-challenges-1RXNVBHtc7S/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-10/Russian-Ukrainian-delegations-arrive-in-Abu-Dhabi-for-talks-1RWZp641PRC/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-11/Hegseth-defends-war-record-amid-US-House-impeachment-effort-1RYp5B8tw08/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/Anthropic-launches-powerful-new-models-ahead-of-Wall-Street-debut-1RYF8UNxkGY/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/China-hands-over-remains-of-US-airmen-found-along-WWII-Hump-Route-1RYylqTxkyc/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-10/Beyond-trade-China-and-US-medical-device-firms-expand-two-way-ties-1RXsX9dSqAw/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-10/Science-as-common-ground-How-research-bridges-divides-1RXJummsQik/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-10/INTERPOL-operation-nets-262-arrests-in-migrant-smuggling-crackdown-1RXEsb3YCD6/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/UN-steps-up-Gaza-aid-efforts-as-heavy-rains-affect-over-200-000-people-1RYEZNp8Cly/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-10/UN-high-seas-treaty-Experts-discuss-how-to-make-it-work-1RXx2k70it2/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-10/Ex-Japanese-officer-faces-18-months-for-storming-Chinese-embassy--1RXFzaW2mOY/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-10/CIIE-2026-This-booth-steals-the-show-1RXTgOESO0E/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-10/Africa-s-challenges-take-centre-stage-at-Paris-Peace-Forum-1RXpF0mY2Qw/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-10/China-s-import-expo-hits-record-85-billion-in-intended-deals-1RXJWUaREic/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-10/Tongan-student-explains-why-healthy-coastlines-matter-1RXnkqAKFKE/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-10/SEA-youth-look-to-China-for-better-ocean-governance-new-report-says-1RXzQRhriIU/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-10/Cameroon-sets-February-7-date-for-delayed-legislative-local-elections-1RXngjtl7zy/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-11/New-China-Peru-free-trade-agreement-takes-effect-1RYodgbHR6w/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-12/Chinese-vice-president-attends-COP31-Antalya-Leaders-Summit-1S0cUC9R3IA/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-12/APEC-in-an-age-of-change-Building-trust-via-openness-and-cooperation-1RZBMqPPV5e/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-12/China-holds-gathering-to-mark-160th-anniversary-of-Sun-Yat-sen-s-birth-1S0lufv1PtC/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-12/Fresh-Water-on-the-Island-1RZ9mHV7YOY/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-11/CIIE-2026-concludes-with-record-high-achievements-1RZhRRV4h4Q/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-12/Live-streams-light-up-Double-11-sales-in-Brazil-1S03KLQ3l6M/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/COP31-unveils-English-report-on-China-s-green-development-1RZai5JXvJ6/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-12/El-Salvador-s-Bukele-releases-video-of-operation-in-Haiti-1S05Hr53W00/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-12/Iran-opens-women-s-training-camp-amid-fears-of-renewed-attacks-1RZJtvj2Rpu/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/news-1RZjMaLSVR6/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-12/Chinese-vice-president-attends-COP31-Antalya-Leaders-Summit-1S0cUC9R3IA/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/CIIE-2026-concludes-with-record-high-achievements-1RZhRRV4h4Q/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-12/Four-million-Spanish-workers-strike-over-housing-crisis-1S0cubRpsc0/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/Wang-Yi-holds-positive-constructive-phone-talks-with-Rubio-1RZB7HDqNQA/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/-Dare-to-become-the-world-s-first-Why-dreamers-flock-to-Shenzhen-1RYZBgFE5l6/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/news-1RZkIONLZQs/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/Peace-Ark-mission-links-South-African-student-with-Chinese-doctors-1RXTqhvZ25q/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/Flying-cars-AI-and-ocean-voyages-China-US-youth-exchanges-flourish-1RYPJP6YjcI/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-12/UN-relief-chief-calls-for-opening-of-all-Gaza-crossings-1S0cyadwLmw/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/PLA-Air-Force-unveils-its-international-social-media-accounts-1RZ66A2gpy0/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/-Xi-Jinping-s-key-quotes-on-fighting-poverty--1RZ81YocQdG/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/news-1RZga98dQA0/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/Chinese-envoy-calls-for-joint-efforts-to-restore-Middle-East-peace-1RZejVJd9sc/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-12/House-Republicans-block-bid-to-impeach-Pete-Hegseth-1RZZ9vJajzq/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-10/How-BRICS-youth-bring-the-Global-Civilization-Initiative-to-life-1RXC5ck2KiY/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-12/news-1S08ujHLoSQ/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-12/Dire-warning-from-UN-chief-at-COP31-1RZZT1mKNSo/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/Super-El-Nino-drives-Western-Pacific-typhoons-chief-forecaster-1RYW1xZznIA/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-11/Global-guests-gather-in-SH-Discovering-People-s-City-CIIE-1RZiSX2OLEA/p.html rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/chemistry/2026/press-release/ rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/economic-sciences/2026/press-release/ rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/literature/2026/press-release/ rejected: stale publication date",
