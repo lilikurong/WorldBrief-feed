@@ -1,78 +1,72 @@
 {
   "schema_version": 1,
   "edition": "world",
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T13:08:03+00:00",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-14T22:04:23+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-9af093ff05ac082ec34c663935da69085993821a4b8c782a5cf24978e0b89684",
-      "title_en": "Microsoft says services fully restored after day-long global outage",
-      "summary_en": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the world. The technology company said on… Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 59,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.690×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 2; age: 6.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_business",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-14T06:42:27+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        },
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-          "published_at": "2026-11-14T11:54:31+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-258fc530da333c9b69e613d3716b968b14c914c2083fac0399b9d6c03cfdf7d6",
-      "title_en": "SpaceX not being honest about ‘political’ reasons for slowing Starshield, says Zelenskyy",
-      "summary_en": "Throttling of Elon Musk’s military-grade satellite system affecting whole frontline, says Ukraine’s president Volodymyr Zelenskyy has accused SpaceX of not telling the truth over restrictions to Ukraine’s Starshield satellite system, saying the decision to impose speed limits appears to be “political” rather than…",
-      "category": "politics_security",
+      "id": "evt-63efd2322a6ff9de62e95379335dd062118caacf6e371bde301f7d4ad64b0436",
+      "title_en": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "summary_en": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
       "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.889×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.907×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy",
-          "published_at": "2026-11-14T11:05:33+00:00",
+          "source_id": "bbc_world",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-14T20:23:06+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-80e98371e71af72ac806970d2dead962548e9a1d3b741ef9c54ca3b994703600",
+      "title_en": "Youth Olympic Games organisers hail Senegal's capability to host major events",
+      "summary_en": "Dakar 2026 is over. Two weeks of competition, thousands of young athletes and a historic first for Africa. The Youth Olympic Games brought the world to Senegal for the first Olympic sporting event ever held on the continent. From record-breaking performances to historic medals for the host nation, Dakar 2026 has been…",
+      "category": "sports",
+      "region": "africa",
+      "sports_tags": [
+        "olympics"
+      ],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.765×0.20, authority=0.750×0.15, preference=1.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.6h."
+      ],
+      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/youth-olympic-games-organisers-hail-senegal-s-capability-to-host-major-events",
+          "published_at": "2026-11-14T17:25:51+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
         }
       ]
     },
     {
       "id": "evt-8a6751b194cebef086296ea7c72eb487eda059d62add9f3a78b817611ccf2871",
       "title_en": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary_en": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "summary_en": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.920×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.924×0.20, authority=0.900×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 1.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
@@ -82,123 +76,23 @@
           "source_id": "bbc_world",
           "publisher": "BBC",
           "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-14T11:41:20+00:00",
+          "published_at": "2026-11-14T20:41:45+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-484436a8b7a654fcdd19b08803b0d64bd14b33c6823462154b8a1197bf0079e3",
-      "title_en": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF",
-      "summary_en": "The SAF successes in Kordofan are seeing the battle against the RSF turn in favour of the Sudanese government.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.982×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf?traffic_source=rss",
-          "published_at": "2026-11-14T12:49:17+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-a17ce6727c81df80c78b56009aff7a63aeed984b2574a9f880df358f62dff6b6",
-      "title_en": "Who are the 'street medics' showing up at protests around the world?",
-      "summary_en": "From treating tear gas exposure to tending to injuries, street medics have become an increasingly common sight at protests all over the world. But who exactly are they and when did they start showing up at demonstrations? Story by Daniel Quinlan.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.954×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/who-are-the-street-medics-showing-up-at-protests-around-the-world",
-          "published_at": "2026-11-14T12:19:19+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-a1dff579d96daaa7aaa6e1811699c88dd612994292b0a88c8c67e6a1a672521c",
-      "title_en": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
-      "summary_en": "Ethiopia accuses Eritrea of leading TPLF attacks in Tigray, with Egypt providing logistical support.",
+      "id": "evt-c320c48d2ac385c519c9f9757ec59c3e75c5857a80aae2d05046deff553259ea",
+      "title_en": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
+      "summary_en": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol- and alcohol-production plant. The discovery reported at…",
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.962×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks?traffic_source=rss",
-          "published_at": "2026-11-14T12:28:19+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-3569e17b26ee337807f7657f680b46036b8f7969a8b23d1adefb1147940b8081",
-      "title_en": "France fend off South African comeback to clinch long-awaited win in Paris",
-      "summary_en": "Twenty-one years after last beating the Springboks in Paris, Les Bleus held out for a 21-19 win over the world champions on Friday after a nailbiting finale. Antoine Dupont and company are now one step away from reaching the Nations Championship final in London.",
-      "category": "other",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 48,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.882×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.2h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/sports/20261114-france-fend-off-south-african-comeback-to-clinch-long-awaited-win-in-paris",
-          "published_at": "2026-11-14T10:58:10+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-9f1e9a84601a7d151856680b6f8b6977d29bcfb7ac0c4a1d9f5c806815481501",
-      "title_en": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
-      "summary_en": "Experts say disruption exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email, free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small businesses to close, with costs expected to…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 46,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.675×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 6.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.900×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -206,8 +100,108 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
-          "published_at": "2026-11-14T06:19:04+00:00",
+          "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+          "published_at": "2026-11-14T20:14:27+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-b8afb25b5acb9407d0035dce7950214d4d429dbdc9110acbf5f1bcfadfc2cefc",
+      "title_en": "US flights resume after ageing technology blamed for outage",
+      "summary_en": "US flights resume after ageing technology blamed for outage",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.973×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
+          "published_at": "2026-11-14T21:36:19+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-70639cd1f2bd463dbffd72fde47edaeeb19ddfc9e3f2d7305c7a2c72217e3d0d",
+      "title_en": "Macron says limiting Ukraine aid would pave way to 'another war'",
+      "summary_en": "French President Emmanuel Macron on Saturday warned that limiting aid to Ukraine would force Kyiv into an \"unjust peace\" and risk another war. His statement comes as the United States pushes ahead with efforts to negotiate between Ukraine and Moscow.",
+      "category": "politics_security",
+      "region": "north_america",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.901×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war",
+          "published_at": "2026-11-14T20:15:43+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-2ce5a82da310159145c879ac7b7cdafef277ee119a8b3b8e478f777618401f38",
+      "title_en": "US blames outdated technology for nationwide flight disruption",
+      "summary_en": "US blames outdated technology for nationwide flight disruption",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.816×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
+          "published_at": "2026-11-14T18:32:40+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-bf3b2911ec266468ce87d2546011a5f795d6fa8b4a4232dd39caee92f3a939b4",
+      "title_en": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+      "summary_en": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy A head of steam is building up behind the Bank of England raising interest rates again. With the latest forecasts by the central bank showing inflation rising to 5% next spring, another increase in the cost of borrowing…",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.705×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+          "published_at": "2026-11-14T16:00:48+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
@@ -220,10 +214,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.306×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 20.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.183×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 29.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -245,10 +239,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 39,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.297×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 21.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.177×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 30.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -264,50 +258,25 @@
       ]
     },
     {
-      "id": "evt-40e1e9232487f2d407ecd7b68d0a5d9f754c26e5080fd82bd5d3d4b0c4a709e6",
-      "title_en": "Why global cooperation matters more than ever to planetary health",
-      "summary_en": "As world leaders and experts gather at the 31st United Nations Climate Change Conference (COP31) to address the growing climate crisis, one question deserves greater attention: What does a changing climate mean for the health of our planet and its people?",
-      "category": "society_health_environment",
+      "id": "evt-617e0f449a00998d4ffd88853cb009d036333333b4d30d3560ba7fc546bd097c",
+      "title_en": "Trump threatens to double tariffs on Mexico",
+      "summary_en": "Trump threatens to double tariffs on Mexico",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 35,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.224×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 25.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.203×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 27.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "cgtn_china",
+          "source_id": "cgtn_world",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-11-13/Why-global-cooperation-matters-more-than-ever-to-planetary-health-1S2uEBYcb0k/p.html",
-          "published_at": "2026-11-13T11:15:18+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
-    },
-    {
-      "id": "evt-cedfd23bd26e75e384a472efef29bb0e3eeb0a01fe44f6a0816888f84ab5ade1",
-      "title_en": "China looks to APEC leaders' declaration at Shenzhen meeting",
-      "summary_en": "The 33rd APEC Economic Leaders' Meeting will be held in Shenzhen in south China from November 18 to 19.",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 35,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.231×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 25.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-11-13/China-looks-to-APEC-leaders-declaration-at-Shenzhen-meeting-1S2u2xsPhSw/p.html",
-          "published_at": "2026-11-13T11:45:34+00:00",
+          "url": "https://newsus.cgtn.com/news/2026-11-14/Trump-threatens-to-double-tariffs-on-Mexico-1S1EPXZraA8/p.html",
+          "published_at": "2026-11-13T18:25:52+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -317,10 +286,17 @@
   "source_errors": [
     "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: HTTP Error 404: Not Found",
+    "nasa_news: entry https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/ rejected: stale publication date",
+    "nasa_news: entry https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/ rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -335,6 +311,7 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cq398em3032wo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -366,6 +343,7 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -379,6 +357,7 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_china: entry https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c98rzzvde1llo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -389,6 +368,7 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cm3wv36d603yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester rejected: stale publication date",
@@ -396,9 +376,10 @@
     "guardian_world: entry https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028 rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai rejected: stale publication date",
@@ -432,6 +413,7 @@
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/10/october-inflation-report rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/commentisfree/2026/nov/11/farewell-cybertruck-elon-musk-car-repellent rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/09/democrats-midterms-economy-healthcare rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china rejected: stale publication date",
@@ -441,6 +423,9 @@
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/10/california-billionaire-tax-opposition rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028 rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/nov/12/burberry-profit-sales-socks-bags-china-us rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair rejected: stale publication date",
