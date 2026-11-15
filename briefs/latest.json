@@ -1,48 +1,21 @@
 {
   "schema_version": 1,
   "edition": "world",
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T13:37:35+00:00",
-  "is_underfilled": false,
+  "date": "2026-11-16",
+  "generated_at": "2026-11-15T22:35:13+00:00",
+  "is_underfilled": true,
   "events": [
     {
-      "id": "evt-da2468971a7fe12af8a4bdb614bc0af75a3138bdf10871cc8483960bd6b219d5",
-      "title_en": "Athletes rewrite the rules as Dakar 2026 Youth Olympics come to an end",
-      "summary_en": "Hosts Senegal thrive, and exuberant athletes defy the shadows cast over the Games by politics and history.",
-      "category": "sports",
-      "region": "global",
-      "sports_tags": [
-        "olympics"
-      ],
-      "importance_score": 54,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.905×0.20, authority=0.750×0.15, preference=1.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.7h."
-      ],
-      "importance_text_en": "Rule-based selection: a major competition development in the preferred Olympic, multi-sport or volleyball coverage.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/2026/11/15/dakar-youth-olympics-2026-senegal-games-come-to-an-end?traffic_source=rss",
-          "published_at": "2026-11-15T11:53:39+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-26d1abb035f2fc130d9c1e795e4902704fbd001722ef991a66db68838b292966",
-      "title_en": "Philippines wins first Eurovision Song Contest Asia",
-      "summary_en": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra, to victory in Bangkok on Saturday night, at the first regional edition of the contest to be staged outside… Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-      "category": "other",
-      "region": "asia_pacific",
+      "id": "evt-c77739430ed5347aa688a48cf4eb23ad09b080cd8a034deb3f55463900674924",
+      "title_en": "Iran targets US military base in Bahrain with drone attack",
+      "summary_en": "Bahrain issued two alerts of potential threats on Sunday, its first such warnings since September as blasts rocked the capital, Manama. It comes after Iran targeted an airbase in the US-allied island state, ending a long lull in strikes during the Middle East War and comes as negotiations to end the conflict remain… It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "category": "politics_security",
+      "region": "middle_east",
       "sports_tags": [],
-      "importance_score": 52,
+      "importance_score": 57,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.327×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 2; age: 19.3h."
+        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.599×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 2; age: 8.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -50,168 +23,193 @@
         {
           "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-14T18:17:58+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-15T13:42:58+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         },
         {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
-          "published_at": "2026-11-14T19:01:32+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-bd99c31d77cf0737cedf71465a1d6d39b948cea4bbc4744ab38412883b002c4a",
-      "title_en": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
-      "summary_en": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet The state-run Bahrain News Agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning. Jordan, Egypt, Saudi Arabia, and Qatar have all strongly…",
-      "category": "other",
-      "region": "middle_east",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.971×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-          "published_at": "2026-11-15T13:07:15+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-3bc6619911e01a5673a8c142fdec444a6bc852423df9e90685990b806703a8a4",
-      "title_en": "Trump administration planning to reimburse doctors treating vaccine ‘injury’",
-      "summary_en": "Experts warn that sweeping changes elevate health secretary RFK Jr’s anti-vaccine agenda and personal profit The Trump administration is finalizing a rule to reimburse doctors who diagnose, treat and counsel patients with side effects from vaccines in what experts believe is an attempt to undermine trust in vaccines…",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 51,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.911×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration",
-          "published_at": "2026-11-15T12:00:15+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-44f721a58ac33536461db679f53d5afbaf7c064fb4106782a5be225b1b415a5e",
-      "title_en": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
-      "summary_en": "Israel takes measures to crush Palestinian business in the occupied West Bank.",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.913×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
-          "published_at": "2026-11-15T12:02:45+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-c2a334a4b51ac9ee4cdcb0d96f63e3a90e2c1ef8a88d2b16ffec2dbc11a9c3a7",
-      "title_en": "The Philippines and Australia strengthen joint military deterrence at ASEAN summit",
-      "summary_en": "Southeast Asian leaders opened their annual summit in the Philippine capital Manila on Sunday. During three days, world leaders are expected to focus on trade, energy and conflict – including the war in Iran. Donald Trump is expected to land in Manila on Tuesday. Details by FRANCE 24 correspondent in Bangkok Tommy…",
-      "category": "politics_security",
-      "region": "asia_pacific",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.927×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/the-philippines-and-australia-strengthen-joint-military-deterrence-at-asean-summit",
-          "published_at": "2026-11-15T12:18:35+00:00",
+          "url": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain",
+          "published_at": "2026-11-15T15:29:22+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-d040b32177ced578b473ada7ecad1f3b46839c8c537e3c1cf48b1f415298f459",
-      "title_en": "Will Ukraine make territorial concessions for NATO membership?",
-      "summary_en": "The United States suggested Ukraine make territorial concessions in exchange for a NATO membership, according to Volodymyr Zelensky. The Ukrainian president also claims that Russia has rejected an energy truce. This week’s US-mediated negotiations did not result in any tangible progress. Story by Simon Moritz.",
-      "category": "politics_security",
-      "region": "north_america",
+      "id": "evt-16ea1100f13d10036dd6e4e787e06f2a892d73fc5a27ceea067bfe5b2841aeb7",
+      "title_en": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "summary_en": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+      "category": "economy_business",
+      "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 53,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.923×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.995×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_business",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-15T22:30:03+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-98ca063f6589c8fc4dbe8514008b80256018acc19a1cdeb594f0e8920d34b3ab",
+      "title_en": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
+      "summary_en": "Duke of Sussex meets wounded veterans in city and says country could one day host Invictus Games Prince Harry has told Ukrainian soldiers they are going to win the war with Russia, during a surprise visit to the country. The Duke of Sussex met wounded veterans and medics in the city of Lviv, in the west of Ukraine,…",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.967×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
+          "published_at": "2026-11-15T22:00:24+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-d8daa10e3a4300b0f70b25b0dd6ce295fc85fdd73b61048038368b9f02606890",
+      "title_en": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
+      "summary_en": "Mohamed Yusuf is fighting for his life after alleged attack by passenger who said he did not like driver’s first name A Somali-American Uber driver was allegedly brutally assaulted by a passenger in Hopkins, Minnesota, on Saturday, in what his family says “appears to be a hate crime”. The driver, Mohamed Yusuf, is…",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.922×0.20, authority=0.900×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 1.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/somali-american-uber-driver-attack-minnesota",
+          "published_at": "2026-11-15T21:10:38+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-15bfd1c532a604b566af66cd85aff87981791fabf6a0689c49805d7da62dba49",
+      "title_en": "Kroupi on target as France beat Turkey to reach Nations League quarters",
+      "summary_en": "Eli Junior Kroupi scored his maiden goal for France as Les Bleus beat Turkey 2-1 in Bordeaux on Sunday to top their group with 13 points and qualify for the quarter-finals of the Nations League. World Cup winners Spain, who lost at home against England, are among their potential opponents in the last eight.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.979×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/will-ukraine-make-territorial-concessions-for-nato-membership",
-          "published_at": "2026-11-15T12:14:54+00:00",
+          "url": "https://www.france24.com/en/sport/20261115-kroupi-on-target-as-france-beat-turkey-to-reach-nations-league-quarters",
+          "published_at": "2026-11-15T22:13:26+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-6ac98b9d62665eb851f15b1fe042d384232ec726abd302c2504b5c4c390d6626",
-      "title_en": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "summary_en": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
-      "category": "politics_security",
-      "region": "global",
+      "id": "evt-7f812a07077769044445f5d0af3b88175b34aafe2384416c2f0401997f6d2efc",
+      "title_en": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
+      "summary_en": "The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.",
+      "category": "other",
+      "region": "latin_america",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 49,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.785×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.907×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_world",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-15T09:26:37+00:00",
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
+          "published_at": "2026-11-15T20:54:13+00:00",
           "published_precision": "second",
-          "publisher_group": "bbc"
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-9853a202a5c71acbb85be68df01e36896bb3f40fcb65af4543b9ecbac4f85500",
+      "title_en": "Yemen’s Houthis unilaterally release 600 war detainees",
+      "summary_en": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.929×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.3h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+          "published_at": "2026-11-15T21:19:08+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-e11e343ec72f1e2d17f9c5ecfb7f180d073d2a454d0fe901f423315c52fad601",
+      "title_en": "Nearly 2,200 migrants reach Spain's Canary Islands in two days",
+      "summary_en": "Nearly 2,200 migrants have reached the Canary Islands over the past two days, Spain’s coastguard said Sunday, continuing a recent surge of arrivals from West African countries to the Spanish archipelago, where the authorities declared a migration emergency earlier this week.",
+      "category": "other",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.918×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/europe/20261115-nearly-2200-migrants-reach-spain-canary-islands-in-two-days",
+          "published_at": "2026-11-15T21:06:01+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
         }
       ]
     },
@@ -222,10 +220,10 @@
       "category": "politics_security",
       "region": "asia_pacific",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.525×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 11.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.313×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 20.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -239,64 +237,13 @@
           "publisher_group": "cgtn"
         }
       ]
-    },
-    {
-      "id": "evt-32cea25c976d4cce9c0e931793bb19f7a2df5296d5c3bd420ebf6d48b04837f3",
-      "title_en": "World Diabetes Day: South Africa pushes early detection",
-      "summary_en": "The World Health Organization (WHO) says diabetes can be managed through a combination of healthy eating, regular physical activity and medication. Complications can also be prevented or delayed through regular screening and timely treatment.",
-      "category": "society_health_environment",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 37,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.319×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 19.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_world",
-          "publisher": "CGTN",
-          "url": "https://newsaf.cgtn.com/news/2026-11-15/World-Diabetes-Day-South-Africa-pushes-early-detection-1S4qWiRknUA/p.html",
-          "published_at": "2026-11-14T17:51:43+00:00",
-          "published_precision": "second",
-          "publisher_group": "cgtn"
-        }
-      ]
     }
   ],
   "source_errors": [
+    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: HTTP Error 404: Not Found",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168803 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168804 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168802 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168799 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168798 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168797 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168796 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168793 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168794 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168792 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168790 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168789 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168788 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168783 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168787 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168784 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168782 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168781 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168779 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168778 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168775 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168774 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168772 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168771 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168770 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168769 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168768 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168766 rejected: stale publication date",
-    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168763 rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/image-article/outbursts-from-a-massive-star/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/ rejected: stale publication date",
@@ -305,10 +252,13 @@
     "nasa_news: entry https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/ rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -323,10 +273,6 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -349,7 +295,11 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -359,6 +309,7 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/ckx28ly7y387o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqm2l304w0x9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -380,7 +331,6 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_china: entry https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c98rzzvde1llo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -401,13 +351,15 @@
     "guardian_world: entry https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/13/what-science-can-tell-us-about-the-art-of-conversation-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/13/the-sinister-power-of-friday-13th-how-this-maligned-date-affects-our-lives rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe rejected: stale publication date",
@@ -425,7 +377,6 @@
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/nov/05/ferritin-face-can-you-really-diagnose-low-iron-from-a-selfie-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/09/did-you-solve-it-the-multi-choice-maths-quiz-taking-over-the-world rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/09/can-you-solve-it-the-multi-choice-maths-quiz-taking-over-the-world rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/oct/26/did-you-solve-it-a-magical-melody-from-the-mozart-of-math rejected: stale publication date",
@@ -433,13 +384,13 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/12/cop31-how-far-off-target-are-we-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/10/what-happens-to-your-brain-when-the-days-get-darker-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/06/is-ferritin-face-real-why-your-iron-levels-might-be-low-video rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/nov/12/home-sales-october-low rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/10/october-inflation-report rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/commentisfree/2026/nov/11/farewell-cybertruck-elon-musk-car-repellent rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/09/democrats-midterms-economy-healthcare rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea rejected: stale publication date",
@@ -450,6 +401,10 @@
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/10/california-billionaire-tax-opposition rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/news/video/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/environment/2026/nov/13/i-spend-less-thats-all-that-matters-life-in-the-worlds-most-electrified-countries rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast rejected: stale publication date",
