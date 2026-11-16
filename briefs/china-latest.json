@@ -2,9 +2,59 @@
   "schema_version": 1,
   "edition": "china",
   "date": "2026-11-16",
-  "generated_at": "2026-11-16T05:21:41+00:00",
+  "generated_at": "2026-11-16T15:07:39+00:00",
   "is_underfilled": true,
   "events": [
+    {
+      "id": "evt-d5973f491ae439e935ea97083144230a4d8b0f7cc687de89d3c9eb33c213d5eb",
+      "title_en": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
+      "summary_en": "Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on foreign policy for the remainder of his…",
+      "category": "politics_security",
+      "region": "asia_pacific",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.789×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_china",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
+          "published_at": "2026-11-16T11:00:58+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-b118b934041383e4abc02e19e2b9eb26d905f8d1b37484d0ba48b4c33c96e66b",
+      "title_en": "Massive boulder rolls down mountain and slams into car in China",
+      "summary_en": "A huge boulder came crashing down a mountain slope onto a car stopped in traffic in Li County, Sichuan, China.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.880×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.2h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/massive-boulder-rolls-down-mountain-and-slams-into-car-in-china?traffic_source=rss",
+          "published_at": "2026-11-16T12:55:16+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
     {
       "id": "evt-b7c031664733f8467bc7f0442746884449e42c70a087b3f024d64f52f5673b74",
       "title_en": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
@@ -12,16 +62,16 @@
       "category": "politics_security",
       "region": "north_america",
       "sports_tags": [],
-      "importance_score": 52,
+      "importance_score": 44,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.960×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.546×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 10.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_china",
+          "source_id": "guardian_business",
           "publisher": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
           "published_at": "2026-11-16T04:39:20+00:00",
@@ -37,10 +87,10 @@
       "category": "other",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 42,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.814×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.463×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 13.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -56,41 +106,16 @@
       ]
     },
     {
-      "id": "evt-0fbcaa787d4801387cc229020c3b74c975e940ebffc9d7e4b0078417154754c7",
-      "title_en": "ASEAN, China fall short of agreeing on South China Sea code",
-      "summary_en": "Southeast Asian leaders also denounce violence in Myanmar and extend ban on country's leader attending bloc's summits.",
-      "category": "other",
-      "region": "asia_pacific",
-      "sports_tags": [],
-      "importance_score": 48,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.861×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss",
-          "published_at": "2026-11-16T02:46:35+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
       "id": "evt-073f460f2e8aab5568951efaf3831e40921e4c943d00c962b433bde215d9f84a",
       "title_en": "China space station advances radiation exposure experiments",
       "summary_en": "China space station advances radiation exposure experiments",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 38,
+      "importance_score": 35,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.357×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 17.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.203×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 27.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -106,41 +131,16 @@
       ]
     },
     {
-      "id": "evt-3b44165155e59f60fd4c931726ddaa28dca37c99f334cbbc76fead4fd48f8cf1",
-      "title_en": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-      "summary_en": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn that the US president must not make major…",
-      "category": "politics_security",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 38,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.265×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 23.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_china",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-          "published_at": "2026-11-15T06:22:32+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
       "id": "evt-ae9b9ade9aa8bb2ec3156ea090418933af129446911fa48b2e1ae7b590e3c7b1",
       "title_en": "How far can we go? China's deep space missions in the next five years",
       "summary_en": "How far can we go? China's deep space missions in the next five years",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 38,
+      "importance_score": 35,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.359×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 17.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.204×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 27.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -167,11 +167,9 @@
     "nasa_news: entry https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/ rejected: stale publication date",
-    "nasa_news: entry https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/ rejected: stale publication date",
-    "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/ rejected: stale publication date",
     "bbc_world: entry https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -188,8 +186,6 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -205,16 +201,18 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/ck20v651473qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/cmx295lz17wzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/sounds/play/m003498k?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -223,18 +221,14 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/ckx28ly7y387o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cqm2l304w0x9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -262,26 +256,22 @@
     "guardian_world: entry https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026 rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/global-development/2026/nov/13/mohammad-javad-vafaei-sani-iran-boxer-death-row-magnitsky-award rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/nov/08/earthshot-prize-venue-criticism-fossil-fuel-firm-reliance-industries-india-mumbai rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/nov/03/rabindranath-tagore-yeats-nobel-prize-india rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/13/what-science-can-tell-us-about-the-art-of-conversation-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/13/the-sinister-power-of-friday-13th-how-this-maligned-date-affects-our-lives rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/nov/11/ovarian-cancer-study-early-detection-blood rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/business/2026/nov/10/pharma-firms-weight-loss-drugs-insulin-glp-1-ozempic-mounjaro rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/nov/09/medical-breakthrough-offers-hope-to-people-with-same-stiff-person-syndrome-as-celine-dion rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/2026/nov/08/nasa-astronauts-moon-applications-open rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/nov/08/the-guardian-view-on-ordnance-survey-maps-still-a-superior-way-to-navigate-the-landscape rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/picture/2026/nov/07/steve-jones-dangerous-tech-innovations-cartoon-ai-fire rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/nov/04/robot-dogs-ice-dimensional-warhound rejected: stale publication date",
@@ -305,17 +295,14 @@
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/12/home-sales-october-low rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/nov/10/october-inflation-report rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/commentisfree/2026/nov/11/farewell-cybertruck-elon-musk-car-repellent rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/09/democrats-midterms-economy-healthcare rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/10/california-billionaire-tax-opposition rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/world/2026/nov/14/yalta-trump-xi-putin-china-apec rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/news/video/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china rejected: stale publication date",
@@ -330,7 +317,6 @@
     "guardian_china: entry https://www.theguardian.com/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/news/audio/2026/nov/12/the-alleged-spy-who-loved-me-the-nvidia-scandal-podcast rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-13/-Twenty-Two-to-Five-Voices-That-Will-Never-Fade-1S2sgG2TGhi/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-13/What-signals-did-the-latest-China-US-dialogue-send--1S2Id1AvX3O/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-13/China-South-Korea-pledge-to-deepen-cooperation-ahead-of-APEC-meeting-1S2PsSx0CbK/p.html rejected: stale publication date",
