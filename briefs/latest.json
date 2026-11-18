@@ -1,65 +1,48 @@
 {
   "schema_version": 1,
   "edition": "world",
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T15:39:07+00:00",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T00:41:21+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-1f20adab00c41a60f044d326bb1f1b6e9639ba33c98bf9feadf93e54abab3912",
-      "title_en": "Ikea ditches plans for new UK stores, blaming high business taxes",
-      "summary_en": "Retailer’s British boss says John Healey ‘missed opportunity to back retailers’ in October’s budget Business live – latest updates Ikea has ditched some planned store openings in the UK blaming the cost of business taxes, which it said were the highest in Europe. As its annual UK sales little more than flatlined at…",
-      "category": "economy_business",
-      "region": "europe",
+      "id": "evt-830a58b49297fed6ecd04627820cae526b9f74b39c43a8f89b30f494c8114236",
+      "title_en": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "summary_en": "Jensen Huang makes his first public statement since resigning from Nvidia, saying he'd be honoured to return to his job amid support from the tech world. It comes ahead of a much anticipated earnings call this Tuesday, with analysts expecting the group to report a 90% jump in revenue to about $109 billion. Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "category": "other",
+      "region": "global",
       "sports_tags": [],
-      "importance_score": 52,
+      "importance_score": 59,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.972×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.696×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 2; age: 6.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
-          "published_at": "2026-11-17T15:09:32+00:00",
+          "source_id": "bbc_business",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T18:24:21+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
+          "publisher_group": "bbc"
+        },
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/business/20261117-jensen-huang-says-he-d-be-honoured-to-return-to-nvidia-as-ceo",
+          "published_at": "2026-11-17T20:56:06+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-45e3f3d744ee4c89150f1e8b5a73d081fe2624c7ba6bdf2f6ce1e1921442e1f9",
-      "title_en": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-      "summary_en": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she is elected ⁠next spring and ​bring…",
+      "id": "evt-168564f2067b53f28617ad3857d1f2ae411af196f2d802becde4156a67f67943",
+      "title_en": "Man accused of destroying US military plane at Shannon airport in Ireland",
+      "summary_en": "Daithi O’Corrain, 48, is charged with destruction of US government property, after allegedly cutting hydraulic lines An axe-wielding man breached a security perimeter and destroyed an American military plane while it was parked at an Irish airport, US prosecutors said. Daithi O’Corrain, 48, is accused of cutting…",
       "category": "politics_security",
-      "region": "europe",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.965×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-          "published_at": "2026-11-17T15:01:54+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-89933e24b8a22a85c6b40d75d99c1f2d199c07d057f62e5a9be20984c0d1d2d6",
-      "title_en": "US bank services returning to normal after major outage",
-      "summary_en": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-      "category": "technology_science",
       "region": "global",
       "sports_tags": [],
       "importance_score": 52,
@@ -71,101 +54,126 @@
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_business",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-17T15:04:24+00:00",
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/man-accused-of-destroying-us-military-plane-at-shannon-airport-in-ireland",
+          "published_at": "2026-11-18T00:06:15+00:00",
           "published_precision": "second",
-          "publisher_group": "bbc"
+          "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-1c5279b326a1b3e94a95a2b426b0a118b5c666ea6ec12f09ab10fc3c9b55936f",
-      "title_en": "Calls for cooperation as ASEAN summit awaits Trump",
-      "summary_en": "The twice-yearly ASEAN summit of Southeast Asian nations is underway, with major global powers also descending upon the Philippines. It is a crucial moment for the region, as ASEAN leaders look to strengthen their influence and collaboration in an increasingly divided global landscape. The arrival of US President…",
+      "id": "evt-61e0e6bbb3bf62cafd07ed9779469397ae5766f6329ee9901d93831df561130e",
+      "title_en": "Brexit work travel rules need urgent improvement, say UK business leaders",
+      "summary_en": "CBI says restrictions on cross-Channel work trips are hindering investment and trade between UK and Europe Business chiefs have called on the UK government and the European Commission to urgently ease Brexit restrictions on business travel for cross-Channel work trips. A group representing industry bosses said it…",
       "category": "politics_security",
-      "region": "asia_pacific",
+      "region": "europe",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.998×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261117-calls-for-cooperation-as-asean-summit-awaits-trump",
-          "published_at": "2026-11-17T15:37:28+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-a401be4966dd38c837b15eb047e301c4ea7a57950c58919e5daa2c9f5bc3184b",
-      "title_en": "Bessent vs Lutnick: Who is winning the China chip debate?",
-      "summary_en": "A rift has emerged in Trump’s cabinet over China’s access to advanced AI chips as export controls tighten.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.951×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.9h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/17/bessent-vs-lutnick-who-is-winning-the-china-chip-debate?traffic_source=rss",
-          "published_at": "2026-11-17T14:46:37+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-a814768a82d5601133ea26aed5512c3bdf2a2120bcb075c4767c9244ac4c4b62",
-      "title_en": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
-      "summary_en": "A CNN report quoting unnamed US officials alleges Tehran is developing plans for an attack on officials in Washington.",
-      "category": "other",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.963×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.962×0.20, authority=0.900×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/18/brexit-work-travel-rules-urgent-improvement-cbi",
+          "published_at": "2026-11-18T00:01:25+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-0030d13196041f55915f2169813e7b4a226e356005022a358671be5f5fead840",
+      "title_en": "NASA Space Apps Challenge Breaks Global Hackathon Records",
+      "summary_en": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year,…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.848×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
+          "published_at": "2026-11-17T21:50:34+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-041a515b129b60c52ff3016865a1d5f186baed43b2c196d8459424193a1171f9",
+      "title_en": "Why China’s Shenzhen was chosen for APEC summit",
+      "summary_en": "Al Jazeera’s Katrina Yu explains why China’s Shenzhen was chosen for APEC summit.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.976×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss",
-          "published_at": "2026-11-17T14:59:39+00:00",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss",
+          "published_at": "2026-11-18T00:16:26+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-efe7e614782e22b26e4c8b26d85e235127a9a049cbbc75f080b53f1abca7121c",
-      "title_en": "Estonia closes its border with Russia but can it keep Moscow out?",
-      "summary_en": "Estonia announced this weekend it would close its border with Russia, after blaming its eastern neighbour of attempting to sabotage one of its drone factories. But at a time when the internet has become one of Russia’s most potent weapons to wage hybrid warfare, does closing the border even matter?",
-      "category": "other",
-      "region": "global",
+      "id": "evt-8805741b52e445e42ee7f069d41daf38b869053fe4cb9415186581d332b9db71",
+      "title_en": "NASA Launches Nuclear Power Systems Student Contest",
+      "summary_en": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power…",
+      "category": "technology_science",
+      "region": "north_america",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.990×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.858×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
+          "published_at": "2026-11-17T22:02:48+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-5f6caa3116fd7dd085491f105e2e2683274d936378b66f049bba24758a12ead3",
+      "title_en": "WHO sounds the alarm on antimicrobial resistance threat",
+      "summary_en": "The spread of antimicrobial resistance (AMR) is threatening modern medicine despite progress in combating drug-resistant bacteria, senior World Health Organization officials said Monday. WHO officials said countries had expanded efforts to tackle AMR, but warned that progress in prevention, diagnosis and the…",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.859×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -173,74 +181,57 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/europe/20261117-estonia-closes-its-border-with-russia-but-can-it-keep-moscow-out",
-          "published_at": "2026-11-17T15:28:26+00:00",
+          "url": "https://www.france24.com/en/who-sounds-the-alarm-on-antimicrobial-resistance-threat",
+          "published_at": "2026-11-17T22:03:30+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        },
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20261117-who-sounds-the-alarm-on-antimicrobial-resistance-threat",
+          "published_at": "2026-11-17T22:08:28+00:00",
           "published_precision": "second",
           "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-0eb22a9e3cc05cb7e68999059cecd84ff0b8dbdcac27a06886977e892d13305b",
-      "title_en": "Tossing Fireworks from Cloud to Cloud",
-      "summary_en": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
-      "category": "technology_science",
+      "id": "evt-c6cf64a7186fd15a4fb4bebc1176216a4affe1d81da272b64cb254e12f380ebc",
+      "title_en": "Nvidia board rules that co-founder Jensen Huang will not return as CEO",
+      "summary_en": "Nvidia's board chairman ruled out bringing back co-founder Jensen Huang as CEO on Tuesday, as the chipmaker forecast stronger-than-expected quarterly sales but faced growing questions over its leadership, national security exposure and long-term strategy following his abrupt departure.",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 44,
+      "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.541×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 10.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.899×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.8h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
-          "published_at": "2026-11-17T05:01:00+00:00",
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/technology/20261117-nvidia-board-rules-that-co-founder-jensen-huang-will-not-return-as-ceo",
+          "published_at": "2026-11-17T22:50:32+00:00",
           "published_precision": "second",
-          "publisher_group": "nasa_news"
+          "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-350bcd45a9b3fc718b20ebce7a3149840d994717c0b55de7bd3c77924dbb7f4a",
-      "title_en": "APOD: 2026 November 17 – Milky Way versus Aurora",
-      "summary_en": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
-      "category": "technology_science",
+      "id": "evt-6f5db49eb6b5a376d927483fb0db5bec6300cc7daf5279513b444a5444e92845",
+      "title_en": "UK sanctions firms over Israeli West Bank settlements",
+      "summary_en": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+      "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 44,
+      "importance_score": 47,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.543×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 10.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
-          "published_at": "2026-11-17T05:05:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-a915558380085ff41dea3d5511a738a8eddc2fc84fe4d4771990dbf63b718c4c",
-      "title_en": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
-      "summary_en": "The new show brings English, maths and science lessons to children via TV, radio and social media.",
-      "category": "technology_science",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 41,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.408×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 15.5h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.698×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.2h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -248,10 +239,85 @@
         {
           "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-17T00:08:19+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-17T18:27:27+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-15c4d776f7252ccf8051ab1fb4487dd4368f0d182511a1ca5321f29b30df4dce",
+      "title_en": "India’s footballers celebrate SAFF final win against Pakistan",
+      "summary_en": "The Indian men’s football team has been celebrating after winning the 2026 SAFF Championship.",
+      "category": "sports",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 46,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.760×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indias-footballers-celebrate-saff-final-win-against-pakistan?traffic_source=rss",
+          "published_at": "2026-11-17T19:56:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-3a810985b992b6c32b2b785ea1229836e3f53f9a1c279a2f1e1321332eda8620",
+      "title_en": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
+      "summary_en": "The World Food Programme (WFP) is assisting thousands of families who fled recent violence in Ethiopia for the Moyale area in neighbouring Kenya, the UN agency reported on Tuesday.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 42,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.480×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 12.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168822",
+          "published_at": "2026-11-17T12:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "un_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-5b4836af15896b8aca6878d9cc92a8d17522d5f055efc3661838c42364280c85",
+      "title_en": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
+      "summary_en": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing “atrocious abuses” committed by gangs and intensified security operations.",
+      "category": "politics_security",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 42,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.480×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 12.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168823",
+          "published_at": "2026-11-17T12:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "un_news"
         }
       ]
     },
@@ -262,10 +328,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.469×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 13.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.278×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 22.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -281,16 +347,16 @@
       ]
     },
     {
-      "id": "evt-ff7cb069d16b5ed32fb7077aecd73bdf04e163484beb380d16f59daaffa3fda2",
-      "title_en": "Chinese President Xi Jinping meets Canadian PM Mark Carney in Shenzhen",
-      "summary_en": "Chinese President Xi Jinping on Tuesday met with Canadian Prime Minister Mark Carney in Shenzhen.",
-      "category": "politics_security",
+      "id": "evt-6c8e19243d7b337a914d0534662f8d0396b024c48a4e45779e123fd0265c5cdf",
+      "title_en": "Vietnam's top leader arrives in Shenzhen for 33rd APEC Economic Leaders' Meeting",
+      "summary_en": "Vietnam's top leader arrives in Shenzhen for 33rd APEC Economic Leaders' Meeting",
+      "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 40,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.477×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 12.8h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.267×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 22.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -298,8 +364,8 @@
         {
           "source_id": "cgtn_china",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-11-17/Chinese-President-Xi-Jinping-meets-Canadian-PM-Mark-Carney-in-Shenzhen-1S8GoV70E8w/p.html",
-          "published_at": "2026-11-17T02:50:49+00:00",
+          "url": "https://news.cgtn.com/news/2026-11-17/Vietnam-s-top-leader-arrives-in-Shenzhen-for-33rd-APEC-Economic-Leaders-Meeting-1S8x0nvJq6Y/p.html",
+          "published_at": "2026-11-17T01:47:47+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -307,18 +373,28 @@
     }
   ],
   "source_errors": [
-    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: HTTP Error 404: Not Found",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168807 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168808 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168801 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168776 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168803 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168804 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168802 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168799 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168798 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168797 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168796 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168793 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168794 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168792 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168790 rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -346,13 +422,7 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/ckx28ly7y387o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -378,7 +448,6 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c98rzzvde1llo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_china: entry https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -386,8 +455,6 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026 rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/09/this-is-india-sonia-gandhi-memoir-belonging rejected: stale publication date",
@@ -398,7 +465,6 @@
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/nov/11/ovarian-cancer-study-early-detection-blood rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/business/2026/nov/10/pharma-firms-weight-loss-drugs-insulin-glp-1-ozempic-mounjaro rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/nov/08/the-guardian-view-on-ordnance-survey-maps-still-a-superior-way-to-navigate-the-landscape rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/picture/2026/nov/07/steve-jones-dangerous-tech-innovations-cartoon-ai-fire rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/nov/04/robot-dogs-ice-dimensional-warhound rejected: stale publication date",
@@ -415,9 +481,6 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/12/obesity-how-to-stop-millions-being-misdiagnosed-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/12/cop31-how-far-off-target-are-we-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/10/what-happens-to-your-brain-when-the-days-get-darker-video rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/15/nvidia-ceo-jensen-huang-affair-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/commentisfree/2026/nov/11/farewell-cybertruck-elon-musk-car-repellent rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea rejected: stale publication date",
@@ -440,7 +503,6 @@
     "guardian_china: entry https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/business/2026/nov/12/burberry-profit-sales-socks-bags-china-us rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-15/Rewiring-globalization-AI-and-the-future-of-Asia-Pacific-cooperation-1S5g6XaSELK/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-14/Raffarin-Asia-Pacific-region-is-important-for-world-s-economy-1S48aNef61y/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-15/Together-for-a-brighter-Asia-Pacific--1S5h8kKyBDG/p.html rejected: stale publication date",
