@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
   "edition": "world",
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T14:14:39+00:00",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-22T23:21:53+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-26389883b0a198f44adb688d4febcf7e74ce2c6dba23804c43fa5a9dc5d03226",
-      "title_en": "Three killed and dozens missing after fire at Indonesian factory",
-      "summary_en": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
-      "category": "other",
+      "id": "evt-578ba82af2f2e51f7c764ba7efd42b6bdb83f9bdbf8e21876aaa9664d7846af2",
+      "title_en": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "summary_en": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats. At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 53,
+      "importance_score": 62,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.991×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.845×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 2; age: 2.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -23,74 +23,65 @@
         {
           "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-22T14:05:20+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T20:26:24+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-bf886bd4af6fec8d6111fef6d1ca0cf1c959a3e69d8a175b2631caaa0a0ddc9c",
-      "title_en": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
-      "summary_en": "UN patron Lewis Pugh saw ships ablaze and fighter jets overhead during three-day swim as Iran conflict continues A British endurance swimmer has completed a three-day swim through the strait of Hormuz to highlight the environmental cost of the Iran war. Lewis Pugh, a UN patron of the oceans, swam the 9.3-mile (15km)…",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.963×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
+        },
         {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
-          "published_at": "2026-11-22T13:36:01+00:00",
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
+          "published_at": "2026-11-22T22:19:47+00:00",
           "published_precision": "second",
-          "publisher_group": "guardian"
+          "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-f1b393d1a62cac578bda8deea6dbc4af2a9c1123203113352c274f5720ad3cd7",
-      "title_en": "Centrica boss 'hugely concerned' over impact of soaring energy bills",
-      "summary_en": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "id": "evt-62940bd7bb629e1aeba739b1866802c4370eb51dacac4ac8cb168cbf0dc57b43",
+      "title_en": "South Korea education minister resigns over exam cheating scandal",
+      "summary_en": "South Korea Education Minister Choi Kyo-jin resigned Sunday over an AI-assisted cheating scandal that erupted days before the high-stakes Suneung university entrance exam. The Suneung concluded \"without any major incidents\" last week, Choi said, but he admitted to a failure to \"prepare adequately in advance\". Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
       "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.977×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.322×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 2; age: 19.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_business",
+          "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-22T13:50:21+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-22T09:20:45+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
+        },
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/asia-pacific/20261122-south-korea-education-chief-resigns-amid-ai-cheating-scandal",
+          "published_at": "2026-11-22T03:46:14+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
         }
       ]
     },
     {
-      "id": "evt-4414bd4679ca4f3d916460e9ba008fdd56a7d452f4ddd6000e301881fc5780a5",
-      "title_en": "UK politics: Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – as it happened",
-      "summary_en": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU European Relations Minister Hamish Falconer on Sky this morning criticised the post from earlier this week, where the US president shared a picture of him…",
+      "id": "evt-63bd2eca35f74f264688ad3858274a57d06c880232f45f8e019bfaf291f41817",
+      "title_en": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
+      "summary_en": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to pass Michigan US senator-elect Abdul El-Sayed on Sunday doubled down on naming healthcare reform legislation after Donald Trump as long as it meant the president would not impede its passage. “If he’s…",
       "category": "politics_security",
-      "region": "europe",
+      "region": "global",
       "sports_tags": [],
       "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.922×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.925×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -98,23 +89,23 @@
         {
           "source_id": "guardian_world",
           "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
-          "published_at": "2026-11-22T12:50:11+00:00",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
+          "published_at": "2026-11-22T22:01:17+00:00",
           "published_precision": "second",
           "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-8b40441898f6621a54ce6b2cd11e18a06fcc51d29303f7a770d34c7f6097fc0f",
-      "title_en": "Croatia outraged after psychiatric patient dies from alleged hospital abuse",
-      "summary_en": "Eight psychiatric workers have been arrested in Croatia on murder charges after images emerged of a patient being abused",
-      "category": "society_health_environment",
+      "id": "evt-290d3a329bdab14c9b58e53ec8d69397c240e8dceacf915a67a6064984d10994",
+      "title_en": "Trump to host private dinner for largest owners of his meme coin",
+      "summary_en": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.959×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.958×0.20, authority=0.750×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
@@ -123,99 +114,24 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/croatia-outraged-after-psychiatric-patient-dies-from-alleged-hospital-abuse?traffic_source=rss",
-          "published_at": "2026-11-22T13:31:40+00:00",
+          "url": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
+          "published_at": "2026-11-22T22:37:38+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
         }
       ]
     },
     {
-      "id": "evt-94b135fe5539a07a5f02ec0455c61ba68d2ab085b2c599158fbfbdb4a9ec967d",
-      "title_en": "Israel investigates West Bank fires",
-      "summary_en": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were vandalised and set on fire in four villages in the occupied West Bank, in attacks local activists say were carried out by Israeli settlers. Around eight vehicles were reportedly torched and racist slogans sprayed on walls,…",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.974×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.5h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/israel-investigates-west-bank-fires",
-          "published_at": "2026-11-22T13:47:04+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-2e419a3f6ab5d5047e2e10f9006f3aa7c3b515ada0296fca90da2991b2e42fd5",
-      "title_en": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
-      "summary_en": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.945×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
-          "published_at": "2026-11-22T13:15:40+00:00",
-          "published_precision": "second",
-          "publisher_group": "aljazeera"
-        }
-      ]
-    },
-    {
-      "id": "evt-ba299287c1c6b6dd93a78ce38b3d5c96a4a3f8f33030806a00474f4338010e68",
-      "title_en": "NATO faces sovereignty dilemma as militaries rely on private tech, AI",
-      "summary_en": "NATO officials and defence experts gathered at the NATO Edge conference in Turkey this week to discuss how militaries can harness artificial intelligence and high tech without compromising control over sensitive data and defence capabilities.",
+      "id": "evt-1ad806f6c51dee7a1795648db78d3a938b56e8b943bb87031673733457a01abc",
+      "title_en": "65 Years of Human Spaceflight at NASA Johnson",
+      "summary_en": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26…",
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 46,
+      "importance_score": 48,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.763×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 4.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/technology/20261122-nato-faces-sovereignty-dilemma-as-militaries-rely-on-private-tech-ai",
-          "published_at": "2026-11-22T09:34:15+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-471a223cd0126d8f501a1e1b857fbfaa6f061551f72ede66f63c879511f6deed",
-      "title_en": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
-      "summary_en": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 45,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.589×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 9.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.787×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.1h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -223,10 +139,110 @@
         {
           "source_id": "nasa_news",
           "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
-          "published_at": "2026-11-22T05:05:00+00:00",
+          "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+          "published_at": "2026-11-22T19:13:25+00:00",
           "published_precision": "second",
           "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-beda0ed01e1e3f67f6c8d462b9ad5f0da87da90a980dca79c4c61ac7dfc87584",
+      "title_en": "Heartbreak in US capital as Washington Spirit lose women’s football final",
+      "summary_en": "KC Current win NWSL championship as Spirit lose third consecutive final despite playing in front of rowdy home crowd.",
+      "category": "sports",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.895×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
+          "published_at": "2026-11-22T21:26:12+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-1baf26c51c20463f896fa23edfdd5da9341f10451ae3ed6f6e34cb7ff24c9a2b",
+      "title_en": "Russian warship hit by suspected Ukrainian drone at Benghazi naval base, Libyan officials say",
+      "summary_en": "A Russian navy corvette docked at the Benghazi naval base ​in eastern Libya was hit on Sunday by a suspected Ukrainian sea drone, according to local officials, in what appeared to be the latest attack linked to the Russia-Ukraine war in the North African nation. Hours later, a cargo ship was also hit by a sea drone…",
+      "category": "politics_security",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.809×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
+          "published_at": "2026-11-22T19:41:23+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-8fba48483d39d3981f2195cb25c51f4258007c6c65b46253161d6fe85f4b40fd",
+      "title_en": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+      "summary_en": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco-based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.730×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 5.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+          "published_at": "2026-11-22T17:55:27+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-04f2f9b9f07365aef34cbdfe8656f519cf539dc17e7c53defc6e82783d88b306",
+      "title_en": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
+      "summary_en": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were set on fire in three villages in the occupied West Bank. Israeli soldiers were deployed to the area following the attacks, which local residents said were carried out by Israeli settlers. Gadi Eisenkot, a rival of outgoing…",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 44,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.670×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 6.9h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
+          "published_at": "2026-11-22T16:25:09+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
         }
       ]
     },
@@ -237,10 +253,10 @@
       "category": "economy_business",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.513×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 11.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.303×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 20.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -262,10 +278,10 @@
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 41,
+      "importance_score": 36,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.504×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 11.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.298×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 21.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -279,43 +295,35 @@
           "publisher_group": "cgtn"
         }
       ]
-    },
-    {
-      "id": "evt-d9a10693513a962d33387e73a2919068ffeb00f352893191a175251eb080d3cd",
-      "title_en": "APOD: 2026 November 21 – Voyager’s Neptune",
-      "summary_en": "APOD Science APOD APOD: 2026 November 21 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 36,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.147×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 33.2h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
-          "published_at": "2026-11-21T05:05:00+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
     }
   ],
   "source_errors": [
     "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: HTTP Error 404: Not Found",
+    "nasa_news: entry https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/ rejected: stale publication date",
+    "nasa_news: entry https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/ rejected: stale publication date",
     "nasa_news: entry https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/ rejected: stale publication date",
     "nasa_news: entry https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/ rejected: stale publication date",
-    "nasa_news: entry https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/ rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_world: entry https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -345,31 +353,32 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/c6808y974d13o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cm79213ngx45o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c67428w9vvkqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -385,12 +394,12 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cwn70vrjlg8ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_china: entry https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_china: entry https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_china: entry https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_china: entry https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cm3wv36d603yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -398,13 +407,14 @@
     "guardian_world: entry https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/nov/20/iraqi-university-ban-men-teaching-women-protests rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib rejected: stale publication date",
@@ -431,14 +441,14 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/20/measles-is-officially-back-in-the-usa-will-maha-pay-the-price-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/15/spacex-starship-returns-launch-pad-video rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/global-development/2026/nov/19/labor-unions-amazon-contracts-open-letter rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/19/trump-lawsuit-new-york-times rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/film/2026/nov/16/man-with-golden-touch-james-bond-franchise-money-spinner rejected: stale publication date",
-    "guardian_business: entry https://www.theguardian.com/business/2026/nov/15/nvidia-ceo-jensen-huang-affair-business rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/19/bank-of-england-revamp rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks rejected: stale publication date",
@@ -447,6 +457,8 @@
     "guardian_business: entry https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/10/california-billionaire-tax-opposition rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house rejected: stale publication date",
+    "guardian_china: entry https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/20/xi-jinping-says-a-full-turnaround-has-been-achieved-in-australia-china-relations-praising-anthony-albanese rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/us-news/video/2026/nov/19/critics-accuse-trump-of-falling-asleep-at-international-summit-video rejected: stale publication date",
@@ -461,8 +473,6 @@
     "guardian_china: entry https://www.theguardian.com/us-news/video/2026/nov/19/trump-greets-putin-before-holding-talks-at-apec-summit-video rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/19/china-gives-japan-pm-frosty-welcome-apec rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china rejected: stale publication date",
     "cgtn_china: entry https://newsus.cgtn.com/news/2026-11-20/Mark-Carney-s-Asian-tour-aims-to-diversify-Canada-s-trading-partners-1SduhsHbaA8/p.html rejected: stale publication date",
     "cgtn_china: entry https://newsus.cgtn.com/news/2026-11-20/Tariff-disputes-on-hold-but-unresolved-as-APEC-meeting-gets-underway-1SduogRwLKg/p.html rejected: stale publication date",
     "cgtn_china: entry https://news.cgtn.com/news/2026-11-19/John-Lee-outlines-five-key-takeaways-from-HK-s-APEC-participation-1ScC9zhA6xq/p.html rejected: stale publication date",
