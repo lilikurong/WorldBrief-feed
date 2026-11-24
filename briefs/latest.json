@@ -2,20 +2,20 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-11-24",
-  "generated_at": "2026-11-23T23:31:50+00:00",
+  "generated_at": "2026-11-24T08:54:23+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-15bf6286b01e9c92d533805a62d9314aa8cd9ddaa9c2bea6c3be036c91daf968",
+      "id": "evt-31980a51b0c9ddf945dce82b4754f9b931f7a247afc66c63aef51ecbb268b62f",
       "title_en": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
-      "summary_en": "Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment US politics – live updates Timeline: fall and comeback of Jensen Huang Nvidia has reinstated Jensen Huang as chief executive after… In a stunning U-turn, Nvidia's board has reinstated Jensen Huang as the company's President and CEO. The announcement came just days after the board rejected a petition calling for the tech titan's return. US President Donald Trump said had personally got in touch with the board to advocate for his return. Nvidia's……",
+      "summary_en": "In a stunning U-turn, Nvidia's board has reinstated Jensen Huang as the company's President and CEO. The announcement came just days after the board rejected a petition calling for the tech titan's return. US President Donald Trump said had personally got in touch with the board to advocate for his return. Nvidia's… Share price surges as chipmaker reverses decision to remove chief executive after US president ‘convinced’ its board Comment: Nvidia’s humiliated board should resign out of embarrassment Timeline: fall and comeback of Jensen Huang Nvidia has reinstated Jensen Huang as chief executive after Donald Trump directly…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 58,
+      "importance_score": 56,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.628×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 2; age: 8.0h."
+        "Weighted score: impact=0.550×0.35, coverage=0.500×0.25, freshness=0.538×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 2; age: 10.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -31,14 +31,6 @@
         {
           "source_id": "france24",
           "publisher": "France 24",
-          "url": "https://www.france24.com/en/video/20261123-nvidia-reinstates-jensen-huang-as-ceo",
-          "published_at": "2026-11-23T15:29:07+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        },
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
           "url": "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo",
           "published_at": "2026-11-23T22:10:10+00:00",
           "published_precision": "second",
@@ -47,15 +39,40 @@
       ]
     },
     {
-      "id": "evt-204fa1fe63d6abfc995702d44b33b2b700b97b5a530ddbfbe98c3b3963d81beb",
-      "title_en": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "summary_en": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "category": "other",
+      "id": "evt-404aae682ac031fa1295afe729056f82d9eddf703423c8da52f3a9c42ff3bd99",
+      "title_en": "Asia-Pacific markets rally as Huang’s return to Nvidia reignites AI trade, despite US political backlash – business live",
+      "summary_en": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang A day before Nvidia announced Jensen Huang’s reinstatement as its CEO, the US president, Donald Trump,…",
+      "category": "politics_security",
       "region": "asia_pacific",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.985×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.976×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+          "published_at": "2026-11-24T08:29:33+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-f07ce13096440b9f022bd82048f87b425ee8ffca741bfc0a7329c54476bd3de5",
+      "title_en": "DR Congo says aircraft missing as rebels claim to shoot down plane",
+      "summary_en": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "category": "other",
+      "region": "africa",
+      "sports_tags": [],
+      "importance_score": 52,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.982×0.20, authority=0.900×0.15, preference=0.000×0.05.",
         "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
@@ -64,60 +81,160 @@
         {
           "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-23T23:16:08+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T08:35:41+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-472e84a68b9a79f28c7c9056cdc2163232d9cf2b9131488476334572c8c67e06",
-      "title_en": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
-      "summary_en": "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laughter from a crowd of politicians and journalists at a…",
-      "category": "politics_security",
-      "region": "north_america",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.953×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
-          "published_at": "2026-11-23T22:41:48+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-574bf73430f007c28d9146ee0c3e216c3fa3204a455472191f527b71b61e1aae",
-      "title_en": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
-      "summary_en": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
-      "category": "economy_business",
+      "id": "evt-9a9842f7a759ad82bfd27bd43f58b97b9b18750bad260236f6f9a38c1bdb51e0",
+      "title_en": "What China's Xi could take away from Jensen Huang's return to Nvidia",
+      "summary_en": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "category": "other",
       "region": "global",
       "sports_tags": [],
       "importance_score": 51,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.898×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.919×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "bbc_business",
+          "source_id": "bbc_china",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-23T21:40:30+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-24T07:26:27+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-54a5683309aeb19f8a491ee33a9037ff62a2c18630e9f58c2fe0175d568895a6",
+      "title_en": "China to launch first space mission with a foreign astronaut",
+      "summary_en": "Pakistan's Muhammad Zeeshan Ali will become the first foreign astronaut to board China's Tiangong space station when the latest crew blasts off Wednesday. Ali said he would be carrying \"the hopes of 250 million Pakistanis\" with him.",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.996×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.1h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/asia-pacific/20261124-china-to-launch-first-space-mission-with-a-foreign-astronaut",
+          "published_at": "2026-11-24T08:50:18+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-0c6095995821b714f59030345206fdb75a90d90ef5fa5deb961353b2af1867c5",
+      "title_en": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
+      "summary_en": "APOD Science APOD APOD: 2026 November 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.802×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.8h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/",
+          "published_at": "2026-11-24T05:05:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-29fa46a0b6ae2093d753d7b8b712e0668d195e9a66437b1e9ef41279df00ba92",
+      "title_en": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
+      "summary_en": "WFP Executive Director Luke Lindberg decries ‘political problem’ as grain is 'not reaching the people who need it'.",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 49,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.942×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+          "published_at": "2026-11-24T07:52:44+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-3b6d63a53081d8377f8106cfe573c6349fde1d7cf2ce085e338afddc9099907b",
+      "title_en": "Collapse of COP31: 'This deal was a bad deal and better no deal than a bad deal'",
+      "summary_en": "François Picard is joined by Ireland's former Environment Minister Eamon Ryan following the collapse of COP31 in Antalya, Turkey. “Political science trumps climate science still,” Ryan said the talks failed after the European Union and up to 100 countries refused to accept a final text that abandoned earlier…",
+      "category": "technology_science",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.888×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261124-collapse-of-cop31-this-deal-was-a-bad-deal-and-better-no-deal-than-a-bad-deal",
+          "published_at": "2026-11-24T06:51:34+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-4d529c8660b52ca6f1103e62e3f60787bdb468e8a1dc042206cf7a8325f1c664",
+      "title_en": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
+      "summary_en": "Huang's reinstatement breathes new life into an AI market rally days after shares in the tech giant were dumped.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 48,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.866×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+          "published_at": "2026-11-24T06:24:25+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
         }
       ]
     },
@@ -128,10 +245,10 @@
       "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 43,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.872×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.508×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 11.7h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -147,175 +264,100 @@
       ]
     },
     {
-      "id": "evt-514bbcd29e0da35afa5f8d7993c6b203e045e68d6550b1c5a58519cfda174c4f",
-      "title_en": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
-      "summary_en": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
+      "id": "evt-6cd7e9086606b249698d881f46548d0acea52c6ec97b7fe88cc171912594e2d4",
+      "title_en": "Gaza war has undone 77 years of human development, UN warns",
+      "summary_en": "The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in Gaza.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 39,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.965×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.299×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 20.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
-          "published_at": "2026-11-23T22:54:47+00:00",
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168862",
+          "published_at": "2026-11-23T12:00:00+00:00",
           "published_precision": "second",
-          "publisher_group": "aljazeera"
+          "publisher_group": "un_news"
         }
       ]
     },
     {
-      "id": "evt-98446ced22c7af909f33264ea371d9c0e130bdc561bc09b0981a031da5e121a2",
-      "title_en": "14 countries acknowledge ICJ ruling of genocide against Rohingya",
-      "summary_en": "14 from Europe, Africa and Oceania have acknowledged a landmark ruling by the International Court of Justice that Myanmar committed genocide against its Rohingya minority, calling on the country to comply with its obligations under international law. The United Kingdom separately announced sanctions against five…",
-      "category": "other",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.980×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
-          "published_at": "2026-11-23T23:10:22+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-a91551f7b78be51d6cf828e8dc38f5cb3946926c3eb898664d1eba7e9233b3b7",
-      "title_en": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?",
-      "summary_en": "Trump claims credit for Huang's return, raising concerns over federal government meddling in corporate board decisions.",
+      "id": "evt-b23d51fea37903276f33b40ad7cf539a3042a89fd2d114b2316fc3dcb384666c",
+      "title_en": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
+      "summary_en": "As winter sets in, the Security Council held a high stakes meeting Monday to discuss how Russian attacks on Ukraine's energy grid are leaving civilians without heat, power and water. It will also look at how strikes on Black Sea shipping threaten grain supplies to import-dependent countries far from the war’s…",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 39,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.975×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.299×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 20.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
-          "published_at": "2026-11-23T23:06:03+00:00",
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168859",
+          "published_at": "2026-11-23T12:00:00+00:00",
           "published_precision": "second",
-          "publisher_group": "aljazeera"
+          "publisher_group": "un_news"
         }
       ]
     },
     {
-      "id": "evt-1c19044602d80739d3274db64c853b00424a980ed2657cd9573cf6a5c88d91fe",
-      "title_en": "Africa disappointed with COP31 outcome",
-      "summary_en": "In tonight's edition, the COP31 climate summit in Turkey has failed to reach an agreement, exposing deep divisions over fossil fuels and climate finance. Also, DR Congo's Félix Tshisekedi and Kenya's William Ruto agree to restore relations and boost regional cooperation. And determined to help their children, parents…",
-      "category": "society_health_environment",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 49,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.928×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/africa-disappointed-with-cop31-outcome",
-          "published_at": "2026-11-23T22:14:17+00:00",
-          "published_precision": "second",
-          "publisher_group": "france24"
-        }
-      ]
-    },
-    {
-      "id": "evt-2f782f829a870bf0fcadec4fae0113146a5824d9d3e700e5da8f3931a3e3159b",
-      "title_en": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
-      "summary_en": "NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar surface. Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts of electricity,…",
-      "category": "technology_science",
+      "id": "evt-8bac0c0b2dcf1c0ce9c1c977c2c8e17e95092ba140b6f220d97146d4844f71cf",
+      "title_en": "At least 35 Fulani killed in revenge attacks in Central Nigeria",
+      "summary_en": "At least 35 members of the Fulani ethnic group were killed in retaliatory attacks in central Nigeria following a deadly raid by suspected bandits that left 11 residents dead, according to a security report and local sources cited on Sunday.",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.702×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 6.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.317×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 19.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
-          "published_at": "2026-11-23T17:23:50+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-8c84d10d8188202b612befff62aba59770bcdfd948136fe6af26eda82927a611",
-      "title_en": "CPC governance: Staying close to the people and fighting corruption",
-      "summary_en": "The Communist Party of China's (CPC) efforts to strengthen self-governance, stay connected with the people and combat corruption have drawn attention from international political figures, who have said its governance practices offer insights for political parties around the world.",
-      "category": "society_health_environment",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 36,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.288×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 21.6h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "cgtn_china",
+          "source_id": "cgtn_world",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-11-23/CPC-governance-Staying-close-to-the-people-and-fighting-corruption-1SivMTyugF2/p.html",
-          "published_at": "2026-11-23T01:57:04+00:00",
+          "url": "https://newsaf.cgtn.com/news/2026-11-23/At-least-35-Fulani-killed-in-revenge-attacks-in-Central-Nigeria-1SiXPuOYbBu/p.html",
+          "published_at": "2026-11-23T13:00:10+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
       ]
     },
     {
-      "id": "evt-ac42a1f41de6c844de6d2d17298c1e90da135a80c1219cac4e6a154650708499",
-      "title_en": "Chinese vice premier calls for strengthened cooperation with Singapore",
-      "summary_en": "China is willing to work with Singapore to fully utilize the bilateral cooperation mechanism and deepen mutually beneficial cooperation in areas such as artificial intelligence (AI) and green development, Chinese Vice Premier Ding Xuexiang said on Sunday.",
-      "category": "technology_science",
+      "id": "evt-9e3ca5f09d04d63f641889cc9abe6da4acdf266fd79bb5fe8696ada00ac56bfd",
+      "title_en": "DRC fighting traps health workers, disrupts Ebola response",
+      "summary_en": "The head of the World Health Organization (WHO) has called for an immediate cessation of hostilities after heavy fighting broke out near a hospital in northeastern Democratic Republic of the Congo (DRC), the epicentre of the country’s ongoing Ebola outbreak.",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 36,
+      "importance_score": 37,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.285×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 21.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.315×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 20.0h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "cgtn_china",
+          "source_id": "cgtn_world",
           "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-11-23/Chinese-vice-premier-calls-for-strengthened-cooperation-with-Singapore-1SirG4fi1S8/p.html",
-          "published_at": "2026-11-23T01:47:50+00:00",
+          "url": "https://newsaf.cgtn.com/news/2026-11-23/DRC-fighting-traps-health-workers-disrupts-Ebola-response-1SiVz3ihhQI/p.html",
+          "published_at": "2026-11-23T12:53:35+00:00",
           "published_precision": "second",
           "publisher_group": "cgtn"
         }
@@ -323,12 +365,33 @@
     }
   ],
   "source_errors": [
-    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: HTTP Error 404: Not Found",
-    "nasa_news: entry https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/ rejected: stale publication date",
-    "bbc_world: entry https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168851 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168834 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168854 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168853 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168849 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168847 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168846 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168845 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168844 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168843 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168842 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168841 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168839 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168837 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168836 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168833 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168832 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168830 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168828 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168827 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168824 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168823 rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -356,6 +419,7 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/sounds/play/m0034lmq?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -363,11 +427,11 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cm79213ngx45o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c67428w9vvkqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -386,7 +450,6 @@
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_china: entry https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -395,13 +458,10 @@
     "guardian_world: entry https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa rejected: stale publication date",
+    "guardian_world: entry https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law rejected: stale publication date",
-    "guardian_world: entry https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist rejected: stale publication date",
@@ -416,6 +476,7 @@
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/20/measles-is-officially-back-in-the-usa-will-maha-pay-the-price-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/15/spacex-starship-returns-launch-pad-video rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation rejected: stale publication date",
@@ -442,67 +503,48 @@
     "guardian_china: entry https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/world/2026/nov/19/five-takeaways-from-putin-trump-xi-apec-shenzhen-summit rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/commentisfree/2026/nov/19/jensen-huang-authoritarian-economy rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/us-news/video/2026/nov/19/trump-greets-putin-before-holding-talks-at-apec-summit-video rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/Oldest-known-rocks-in-Asia-discovered-in-north-China-1SemLLKBTDq/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/MOFA-Japan-must-honor-China-Japan-political-documents-with-deeds-1Se5XRFoQbm/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/China-Russia-US-summit-sets-landmark-strategic-stability-1Se1WCdicr6/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/Keeping-promises-How-cultural-services-reach-the-people-1SdWV4WfjUY/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/Dust-up-between-two-woodpeckers-in-Yunnan-s-Hornbill-Valley--1SdYi8lf13G/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/China-vows-stable-business-ties-with-Australia-1Sf74mIm3mg/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/What-does-the-world-say-about-China-at-APEC--1Se5jBYqsgw/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/New-documentary-explores-Suzhou-s-Pingjiang-Road-1SdUcoH6vCg/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/Establishing-a-World-Association-for-Bay-Areas-Economic-Cooperation-1Se5rSNCV7a/p.html rejected: stale publication date",
-    "cgtn_china: entry https://newsus.cgtn.com/news/2026-11-21/DPP-s-overseas-outreach-faces-setbacks-1Sf9HrqNG6I/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/Experts-take-How-APEC-Shenzhen-meeting-shapes-regional-cooperation-1SdXVnAQysM/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/President-Xi-Jinping-meets-Malaysian-PM-in-Shenzhen-1SdMYyhGLEk/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/China-US-hold-military-maritime-consultative-agreement-meeting-1Sei9RRkgQo/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/China-close-to-hitting-62-8-of-green-goals-report-says-1Se3UXpsMPm/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/Xi-Jinping-s-key-remarks-at-China-Russia-US-summit-in-Shenzhen-1SdYyGnufJu/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/Full-text-APEC-Trade-Digitalization-Cooperation-Framework-2027-2030--1SdVk7mWOKA/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/How-could-digital-trade-transform-business-across-the-Asia-Pacific--1SekT3gEBva/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/Finding-kindred-minds-across-the-Asia-Pacific-1SdA8DM65hu/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/Premier-Li-calls-on-China-Australia-to-focus-on-common-interests-1Setof5zftC/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/China-s-top-legislator-meets-Australian-PM-in-Beijing-1SesHRqOYog/p.html rejected: stale publication date",
-    "cgtn_china: entry https://newsus.cgtn.com/news/2026-11-21/APEC-Reaction-A-new-kind-of-trust-is-forming--1Sf1QvAaWY0/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/A-Good-Catch-The-Joy-of-Fishing-in-Lanshan-1SedPLsvBlK/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/Poll-Nearly-90-hope-for-lasting-peace-among-China-Russia-US-1SemZcXPqVO/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/APEC-leaders-spouses-visit-cultural-exhibition-in-Shenzhen-1SeaH01tZcY/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/Ding-Xuexiang-to-visit-Singapore-chair-bilateral-cooperation-meetings-1Se0kGHe492/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/China-Russia-US-summit-Injecting-stability-into-a-turbulent-world-1Se6ZGk47kI/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/Experts-China-Russia-US-summit-paves-way-for-global-stability-1Sf5kcXbdD2/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/UNSC-holds-ninth-straw-poll-to-select-next-secretary-general-1Sfd1fiXSGk/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/A-few-words-in-Chinese-a-memorable-moment-at-APEC-1Se9SyXdWkU/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-19/Full-text-2026-APEC-Leaders-Shenzhen-Outlook-1ScNEirhiKI/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/APEC-statement-on-harnessing-technologies-for-employment-prosperity-1Se65z49etG/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/China-urges-Japan-to-correct-its-remarks-actions-on-Taiwan-question-1Se4HuYVnvG/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/China-develops-high-tech-monitoring-system-for-rainforest-conservation-1Se3tXHZ6oM/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-21/El-Salvador-Haitian-forces-launch-joint-anti-gang-military-operation-1SeZHhuHqlq/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/Oldest-known-rocks-in-Asia-discovered-in-north-China-1SemLLKBTDq/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-20/COP31-talks-face-overrun-as-divisions-over-fossil-fuels-persist-1SdXA01OHZe/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/How-could-digital-trade-transform-business-across-the-Asia-Pacific--1SekT3gEBva/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/Experts-take-How-APEC-Shenzhen-meeting-shapes-regional-cooperation-1SdXVnAQysM/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/Experts-China-Russia-US-summit-paves-way-for-global-stability-1Sf5kcXbdD2/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/UNSC-holds-ninth-straw-poll-to-select-next-secretary-general-1Sfd1fiXSGk/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/Poll-Nearly-90-hope-for-lasting-peace-among-China-Russia-US-1SemZcXPqVO/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-20/Chinese-truck-manufacturers-aim-to-expand-in-Brazil-1SdtpODg96U/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/COP31-talks-extended-amid-dispute-over-fossil-fuels-1SfdSUt0Dra/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-21/Scientific-ties-between-China-and-Mexico-deepen-at-this-Mexican-lab-1Sf8mprFu8g/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/Ding-Xuexiang-to-visit-Singapore-chair-bilateral-cooperation-meetings-1Se0kGHe492/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-20/Deaf-Nigerians-embrace-indigenous-sign-languages-1SekPZqHn7a/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/Xi-Jinping-s-key-remarks-at-China-Russia-US-summit-in-Shenzhen-1SdYyGnufJu/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/Iran-signals-openness-to-diplomacy-as-Trump-rejects-its-terms-1SfbQV8Myxq/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/China-Russia-US-summit-sets-landmark-strategic-stability-1Se1WCdicr6/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/news-1Sfa46eKNQQ/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/APEC-statement-on-harnessing-technologies-for-employment-prosperity-1Se65z49etG/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-20/Ghana-opens-vaccine-research-and-DNA-laboratories-1Se5CheKacw/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/Full-text-APEC-Trade-Digitalization-Cooperation-Framework-2027-2030--1SdVk7mWOKA/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-21/11th-Chile-Week-kicks-off-in-China-1Sf8Dm0vSyA/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-21/US-trade-war-spurs-Canada-to-further-diversify-its-lumber-market-1Sf8suULinu/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/Skateboarding-in-rubble-How-Gaza-kids-find-joy-1SdUDEEPo40/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/AI-s-power-hunger-solar-s-new-opportunity-1Se8LsJaXyo/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/China-Russia-US-summit-Injecting-stability-into-a-turbulent-world-1Se6ZGk47kI/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/China-US-hold-military-maritime-consultative-agreement-meeting-1Sei9RRkgQo/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/TV-drama-River-of-No-Return-begins-promotional-tour-in-Nanjing-1SfHH8wvLoI/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/What-a-historic-trilateral-meeting-means-to-the-world-1SfmGLCdn8s/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/news-1SfTvSaYabK/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/Vietnam-s-top-leader-calls-for-closer-cooperation-with-SW-China-1SfEgfipNjG/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/China-ASEAN-Legal-Cooperation-Forum-opens-in-SW-China-s-Chongqing-1Se9NMXzERO/p.html rejected: stale publication date",
+    "cgtn_china: entry https://newsus.cgtn.com/news/2026-11-22/Trump-says-US-cities-are-embarrassing-compared-to-China-1Sgv96N1Oa4/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/AR-sports-attract-global-players-in-Shanghai-1SfJBvQmV7W/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/No-driver-no-courier-no-problem-China-s-autonomous-tech-in-action-1Sg6mLs8G0U/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-22/COP31-closing-session-ends-outcome-document-expected-over-weekend-1SgQGdQrFGE/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/Foreign-envoys-impressed-by-fisheries-development-in-eastern-China-1Sfq4cV0rqU/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-22/Chinese-airport-volunteer-bridges-cultures-one-hello-at-a-time-1S7AQwsQBdC/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/China-Media-Group-premieres-show-about-pre-Qin-era-masters-1SfLHSuQyFa/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/Statement-on-joint-outcomes-of-China-Australia-annual-leaders-meeting-1Sf7BI2Vz8I/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/International-forum-of-overseas-studies-on-Xi-Jinping-Thought-opens-1SfQA6fQUs8/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/China-Russia-US-engagement-opens-new-path-to-global-stability-experts-1SfmNL0hO2A/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/Premier-Li-China-ready-to-accelerate-FTA-upgrade-talks-with-Singapore-1SfYdpSSpxe/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-22/How-can-emerging-technologies-create-jobs-and-prosperity--1SgXLAqeyjK/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/COP31-closing-session-ends-outcome-document-expected-over-weekend-1SgQGdQrFGE/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/IRGC-targets-US-radars-in-Bahrain-as-Trump-seeks-permanent-deal--1SgRClAT5x6/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/Premier-Li-China-ready-to-accelerate-FTA-upgrade-talks-with-Singapore-1SfYdpSSpxe/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-21/AU-Somalia-plan-phased-security-handover-to-Somali-forces-1SfTJB5yWtO/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/China-Russia-US-engagement-opens-new-path-to-global-stability-experts-1SfmNL0hO2A/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/Statement-on-joint-outcomes-of-China-Australia-annual-leaders-meeting-1Sf7BI2Vz8I/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/Int-l-COP31-attendees-praise-China-s-role-in-global-green-transition-1SflNSxTjP2/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/Chinese-airport-volunteer-bridges-cultures-one-hello-at-a-time-1S7AQwsQBdC/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-22/Migrants-weigh-pros-and-cons-of-biking-towards-their-dreams-1Sgvn2cxvt6/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/news-1SfVsM5rxQI/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-22/How-do-migrant-caravans-cross-into-Mexico--1SgvvVyVG7K/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/Over-46-000-Japanese-sign-petition-opposing-nuclear-powered-submarines-1SfzQp6gnf2/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-21/South-Africa-seeks-greater-role-in-global-AI-industry-president-1SfRXq89lJe/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/China-launches-global-green-supply-chain-initiative-at-COP31-1SfeDIzATV6/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-22/Trump-says-US-cities-are-embarrassing-compared-to-China-1Sgv96N1Oa4/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/Houthi-media-reports-Saudi-strikes-prompting-UN-concern-1SfgmS4WgY8/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/How-can-emerging-technologies-create-jobs-and-prosperity--1SgXLAqeyjK/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/What-a-historic-trilateral-meeting-means-to-the-world-1SfmGLCdn8s/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/From-Karakoram-to-Arabian-Sea-Ep-9-New-Roads-New-Opportunities-1SfIIUGLfMY/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-22/Terror-groups-threaten-US-and-Israeli-airline-travel-1SguSByMGfS/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-21/Kenya-marks-World-Children-s-Day-with-pledge-to-protect-minors-1SfQsx9a4IE/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/Establishing-a-World-Association-for-Bay-Areas-Economic-Cooperation-1Se5rSNCV7a/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/news-1Sg0hmfjSdG/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/APEC-blueprint-advances-regional-digital-connectivity-1Sfhx6BYZaM/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-21/Egypt-Libya-move-to-strengthen-ties-after-years-of-strained-relations-1Sg3ONgqhd6/p.html rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/chemistry/2026/press-release/ rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/economic-sciences/2026/press-release/ rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/literature/2026/press-release/ rejected: stale publication date",
