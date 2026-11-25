@@ -2,145 +2,20 @@
   "schema_version": 1,
   "edition": "world",
   "date": "2026-11-25",
-  "generated_at": "2026-11-24T22:01:42+00:00",
+  "generated_at": "2026-11-25T07:31:00+00:00",
   "is_underfilled": false,
   "events": [
     {
-      "id": "evt-29b78233eca89a046b3ff701ecce66e32b1025a8febd4bc4a309fd6c60d39ac6",
-      "title_en": "Trump’s DoJ ‘looked into’ concerns about Huang after affair with suspected Chinese spy but says no security risk found – live",
-      "summary_en": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be…",
+      "id": "evt-4b55cd3155a747a61277ba4afb4182732473186c341fe26ec1ff2154584593ba",
+      "title_en": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
+      "summary_en": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
       "category": "politics_security",
       "region": "global",
       "sports_tags": [],
       "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.982×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.3h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_world",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-          "published_at": "2026-11-24T21:42:48+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-564e8a1058612a44d19577d423462ce52aaaf16f2d17d6cae6ede9d51b7ae5c5",
-      "title_en": "US attorney general dodges questions about Nvidia investigation",
-      "summary_en": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "category": "politics_security",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.960×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "bbc_business",
-          "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-24T21:19:42+00:00",
-          "published_precision": "second",
-          "publisher_group": "bbc"
-        }
-      ]
-    },
-    {
-      "id": "evt-7667146e0b74558a463d8beeafc6c2ed7c20d6ea6dd57e66ce2f26181265d9ba",
-      "title_en": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
-      "summary_en": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story of space…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.956×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
-          "published_at": "2026-11-24T21:14:36+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-c05619c4e8760ba361d61e2140734814644804f5eaee7f5bd498edd5c2df151a",
-      "title_en": "China’s Huawei convicted of deceiving banks about business in Iran and stealing US trade secrets",
-      "summary_en": "Tech giant found guilty on 10 of 12 criminal counts in case that began in 2018, before company was put on trade blacklist The Chinese telecommunications equipment maker Huawei was convicted on Tuesday in a sprawling US criminal case on charges that it had deceived banks about ⁠its business in Iran and stole ⁠trade…",
-      "category": "economy_business",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.953×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.8h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "guardian_china",
-          "publisher": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/nov/24/huawei-china-convicted-deceiving-banks-stealing-us-trade-secrets",
-          "published_at": "2026-11-24T21:11:44+00:00",
-          "published_precision": "second",
-          "publisher_group": "guardian"
-        }
-      ]
-    },
-    {
-      "id": "evt-e71f495e9041bc1e0ed902d3b7e094d5adc8c156b03d694033c903e130688476",
-      "title_en": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
-      "summary_en": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time. Experts from across the agency, the U.S. Department of Energy (DOE), and industry met at…",
-      "category": "technology_science",
-      "region": "global",
-      "sports_tags": [],
-      "importance_score": 52,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.946×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.0h."
-      ],
-      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
-      "is_breaking": false,
-      "sources": [
-        {
-          "source_id": "nasa_news",
-          "publisher": "NASA",
-          "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
-          "published_at": "2026-11-24T21:04:32+00:00",
-          "published_precision": "second",
-          "publisher_group": "nasa_news"
-        }
-      ]
-    },
-    {
-      "id": "evt-310a33beae67dd0e14613f8b1fb73adff974311db93c3c264b31636b457992b9",
-      "title_en": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "summary_en": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "category": "politics_security",
-      "region": "africa",
-      "sports_tags": [],
-      "importance_score": 50,
-      "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.862×0.20, authority=0.900×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.6h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.948×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.9h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -148,49 +23,149 @@
         {
           "source_id": "bbc_world",
           "publisher": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-11-24T19:27:23+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T06:36:00+00:00",
           "published_precision": "second",
           "publisher_group": "bbc"
         }
       ]
     },
     {
-      "id": "evt-e90ef020e86a4853d342ac6991fe00e1a2defe956276becc670655e6a4387d3b",
-      "title_en": "Did Nvidia knowingly send chips to China 'cutout'? Was there ‘pay-to-play’ involving Trump, Lutnick?",
-      "summary_en": "François Picard is pleased to welcome Andrew Weissmann, Professor of Practice at NYU School of Law and a former federal prosecutor known for leading major Department of Justice (DOJ) and FBI investigations. “Why were they treating Nvidia so favorably? Professor Weissmann joins us to discuss the legal and ethical…",
-      "category": "other",
+      "id": "evt-a1d0225ba3dcb4ebc7aff3422594381fab57125317a7ec6321e86bbcc73174e4",
+      "title_en": "Australian politics live: Survivors welcome Tasmanian plan to outlaw conversion therapy; Chalmers denies Australia is in ‘stagflation’",
+      "summary_en": "Get our daily political email, free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a…",
+      "category": "society_health_environment",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 50,
+      "importance_score": 52,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.961×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 0.7h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.977×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "france24",
-          "publisher": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/spotlight/20261124-did-nvidia-knowingly-send-chips-to-china-cutout-was-there-pay-to-play-involving-trump-lutnick",
-          "published_at": "2026-11-24T21:20:31+00:00",
+          "source_id": "guardian_world",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+          "published_at": "2026-11-25T07:07:18+00:00",
           "published_precision": "second",
-          "publisher_group": "france24"
+          "publisher_group": "guardian"
         }
       ]
     },
     {
-      "id": "evt-59d625823bdd67828a0f859ea4910cbb8999914a5f5453e17398d3d49ba6cce3",
-      "title_en": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
-      "summary_en": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
-      "category": "society_health_environment",
+      "id": "evt-9ee40e8c5bee044063457285433cbef3934eaa8eb15f71599296b7c3bcf79283",
+      "title_en": "China-linked battery projects could receive UK funding despite security warnings",
+      "summary_en": "China-made lithium-ion batteries, which are relatively low-cost, dominate Ofgem project shortlist A string of battery projects linked to China are expected to be granted UK state subsidies despite deepening fears over the risk of foreign interference they could pose to Europe’s energy systems. Ofgem, Great Britain’s…",
+      "category": "politics_security",
+      "region": "europe",
+      "sports_tags": [],
+      "importance_score": 51,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.916×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 1.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "guardian_china",
+          "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/business/2026/nov/25/china-battery-projects-uk-funding-security-warnings",
+          "published_at": "2026-11-25T06:00:07+00:00",
+          "published_precision": "second",
+          "publisher_group": "guardian"
+        }
+      ]
+    },
+    {
+      "id": "evt-15c45571439a8694f99f7a3b246e168b0953c5fdb76383d1f1bfcf9646df782c",
+      "title_en": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
+      "summary_en": "Muhammad Zeeshan Ali, a former fighter pilot, is the first foreigner to join a Chinese crewed space mission.",
+      "category": "technology_science",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 49,
+      "importance_score": 50,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.941×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 1.1h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.853×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.7h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "bbc_science",
+          "publisher": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-11-25T04:46:23+00:00",
+          "published_precision": "second",
+          "publisher_group": "bbc"
+        }
+      ]
+    },
+    {
+      "id": "evt-4134fd4663d40feb5cfb6b9e7fdb938ddba9b3848268e1557a5eb3c6b17ed3d5",
+      "title_en": "Georgia’s Pecan Belt",
+      "summary_en": "Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.865×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/",
+          "published_at": "2026-11-25T05:00:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-56648406b5a7424e848dd91d39b9c8e05f496a22363c0fb2e0cb2641886f6369",
+      "title_en": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+      "summary_en": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.869×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 2.4h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "nasa_news",
+          "publisher": "NASA",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
+          "published_at": "2026-11-25T05:05:00+00:00",
+          "published_precision": "second",
+          "publisher_group": "nasa_news"
+        }
+      ]
+    },
+    {
+      "id": "evt-8be53226fa85a2f2007696e152b761c8695ac4d67a0d103202e124516e689c2e",
+      "title_en": "Pakistan rejoices as country’s first astronaut enters orbit",
+      "summary_en": "Zeeshan Ali makes history as the first foreign national to board China's space station",
+      "category": "technology_science",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 50,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.976×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 0.4h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -198,10 +173,110 @@
         {
           "source_id": "aljazeera",
           "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
-          "published_at": "2026-11-24T20:58:41+00:00",
+          "url": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss",
+          "published_at": "2026-11-25T07:05:59+00:00",
           "published_precision": "second",
           "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-08c4a8f27eafe9493aad76a2c2fbe3bb2285617d0f800a371d7df1ed0ec7d20b",
+      "title_en": "Amnesty calls for ICC genocide probe over Israel's impact on births in Gaza",
+      "summary_en": "Amnesty International on Wednesday urged the International Criminal Court to investigate whether Israeli officials committed genocide in Gaza, citing measures it says have prevented births and severely harmed women's reproductive health. The rights group said it had serious concerns that these effects were…",
+      "category": "society_health_environment",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 47,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.818×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 3.5h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "france24",
+          "publisher": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20261125-amnesty-calls-for-icc-genocide-probe-over-israel-s-impact-on-births-in-gaza",
+          "published_at": "2026-11-25T04:01:48+00:00",
+          "published_precision": "second",
+          "publisher_group": "france24"
+        }
+      ]
+    },
+    {
+      "id": "evt-544a73de5aeada6b6a18ef210b0ce092ed25942fdbf59b0770a0a7d541c0f1d9",
+      "title_en": "Asia’s stock markets dive as doubts swirl over AI boom",
+      "summary_en": "Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.",
+      "category": "economy_business",
+      "region": "asia_pacific",
+      "sports_tags": [],
+      "importance_score": 46,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.794×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 4.0h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "aljazeera",
+          "publisher": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+          "published_at": "2026-11-25T03:31:59+00:00",
+          "published_precision": "second",
+          "publisher_group": "aljazeera"
+        }
+      ]
+    },
+    {
+      "id": "evt-01deb9e100eda9db1de19939ecd41f01b6143c5ff1113eff698dce6fbe16f695",
+      "title_en": "Trade disruptions could put food aid for 7.3 million people at risk",
+      "summary_en": "Disruptions to three key global trade routes could put food assistance for an additional 7.3 million people at risk by mid-2027, as rising food, fuel and transportation costs deepen the global hunger crisis, the United Nations World Food Programme (WFP) warned on Monday.",
+      "category": "economy_business",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.725×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 5.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_world",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-11-25/Trade-disruptions-could-put-food-aid-for-7-3-million-people-at-risk-1SlTVTPjSUw/p.html",
+          "published_at": "2026-11-25T01:56:18+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
+        }
+      ]
+    },
+    {
+      "id": "evt-b4c82b757f8451d8be98603b3a112378106d7407f149b5a5f98f8f36c044036c",
+      "title_en": "Israeli strike in Gaza brings aid worker death toll to 600: UN",
+      "summary_en": "An Israeli airstrike near a water well in Gaza's Jabalia area killed a staff member of the UN Relief and Works Agency for Palestine Refugees in the Near East (UNRWA), bringing the death toll among aid workers in Gaza since October 2023 to 600, UN humanitarians said on Tuesday.",
+      "category": "other",
+      "region": "global",
+      "sports_tags": [],
+      "importance_score": 45,
+      "score_reasons": [
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.723×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 5.6h."
+      ],
+      "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
+      "is_breaking": false,
+      "sources": [
+        {
+          "source_id": "cgtn_world",
+          "publisher": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-11-25/Israeli-strike-in-Gaza-brings-aid-worker-death-toll-to-600-UN-1SlQQNjaLHq/p.html",
+          "published_at": "2026-11-25T01:54:31+00:00",
+          "published_precision": "second",
+          "publisher_group": "cgtn"
         }
       ]
     },
@@ -212,10 +287,10 @@
       "category": "sports",
       "region": "africa",
       "sports_tags": [],
-      "importance_score": 48,
+      "importance_score": 41,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.883×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 2.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.510×0.20, authority=0.750×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 11.6h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
@@ -231,66 +306,77 @@
       ]
     },
     {
-      "id": "evt-bf86587a4576f370059a031ac658058f4048c04763431faa2ffeb9920a325096",
-      "title_en": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
-      "summary_en": "Landmine monitor found 84 percent of deaths caused by landmines were in Southeast Asia.",
-      "category": "other",
-      "region": "asia_pacific",
+      "id": "evt-1b7e596fb45cc85f2521e196df025d1ea4f520c62d580a149b118e8671ccf300",
+      "title_en": "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
+      "summary_en": "Staff from the World Health Organization (WHO) and Ebola responders remain trapped in a hospital in Ituri province, Democratic Republic of the Congo (DRC), as heavy fighting continues in the vicinity, the UN agency said in an update on Tuesday.",
+      "category": "society_health_environment",
+      "region": "global",
       "sports_tags": [],
-      "importance_score": 47,
+      "importance_score": 39,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.829×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 3.2h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.324×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 19.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "aljazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
-          "published_at": "2026-11-24T18:47:05+00:00",
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168865",
+          "published_at": "2026-11-24T12:00:00+00:00",
           "published_precision": "second",
-          "publisher_group": "aljazeera"
+          "publisher_group": "un_news"
         }
       ]
     },
     {
-      "id": "evt-90401f2ea6873dc75901ec369057e31b4f8b3e7137dfba6dde0e458e31eed963",
-      "title_en": "China unveils Shenzhou-24 crew for space station mission",
-      "summary_en": "China unveils Shenzhou-24 crew for space station mission",
-      "category": "technology_science",
+      "id": "evt-5aa7836cc2abf032292c694ba0c118bdad33b561dcbd995163ce872c7beb9883",
+      "title_en": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
+      "summary_en": "When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction. Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading in unprecedented ways, fuelling record levels of conflict. The Security Council…",
+      "category": "politics_security",
       "region": "global",
       "sports_tags": [],
-      "importance_score": 36,
+      "importance_score": 39,
       "score_reasons": [
-        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.298×0.20, authority=0.750×0.15, preference=0.000×0.05.",
-        "Impact rule: general reporting; independent publisher groups: 1; age: 20.9h."
+        "Weighted score: impact=0.550×0.35, coverage=0.000×0.25, freshness=0.324×0.20, authority=0.900×0.15, preference=0.000×0.05.",
+        "Impact rule: general reporting; independent publisher groups: 1; age: 19.5h."
       ],
       "importance_text_en": "Rule-based selection: recent coverage from a configured source; no exceptional global-impact criterion was established.",
       "is_breaking": false,
       "sources": [
         {
-          "source_id": "cgtn_china",
-          "publisher": "CGTN",
-          "url": "https://news.cgtn.com/news/2026-11-24/China-unveils-Shenzhou-24-crew-for-space-station-mission-1SkbWXC2Shq/p.html",
-          "published_at": "2026-11-24T01:04:53+00:00",
+          "source_id": "un_news",
+          "publisher": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168866",
+          "published_at": "2026-11-24T12:00:00+00:00",
           "published_precision": "second",
-          "publisher_group": "cgtn"
+          "publisher_group": "un_news"
         }
       ]
     }
   ],
   "source_errors": [
-    "un_news: invalid feed XML: not well-formed (invalid token): line 1, column 0",
     "esa_space_science: HTTP Error 404: Not Found",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_business: entry https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168856 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168852 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168855 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168851 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168834 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168854 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168853 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168849 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168847 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168846 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168845 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168844 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168843 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168842 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168841 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168839 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168837 rejected: stale publication date",
+    "un_news: entry https://news.un.org/feed/view/en/story/2026/11/1168836 rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -312,20 +398,18 @@
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_business: entry https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_business: entry https://www.bbc.co.uk/sounds/play/w3ct8r4b?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cm79213ngx45o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c67428w9vvkqo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
+    "bbc_science: entry https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978m?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -334,7 +418,6 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_science: entry https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_science: entry https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
@@ -342,39 +425,40 @@
     "bbc_science: entry https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cwn70vrjlg8ro?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_china: entry https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_china: entry https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "bbc_china: entry https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
-    "bbc_china: entry https://www.bbc.co.uk/news/articles/cm3wv36d603yo?at_medium=RSS&at_campaign=rss rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe rejected: stale publication date",
     "guardian_world: entry https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/22/how-can-we-explain-psychosomatic-illnesses rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/nov/23/starwatch-a-rare-chance-to-observe-elusive-mercury rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/19/potatoes-moon-base-nasa rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/commentisfree/2026/nov/23/nasa-astronauts-moon-science-crew-member-women rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/global-development/2026/nov/21/ebola-outbreak-congo-worst-ever rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/commentisfree/2026/nov/08/the-guardian-view-on-ordnance-survey-maps-still-a-superior-way-to-navigate-the-landscape rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/nov/19/could-measles-and-midterms-bring-down-maha-podcast rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/audio/2026/nov/17/nasa-voyager-1-probe-incredible-milestone-podcast rejected: stale publication date",
+    "guardian_science: entry https://www.theguardian.com/science/2026/nov/23/can-you-solve-it-how-super-mario-explains-renaissance-art rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/09/did-you-solve-it-the-multi-choice-maths-quiz-taking-over-the-world rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/2026/nov/09/can-you-solve-it-the-multi-choice-maths-quiz-taking-over-the-world rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/20/measles-is-officially-back-in-the-usa-will-maha-pay-the-price-video rejected: stale publication date",
     "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video rejected: stale publication date",
-    "guardian_science: entry https://www.theguardian.com/science/video/2026/nov/15/spacex-starship-returns-launch-pad-video rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom rejected: stale publication date",
+    "guardian_business: entry https://www.theguardian.com/global-development/2026/nov/23/falkland-islands-argentina-sea-lion-oil-environment-sovereignty-wildlife-pollution rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/nov/19/bank-of-england-revamp rejected: stale publication date",
     "guardian_business: entry https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business rejected: stale publication date",
@@ -386,52 +470,35 @@
     "guardian_china: entry https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve rejected: stale publication date",
     "guardian_china: entry https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/world/2026/nov/20/xi-jinping-says-a-full-turnaround-has-been-achieved-in-australia-china-relations-praising-anthony-albanese rejected: stale publication date",
-    "guardian_china: entry https://www.theguardian.com/us-news/video/2026/nov/19/critics-accuse-trump-of-falling-asleep-at-international-summit-video rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/TV-drama-River-of-No-Return-begins-promotional-tour-in-Nanjing-1SfHH8wvLoI/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/What-a-historic-trilateral-meeting-means-to-the-world-1SfmGLCdn8s/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/news-1SfTvSaYabK/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/Vietnam-s-top-leader-calls-for-closer-cooperation-with-SW-China-1SfEgfipNjG/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-20/China-ASEAN-Legal-Cooperation-Forum-opens-in-SW-China-s-Chongqing-1Se9NMXzERO/p.html rejected: stale publication date",
-    "cgtn_china: entry https://newsus.cgtn.com/news/2026-11-22/Trump-says-US-cities-are-embarrassing-compared-to-China-1Sgv96N1Oa4/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/AR-sports-attract-global-players-in-Shanghai-1SfJBvQmV7W/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/No-driver-no-courier-no-problem-China-s-autonomous-tech-in-action-1Sg6mLs8G0U/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-22/COP31-closing-session-ends-outcome-document-expected-over-weekend-1SgQGdQrFGE/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/Foreign-envoys-impressed-by-fisheries-development-in-eastern-China-1Sfq4cV0rqU/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-22/Chinese-airport-volunteer-bridges-cultures-one-hello-at-a-time-1S7AQwsQBdC/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/China-Media-Group-premieres-show-about-pre-Qin-era-masters-1SfLHSuQyFa/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/Statement-on-joint-outcomes-of-China-Australia-annual-leaders-meeting-1Sf7BI2Vz8I/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/International-forum-of-overseas-studies-on-Xi-Jinping-Thought-opens-1SfQA6fQUs8/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/China-Russia-US-engagement-opens-new-path-to-global-stability-experts-1SfmNL0hO2A/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/Premier-Li-China-ready-to-accelerate-FTA-upgrade-talks-with-Singapore-1SfYdpSSpxe/p.html rejected: stale publication date",
-    "cgtn_china: entry https://news.cgtn.com/news/2026-11-22/How-can-emerging-technologies-create-jobs-and-prosperity--1SgXLAqeyjK/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/COP31-closing-session-ends-outcome-document-expected-over-weekend-1SgQGdQrFGE/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/IRGC-targets-US-radars-in-Bahrain-as-Trump-seeks-permanent-deal--1SgRClAT5x6/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/Premier-Li-China-ready-to-accelerate-FTA-upgrade-talks-with-Singapore-1SfYdpSSpxe/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-21/AU-Somalia-plan-phased-security-handover-to-Somali-forces-1SfTJB5yWtO/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/China-Russia-US-engagement-opens-new-path-to-global-stability-experts-1SfmNL0hO2A/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/Statement-on-joint-outcomes-of-China-Australia-annual-leaders-meeting-1Sf7BI2Vz8I/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/Int-l-COP31-attendees-praise-China-s-role-in-global-green-transition-1SflNSxTjP2/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/Chinese-airport-volunteer-bridges-cultures-one-hello-at-a-time-1S7AQwsQBdC/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-22/Migrants-weigh-pros-and-cons-of-biking-towards-their-dreams-1Sgvn2cxvt6/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/news-1SfVsM5rxQI/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-22/How-do-migrant-caravans-cross-into-Mexico--1SgvvVyVG7K/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/Over-46-000-Japanese-sign-petition-opposing-nuclear-powered-submarines-1SfzQp6gnf2/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-21/South-Africa-seeks-greater-role-in-global-AI-industry-president-1SfRXq89lJe/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/China-launches-global-green-supply-chain-initiative-at-COP31-1SfeDIzATV6/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-22/Trump-says-US-cities-are-embarrassing-compared-to-China-1Sgv96N1Oa4/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/Houthi-media-reports-Saudi-strikes-prompting-UN-concern-1SfgmS4WgY8/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/How-can-emerging-technologies-create-jobs-and-prosperity--1SgXLAqeyjK/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/What-a-historic-trilateral-meeting-means-to-the-world-1SfmGLCdn8s/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/From-Karakoram-to-Arabian-Sea-Ep-9-New-Roads-New-Opportunities-1SfIIUGLfMY/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-22/Terror-groups-threaten-US-and-Israeli-airline-travel-1SguSByMGfS/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-21/Kenya-marks-World-Children-s-Day-with-pledge-to-protect-minors-1SfQsx9a4IE/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-20/Establishing-a-World-Association-for-Bay-Areas-Economic-Cooperation-1Se5rSNCV7a/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/news-1Sg0hmfjSdG/p.html rejected: stale publication date",
-    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/APEC-blueprint-advances-regional-digital-connectivity-1Sfhx6BYZaM/p.html rejected: stale publication date",
-    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-21/Egypt-Libya-move-to-strengthen-ties-after-years-of-strained-relations-1Sg3ONgqhd6/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-22/Why-the-China-ASEAN-relation-matters-1Shbu0B5R16/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-22/Asia-Pacific-voices-Openness-and-connectivity-for-shared-growth-1ShFqI2YlVu/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-21/APEC-China-Year-delivers-historic-outcomes--1SfNqanHWiA/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-22/China-Russia-US-summit-An-enormous-gift-to-the-world-1ShG6CMkXde/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-23/HK-announces-results-of-2026-Election-Committee-subsector-elections-1Six9lTYGZy/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-22/Swiss-vice-president-foreign-minister-to-visit-China-1ShjNUUZCyk/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-22/China-urges-US-to-revoke-FCC-measures-targeting-telecom-firms-1ShgAIIg60E/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-23/Second-China-built-large-cruise-ship-makes-maiden-commercial-voyage-1Siz5Z2Z0nm/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-22/Experts-offer-insights-into-China-s-approach-to-global-challenges-1ShvBfi57Gw/p.html rejected: stale publication date",
+    "cgtn_china: entry https://news.cgtn.com/news/2026-11-23/Chinese-vice-premier-calls-for-strengthened-cooperation-with-Singapore-1SirG4fi1S8/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/COP31-fails-to-reach-consensus-on-Antalya-Pact-1ShNqP9QQg0/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-22/Nigeria-State-oil-company-says-major-pipelines-fully-restored-1ShKeQZCZ5S/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsus.cgtn.com/news/2026-11-23/-Signs-of-U-S-brain-drain-amid-Trump-administration-policies--1Si8xvxgozS/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-22/Malawi-steps-up-Ebola-screening-at-border-points-1Shmlcq48DK/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-21/APEC-China-Year-delivers-historic-outcomes--1SfNqanHWiA/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-23/CPC-governance-Staying-close-to-the-people-and-fighting-corruption-1SivMTyugF2/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/Asia-Pacific-voices-Openness-and-connectivity-for-shared-growth-1ShFqI2YlVu/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/Why-the-China-ASEAN-relation-matters-1Shbu0B5R16/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/Swiss-vice-president-foreign-minister-to-visit-China-1ShjNUUZCyk/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/China-urges-US-to-revoke-FCC-measures-targeting-telecom-firms-1ShgAIIg60E/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-22/Nigerian-president-mourns-victims-of-deadly-boat-accident-1ShiSetahqM/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-22/Neves-secures-second-term-as-Cape-Verde-president-1ShuyXvgdSE/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/news-1ShqqiAfYhG/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/From-Karakoram-to-Arabian-Sea-Ep-10-The-Light-of-Bahawalpur-1ShvD5iRPWg/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/China-Russia-US-summit-An-enormous-gift-to-the-world-1ShG6CMkXde/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/Experts-offer-insights-into-China-s-approach-to-global-challenges-1ShvBfi57Gw/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-22/Washington-governor-calls-ICE-out-of-control-after-airport-arrests-1ShwxAQ3xzq/p.html rejected: stale publication date",
+    "cgtn_world: entry https://news.cgtn.com/news/2026-11-23/Chinese-vice-premier-calls-for-strengthened-cooperation-with-Singapore-1SirG4fi1S8/p.html rejected: stale publication date",
+    "cgtn_world: entry https://newsaf.cgtn.com/news/2026-11-22/Ethiopia-clashes-disrupt-cross-border-trade-and-transport-in-Moyale-1ShIW6ibZcs/p.html rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/chemistry/2026/press-release/ rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/economic-sciences/2026/press-release/ rejected: stale publication date",
     "nobel: entry https://www.nobelprize.org/prizes/literature/2026/press-release/ rejected: stale publication date",
